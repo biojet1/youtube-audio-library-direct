@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Norma Rockwell",
+ "artist_channel_url": "/channel/UCq-eW2uoXo1zOcR1GwMwpXw",
+ "downloadable": true,
+ "fp_ref_id": "4f5d38f89d6cfada",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChA0ZjVkMzhmODlkNmNmYWRhEAAYAg%3D%3D&sigh=0L1CDzhZSuuadg6wTXbTxw",
+ "favorite": false,
+ "genre": "Country & Folk",
+ "category": "",
+ "vid": "4f5d38f89d6cfada",
+ "streamid": "v6KCjfRDzMBLEpka24zr1ttSl3x2MUnkJMD-1zLQVsw8x3kUKFgSNQiCNgFQ5lpn",
+ "mood": "Calm",
+ "reference_vid": "4f5d38f89d6cfada",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4f5d38f89d6cfada",
+ "title": "That Never Dies",
+ "display_mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCq-eW2uoXo1zOcR1GwMwpXw",
+ "license_type": 1,
+ "display_genre": "Country & Folk",
+ "display_category": "",
+ "instruments": [
+  "Electric guitar",
+  "Delay Guitar",
+  "Acoustic Guitar"
+ ],
+ "len": 172,
+ "album": "None",
+ "track_url": ""
+}

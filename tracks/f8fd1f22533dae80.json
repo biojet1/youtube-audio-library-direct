@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 98,
+ "reference_vid": "f8fd1f22533dae80",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 195.15,
+ "streamid": "Jid2Cg_9SVJfAhNHyMFDeG34H9XHbtvYt-_GeVZ3rx3e-Hg8bI1PQF4-vYSkKPun",
+ "license_type": 0,
+ "vid": "f8fd1f22533dae80",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChBmOGZkMWYyMjUzM2RhZTgwEAAYAg%3D%3D&sigh=GBiw09NFlUQdImiwUyIRoQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f8fd1f22533dae80",
+ "title": "Heavy",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "display_category": "",
+ "fp_ref_id": "f8fd1f22533dae80",
+ "artist_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "artist": "Huma-Huma",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "category": ""
+}

@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 92.55,
+ "reference_vid": "2c6c9377b17fb75c",
+ "display_genre": "Ambient",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c6c9377b17fb75c",
+ "instruments": [
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChAyYzZjOTM3N2IxN2ZiNzVjEAAYAg%3D%3D&sigh=3rPi9UbBXwdQBr2UBQEG8w",
+ "display_mood": "Dark",
+ "fp_ref_id": "2c6c9377b17fb75c",
+ "track_url": "",
+ "genre": "Ambient",
+ "vid": "2c6c9377b17fb75c",
+ "artist_channel_url": null,
+ "streamid": "Vr7WfvkfQ3FpSCxfe6o8WiOBHKR3iY58Z7NMGd0WVslbyy6dNXFU-TqE5ZNjCjUT",
+ "license_type": 0,
+ "title": "Inside a Computer Chip",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Doug Maxwell/Media Right Productions",
+ "mood": "Dark"
+}

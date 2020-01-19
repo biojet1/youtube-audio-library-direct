@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "12852851ef36af20",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Alternative & Punk",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=12852851ef36af20",
+ "popularity_percentile": 95,
+ "vid": "12852851ef36af20",
+ "streamid": "tvRTEQyi5VktL5XVWpbOBKWLsMFay5RMWLuv1Mq-sm7H_t1rLFlGhPuG15HiUHmf",
+ "artist": "Audionautix",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChAxMjg1Mjg1MWVmMzZhZjIwEAAYAg%3D%3D&sigh=jCfHReXNDbXGiK7HRT0sHw",
+ "display_category": "",
+ "title": "Pilots Of Stone",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Alternative & Punk",
+ "reference_vid": "12852851ef36af20",
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "len": 135.816,
+ "category": ""
+}

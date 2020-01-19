@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "cfc3fea679317dbb",
+ "display_category": "",
+ "fp_ref_id": "cfc3fea679317dbb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cfc3fea679317dbb",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChBjZmMzZmVhNjc5MzE3ZGJiEAAYAg%3D%3D&sigh=UvdNxMBqIohk7FjA2XTmmg",
+ "streamid": "uEF1nNqiXZ42EhEks8_qypR7MQmzeqZOvwDWnq2VoIoY6k6UQmYtBLpowGQK00tj",
+ "genre": "Ambient",
+ "vid": "cfc3fea679317dbb",
+ "artist": "White Hex",
+ "display_genre": "Ambient",
+ "title": "Falling From Grace",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 152,
+ "display_mood": "Dramatic",
+ "downloadable": true
+}

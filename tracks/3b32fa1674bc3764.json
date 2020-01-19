@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "3b32fa1674bc3764",
+ "reference_vid": "3b32fa1674bc3764",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b32fa1674bc3764",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "license_type": 1,
+ "streamid": "2Hccg8hrGRYeoysIhpRNjamJVo30rumIIB1P7_mjZPi4g40vL9Q4iwFecH4kraSX",
+ "genre": "Hip Hop & Rap",
+ "popularity_percentile": 99,
+ "mood": "Funky",
+ "downloadable": true,
+ "vid": "3b32fa1674bc3764",
+ "len": 256,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "piano",
+  "vocal chops"
+ ],
+ "favorite": false,
+ "display_genre": "Hip Hop & Rap",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "category": "",
+ "artist": "Jeremy Blake",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDQDxIWChAzYjMyZmExNjc0YmMzNzY0EAAYAg%3D%3D&sigh=ZpXvj2SrMIUj7vrcdd8gaw",
+ "display_mood": "Funky",
+ "album": "None",
+ "title": "U In My Arms",
+ "display_category": ""
+}

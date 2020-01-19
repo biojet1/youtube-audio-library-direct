@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "t5SQfkkDn6k1_f2QvRcAYgXeufKqh4s1H3GsWTh3Z8yUCYvkTa0xyUXhEHVck7SI",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChA0NTE4MTI1OTc1YTlkYWM0EAAYAg%3D%3D&sigh=InovD8u8PY0fFClnbEmzHg",
+ "album": "None",
+ "artist": "Audionautix",
+ "mood": "Dark",
+ "len": 113.75,
+ "reference_vid": "4518125975a9dac4",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "vid": "4518125975a9dac4",
+ "title": "Atlantis",
+ "fp_ref_id": "4518125975a9dac4",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4518125975a9dac4",
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "display_genre": "Ambient"
+}

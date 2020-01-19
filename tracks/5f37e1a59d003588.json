@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "vid": "5f37e1a59d003588",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 0,
+ "display_category": "",
+ "fp_ref_id": "5f37e1a59d003588",
+ "track_url": "",
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJi2FRIWChA1ZjM3ZTFhNTlkMDAzNTg4EAAYAg%3D%3D&sigh=ZDAbax41k00DK5M5TlVHjw",
+ "artist_url": "",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "title": "Eine Kleine Nachtmusik (by Mozart)",
+ "downloadable": true,
+ "streamid": "tQxh9jfKk1HJ9rnSi51RmPiKxqYfOlafkOgo9_YEM6j3Yr0o4OC577rq3jFC9b31",
+ "genre": "Classical",
+ "len": 351.516,
+ "artist": "Mozart",
+ "display_mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5f37e1a59d003588",
+ "popularity_percentile": 37,
+ "reference_vid": "5f37e1a59d003588",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Happy"
+}

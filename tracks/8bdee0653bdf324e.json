@@ -1,0 +1,29 @@
+{
+ "license_type": 6,
+ "artist": "Chris Zabriskie",
+ "is_new_track": false,
+ "fp_ref_id": "8bdee0653bdf324e",
+ "artist_channel_url": null,
+ "len": 280.716,
+ "downloadable": true,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCLERIWChA4YmRlZTA2NTNiZGYzMjRlEAAYAg%3D%3D&sigh=LrSryhRXDx4_nl--FRzsGA",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "vid": "8bdee0653bdf324e",
+ "display_category": "",
+ "reference_vid": "8bdee0653bdf324e",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8bdee0653bdf324e",
+ "album": "None",
+ "track_url": "http://chriszabriskie.com/vendaface/",
+ "streamid": "KxVMdg1cayRNcMK924Jwb3xjTXPaYoFxqxvO9fw4gcFuBixujPqlTFXV34gsEy8I",
+ "mood": "Calm",
+ "artist_url": "http://chriszabriskie.com/",
+ "instruments": [
+  "Synth"
+ ],
+ "title": "There Are Many Different Kinds of Love",
+ "popularity_percentile": 44,
+ "category": ""
+}

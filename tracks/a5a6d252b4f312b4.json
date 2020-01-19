@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a5a6d252b4f312b4",
+ "fp_ref_id": "a5a6d252b4f312b4",
+ "len": 157.8,
+ "artist": "Text Me Records / Jorge Hernandez",
+ "mood": "Funky",
+ "reference_vid": "a5a6d252b4f312b4",
+ "vid": "a5a6d252b4f312b4",
+ "title": "Not The Same",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Synth"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "streamid": "5mk5TxUZEoLDmR-8821RSzXm_qnqn0J20XY8H6Rm35fBpApIINjydVFVRRuqWGUK",
+ "display_genre": "Hip Hop & Rap",
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChBhNWE2ZDI1MmI0ZjMxMmI0EAAYAg%3D%3D&sigh=30-Ra2Ls-RMSDr5CbXeaWQ"
+}

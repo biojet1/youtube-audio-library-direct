@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "838d3ea6ddb17ee7",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Ashley Shadow",
+ "vid": "838d3ea6ddb17ee7",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChA4MzhkM2VhNmRkYjE3ZWU3EAAYAg%3D%3D&sigh=sO7dscg9fIKk_y9Ds2OfJw",
+ "category": "",
+ "genre": "Pop",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Basic Majesty",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=838d3ea6ddb17ee7",
+ "reference_vid": "838d3ea6ddb17ee7",
+ "mood": "Dramatic",
+ "streamid": "xITJTd04KblhZbYrtR9KBNhiNS4cCaEW-SqWOndqdFK9Eyd71UTa3hRIw5rE1iUJ",
+ "track_url": "",
+ "album": "None",
+ "len": 170,
+ "instruments": [
+  "drums",
+  "synth",
+  "electric guitar",
+  "bass"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Pop"
+}

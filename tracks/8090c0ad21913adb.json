@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "NJR1M-Ue5k8UtPMIOwiC7b6vqWoGYTedWn0PDyfbgwm7UauO_3_oxeOxEjP6cNho",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8090c0ad21913adb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDgwOTBjMGFkMjE5MTNhZGIQABgC&sigh=PgZLtMoSEiO7gaCYzmpddw",
+ "vid": "8090c0ad21913adb",
+ "display_category": "",
+ "title": "Killing With Kindness (Sting)",
+ "album": "None",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Jingle Punks",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "reference_vid": "8090c0ad21913adb",
+ "len": 5.25,
+ "popularity_percentile": 51,
+ "genre": "Rock",
+ "fp_ref_id": "8090c0ad21913adb",
+ "track_url": "",
+ "display_genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Organ"
+ ],
+ "license_type": 0
+}

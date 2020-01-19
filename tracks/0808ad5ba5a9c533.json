@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDA4MDhhZDViYTVhOWM1MzMQABgC&sigh=dSEJLon_Ppct21ThvXxlvQ",
+ "display_category": "",
+ "reference_vid": "0808ad5ba5a9c533",
+ "title": "Howling (Sting)",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0808ad5ba5a9c533",
+ "track_url": "",
+ "len": 6.85,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "SehKEJTGCXQPkNbm1MdwXy1JHGPdv_KQnYfP1zmZEpovggTsRRG0kxHzWfgOfYUL",
+ "favorite": false,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "mood": "Calm",
+ "genre": "Hip Hop & Rap",
+ "vid": "0808ad5ba5a9c533",
+ "artist_url": "",
+ "artist": "Gunnar Olsen",
+ "category": "",
+ "fp_ref_id": "0808ad5ba5a9c533",
+ "display_mood": "Calm",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "artist_channel_url": null
+}

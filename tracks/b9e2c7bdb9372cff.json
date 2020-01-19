@@ -1,0 +1,29 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "b9e2c7bdb9372cff",
+ "is_new_track": false,
+ "mood": "Sad",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChBiOWUyYzdiZGI5MzcyY2ZmEAAYAg%3D%3D&sigh=ddcQJ-EV1lZoEGCnGbBxNQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b9e2c7bdb9372cff",
+ "artist": "HOVATOFF",
+ "len": 124,
+ "streamid": "c8TjNf6szm6axPF-BBb5GPMtFmJ2D7FuUMTeU7ddRKP-IQS4Jl6LpMoXElBAV9Rs",
+ "album": "None",
+ "display_mood": "Sad",
+ "instruments": [
+  "synth"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "title": "Frost",
+ "vid": "b9e2c7bdb9372cff",
+ "reference_vid": "b9e2c7bdb9372cff",
+ "artist_channel_url": "/channel/UCQ3QtdsILJ8zuXpvqlRXfsw",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCQ3QtdsILJ8zuXpvqlRXfsw"
+}

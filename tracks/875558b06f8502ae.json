@@ -1,0 +1,33 @@
+{
+ "mood": "Romantic",
+ "reference_vid": "875558b06f8502ae",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChA4NzU1NThiMDZmODUwMmFlEAAYAg%3D%3D&sigh=z7cNVr6JNbKjpn2ljZM-VQ",
+ "display_mood": "Romantic",
+ "title": "Bolereando",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "len": 193,
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "875558b06f8502ae",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=875558b06f8502ae",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "license_type": 1,
+ "instruments": [
+  "drums",
+  "horns",
+  "bass",
+  "piano",
+  "strings"
+ ],
+ "fp_ref_id": "875558b06f8502ae",
+ "streamid": "4fmVdfiqUPlhafvRbN78tBpp5dk3TTNlPXyRzk1nFv0V-dzuE9UihyKCevmPx941"
+}

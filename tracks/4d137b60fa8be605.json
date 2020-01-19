@@ -1,0 +1,31 @@
+{
+ "streamid": "Wo7izWQ0f1FGESOBoOd2v-XMieV42T57lkxrm3DSehgPQHxnfGFRVNhLyK2bjY97",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 43.85,
+ "track_url": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4d137b60fa8be605",
+ "display_category": "",
+ "reference_vid": "4d137b60fa8be605",
+ "title": "Sunset Strip",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjPAhIWChA0ZDEzN2I2MGZhOGJlNjA1EAAYAg%3D%3D&sigh=pY5AVJTjEbghOBEP6p2NDw",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "category": "",
+ "display_mood": "Happy",
+ "favorite": false,
+ "fp_ref_id": "4d137b60fa8be605",
+ "artist": "Audionautix",
+ "vid": "4d137b60fa8be605",
+ "artist_url": "http://audionautix.com/",
+ "genre": "Pop",
+ "license_type": 6,
+ "display_genre": "Pop"
+}

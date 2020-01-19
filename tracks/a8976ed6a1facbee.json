@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a8976ed6a1facbee",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a8976ed6a1facbee",
+ "fp_ref_id": "a8976ed6a1facbee",
+ "genre": "Rock",
+ "album": "None",
+ "title": "Marvin's Dance",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "track_url": "",
+ "display_mood": "Happy",
+ "streamid": "wu5DKnYNoL5WAzvtA8Gjrff-RSrdltw9MCbhk-CmE1iImtuwUeQENQ3cZYntGmPb",
+ "artist": "Silent Partner",
+ "mood": "Happy",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a8976ed6a1facbee",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBhODk3NmVkNmExZmFjYmVlEAAYAg%3D%3D&sigh=ZeaTm0w0TFCQYpMzzyoSwQ",
+ "display_category": "",
+ "len": 94.3,
+ "display_genre": "Rock"
+}

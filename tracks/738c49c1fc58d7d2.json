@@ -1,0 +1,30 @@
+{
+ "display_genre": "Ambient",
+ "vid": "738c49c1fc58d7d2",
+ "title": "Reflection Pool",
+ "mood": "Sad",
+ "reference_vid": "738c49c1fc58d7d2",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 126.016,
+ "fp_ref_id": "738c49c1fc58d7d2",
+ "is_new_track": false,
+ "artist": "JR Tundra",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "streamid": "YbNJfridsEviiBBW0Tr-2Zt1UYNOi0vW6P4PMaZsPcUUroI_LM8EcnuM1mJVrbQ5",
+ "display_mood": "Sad",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=738c49c1fc58d7d2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA3MzhjNDljMWZjNThkN2QyEAAYAg%3D%3D&sigh=DGLtTSjSKZLtz0qRuen3Tw",
+ "genre": "Ambient"
+}

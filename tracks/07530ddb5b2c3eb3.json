@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "vid": "07530ddb5b2c3eb3",
+ "streamid": "XF9KJrKbHGakUpFPMg6XBu3-uQl_qPg3ElCT1OWjjGVRNrWGQBYzc35FM3_VpCjn",
+ "title": "Magnum",
+ "category": "",
+ "len": 147,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChAwNzUzMGRkYjViMmMzZWIzEAAYAg%3D%3D&sigh=qHLaLvDoNyW8QzfHMbTazA",
+ "artist": "Rondo Brothers",
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "reference_vid": "07530ddb5b2c3eb3",
+ "display_mood": "Happy",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=07530ddb5b2c3eb3",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "07530ddb5b2c3eb3",
+ "favorite": false,
+ "mood": "Happy"
+}

@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "mood": "Romantic",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "display_mood": "Romantic",
+ "fp_ref_id": "180a4b2ca18aa189",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChAxODBhNGIyY2ExOGFhMTg5EAAYAg%3D%3D&sigh=3MVOBqBHpcHc2YSwW1LBSw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "category": "",
+ "genre": "R&B & Soul",
+ "reference_vid": "180a4b2ca18aa189",
+ "downloadable": true,
+ "streamid": "BEIUC6Rdjp3FKr-ZwtR1mxSetssXVMm9hBcWCdkZqifSq707x6KuzRNfP982shq1",
+ "track_url": "",
+ "vid": "180a4b2ca18aa189",
+ "len": 150,
+ "license_type": 1,
+ "title": "Cosmetic Cosmos",
+ "is_new_track": false,
+ "artist": "Verified Picasso",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=180a4b2ca18aa189",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

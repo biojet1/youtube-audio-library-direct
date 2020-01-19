@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "reference_vid": "974b060eb3f67642",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChA5NzRiMDYwZWIzZjY3NjQyEAAYAg%3D%3D&sigh=klsde1rsBVNP7wter6PUzQ",
+ "display_mood": "Funky",
+ "title": "Minneapolis",
+ "artist": "Otis McDonald",
+ "is_new_track": false,
+ "len": 167,
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "974b060eb3f67642",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=974b060eb3f67642",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCej6bRv8lR48AEbQvdb_9Cg",
+ "artist_url": "",
+ "license_type": 1,
+ "instruments": [
+  "Synth",
+  "Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "fp_ref_id": "974b060eb3f67642",
+ "streamid": "3mavB5HsZLQzPa-dNURILAlwElIPkDok9ph_vCg-XYQsXk3E2ZSckWOKl73l-Ec3"
+}

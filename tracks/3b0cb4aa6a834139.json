@@ -1,0 +1,33 @@
+{
+ "len": 200,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "track_url": "",
+ "category": "",
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b0cb4aa6a834139",
+ "title": "No Sugar",
+ "streamid": "EwzyNENV9HvOeiL22BeiAZ0ITANxmyGDNPuNoqI5SbG_R-KDywpT1CHEppovQ5sG",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChAzYjBjYjRhYTZhODM0MTM5EAAYAg%3D%3D&sigh=GXB3cTzvp8x0Fs3ZbmUGZw",
+ "license_type": 1,
+ "fp_ref_id": "3b0cb4aa6a834139",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "vid": "3b0cb4aa6a834139",
+ "artist": "Stayloose",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops",
+  "808"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "3b0cb4aa6a834139"
+}

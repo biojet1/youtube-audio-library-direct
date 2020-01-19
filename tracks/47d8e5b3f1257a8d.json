@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "47d8e5b3f1257a8d",
+ "display_category": "",
+ "fp_ref_id": "47d8e5b3f1257a8d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=47d8e5b3f1257a8d",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "instruments": [
+  "drums",
+  "synth",
+  "piano",
+  "bass",
+  "organ"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChA0N2Q4ZTViM2YxMjU3YThkEAAYAg%3D%3D&sigh=SfONMJwl8_0ak8I3UoxCiQ",
+ "streamid": "9wyF3Rgw1zflsTGVn2r5H3kzGSFsfjHpzM3_GACZWLihDZbbxBfkXp_saHuu0HRW",
+ "genre": "Dance & Electronic",
+ "vid": "47d8e5b3f1257a8d",
+ "artist": "Dan Henig",
+ "display_genre": "Dance & Electronic",
+ "title": "Flames",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 108,
+ "display_mood": "Dramatic",
+ "downloadable": true
+}

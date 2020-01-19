@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=529a658123ef9c99",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "qd5EK6IDM_t0gfO7CxrFNxUi9UB2-uycfyhaIdtSlZxX6wBOh2uKCAVV8Jy1qk1W",
+ "genre": "Pop",
+ "vid": "529a658123ef9c99",
+ "reference_vid": "529a658123ef9c99",
+ "fp_ref_id": "529a658123ef9c99",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjBDBIWChA1MjlhNjU4MTIzZWY5Yzk5EAAYAg%3D%3D&sigh=ksJDkhPgP9RD6dXa_N5PSA",
+ "artist_url": "https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "artist_channel_url": "/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "artist": "Slenderbeats",
+ "title": "Sage",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Pop",
+ "len": 205,
+ "mood": "Happy"
+}

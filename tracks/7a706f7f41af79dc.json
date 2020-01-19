@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Ramzoid",
+ "artist_channel_url": "/channel/UCecrxw9xtxME6o5_mz4TtOA",
+ "downloadable": true,
+ "fp_ref_id": "7a706f7f41af79dc",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChA3YTcwNmY3ZjQxYWY3OWRjEAAYAg%3D%3D&sigh=UFlgxYuDyeJg5w1yChWzLw",
+ "favorite": false,
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "vid": "7a706f7f41af79dc",
+ "streamid": "Id68fbve0iuFQMMNjo8MZU7WbeKGmlXVeYMdj3Hx7ExMfgu_SbuLZYr60x-2O9LW",
+ "mood": "Angry",
+ "reference_vid": "7a706f7f41af79dc",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a706f7f41af79dc",
+ "title": "Mexico",
+ "display_mood": "Angry",
+ "artist_url": "https://www.youtube.com/channel/UCecrxw9xtxME6o5_mz4TtOA",
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808"
+ ],
+ "len": 157,
+ "album": "None",
+ "track_url": ""
+}

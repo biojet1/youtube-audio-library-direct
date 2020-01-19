@@ -1,0 +1,30 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300022",
+ "mood": "Dramatic",
+ "len": 247.25,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "W1KG0iAWndFGSwuBFOWI6Go95_qOJ92qNhKnTAxHt7EIN1cSwBei2wmayS7DeMfD",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiJDxIWChBlN2RiZGE4NGZiOTc3MDAyEAAYAg%3D%3D&sigh=oOJTXiqRnEpFT492n3rJoA",
+ "reference_vid": "e7dbda84fb977002",
+ "title": "Call to Adventure - Comedy",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e7dbda84fb977002",
+ "vid": "e7dbda84fb977002",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "e7dbda84fb977002",
+ "display_mood": "Dramatic",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Trumpet"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Classical",
+ "license_type": 6,
+ "genre": "Classical"
+}

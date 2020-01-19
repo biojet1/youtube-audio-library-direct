@@ -1,0 +1,29 @@
+{
+ "vid": "aee259e62d5581a5",
+ "display_mood": "Dramatic",
+ "title": "Before Dawn",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBhZWUyNTllNjJkNTU4MWE1EAAYAg%3D%3D&sigh=FToda70Cw0KLhat6vZzYbQ",
+ "favorite": false,
+ "display_genre": "Classical",
+ "mood": "Dramatic",
+ "artist": "Audionautix",
+ "reference_vid": "aee259e62d5581a5",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aee259e62d5581a5",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 79,
+ "instruments": [
+  "Piano"
+ ],
+ "genre": "Classical",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "0XQmha6yxNWryQgm6y-Ohb9XedGI1BvuwzLr5EG5hYTX2iM52En4MLvPJEUZfhM9",
+ "artist_url": "http://audionautix.com/",
+ "len": 106.883,
+ "fp_ref_id": "aee259e62d5581a5",
+ "license_type": 6,
+ "is_new_track": false
+}

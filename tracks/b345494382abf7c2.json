@@ -1,0 +1,33 @@
+{
+ "genre": "Rock",
+ "display_category": "",
+ "len": 163.683,
+ "track_url": "",
+ "fp_ref_id": "b345494382abf7c2",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "NE9Ra73uQfnOAtGRIqTqfpu2tgRjE0LECiJAOlXL5aTN9gxV0SppASm-IIxWr84x",
+ "title": "The Receiver",
+ "artist": "Letter Box",
+ "is_new_track": false,
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b345494382abf7c2",
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "b345494382abf7c2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChBiMzQ1NDk0MzgyYWJmN2MyEAAYAg%3D%3D&sigh=TN4HEUenaOc8ShJnp1s83w",
+ "vid": "b345494382abf7c2",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "mood": "Dark",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ]
+}

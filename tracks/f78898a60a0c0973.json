@@ -1,0 +1,30 @@
+{
+ "mood": "Bright",
+ "artist": "Audionautix",
+ "vid": "f78898a60a0c0973",
+ "display_category": "",
+ "streamid": "zskDeRiQ_oYCFJ8UCok9ffBpiwWScvyI6k5VNMCYfsmqrGbqvp-cpx-NahgxNUHq",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f78898a60a0c0973",
+ "fp_ref_id": "f78898a60a0c0973",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChBmNzg4OThhNjBhMGMwOTczEAAYAg%3D%3D&sigh=EOaJug0yRVLJz2Fvu93E1g",
+ "display_genre": "Dance & Electronic",
+ "len": 90.116,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "reference_vid": "f78898a60a0c0973",
+ "title": "Night Rave",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "display_mood": "Bright",
+ "popularity_percentile": 52
+}

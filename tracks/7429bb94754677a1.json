@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "vid": "7429bb94754677a1",
+ "title": "Rollanddrop",
+ "mood": "Happy",
+ "reference_vid": "7429bb94754677a1",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 65.85,
+ "fp_ref_id": "7429bb94754677a1",
+ "is_new_track": false,
+ "artist": "Jingle Punks",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "streamid": "Gm7RG9WGO1oVqHectZwyrOXz7kw-Ljtfy76NL_yUO_R6qBFVafpCKtciu86lJZjS",
+ "display_mood": "Happy",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7429bb94754677a1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj7AxIWChA3NDI5YmI5NDc1NDY3N2ExEAAYAg%3D%3D&sigh=9ihTzzo3G1j9cI3xG99nvg",
+ "genre": "Pop"
+}

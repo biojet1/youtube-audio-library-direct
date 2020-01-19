@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=298bf29a4f61555a",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Angry",
+ "artist": "Jingle Punks",
+ "len": 8.016,
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "RX80WmotTqkmDSIqb8h2CT-PUA5cRwt3-3JKzCgc0xV-jl028Ekaqh-e_mwphytI",
+ "category": "",
+ "title": "Fiend (Sting)",
+ "display_mood": "Angry",
+ "favorite": false,
+ "reference_vid": "298bf29a4f61555a",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMA-EhYKEDI5OGJmMjlhNGY2MTU1NWEQABgC&sigh=fsHvjEZsdu7Sl9-ZWmopNg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "298bf29a4f61555a",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "298bf29a4f61555a"
+}

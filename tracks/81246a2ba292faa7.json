@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "_FCoiyCGng3cFYAAumweJ3diDxI6eVx8IjyV8ZLJPcGK2CjCxfVEW2f31mF5i9lh",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81246a2ba292faa7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLC9EBIWChA4MTI0NmEyYmEyOTJmYWE3EAAYAg%3D%3D&sigh=IysYcMrNdo0MbWCy32qLMQ",
+ "vid": "81246a2ba292faa7",
+ "display_category": "",
+ "title": "Darker Thoughts",
+ "album": "None",
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "reference_vid": "81246a2ba292faa7",
+ "len": 270.016,
+ "popularity_percentile": 51,
+ "genre": "Dance & Electronic",
+ "fp_ref_id": "81246a2ba292faa7",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "license_type": 0
+}

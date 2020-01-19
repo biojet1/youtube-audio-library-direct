@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChAwNmFmNDk0YWJmZmIwYzI4EAAYAg%3D%3D&sigh=cibSCxR5RVPNSc2VVOhrKA",
+ "display_category": "",
+ "reference_vid": "06af494abffb0c28",
+ "title": "Tonto",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=06af494abffb0c28",
+ "track_url": "",
+ "len": 165.15,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "4uibjnwSJpdI5C7yndlI87hJ2lmmELF1peafLR1OSgc-CVpnaNzZp3qp2Mo8paYF",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "license_type": 0,
+ "mood": "Romantic",
+ "genre": "Country & Folk",
+ "vid": "06af494abffb0c28",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "category": "",
+ "fp_ref_id": "06af494abffb0c28",
+ "display_mood": "Romantic",
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano",
+  "Drums"
+ ],
+ "artist_channel_url": null
+}

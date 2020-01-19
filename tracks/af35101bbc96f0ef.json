@@ -1,0 +1,32 @@
+{
+ "reference_vid": "af35101bbc96f0ef",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "af35101bbc96f0ef",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=af35101bbc96f0ef",
+ "mood": "Dramatic",
+ "artist": "Silent Partner",
+ "vid": "af35101bbc96f0ef",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBhZjM1MTAxYmJjOTZmMGVmEAAYAg%3D%3D&sigh=KgOHaC7MBNsR2SfVWkUaQA",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Synth",
+  "Bass"
+ ],
+ "downloadable": true,
+ "streamid": "kEix56OZRtwHME3aMBU0mAZfRacGokpqsxIJFV7OYPydWk_nRSm2pIfbrBw9w7WN",
+ "len": 120.783,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "A New Leaf",
+ "genre": "Dance & Electronic",
+ "display_category": ""
+}

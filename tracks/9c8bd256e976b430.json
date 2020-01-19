@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "vid": "9c8bd256e976b430",
+ "streamid": "ZnC_zx1GwUWFkS_k2s6u3GKrGC1ZzYcwipNJ0RlURDEPktcu2IH5IzRDlGFJqo2O",
+ "title": "Lil Cookie",
+ "category": "",
+ "len": 136,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChA5YzhiZDI1NmU5NzZiNDMwEAAYAg%3D%3D&sigh=ToLkFzsDjY2mFj7hNPQ29A",
+ "artist": "William Rosati",
+ "artist_url": "https://www.youtube.com/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "reference_vid": "9c8bd256e976b430",
+ "display_mood": "Bright",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9c8bd256e976b430",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "9c8bd256e976b430",
+ "favorite": false,
+ "mood": "Bright"
+}

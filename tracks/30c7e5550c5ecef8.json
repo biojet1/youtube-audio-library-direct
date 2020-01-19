@@ -1,0 +1,32 @@
+{
+ "genre": "Pop",
+ "track_url": "http://www.twinmusicom.org/song/302/carefree-melody",
+ "artist_channel_url": null,
+ "artist": "Twin Musicom",
+ "fp_ref_id": "30c7e5550c5ecef8",
+ "display_mood": "Bright",
+ "display_genre": "Pop",
+ "vid": "30c7e5550c5ecef8",
+ "mood": "Bright",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://www.twinmusicom.org",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChAzMGM3ZTU1NTBjNWVjZWY4EAAYAg%3D%3D&sigh=ocEXwcUyO5zgitY8wxBmcw",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Carefree Melody",
+ "category": "",
+ "len": 174.45,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=30c7e5550c5ecef8",
+ "reference_vid": "30c7e5550c5ecef8",
+ "streamid": "7P0C9XOSF5fmIyszoQO-KC9zP9KHCi81mfEjZVPKqxh1u3lFK-ciTyswd6S91nfP"
+}

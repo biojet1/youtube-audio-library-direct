@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Strings"
+ ],
+ "display_mood": "Dark",
+ "vid": "7f106e21b2ecccaa",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7f106e21b2ecccaa",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Dark",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "7f106e21b2ecccaa",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 129.083,
+ "track_url": "",
+ "category": "",
+ "streamid": "Z7mcTMojKShGnrWEpcfUpUX-IXrT3RZy4zF9WbPbjm587JLgKANwGzVGjFdnllvb",
+ "title": "Dark Memory",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChA3ZjEwNmUyMWIyZWNjY2FhEAAYAg%3D%3D&sigh=VOSdgp3NQ1ZMpsuvAAbq8A",
+ "popularity_percentile": 50,
+ "reference_vid": "7f106e21b2ecccaa",
+ "artist": "Silent Partner",
+ "genre": "Cinematic"
+}

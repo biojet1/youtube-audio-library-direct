@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://www.twinmusicom.org/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "00a0852bce067130",
+ "category": "",
+ "license_type": 6,
+ "title": "Rhythm and Booze",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "display_mood": "Dramatic",
+ "album": "None",
+ "streamid": "GdNRVrQkEi_AXfgxmSeVj0wQtW2Zaig8pyguuo6SbYAH3pp_YqZ6SGitI3_LURTb",
+ "len": 182.383,
+ "artist": "Twin Musicom",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=00a0852bce067130",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChAwMGEwODUyYmNlMDY3MTMwEAAYAg%3D%3D&sigh=03ReIAmGieYPLliWcNBuTw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "00a0852bce067130",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "00a0852bce067130",
+ "track_url": ""
+}

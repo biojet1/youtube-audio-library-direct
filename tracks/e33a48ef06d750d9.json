@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "mood": "Bright",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "e33a48ef06d750d9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChBlMzNhNDhlZjA2ZDc1MGQ5EAAYAg%3D%3D&sigh=5Wi6HNhiVRYAZ2IKvsZjIQ",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "category": "",
+ "genre": "Rock",
+ "reference_vid": "e33a48ef06d750d9",
+ "downloadable": true,
+ "streamid": "E1QY1bDfpNC2Q8Mjc4R1w6GtRWADv143WCxoG-e7Klk3oznjoKzLNwMUPeXWI41I",
+ "track_url": "",
+ "vid": "e33a48ef06d750d9",
+ "len": 192,
+ "license_type": 1,
+ "title": "Laccent",
+ "is_new_track": false,
+ "artist": "Freedom Trail Studio",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e33a48ef06d750d9",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw"
+}

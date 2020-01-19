@@ -1,0 +1,30 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "len": 78.916,
+ "mood": "Inspirational",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDhBBIWChA5NjljNmE5MWZiNjM0ZjNhEAAYAg%3D%3D&sigh=33NCK-uvBMprT9b37cwLWQ",
+ "genre": "Dance & Electronic",
+ "streamid": "KtZrSNdkTcXnMm--03BJ_H8XR4k9z9OY4WbioOqTOPrgYCBHeRkRFO9CIQezllnR",
+ "downloadable": true,
+ "fp_ref_id": "969c6a91fb634f3a",
+ "vid": "969c6a91fb634f3a",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=969c6a91fb634f3a",
+ "category": "",
+ "reference_vid": "969c6a91fb634f3a",
+ "title": "Neon Storm",
+ "artist": "Jingle Punks",
+ "track_url": ""
+}

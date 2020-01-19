@@ -1,0 +1,33 @@
+{
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "vid": "96b83f102259d7c4",
+ "display_category": "",
+ "streamid": "s374en_3oOKTOEQguncme5GhG05G7Znx74ijfDloImQQwB1NgZJd-0itSBYtmo__",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=96b83f102259d7c4",
+ "fp_ref_id": "96b83f102259d7c4",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA5NmI4M2YxMDIyNTlkN2M0EAAYAg%3D%3D&sigh=LIvlCEQZlA87RKdq6nDWsQ",
+ "display_genre": "Pop",
+ "len": 103.816,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Synth",
+  "Bass",
+  "Organ"
+ ],
+ "reference_vid": "96b83f102259d7c4",
+ "title": "Sunday Spirit",
+ "genre": "Pop",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "display_mood": "Happy",
+ "popularity_percentile": 52
+}

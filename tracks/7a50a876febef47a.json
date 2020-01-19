@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "7a50a876febef47a",
+ "artist": "Jason Farnham",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Wedding Invitation",
+ "vid": "7a50a876febef47a",
+ "mood": "Romantic",
+ "display_mood": "Romantic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChA3YTUwYTg3NmZlYmVmNDdhEAAYAg%3D%3D&sigh=qdbHaJ3Twd9PhO0LC6ig6w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a50a876febef47a",
+ "display_category": "",
+ "len": 101.583,
+ "album": "None",
+ "license_type": 0,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "55_xabJRODeIS8UlKPYl7-AD2JLkIOJHIYeuZFDR7XOF37pq8Np7bcrx_UQlQWHl",
+ "reference_vid": "7a50a876febef47a",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "popularity_percentile": 48,
+ "artist_url": "",
+ "genre": "Classical"
+}

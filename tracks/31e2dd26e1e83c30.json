@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "31e2dd26e1e83c30",
+ "category": "",
+ "title": "Act Three - Tenebrous Brothers Carnival",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "genre": "Cinematic",
+ "display_mood": "Dark",
+ "streamid": "eYHW9VbOBzmxe3tWT9t1MwZFoWxFR9czJ8TNEDj9xC-gaL02r3CuNJyyc3nqTzzF",
+ "album": "None",
+ "len": 122.666,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=31e2dd26e1e83c30",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAzMWUyZGQyNmUxZTgzYzMwEAAYAg%3D%3D&sigh=CDn9cua8aXE2uFCCPOVCAw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "31e2dd26e1e83c30",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "31e2dd26e1e83c30",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100642"
+}

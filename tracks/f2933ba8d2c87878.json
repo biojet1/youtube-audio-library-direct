@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "f2933ba8d2c87878",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Pop",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f2933ba8d2c87878",
+ "popularity_percentile": 95,
+ "vid": "f2933ba8d2c87878",
+ "streamid": "2nk74ZrMvGh2ZLVA-KgYN9SJUAvvyLrNdiXyOazDOi_sOrGUSR7TGliJlNE2z2k6",
+ "artist": "The 126ers",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Romantic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChBmMjkzM2JhOGQyYzg3ODc4EAAYAg%3D%3D&sigh=uMbCHSySnwuJtYuh_KfMSA",
+ "display_category": "",
+ "title": "The Bluest Star",
+ "album": "None",
+ "license_type": 0,
+ "mood": "Romantic",
+ "display_genre": "Pop",
+ "reference_vid": "f2933ba8d2c87878",
+ "artist_url": "",
+ "track_url": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano",
+  "Synth"
+ ],
+ "len": 122.35,
+ "category": ""
+}

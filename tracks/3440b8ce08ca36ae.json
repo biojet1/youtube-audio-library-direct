@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3440b8ce08ca36ae",
+ "downloadable": true,
+ "reference_vid": "3440b8ce08ca36ae",
+ "mood": "Dark",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "len": 69.483,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIibBBIWChAzNDQwYjhjZTA4Y2EzNmFlEAAYAg%3D%3D&sigh=DXCXpuNtrQNsJ1JSSRNmxw",
+ "streamid": "Hjto0XPfmD7xvQ7vU_otzXx2iDKksFjHaSn1mHOf_oLuL1l5LWI30_VbNayB_PcX",
+ "genre": "Rock",
+ "display_category": "",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Rock",
+ "vid": "3440b8ce08ca36ae",
+ "artist": "Audionautix",
+ "popularity_percentile": 87,
+ "fp_ref_id": "3440b8ce08ca36ae",
+ "category": "",
+ "title": "Line Of Fire",
+ "album": "None"
+}

@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "b6232dc082abaf15",
+ "mood": "Dark",
+ "reference_vid": "b6232dc082abaf15",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChBiNjIzMmRjMDgyYWJhZjE1EAAYAg%3D%3D&sigh=_O8RJtjyARkGuWTf1wMvEQ",
+ "len": 159.583,
+ "favorite": false,
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b6232dc082abaf15",
+ "streamid": "UuC_xDEVDwjLp2Nlt86RxLU6ax_Y8kwBTrA_Pm-Wr7lANYR89yJzxSMHtnGiWWbZ",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6232dc082abaf15",
+ "title": "Granite",
+ "display_genre": "Dance & Electronic",
+ "artist": "Riot",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

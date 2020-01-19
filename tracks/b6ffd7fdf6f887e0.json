@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "b6ffd7fdf6f887e0",
+ "mood": "Happy",
+ "reference_vid": "b6ffd7fdf6f887e0",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEGI2ZmZkN2ZkZjZmODg3ZTAQABgC&sigh=YSITR2o9txGTYWfaPD4Q4g",
+ "len": 10.916,
+ "favorite": false,
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b6ffd7fdf6f887e0",
+ "streamid": "_varvoovQM6qdKFVrkj0ks7RUzuW_yn-mP6Li1H6N31ix1niiFYOVo1vZQUFmeTm",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6ffd7fdf6f887e0",
+ "title": "There Ain't No Other Way (Sting)",
+ "display_genre": "R&B & Soul",
+ "artist": "Jingle Punks",
+ "genre": "R&B & Soul",
+ "downloadable": true,
+ "instruments": [
+  "Organ",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

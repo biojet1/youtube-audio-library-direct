@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChA2MDAyMDQyMjgwNzdmM2UyEAAYAg%3D%3D&sigh=mz4bvToEY4cXlSh0ws-X2A",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "600204228077f3e2",
+ "downloadable": true,
+ "reference_vid": "600204228077f3e2",
+ "favorite": false,
+ "fp_ref_id": "600204228077f3e2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=600204228077f3e2",
+ "genre": "Ambient",
+ "streamid": "5LhwXVdzIkOwojd-WKxLUHMoVUHISS9JFW3rH7avzbf2IpDuHz5NPO_Nad4eGWwa",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 162,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Shadow Self",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth"
+ ]
+}

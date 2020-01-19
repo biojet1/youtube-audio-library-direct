@@ -1,0 +1,30 @@
+{
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBmZWY5YTJlYWJlOTBkYmE3EAAYAg%3D%3D&sigh=u5O8Xt5CUv4RFazdOc4fJg",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fef9a2eabe90dba7",
+ "reference_vid": "fef9a2eabe90dba7",
+ "popularity_percentile": 99,
+ "artist": "ALBIS",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fef9a2eabe90dba7",
+ "mood": "Bright",
+ "genre": "Ambient",
+ "streamid": "TuXjiKdEj7Lu9iEYlhi-tYL-ktaqrBP-rloqY5KfjgWbrAQBUsaEYkiG04s8Ywif",
+ "title": "New Land",
+ "downloadable": true,
+ "category": "",
+ "len": 150.316,
+ "artist_url": "",
+ "display_genre": "Ambient",
+ "fp_ref_id": "fef9a2eabe90dba7",
+ "album": "None"
+}

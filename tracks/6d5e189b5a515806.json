@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 48,
+ "favorite": false,
+ "mood": "Bright",
+ "display_category": "",
+ "fp_ref_id": "6d5e189b5a515806",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6d5e189b5a515806",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "is_new_track": false,
+ "reference_vid": "6d5e189b5a515806",
+ "len": 116.083,
+ "display_mood": "Bright",
+ "streamid": "KC0I7nXD3FF954DgeclIUOt6aO3cY22GUrsY1_DeTneDydVcTrbO2dEW86rSTEtl",
+ "display_genre": "Cinematic",
+ "title": "Finding Movement",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100693",
+ "downloadable": true,
+ "license_type": 6,
+ "genre": "Cinematic",
+ "vid": "6d5e189b5a515806",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Strings"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA2ZDVlMTg5YjVhNTE1ODA2EAAYAg%3D%3D&sigh=eNzFAIA6--3LOTPExI9rBg"
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Alien Restaurant",
+ "favorite": false,
+ "len": 372.766,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDaFhIWChA2NmU5ODA0ZjU4ZDY0Yjk1EAAYAg%3D%3D&sigh=YNoNIHJG6anUXGxeXxUfjQ",
+ "fp_ref_id": "66e9804f58d64b95",
+ "artist_channel_url": null,
+ "display_genre": "Dance & Electronic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100335",
+ "genre": "Dance & Electronic",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "reference_vid": "66e9804f58d64b95",
+ "display_category": "",
+ "vid": "66e9804f58d64b95",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=66e9804f58d64b95",
+ "streamid": "opw6NE54SfHIGf-nUEE7Yxy1pHPZGCRAMR0xEtkHX-I-OAllapCvGcEved80tJli",
+ "artist": "Kevin MacLeod"
+}

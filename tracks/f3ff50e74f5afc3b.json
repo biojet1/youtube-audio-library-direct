@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "vid": "f3ff50e74f5afc3b",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Country & Folk",
+ "fp_ref_id": "f3ff50e74f5afc3b",
+ "streamid": "vtSTs-GJFooW0f-bc0Xg3hn_JkVPAboZs2ZRy6b4L5gK9AhlZ6xMIOx69uDz4In7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBmM2ZmNTBlNzRmNWFmYzNiEAAYAg%3D%3D&sigh=7Q8wkdrMCA7Jo8Xc_u3ecg",
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "category": "",
+ "downloadable": true,
+ "title": "Laugh and Cry",
+ "track_url": "",
+ "len": 148,
+ "popularity_percentile": 99,
+ "reference_vid": "f3ff50e74f5afc3b",
+ "display_mood": "Romantic",
+ "mood": "Romantic",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f3ff50e74f5afc3b",
+ "instruments": [
+  "acoustic guitar",
+  "melodica",
+  "bass",
+  "tambourine",
+  "electric guitar"
+ ],
+ "is_new_track": false
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "mood": "Dramatic",
+ "instruments": [
+  "electric guitar",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "005517e3337b6fda",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPilEBIWChAwMDU1MTdlMzMzN2I2ZmRhEAAYAg%3D%3D&sigh=GCGTShopswh3PM2_eVTgDA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "category": "",
+ "genre": "Rock",
+ "reference_vid": "005517e3337b6fda",
+ "downloadable": true,
+ "streamid": "dL1gwGwnjbPw8b3UY2tcoYNWXg9b8MQZwTT2TMpYLFWZRvdhssjSSetwhnRhv3jc",
+ "track_url": "",
+ "vid": "005517e3337b6fda",
+ "len": 267,
+ "license_type": 1,
+ "title": "Frame of Mine",
+ "is_new_track": false,
+ "artist": "Freedom Trail Studio",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=005517e3337b6fda",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw"
+}

@@ -1,0 +1,31 @@
+{
+ "vid": "9b5af2f58410e23c",
+ "display_mood": "Angry",
+ "title": "Tripolar",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA5YjVhZjJmNTg0MTBlMjNjEAAYAg%3D%3D&sigh=yfT8TDYA_N2tp4HZ8MsooA",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Angry",
+ "artist": "Jeremy Korpas",
+ "reference_vid": "9b5af2f58410e23c",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b5af2f58410e23c",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 99,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "album": "None",
+ "streamid": "Fpfh-kdq0yjGjlNGtcUeTrlU7GnByWI0fhVOibImHse1AhBp1TCWuqRgnYrzm5W8",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "len": 123,
+ "fp_ref_id": "9b5af2f58410e23c",
+ "license_type": 1,
+ "is_new_track": false
+}

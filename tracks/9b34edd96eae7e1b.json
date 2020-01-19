@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "instruments": [
+  "Piano",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "track_url": "",
+ "fp_ref_id": "9b34edd96eae7e1b",
+ "display_genre": "Cinematic",
+ "title": "The Contract",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Audionautix",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "favorite": false,
+ "len": 35.616,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b34edd96eae7e1b",
+ "category": "",
+ "streamid": "PjsMLbaN88CEUJlqNA9W6fn6uCkbnXW2IcjHOriRx8HZ8p09fSuX50CRIvuSpxMv",
+ "vid": "9b34edd96eae7e1b",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiRAhIWChA5YjM0ZWRkOTZlYWU3ZTFiEAAYAg%3D%3D&sigh=hami-cHqsYvGBbmIDUM5bQ",
+ "popularity_percentile": 37,
+ "reference_vid": "9b34edd96eae7e1b"
+}

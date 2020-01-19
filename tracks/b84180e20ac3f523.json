@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Ambient",
+ "category": "",
+ "fp_ref_id": "b84180e20ac3f523",
+ "artist": "Twin Musicom",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Lightning on a Blue Sky",
+ "vid": "b84180e20ac3f523",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKifDRIWChBiODQxODBlMjBhYzNmNTIzEAAYAg%3D%3D&sigh=KNiWcsEp563q_TDstmskVA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b84180e20ac3f523",
+ "display_category": "",
+ "len": 217.416,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "qhdfB6RaWvlAquDb7Mh_CZY25iGx2V-Zu8e09ofTzqOqa01mjiL_ovHDJH1gAJQB",
+ "reference_vid": "b84180e20ac3f523",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Drums"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://www.twinmusicom.org/",
+ "genre": "Ambient"
+}

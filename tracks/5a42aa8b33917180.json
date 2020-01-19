@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "5a42aa8b33917180",
+ "display_category": "",
+ "fp_ref_id": "5a42aa8b33917180",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a42aa8b33917180",
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "title": "Reckless Shred",
+ "favorite": false,
+ "license_type": 1,
+ "len": 122.066,
+ "display_mood": "Dark",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChA1YTQyYWE4YjMzOTE3MTgwEAAYAg%3D%3D&sigh=FuGzjtruCIq5aaZ1TnJDlA",
+ "streamid": "TVEhyfUloCJctvxSGlAv3f-S0p0-owrj88FnshVqoGNqdxyXDIVhnmGXQGpf_IPE",
+ "genre": "Rock",
+ "vid": "5a42aa8b33917180",
+ "artist": "Biz Baz Studio"
+}

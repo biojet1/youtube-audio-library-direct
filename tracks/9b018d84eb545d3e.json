@@ -1,0 +1,31 @@
+{
+ "vid": "9b018d84eb545d3e",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "9b018d84eb545d3e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b018d84eb545d3e",
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "track_url": "",
+ "title": "The Big House",
+ "genre": "Dance & Electronic",
+ "mood": "Funky",
+ "artist": "Audionautix",
+ "display_mood": "Funky",
+ "streamid": "uJfuqmxjErkZAg2Ef5Sc-gmBb6L5dNgD2rD9PG65bQFK0_ahYEHncV5LVASJUZyU",
+ "display_category": "",
+ "len": 188.483,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC8CxIWChA5YjAxOGQ4NGViNTQ1ZDNlEAAYAg%3D%3D&sigh=MEQ-4LJvB_1LCOgUMwirzw",
+ "reference_vid": "9b018d84eb545d3e",
+ "album": "None",
+ "artist_url": "http://audionautix.com/",
+ "display_genre": "Dance & Electronic"
+}

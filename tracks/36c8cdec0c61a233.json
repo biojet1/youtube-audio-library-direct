@@ -1,0 +1,31 @@
+{
+ "mood": "Bright",
+ "artist": "The Green Orbs",
+ "vid": "36c8cdec0c61a233",
+ "display_category": "",
+ "streamid": "D03bMojy_B4pQgSvqmvtvY0Z2rsZg7wVH0fCUtFsp5V9hUlI9i0r-DnXDZ6hthYW",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=36c8cdec0c61a233",
+ "fp_ref_id": "36c8cdec0c61a233",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChAzNmM4Y2RlYzBjNjFhMjMzEAAYAg%3D%3D&sigh=Udj9G3wOzl90SZITmoQ94w",
+ "display_genre": "Children's",
+ "len": 138,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "bass",
+  "drums",
+  "organ"
+ ],
+ "reference_vid": "36c8cdec0c61a233",
+ "title": "Jigsaw Puzzle",
+ "genre": "Children's",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "license_type": 1,
+ "display_mood": "Bright",
+ "popularity_percentile": 99
+}

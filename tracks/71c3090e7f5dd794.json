@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Alternative & Punk",
+ "genre": "Alternative & Punk",
+ "mood": "Angry",
+ "artist": "Silent Partner",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=71c3090e7f5dd794",
+ "len": 121.216,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChA3MWMzMDkwZTdmNWRkNzk0EAAYAg%3D%3D&sigh=VO6VdgBBepyDFdgLVaI3pw",
+ "fp_ref_id": "71c3090e7f5dd794",
+ "vid": "71c3090e7f5dd794",
+ "title": "Stomp",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "71c3090e7f5dd794",
+ "license_type": 0,
+ "display_mood": "Angry",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "streamid": "LNMQdkeHPI833x_8UxPKRsbdNj7KTMKTR0wJLqwT9g7ZSJ7fQQEocE3sY5a4dy48",
+ "category": ""
+}

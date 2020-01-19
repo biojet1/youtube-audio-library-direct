@@ -1,0 +1,32 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChAwNDcxMzg2MzUwNzMxMTdhEAAYAg%3D%3D&sigh=XQKFRb75Zhr61xguvYc6mw",
+ "instruments": [
+  "Synth",
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "047138635073117a",
+ "reference_vid": "047138635073117a",
+ "popularity_percentile": 3,
+ "artist": "Vibe Tracks",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=047138635073117a",
+ "mood": "Inspirational",
+ "genre": "R&B & Soul",
+ "streamid": "nrPRceFlUlEJXttgt9wtkiE1hKkOnOm83SCh_czkXp0fmYik9s8tUAw4frp3wivf",
+ "title": "Nice To You",
+ "downloadable": true,
+ "category": "",
+ "len": 187.183,
+ "artist_url": "",
+ "display_genre": "R&B & Soul",
+ "fp_ref_id": "047138635073117a",
+ "album": "None"
+}

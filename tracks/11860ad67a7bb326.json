@@ -1,0 +1,33 @@
+{
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Guitar",
+  "Slide Guitar",
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "artist": "William Rosati",
+ "reference_vid": "11860ad67a7bb326",
+ "genre": "Jazz & Blues",
+ "streamid": "DU8BaMqsUqoSQsMaNbVEHLbBKX7iQJg78TwnRBVayRRV34otmv6CQzR2JUjQpuwv",
+ "len": 174.233,
+ "display_category": "",
+ "fp_ref_id": "11860ad67a7bb326",
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChAxMTg2MGFkNjdhN2JiMzI2EAAYAg%3D%3D&sigh=EEz_DyAFQlvpEI4MmKHZVg",
+ "artist_url": "https://www.youtube.com/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "vid": "11860ad67a7bb326",
+ "display_mood": "Sad",
+ "favorite": false,
+ "mood": "Sad",
+ "downloadable": true,
+ "album": "None",
+ "title": "Sulking",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=11860ad67a7bb326",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "track_url": "",
+ "popularity_percentile": 99,
+ "category": ""
+}

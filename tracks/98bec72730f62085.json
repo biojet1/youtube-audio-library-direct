@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "98bec72730f62085",
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "98bec72730f62085",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "electric guitar"
+ ],
+ "display_genre": "Pop",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=98bec72730f62085",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChA5OGJlYzcyNzMwZjYyMDg1EAAYAg%3D%3D&sigh=ZqsxhHtaVVSN0C1C37g8MA",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "vid": "98bec72730f62085",
+ "len": 181,
+ "mood": "Dramatic",
+ "streamid": "N3npzNS9KHDPnHWQ2aawH0Nbdh9q5-macY6tVcpBWuSSYE34YwYFcKl0kfgsGIey",
+ "artist": "Patrick Patrikios",
+ "is_new_track": false,
+ "title": "Running Out",
+ "genre": "Pop",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

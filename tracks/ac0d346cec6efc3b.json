@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "len": 108.499,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac0d346cec6efc3b",
+ "category": "",
+ "streamid": "3qmhyy1KucbVNOdzGybc8hY8CmXNqKj1vtJ2IMY2D7entPIC9rjpOXY00Eq_xQlw",
+ "fp_ref_id": "ac0d346cec6efc3b",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBhYzBkMzQ2Y2VjNmVmYzNiEAAYAg%3D%3D&sigh=igbyWwDxJjLSMP8qWXU4bg",
+ "popularity_percentile": 0,
+ "reference_vid": "ac0d346cec6efc3b",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "ac0d346cec6efc3b",
+ "display_genre": "Ambient",
+ "track_url": "",
+ "title": "Bali Bali",
+ "downloadable": true,
+ "genre": "Ambient",
+ "artist": "Doug Maxwell/Jimmy Fontanez"
+}

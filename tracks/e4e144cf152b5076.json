@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "mood": "Calm",
+ "len": 75.316,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "mfH8rLjJXtmTNVlNAM23bU6DbrZRVFFNZLdT0ruvTmdxP6xU8xNdVmSEYicPU2E1",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjJBBIWChBlNGUxNDRjZjE1MmI1MDc2EAAYAg%3D%3D&sigh=DO8tQedqRbdRrkYxIiXFVw",
+ "reference_vid": "e4e144cf152b5076",
+ "title": "Garden Walk",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4e144cf152b5076",
+ "vid": "e4e144cf152b5076",
+ "artist_url": "",
+ "artist": "Jingle Punks",
+ "fp_ref_id": "e4e144cf152b5076",
+ "display_mood": "Calm",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Flute"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Ambient",
+ "license_type": 0,
+ "genre": "Ambient"
+}

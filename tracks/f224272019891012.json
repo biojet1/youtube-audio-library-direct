@@ -1,0 +1,29 @@
+{
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "f224272019891012",
+ "artist_channel_url": null,
+ "len": 221.316,
+ "downloadable": true,
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi-DRIWChBmMjI0MjcyMDE5ODkxMDEyEAAYAg%3D%3D&sigh=BEf8Jatu3aeRa44v3Qs-MA",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "vid": "f224272019891012",
+ "display_category": "",
+ "reference_vid": "f224272019891012",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f224272019891012",
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100356",
+ "streamid": "tHLlfT937R_gwNr7JrS1E51FOlg5LEXXrz8JtBslLacWBpgV3_zQb2wUKfeMTaxC",
+ "mood": "Bright",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Strings"
+ ],
+ "title": "Frozen Star",
+ "popularity_percentile": 44,
+ "category": ""
+}

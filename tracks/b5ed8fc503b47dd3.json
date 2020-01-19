@@ -1,0 +1,31 @@
+{
+ "title": "Disco Lounge",
+ "artist": "Kevin MacLeod",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi4DxIWChBiNWVkOGZjNTAzYjQ3ZGQzEAAYAg%3D%3D&sigh=jRYfulNIfDg1Q3G-PI9IAQ",
+ "artist_url": "http://incompetech.com/",
+ "vid": "b5ed8fc503b47dd3",
+ "mood": "Happy",
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 253.15,
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b5ed8fc503b47dd3",
+ "display_mood": "Happy",
+ "streamid": "joMRt9trcY95udRsBi0Bn7wi1WbQ3N3wVfqwDwBhKKP8kc8GDzBFqrDNtX9rkqdK",
+ "artist_channel_url": null,
+ "fp_ref_id": "b5ed8fc503b47dd3",
+ "genre": "Pop",
+ "category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100602",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 89,
+ "display_genre": "Pop",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "b5ed8fc503b47dd3"
+}

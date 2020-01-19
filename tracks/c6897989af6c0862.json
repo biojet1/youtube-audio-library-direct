@@ -1,0 +1,31 @@
+{
+ "title": "Guiton Sketch",
+ "favorite": false,
+ "len": 34.05,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCJAhIWChBjNjg5Nzk4OWFmNmMwODYyEAAYAg%3D%3D&sigh=PWvzjTZoHRCx_Qoys8ooEg",
+ "fp_ref_id": "c6897989af6c0862",
+ "artist_channel_url": null,
+ "display_genre": "Pop",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100473",
+ "genre": "Pop",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "reference_vid": "c6897989af6c0862",
+ "display_category": "",
+ "vid": "c6897989af6c0862",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c6897989af6c0862",
+ "streamid": "dI0ZOAkqGtFpvB7c8d6wAQH7IYqOynYIUxYJRkUjBRbF0IkLjIKxB3J9hKSb_dpC",
+ "artist": "Kevin MacLeod"
+}

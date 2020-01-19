@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "a44e271ae0eac4c4",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a44e271ae0eac4c4",
+ "title": "Walk Through Town",
+ "mood": "Dramatic",
+ "len": 119.616,
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "fp_ref_id": "a44e271ae0eac4c4",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "piano"
+ ],
+ "streamid": "VJkJfgWverCom6_KREPwLtUAT-C2adBbsxqT5qvecB3Ut0WnU6YP24X7GIyBxIhP",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a44e271ae0eac4c4",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBhNDRlMjcxYWUwZWFjNGM0EAAYAg%3D%3D&sigh=qRtaK8DUPew83ZoR8C5Kuw"
+}

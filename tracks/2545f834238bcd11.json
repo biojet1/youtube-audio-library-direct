@@ -1,0 +1,33 @@
+{
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "favorite": false,
+ "fp_ref_id": "2545f834238bcd11",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Acoustic Guitar",
+  "Drums",
+  "Strings"
+ ],
+ "streamid": "BD_o_354OiPyRcOaz8gj6ZQNQ4HQh2zzD6rgWPEVU4Hsx5LcNN8R6Lruojq15ZRy",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2545f834238bcd11",
+ "album": "None",
+ "mood": "Inspirational",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 303.883,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJi_EhIWChAyNTQ1ZjgzNDIzOGJjZDExEAAYAg%3D%3D&sigh=lo9Vsu8BCKbMj7OGG9BZPw",
+ "reference_vid": "2545f834238bcd11",
+ "popularity_percentile": 14,
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "track_url": "",
+ "title": "Grass",
+ "category": "",
+ "vid": "2545f834238bcd11"
+}

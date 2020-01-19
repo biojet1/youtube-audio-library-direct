@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9bbf6e3b09b9f861",
+ "category": "",
+ "license_type": 0,
+ "title": "In Flight",
+ "display_genre": "Dance & Electronic",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Organ"
+ ],
+ "display_mood": "Dark",
+ "album": "None",
+ "streamid": "IbWR5dP1-reTj3qHZ13FfrZ3_9QKWg4maS-8YxjE6ty7Lg-Xhn-wYhlahXEqCN9Q",
+ "len": 110.05,
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9bbf6e3b09b9f861",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA5YmJmNmUzYjA5YjlmODYxEAAYAg%3D%3D&sigh=1pi8s_eIA697cKyGbvSVlg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9bbf6e3b09b9f861",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "9bbf6e3b09b9f861",
+ "track_url": ""
+}

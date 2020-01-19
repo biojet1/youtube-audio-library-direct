@@ -1,0 +1,32 @@
+{
+ "title": "Smiles for Miles",
+ "favorite": false,
+ "len": 131.083,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChA4N2VmODcyZGFmOTFhMWFkEAAYAg%3D%3D&sigh=-Ebg3yUHJMe4DrV6PblMRw",
+ "fp_ref_id": "87ef872daf91a1ad",
+ "artist_channel_url": null,
+ "display_genre": "Alternative & Punk",
+ "track_url": "",
+ "genre": "Alternative & Punk",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "reference_vid": "87ef872daf91a1ad",
+ "display_category": "",
+ "vid": "87ef872daf91a1ad",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=87ef872daf91a1ad",
+ "streamid": "1flqdZ-5UwKEyqCheU2w9XSU32B--I6Z1wOXZ1yqDHmnxsf2Gp_YfKRuc4eKBOuG",
+ "artist": "Silent Partner"
+}

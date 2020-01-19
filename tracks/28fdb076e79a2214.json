@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=28fdb076e79a2214",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Otis McDonald",
+ "len": 126.216,
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "vm3yf0pbOXzjv2G2_yxxO2ivFaCacHYE5EG6H-KhSSEtBB5yjkZEkIurloj_ONpY",
+ "category": "",
+ "title": "Livin' Up",
+ "display_mood": "Dark",
+ "favorite": false,
+ "reference_vid": "28fdb076e79a2214",
+ "genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChAyOGZkYjA3NmU3OWEyMjE0EAAYAg%3D%3D&sigh=Kgle33e3cvZiowsl8fFYOA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "28fdb076e79a2214",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "28fdb076e79a2214"
+}

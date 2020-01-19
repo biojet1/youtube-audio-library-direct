@@ -1,0 +1,33 @@
+{
+ "streamid": "rMHz6IlFSjs9pJDLQgs3v4voBx3nqfT-jwu3CQmBLCSgy6YUd3iG5zXz47R2otyY",
+ "genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBlNTllOWM0NmE3ODU3MGRhEAAYAg%3D%3D&sigh=791IbSMdlS4SYKMyy7MdmA",
+ "display_mood": "Calm",
+ "display_category": "",
+ "reference_vid": "e59e9c46a78570da",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e59e9c46a78570da",
+ "downloadable": true,
+ "len": 150.45,
+ "instruments": [
+  "Acoustic Guitar",
+  "Organ",
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "fp_ref_id": "e59e9c46a78570da",
+ "album": "None",
+ "artist_url": "",
+ "license_type": 1,
+ "artist": "The Green Orbs",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Sleeping Sheep",
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "e59e9c46a78570da",
+ "display_genre": "Children's"
+}

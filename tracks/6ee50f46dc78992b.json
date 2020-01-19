@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "vid": "6ee50f46dc78992b",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "6ee50f46dc78992b",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100275",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChA2ZWU1MGY0NmRjNzg5OTJiEAAYAg%3D%3D&sigh=LoBilaBH9TRdx32226HCmA",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Acoustic Guitar",
+  "Bass",
+  "Trumpet"
+ ],
+ "title": "Cumbia No Frills Faster",
+ "downloadable": true,
+ "streamid": "GgpG6uW8r68id4gHG5I4Oxkqpbd28k6-wmpHnFvXLre9kcJZX1e2uh5sum9F6M3A",
+ "genre": "Pop",
+ "len": 206.583,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6ee50f46dc78992b",
+ "popularity_percentile": 38,
+ "reference_vid": "6ee50f46dc78992b",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Happy"
+}

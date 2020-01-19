@@ -1,0 +1,31 @@
+{
+ "track_url": "http://www.twinmusicom.org/song/265/talky-beat",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=907fd679bb2e07d4",
+ "downloadable": true,
+ "reference_vid": "907fd679bb2e07d4",
+ "mood": "Funky",
+ "artist_url": "http://www.twinmusicom.org",
+ "license_type": 6,
+ "len": 296.316,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCIEhIWChA5MDdmZDY3OWJiMmUwN2Q0EAAYAg%3D%3D&sigh=Tk-EVXnCkpD0UeED0Fmw5A",
+ "streamid": "CStt_2xrem0oPq9f98meruMurMh8jk3Qd-AuYlUEXEv63IKcNwbI7CWmKrQ2t6By",
+ "genre": "Hip Hop & Rap",
+ "display_category": "",
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Hip Hop & Rap",
+ "vid": "907fd679bb2e07d4",
+ "artist": "Twin Musicom",
+ "popularity_percentile": 87,
+ "fp_ref_id": "907fd679bb2e07d4",
+ "category": "",
+ "title": "Talky Beat",
+ "album": "None"
+}

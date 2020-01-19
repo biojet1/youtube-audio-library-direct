@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "227d519664735f91",
+ "track_url": "",
+ "fp_ref_id": "227d519664735f91",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Joe Bagale",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "reference_vid": "227d519664735f91",
+ "display_mood": "Funky",
+ "len": 140.9,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChAyMjdkNTE5NjY0NzM1ZjkxEAAYAg%3D%3D&sigh=dfNzgOCpXpNsWzMeEAqAbg",
+ "popularity_percentile": 13,
+ "streamid": "Ch2zN3rN0bLUzveYIEEUgk0v6ULOExgoMUMjSx6HJxBKLgpEzTUjUSZaIPuxCF58",
+ "license_type": 0,
+ "display_genre": "R&B & Soul",
+ "category": "",
+ "title": "Do it",
+ "genre": "R&B & Soul",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=227d519664735f91"
+}

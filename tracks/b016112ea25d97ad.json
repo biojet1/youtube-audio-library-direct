@@ -1,0 +1,31 @@
+{
+ "reference_vid": "b016112ea25d97ad",
+ "display_mood": "Funky",
+ "fp_ref_id": "b016112ea25d97ad",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b016112ea25d97ad",
+ "mood": "Funky",
+ "artist": "Otis McDonald",
+ "vid": "b016112ea25d97ad",
+ "favorite": false,
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChBiMDE2MTEyZWEyNWQ5N2FkEAAYAg%3D%3D&sigh=Do4n9eQzNYi8Olfho3k1Qg",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "downloadable": true,
+ "streamid": "uhyYMejDqeHQrmVVD05JYsSAnca3Z_ZjvOu-051_Q_VZjPfTgZLrPJYErZuLzYax",
+ "len": 178.416,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Mighty Fine",
+ "genre": "Hip Hop & Rap",
+ "display_category": ""
+}

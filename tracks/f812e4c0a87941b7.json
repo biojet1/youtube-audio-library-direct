@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f812e4c0a87941b7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCtEBIWChBmODEyZTRjMGE4Nzk0MWI3EAAYAg%3D%3D&sigh=6wScT9nVz39IZoo9vBNqDA",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "f812e4c0a87941b7",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "display_genre": "Jazz & Blues",
+ "vid": "f812e4c0a87941b7",
+ "downloadable": true,
+ "title": "Intractable",
+ "reference_vid": "f812e4c0a87941b7",
+ "artist_url": "http://incompetech.com/",
+ "len": 268.083,
+ "artist": "Kevin MacLeod",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100194",
+ "streamid": "zNS6tyRIQ0KBiefr70XXy2y8HY88KSdEVupn_SzoXBgIxX-sGvWvVZs2-Oz7wwrN",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Trumpet",
+  "Synth"
+ ],
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

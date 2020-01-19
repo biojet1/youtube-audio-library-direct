@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "artist": "Quincas Moreira",
+ "category": "",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "title": "Orange Sunset",
+ "album": "None",
+ "fp_ref_id": "970f899ce16de981",
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKifDRIWChA5NzBmODk5Y2UxNmRlOTgxEAAYAg%3D%3D&sigh=gnQsHhuEs7HlWvKcfjaywQ",
+ "genre": "Jazz & Blues",
+ "vid": "970f899ce16de981",
+ "streamid": "QexmBPnaAL2R5ZssGIFO4-8K7M0R7n3Ly8In4xuZo3nVsv-mBUGJX41qHXIzHopS",
+ "display_category": "",
+ "display_mood": "Dark",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=970f899ce16de981",
+ "reference_vid": "970f899ce16de981",
+ "is_new_track": false,
+ "mood": "Dark",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "piano"
+ ],
+ "len": 217.5
+}

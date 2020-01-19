@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "86c1c02d5c91f82e",
+ "category": "",
+ "title": "Prelude No. 18",
+ "display_genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "genre": "Classical",
+ "display_mood": "Dramatic",
+ "streamid": "OO2H4htPW-6xia0YXRB0fbOUQcKpQ_I5klKuX6sM4SD6SXWt0PXfM6QDDBmWB9OU",
+ "album": "None",
+ "len": 65.183,
+ "artist": "Chris Zabriskie",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=86c1c02d5c91f82e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj7AxIWChA4NmMxYzAyZDVjOTFmODJlEAAYAg%3D%3D&sigh=jxXpEGW7gZM0gICKTi0LfQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "86c1c02d5c91f82e",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "86c1c02d5c91f82e",
+ "license_type": 6,
+ "track_url": "http://chriszabriskie.com/preludes/"
+}

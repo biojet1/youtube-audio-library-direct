@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "198ee9db2b07a286",
+ "mood": "Romantic",
+ "title": "Spanish Rose",
+ "category": "",
+ "genre": "Cinematic",
+ "album": "None",
+ "len": 187,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChAxOThlZTlkYjJiMDdhMjg2EAAYAg%3D%3D&sigh=oO5MNd3dptY2cM2edurLcw",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=198ee9db2b07a286",
+ "fp_ref_id": "198ee9db2b07a286",
+ "artist": "Chris Haugen",
+ "display_mood": "Romantic",
+ "display_genre": "Cinematic",
+ "streamid": "DKWbvjj55CeOkUwPRfOkoHWF4gw1Yw8d-n36JPvAhdGy_ssegv1ZiN4vokKNR-AY",
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "display_category": "",
+ "instruments": [
+  "banjo",
+  "mandolin",
+  "electric guitar",
+  "Acoustic guitar"
+ ],
+ "vid": "198ee9db2b07a286"
+}

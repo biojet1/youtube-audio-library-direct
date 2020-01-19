@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "genre": "Cinematic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "drums",
+  "percussion",
+  "strings"
+ ],
+ "reference_vid": "4aeb9a2ce286cd45",
+ "streamid": "5FSjEDCSELJjjsNFJTgggXDlpHMTpbG9Lnok8D36Ra3t7ZQ2pI-V0Rk4u8m1aPQy",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4aeb9a2ce286cd45",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChA0YWViOWEyY2UyODZjZDQ1EAAYAg%3D%3D&sigh=l3-WE-NgL-ZZAFkKEn9vtQ",
+ "len": 130,
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "vid": "4aeb9a2ce286cd45",
+ "title": "Buccaneer\u2019s March",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "favorite": false,
+ "fp_ref_id": "4aeb9a2ce286cd45",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "artist": "Aakash Gandhi"
+}

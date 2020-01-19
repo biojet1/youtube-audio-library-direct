@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 143,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "fc6e58f34c9a1b18",
+ "mood": "Calm",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "Central Park",
+ "display_mood": "Calm",
+ "instruments": [
+  "horns",
+  "piano",
+  "brass",
+  "strings",
+  "mallets"
+ ],
+ "streamid": "GrVCCb0XiQnJWkqFm-Gft52DlyiNaFNlIcYVubdxd8YJs9H-XkrgIs4FLk4TKUp_",
+ "reference_vid": "fc6e58f34c9a1b18",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc6e58f34c9a1b18",
+ "fp_ref_id": "fc6e58f34c9a1b18",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChBmYzZlNThmMzRjOWExYjE4EAAYAg%3D%3D&sigh=2yzf_90z6fPw5zNP5HZOKw"
+}

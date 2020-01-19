@@ -1,0 +1,31 @@
+{
+ "artist": "Ethan Meixsell",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=32567c7af2d76036",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChAzMjU2N2M3YWYyZDc2MDM2EAAYAg%3D%3D&sigh=Oz9-b_ksBabnDMQdcXHgMw",
+ "genre": "Rock",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Angry",
+ "album": "None",
+ "track_url": "",
+ "len": 161.066,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "32567c7af2d76036",
+ "streamid": "1Apyk1a_CZk1ePvXUGPSdmcJehwbLAaKgBu-IIr81ChGxYI_2m2arkwedkEtObIR",
+ "title": "Collision",
+ "artist_url": "",
+ "mood": "Angry",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "popularity_percentile": 20,
+ "reference_vid": "32567c7af2d76036",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "fp_ref_id": "32567c7af2d76036",
+ "license_type": 0
+}

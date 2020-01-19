@@ -1,0 +1,32 @@
+{
+ "reference_vid": "7d1f648a94169804",
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "len": 243,
+ "streamid": "MIW9hFQu5BdXGnsDZxOESQmIak_7qlATJ2POvtdu8NoiBDWupunMpYGdRmfP2Q85",
+ "instruments": [
+  "piano",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "license_type": 1,
+ "display_genre": "R&B & Soul",
+ "genre": "R&B & Soul",
+ "mood": "Funky",
+ "artist": "Drew Banga",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7d1f648a94169804",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjqDhIWChA3ZDFmNjQ4YTk0MTY5ODA0EAAYAg%3D%3D&sigh=R55t5VCnK8X0orsiWcqQcA",
+ "fp_ref_id": "7d1f648a94169804",
+ "vid": "7d1f648a94169804",
+ "title": "Ice Mocha",
+ "favorite": false,
+ "display_category": "",
+ "track_url": ""
+}

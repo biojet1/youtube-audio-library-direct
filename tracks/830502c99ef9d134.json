@@ -1,0 +1,32 @@
+{
+ "mood": "Bright",
+ "artist": "The 126ers",
+ "vid": "830502c99ef9d134",
+ "display_category": "",
+ "streamid": "rvevXjO3QTseWk3MyPsVdX6jThGQHVxc-Dq5SFFupqeqiMxTd-D_86TRPQkWcRin",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=830502c99ef9d134",
+ "fp_ref_id": "830502c99ef9d134",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA4MzA1MDJjOTllZjlkMTM0EAAYAg%3D%3D&sigh=IBJ-HHuusnAmYRutfHnvOQ",
+ "display_genre": "Country & Folk",
+ "len": 116.75,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "reference_vid": "830502c99ef9d134",
+ "title": "On My Way Home",
+ "genre": "Country & Folk",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Bright",
+ "popularity_percentile": 52
+}

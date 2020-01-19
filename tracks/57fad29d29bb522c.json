@@ -1,0 +1,31 @@
+{
+ "vid": "57fad29d29bb522c",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "57fad29d29bb522c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57fad29d29bb522c",
+ "favorite": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "title": "Hot Mess",
+ "genre": "Rock",
+ "mood": "Funky",
+ "artist": "Audionautix",
+ "display_mood": "Funky",
+ "streamid": "97Ax0PCwcSd3gCDX7-PN8ol5JVH8WCt6JJgWBPNXXqIHPnMCqIIE5ucC1vLTQK5O",
+ "display_category": "",
+ "len": 177.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChA1N2ZhZDI5ZDI5YmI1MjJjEAAYAg%3D%3D&sigh=1ME7vvz7LxIs9w_8sABlJw",
+ "reference_vid": "57fad29d29bb522c",
+ "album": "None",
+ "artist_url": "http://audionautix.com/",
+ "display_genre": "Rock"
+}

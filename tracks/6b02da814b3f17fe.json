@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 64.05,
+ "fp_ref_id": "6b02da814b3f17fe",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "TNQU6GST7jgomBe5JQx6OoUn6a1Q-SKjAbTmAnVYRg4bp4FVvj43mpL5OGuTl6vB",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Cinematic",
+ "instruments": [
+  "Piano",
+  "Bass"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100635",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Sad",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6b02da814b3f17fe",
+ "mood": "Sad",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID0AxIWChA2YjAyZGE4MTRiM2YxN2ZlEAAYAg%3D%3D&sigh=Et0MQFW65Cj5QwJwXBOpCQ",
+ "title": "Harlequin",
+ "reference_vid": "6b02da814b3f17fe",
+ "vid": "6b02da814b3f17fe"
+}

@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=918009de91e755e9",
+ "category": "",
+ "title": "Fun House",
+ "genre": "Cinematic",
+ "favorite": false,
+ "reference_vid": "918009de91e755e9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA5MTgwMDlkZTkxZTc1NWU5EAAYAg%3D%3D&sigh=ng_FiCjrGkUDATwshb-cUw",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "fp_ref_id": "918009de91e755e9",
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "vid": "918009de91e755e9",
+ "instruments": [
+  "organ",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Coyote Hearing",
+ "len": 92,
+ "display_mood": "Dark",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "streamid": "WdKxG36OjXaDB2DRsRvF3_R6ww-jd8IQ4mrWOQCt3crBxSO1kq5NxfWVrkU3ZS2W"
+}

@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Doug Maxwell, Jimmy Fontanez",
+ "artist_channel_url": "/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "downloadable": true,
+ "fp_ref_id": "3dfa069f1fc4cfd7",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChAzZGZhMDY5ZjFmYzRjZmQ3EAAYAg%3D%3D&sigh=YZYxcHxWGOOHJkHdidHZQA",
+ "favorite": false,
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "vid": "3dfa069f1fc4cfd7",
+ "streamid": "nc5fvg1YJc3ihXuQ8rHQ3uSf4YN1hii9r8XVHcMsvNxpfGfasaoOME8izOg9b00e",
+ "mood": "Bright",
+ "reference_vid": "3dfa069f1fc4cfd7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3dfa069f1fc4cfd7",
+ "title": "On The Run",
+ "display_mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "display_category": "",
+ "instruments": [
+  "drums",
+  "sound effects",
+  "street percussion",
+  "buckets"
+ ],
+ "len": 94,
+ "album": "None",
+ "track_url": ""
+}

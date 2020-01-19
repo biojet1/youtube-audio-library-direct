@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "36aeaf659e9d9a57",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=36aeaf659e9d9a57",
+ "popularity_percentile": 95,
+ "vid": "36aeaf659e9d9a57",
+ "streamid": "wEUEfK08DQuP37Dp0KBbVB8VP1bpl4l09AN91GzrlTQsQ_L4yiwmymJ--dLSAnr_",
+ "artist": "Audionautix",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDyVxIWChAzNmFlYWY2NTllOWQ5YTU3EAAYAg%3D%3D&sigh=4YnWdOKoSQjQGKxRq8BLZA",
+ "display_category": "",
+ "title": "Navajo Night",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Calm",
+ "display_genre": "Ambient",
+ "reference_vid": "36aeaf659e9d9a57",
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "len": 1440.05,
+ "category": ""
+}

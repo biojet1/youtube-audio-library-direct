@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "streamid": "3dmV_bvMYwv_tNficpv1eo1aQsaqA6nGJ6W-xN75CtFaqyakYGF0ushiRSdADoY3",
+ "display_category": "",
+ "artist_channel_url": "/channel/UC0OnsB1dH_tEEyfihBlq4bg",
+ "reference_vid": "c58014399e4bfcc2",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "category": "",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "fp_ref_id": "c58014399e4bfcc2",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJiwFxIWChBjNTgwMTQzOTllNGJmY2MyEAAYAg%3D%3D&sigh=wOF_arlseRq857xe9y4VTg",
+ "artist_url": "https://www.youtube.com/channel/UC0OnsB1dH_tEEyfihBlq4bg",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c58014399e4bfcc2",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "artist": "Bruno E.",
+ "mood": "Bright",
+ "title": "1973",
+ "len": 383,
+ "vid": "c58014399e4bfcc2",
+ "track_url": ""
+}

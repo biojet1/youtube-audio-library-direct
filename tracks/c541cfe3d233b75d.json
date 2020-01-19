@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c541cfe3d233b75d",
+ "downloadable": true,
+ "reference_vid": "c541cfe3d233b75d",
+ "mood": "Happy",
+ "artist_url": "",
+ "license_type": 1,
+ "len": 174,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Guitar",
+  "Kazoo"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBjNTQxY2ZlM2QyMzNiNzVkEAAYAg%3D%3D&sigh=Mk315JfnuvssqreptTzO-A",
+ "streamid": "_c2MON2cLvRlEguBXOZEx4OYPYvkyYD2v4rKZGG8xGtKK9piAjts9QIZxafLufUD",
+ "genre": "R&B & Soul",
+ "display_category": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCej6bRv8lR48AEbQvdb_9Cg",
+ "display_genre": "R&B & Soul",
+ "vid": "c541cfe3d233b75d",
+ "artist": "Otis McDonald",
+ "popularity_percentile": 99,
+ "fp_ref_id": "c541cfe3d233b75d",
+ "category": "",
+ "title": "Stuff",
+ "album": "None"
+}

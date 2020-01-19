@@ -1,0 +1,32 @@
+{
+ "title": "Otis McMusic",
+ "favorite": false,
+ "len": 113.95,
+ "popularity_percentile": 84,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChBkOTEyZDY4NTdmZTJhMmQzEAAYAg%3D%3D&sigh=sSNgWpDRV3Q4lu_Jgm4GBQ",
+ "fp_ref_id": "d912d6857fe2a2d3",
+ "artist_channel_url": null,
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Piano"
+ ],
+ "reference_vid": "d912d6857fe2a2d3",
+ "display_category": "",
+ "vid": "d912d6857fe2a2d3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d912d6857fe2a2d3",
+ "streamid": "88bmrFMEXbDnGkJLwfG1FEys7EYodyBjBqUSzSXDEnK6VCFYgHZ9DEUfS23HcjPK",
+ "artist": "Otis McDonald"
+}

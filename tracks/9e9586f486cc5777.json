@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9e9586f486cc5777",
+ "category": "",
+ "license_type": 0,
+ "title": "A Long Cold",
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "display_mood": "Bright",
+ "album": "None",
+ "streamid": "np5k-uds0-0lqcdD3pKJRLWefgMl88qBNTVIQ4e0K6m4RqVo08BmYXc9G_fXI63c",
+ "len": 109.05,
+ "artist": "Riot",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9e9586f486cc5777",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA5ZTk1ODZmNDg2Y2M1Nzc3EAAYAg%3D%3D&sigh=siqszltvExBBgLQzNgvKxg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "9e9586f486cc5777",
+ "is_new_track": false,
+ "mood": "Bright",
+ "fp_ref_id": "9e9586f486cc5777",
+ "track_url": ""
+}

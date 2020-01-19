@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ae8778830bc67c0c",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChBhZTg3Nzg4MzBiYzY3YzBjEAAYAg%3D%3D&sigh=Rny-Hus1aMw-_VmBPnoN1g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ae8778830bc67c0c",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "reference_vid": "ae8778830bc67c0c",
+ "category": "",
+ "len": 154.45,
+ "vid": "ae8778830bc67c0c",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "mood": "Bright",
+ "license_type": 0,
+ "genre": "Country & Folk",
+ "title": "Come to the Woods",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "BG6TcOYQkRVUpxfFfJCaZ0gJDAd-QDmX0UyRVH0ef7I_y47ofPDZGem0zaljzfgx"
+}

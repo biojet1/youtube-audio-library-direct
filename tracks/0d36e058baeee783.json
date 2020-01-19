@@ -1,0 +1,29 @@
+{
+ "mood": "Bright",
+ "title": "Stars And Stripes Forever",
+ "album": "None",
+ "artist": "The U.S. Army Band",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Classical",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "display_category": "",
+ "vid": "0d36e058baeee783",
+ "streamid": "GzxMChNqawBXYm2_9ACGqNcNLRgFnjdkISqSgBpnjlCdHoC64KmHxAQrIqIEPAN9",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChAwZDM2ZTA1OGJhZWVlNzgzEAAYAg%3D%3D&sigh=kxgazZO-RGP4MWP1cfFwDw",
+ "fp_ref_id": "0d36e058baeee783",
+ "len": 216.45,
+ "favorite": false,
+ "instruments": [
+  "Trumpet"
+ ],
+ "artist_channel_url": null,
+ "license_type": 1,
+ "artist_url": "",
+ "reference_vid": "0d36e058baeee783",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d36e058baeee783",
+ "downloadable": true
+}

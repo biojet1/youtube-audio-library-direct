@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "mood": "Happy",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBjMDIzNzM5ZmQ0N2ZkOGEwEAAYAg%3D%3D&sigh=U9Mg7gVx-8pM_lttB9n-Rw",
+ "title": "Indie Romance",
+ "vid": "c023739fd47fd8a0",
+ "artist_url": "",
+ "streamid": "7FXzGz1BOVegDJXLigsJ1Lnp7MzMaAe1qOddGOOdxt6PfhFXmdJtzYwbN1I-NIxM",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c023739fd47fd8a0",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "display_mood": "Happy",
+ "len": 106.283,
+ "genre": "Country & Folk",
+ "fp_ref_id": "c023739fd47fd8a0",
+ "track_url": "",
+ "album": "None",
+ "display_genre": "Country & Folk",
+ "reference_vid": "c023739fd47fd8a0",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 75
+}

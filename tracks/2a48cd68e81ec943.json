@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "mood": "Bright",
+ "len": 181.483,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "K7lIm36F7hC6eSp93mVQToTF_jOGSV2nRAhHiKgXgkR42yGQwbRKnzseehOyAyrj",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChAyYTQ4Y2Q2OGU4MWVjOTQzEAAYAg%3D%3D&sigh=NFRXawPqr0fjhaIh3Ha5ow",
+ "reference_vid": "2a48cd68e81ec943",
+ "title": "Soul Groove",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2a48cd68e81ec943",
+ "vid": "2a48cd68e81ec943",
+ "artist_url": "http://audionautix.com/",
+ "artist": "Audionautix",
+ "fp_ref_id": "2a48cd68e81ec943",
+ "display_mood": "Bright",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "R&B & Soul",
+ "license_type": 6,
+ "genre": "R&B & Soul"
+}

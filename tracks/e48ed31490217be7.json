@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDWEhIWChBlNDhlZDMxNDkwMjE3YmU3EAAYAg%3D%3D&sigh=smhX9Y4QtptUOhnSyu6PMQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e48ed31490217be7",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300033",
+ "genre": "Ambient",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "e48ed31490217be7",
+ "fp_ref_id": "e48ed31490217be7",
+ "category": "",
+ "title": "Clean Soul - Calming",
+ "reference_vid": "e48ed31490217be7",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Synth",
+  "Bass"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "pCwM4q_etjgJo8K_YijzsHzeCJfIbZxDRkHWL4apoNxTgh8FWYIWyJxc5TGnkmZV",
+ "len": 306.716,
+ "license_type": 6,
+ "is_new_track": false
+}

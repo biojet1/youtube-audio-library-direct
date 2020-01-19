@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 246.316,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "_7aMp6BZHZZ7tjP48XJjtB0ot1hG7k1r7Pl8Umsb3cFpcxaiLAohir2L3Ut1qRPd",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCBDxIWChBmM2M3OTRmYjhhMzQ2MDJjEAAYAg%3D%3D&sigh=NGlVVbJbjz6F0xOmA2gG-w",
+ "reference_vid": "f3c794fb8a34602c",
+ "title": "Way Out West",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f3c794fb8a34602c",
+ "vid": "f3c794fb8a34602c",
+ "artist_url": "http://www.twinmusicom.org/",
+ "artist": "Twin Musicom",
+ "fp_ref_id": "f3c794fb8a34602c",
+ "display_mood": "Dramatic",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Dums",
+  "Bass",
+  "Acoustic Guitar"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Pop",
+ "license_type": 6,
+ "genre": "Pop"
+}

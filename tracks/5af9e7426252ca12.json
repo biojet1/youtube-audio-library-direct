@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5af9e7426252ca12",
+ "fp_ref_id": "5af9e7426252ca12",
+ "len": 107.866,
+ "artist": "Text Me Records / Leviathe",
+ "mood": "Calm",
+ "reference_vid": "5af9e7426252ca12",
+ "vid": "5af9e7426252ca12",
+ "title": "You Will Know",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "instruments": [
+  "Horns",
+  "Strings"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "streamid": "MnZSZhGYYwKIpcgnzlxv7dJkkUfYAAnBdWaHdjr16yceM07fAYMc-BohzBfLggFA",
+ "display_genre": "Cinematic",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChA1YWY5ZTc0MjYyNTJjYTEyEAAYAg%3D%3D&sigh=iwHYCv-HNc3LJ6aUH8nvuw"
+}

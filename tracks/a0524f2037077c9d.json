@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "len": 117,
+ "vid": "a0524f2037077c9d",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "percussion",
+  "synth",
+  "808",
+  "bass",
+  "drums"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "a0524f2037077c9d",
+ "album": "None",
+ "display_mood": "Happy",
+ "artist_channel_url": "/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChBhMDUyNGYyMDM3MDc3YzlkEAAYAg%3D%3D&sigh=N9mxTeUPNH1m8_EjUWN4xg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0524f2037077c9d",
+ "mood": "Happy",
+ "genre": "Hip Hop & Rap",
+ "title": "Wok Hard",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Mike Relm",
+ "reference_vid": "a0524f2037077c9d",
+ "streamid": "sHDiQXJ1DMJAXoFWzoJ6bGcFZwsZRjJehfLnDiDOsb2s50Ya-rruVYzqWqOb2-Iw"
+}

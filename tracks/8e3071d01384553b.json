@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "artist_url": "http://www.twinmusicom.org",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "track_url": "http://www.twinmusicom.org/song/248/the-halloween-dawn",
+ "fp_ref_id": "8e3071d01384553b",
+ "display_genre": "Ambient",
+ "title": "The Halloween Dawn",
+ "downloadable": true,
+ "genre": "Ambient",
+ "artist": "Twin Musicom",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "favorite": false,
+ "len": 324.716,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8e3071d01384553b",
+ "category": "",
+ "streamid": "tJTKyEo5lyWLE09_Dajmx1japAzzaeBmOqxjws0OcROj9rWYbX0XLD-FV3DbFY4t",
+ "vid": "8e3071d01384553b",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDjExIWChA4ZTMwNzFkMDEzODQ1NTNiEAAYAg%3D%3D&sigh=KRZBJPl3TcH-Tw5hc8X6KQ",
+ "popularity_percentile": 37,
+ "reference_vid": "8e3071d01384553b"
+}

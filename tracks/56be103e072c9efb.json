@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "56be103e072c9efb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=56be103e072c9efb",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "56be103e072c9efb",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "title": "Eighty Three",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChA1NmJlMTAzZTA3MmM5ZWZiEAAYAg%3D%3D&sigh=W9_f_edPUSEubzIfG95vOQ",
+ "display_genre": "Pop",
+ "artist": "Text Me Records / Hii.de",
+ "genre": "Pop",
+ "len": 88.7,
+ "streamid": "P0fCKadGlKFx95CLsHLiCMVK1jFnisxMJ10VlS8lSjACjfjDkaVy_EfKhOnZGGY3",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "56be103e072c9efb",
+ "album": "None",
+ "mood": "Dramatic"
+}

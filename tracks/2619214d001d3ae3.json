@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 131,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAyNjE5MjE0ZDAwMWQzYWUzEAAYAg%3D%3D&sigh=5eMraPmrtOrH8m-Go7HWWw",
+ "genre": "Cinematic",
+ "streamid": "1pUXZ70ZM0ggHGjaRuM2cCnNFp-G6LGoGFJh-uh5Be4tKGlXAP1dpyPab_LAa9qU",
+ "downloadable": true,
+ "fp_ref_id": "2619214d001d3ae3",
+ "vid": "2619214d001d3ae3",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Organ"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2619214d001d3ae3",
+ "category": "",
+ "reference_vid": "2619214d001d3ae3",
+ "title": "Weirding Way",
+ "artist": "Sir Cubworth",
+ "track_url": ""
+}

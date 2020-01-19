@@ -1,0 +1,31 @@
+{
+ "streamid": "vModTD5h88cTL4xDTFDE_O2FyA_jKTkxz77iVmF_3VigoBb0qVwgp8b7LzvQ-W5H",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChA3ZDUzMjg4MWY2NmY1Y2QxEAAYAg%3D%3D&sigh=l3oPr1lCvLG547Npa64xIA",
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "reference_vid": "7d532881f66f5cd1",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7d532881f66f5cd1",
+ "downloadable": true,
+ "len": 170.05,
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Trumpet"
+ ],
+ "favorite": false,
+ "fp_ref_id": "7d532881f66f5cd1",
+ "album": "None",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "artist": "Audionautix",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Turkish Dance",
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "7d532881f66f5cd1",
+ "display_genre": "Classical"
+}

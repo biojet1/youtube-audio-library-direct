@@ -1,0 +1,33 @@
+{
+ "display_genre": "Cinematic",
+ "reference_vid": "5d18aa388e3fd6a8",
+ "mood": "Dramatic",
+ "display_category": "",
+ "len": 174.833,
+ "category": "",
+ "instruments": [
+  "harp",
+  "Synth",
+  "strings",
+  "xylophone",
+  "Drums"
+ ],
+ "genre": "Cinematic",
+ "track_url": "",
+ "streamid": "CYsOk_GJwwEs1xuSY5ICzY-NudhEkZe2XntrJ_eNTgS0ifjLMfDW44KKw5vJdjeO",
+ "vid": "5d18aa388e3fd6a8",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5d18aa388e3fd6a8",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "fp_ref_id": "5d18aa388e3fd6a8",
+ "artist_channel_url": "/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "title": "Ferris Wheel",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChA1ZDE4YWEzODhlM2ZkNmE4EAAYAg%3D%3D&sigh=VpRhwpfo67u0BPwKQxSfQA",
+ "popularity_percentile": 99,
+ "artist": "Geographer"
+}

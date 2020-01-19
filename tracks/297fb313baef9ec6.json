@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=297fb313baef9ec6",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "MK2",
+ "len": 7.483,
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "WG14nF3S49lqgIMuct-bnhlWvHAn7P9KJKHY6_hLwmnROTtQvs7ukYh23aWEcpLM",
+ "category": "",
+ "title": "Leavin (Sting)",
+ "display_mood": "Dark",
+ "favorite": false,
+ "reference_vid": "297fb313baef9ec6",
+ "genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDI5N2ZiMzEzYmFlZjllYzYQABgC&sigh=pQiwKYpSLAzTshkTlVkVbw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "297fb313baef9ec6",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "297fb313baef9ec6"
+}

@@ -1,0 +1,32 @@
+{
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=35df4890596b9782",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChAzNWRmNDg5MDU5NmI5NzgyEAAYAg%3D%3D&sigh=S3NgMKF4xAqstzGAmepLtA",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "album": "None",
+ "track_url": "",
+ "len": 159.516,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "35df4890596b9782",
+ "streamid": "xZXNwP7texAz9n5AHcZ4EjTAd3Cp0mbcg6VXSYXCsYFszuAzuIcmjvD1rFOhWzzG",
+ "title": "The Last Day",
+ "artist_url": "",
+ "mood": "Dark",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 21,
+ "reference_vid": "35df4890596b9782",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "piano"
+ ],
+ "fp_ref_id": "35df4890596b9782",
+ "license_type": 0
+}

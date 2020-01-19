@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "7aae8fc34d065b6b",
+ "reference_vid": "7aae8fc34d065b6b",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7aae8fc34d065b6b",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "B9d-uALZ3Cr5bMt0YiNT2-0Oqo5hgQR1s7S6H-wF5gaEIqCdDSEiGGsoxu12214o",
+ "genre": "Cinematic",
+ "popularity_percentile": 48,
+ "mood": "Dramatic",
+ "downloadable": true,
+ "vid": "7aae8fc34d065b6b",
+ "len": 169.55,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "piano"
+ ],
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChA3YWFlOGZjMzRkMDY1YjZiEAAYAg%3D%3D&sigh=tz3esvzyNIV5DE1jqdFRWw",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "title": "Higher",
+ "display_category": ""
+}

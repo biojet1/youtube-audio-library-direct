@@ -1,0 +1,33 @@
+{
+ "artist": "Quincas Moreira",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f51d43a046cd861",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiAEhIWChAzZjUxZDQzYTA0NmNkODYxEAAYAg%3D%3D&sigh=IXtTYoFasqzT4Opuqz5adw",
+ "genre": "Cinematic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "album": "None",
+ "track_url": "",
+ "len": 295,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "vid": "3f51d43a046cd861",
+ "streamid": "L7MihVlcdjorzAuZ-DAuxwkmvZh8BSGADSJFxCYXXE2sB0gatK98sI7OUtp08O8j",
+ "title": "Voices in My Head",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "mood": "Dark",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "reference_vid": "3f51d43a046cd861",
+ "instruments": [
+  "horns",
+  "strings",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "fp_ref_id": "3f51d43a046cd861",
+ "license_type": 1
+}

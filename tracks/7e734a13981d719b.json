@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "7e734a13981d719b",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7e734a13981d719b",
+ "popularity_percentile": 95,
+ "vid": "7e734a13981d719b",
+ "streamid": "lZaPG43JursEY6zrOeXTs7PnqIFC6cVj4YTa_0RKCtl5nzqT_th55nO3mOee4_xp",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiQEhIWChA3ZTczNGExMzk4MWQ3MTliEAAYAg%3D%3D&sigh=E-P9FTTV21BFvnJyTiH0mg",
+ "display_category": "",
+ "title": "Heart of the Beast",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Ambient",
+ "reference_vid": "7e734a13981d719b",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100209",
+ "instruments": [
+  "Synth"
+ ],
+ "len": 297.383,
+ "category": ""
+}

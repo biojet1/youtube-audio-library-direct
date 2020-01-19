@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "6daff28c332dc7cc",
+ "display_genre": "Cinematic",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChA2ZGFmZjI4YzMzMmRjN2NjEAAYAg%3D%3D&sigh=XPATCf7GhSsED81vjNAK6g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6daff28c332dc7cc",
+ "len": 204.25,
+ "mood": "Happy",
+ "title": "Freddy's Menagerie",
+ "vid": "6daff28c332dc7cc",
+ "category": "",
+ "downloadable": true,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100579",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Cinematic",
+ "display_mood": "Happy",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "6daff28c332dc7cc",
+ "streamid": "hUavQ4Yz1ecMZ6sww74cyd0l0JJLQ1tCUVZbVHFx8Hjjhap0j3E3937kHddtEmsf"
+}

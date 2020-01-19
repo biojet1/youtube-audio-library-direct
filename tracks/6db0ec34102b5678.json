@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6db0ec34102b5678",
+ "popularity_percentile": 30,
+ "reference_vid": "6db0ec34102b5678",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "mbfplCdREUwffB-oOvTSy4t414-Rq87s5RHzWlQ7Ex0LfHuD0bxgnZULeOcfBj3u",
+ "genre": "Country & Folk",
+ "len": 222.116,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Happy",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "title": "Double Polka",
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChA2ZGIwZWMzNDEwMmI1Njc4EAAYAg%3D%3D&sigh=LGOh4_r1tC6GtjJG7yezxA",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "6db0ec34102b5678",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100253",
+ "mood": "Happy",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "6db0ec34102b5678",
+ "is_new_track": false,
+ "favorite": false
+}

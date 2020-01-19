@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDZiYTM3ZWY2MjJkZGFmZjMQABgC&sigh=d1bXxqsXeMCwjs7437ypxA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6ba37ef622ddaff3",
+ "track_url": "",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6ba37ef622ddaff3",
+ "fp_ref_id": "6ba37ef622ddaff3",
+ "category": "",
+ "title": "The Simplest (Sting)",
+ "reference_vid": "6ba37ef622ddaff3",
+ "artist": "Jingle Punks",
+ "display_genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Synth",
+  "Bass",
+  "Piano"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "eTRW8UjzZ4Knd0EZwo4_WCrQGlBtWHvwW4oFVldRJYPX2J8eysqkKJV6AM242gDR",
+ "len": 5.716,
+ "license_type": 0,
+ "is_new_track": false
+}

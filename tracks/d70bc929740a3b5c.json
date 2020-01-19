@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "reference_vid": "d70bc929740a3b5c",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChBkNzBiYzkyOTc0MGEzYjVjEAAYAg%3D%3D&sigh=PQ2FfU5FFf2m7WEzjPk8dw",
+ "display_mood": "Funky",
+ "title": "Pedal to the Metal",
+ "artist": "Chris Haugen",
+ "is_new_track": false,
+ "len": 147,
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "d70bc929740a3b5c",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d70bc929740a3b5c",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "instruments": [
+  "sitar",
+  "drums",
+  "Electric guitar",
+  "bass"
+ ],
+ "fp_ref_id": "d70bc929740a3b5c",
+ "streamid": "TjjWcxDz8QHg07Qxl7WiqIBN-6zYymmrI6iwnB2JW5UD-e08sUePbig_UoO2j14b"
+}

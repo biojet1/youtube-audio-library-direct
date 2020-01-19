@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "bd10f530fb996629",
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano",
+  "Strings"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "category": "",
+ "artist": "Topher Mohr and Alex Elena",
+ "display_category": "",
+ "streamid": "y-SwOQAZ21-KTnzcgfsy-3fX3195w5jP6mWHmoCW2xaSffBHBrGwXX0H1IGvALct",
+ "license_type": 0,
+ "vid": "bd10f530fb996629",
+ "popularity_percentile": 74,
+ "reference_vid": "bd10f530fb996629",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 236.95,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Romantic",
+ "mood": "Romantic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCzDhIWChBiZDEwZjUzMGZiOTk2NjI5EAAYAg%3D%3D&sigh=8GED_aDoMi-FkAXsRWw0hA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bd10f530fb996629",
+ "title": "Sunflower"
+}

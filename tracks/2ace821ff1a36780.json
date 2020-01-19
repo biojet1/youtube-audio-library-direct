@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 157.816,
+ "reference_vid": "2ace821ff1a36780",
+ "display_genre": "Rock",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ace821ff1a36780",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChAyYWNlODIxZmYxYTM2NzgwEAAYAg%3D%3D&sigh=kApXRhw37WNSpQ4o8ismvg",
+ "display_mood": "Funky",
+ "fp_ref_id": "2ace821ff1a36780",
+ "track_url": "",
+ "genre": "Rock",
+ "vid": "2ace821ff1a36780",
+ "artist_channel_url": null,
+ "streamid": "vl6ZjZUK6tMXyHZcZG41Iii0EK-YjX0V_cbcbfuc_fRNiTY_e7C9LQuko8xxy8Jw",
+ "license_type": 1,
+ "title": "3rdEyeBlimp",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Otis McDonald",
+ "mood": "Funky"
+}

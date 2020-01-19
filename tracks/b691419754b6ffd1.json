@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBiNjkxNDE5NzU0YjZmZmQxEAAYAg%3D%3D&sigh=afKDGaaKftn6fIzc-fcSmQ",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "reference_vid": "b691419754b6ffd1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b691419754b6ffd1",
+ "genre": "Classical",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "len": 102,
+ "is_new_track": true,
+ "downloadable": true,
+ "streamid": "YD7T1hghAbECK4Lp6EBWSnHZfBzfqs4YKcEsSsNYW7VQNvD-yGg9Iji3LMBWgU_p",
+ "display_mood": "Dark",
+ "display_genre": "Classical",
+ "mood": "Dark",
+ "title": "Bach Cello Suite No. 1, G Major, Prelude",
+ "license_type": 1,
+ "track_url": "",
+ "vid": "b691419754b6ffd1",
+ "artist": "Cooper Cannell",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "b691419754b6ffd1",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "instruments": [
+  "cello",
+  "violin",
+  "synth",
+  "strings"
+ ],
+ "album": "None"
+}

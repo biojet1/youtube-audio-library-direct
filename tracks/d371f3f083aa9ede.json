@@ -1,0 +1,32 @@
+{
+ "mood": "Calm",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChBkMzcxZjNmMDgzYWE5ZWRlEAAYAg%3D%3D&sigh=_dAv8cZjn2RW1-2poPBV2Q",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCi0uheSErbivC3_662UqL-w",
+ "category": "",
+ "instruments": [
+  "piano",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "display_mood": "Calm",
+ "fp_ref_id": "d371f3f083aa9ede",
+ "is_new_track": false,
+ "len": 132,
+ "genre": "Dance & Electronic",
+ "reference_vid": "d371f3f083aa9ede",
+ "downloadable": true,
+ "streamid": "bzpotdoLsLpVK3MwCaTth31nLv7qKDGcp6VPDam5Jzam6R64ip2ThdXIS1H6v0zA",
+ "track_url": "",
+ "vid": "d371f3f083aa9ede",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d371f3f083aa9ede",
+ "artist_url": "https://www.youtube.com/channel/UCi0uheSErbivC3_662UqL-w",
+ "license_type": 1,
+ "title": "Escape",
+ "artist": "Eveningland"
+}

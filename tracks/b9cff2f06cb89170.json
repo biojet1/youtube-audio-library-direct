@@ -1,0 +1,30 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100452",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "b9cff2f06cb89170",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChBiOWNmZjJmMDZjYjg5MTcwEAAYAg%3D%3D&sigh=ba4gzPBKq7imb1W72MQfQw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b9cff2f06cb89170",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Classical",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "reference_vid": "b9cff2f06cb89170",
+ "category": "",
+ "len": 210.583,
+ "vid": "b9cff2f06cb89170",
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "mood": "Dark",
+ "license_type": 6,
+ "genre": "Classical",
+ "title": "End of the Era",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "streamid": "WpOm95iPxCWJRrmUzOwpS41j97nCJH9-ipWnXRJZy9W_KILlAfRmysV8XrKCLLot"
+}

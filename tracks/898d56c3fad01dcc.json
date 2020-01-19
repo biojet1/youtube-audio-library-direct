@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "898d56c3fad01dcc",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=898d56c3fad01dcc",
+ "display_mood": "Dark",
+ "fp_ref_id": "898d56c3fad01dcc",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Piano",
+  "Synth"
+ ],
+ "title": "Flaming Mansions",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChA4OThkNTZjM2ZhZDAxZGNjEAAYAg%3D%3D&sigh=RIhCugsvk39meejWu1Dv3A",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Text Me Records / Jorge Hernandez",
+ "genre": "Hip Hop & Rap",
+ "len": 142.933,
+ "streamid": "jUPcMjrlUu9ByUKeir80BQx_smVQKuWW-33AU2uEJOhhyafKeZlcNDE_M9-OjnGJ",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "898d56c3fad01dcc",
+ "album": "None",
+ "mood": "Dark"
+}

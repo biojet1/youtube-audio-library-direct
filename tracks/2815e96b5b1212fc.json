@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "drums",
+  "piano",
+  "electric guitar",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2815e96b5b1212fc",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Silent Partner",
+ "len": 122.416,
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "QKp8mexRXeP10eLVHhncwBRglSSyI2bTaYn8fj0viUmUQvLoOpQMWpnd8yaQ5fGM",
+ "category": "",
+ "title": "Cruiser",
+ "display_mood": "Bright",
+ "favorite": false,
+ "reference_vid": "2815e96b5b1212fc",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAyODE1ZTk2YjViMTIxMmZjEAAYAg%3D%3D&sigh=h3swBmbfMb2QmqiqsXKd6Q",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "2815e96b5b1212fc",
+ "license_type": 0,
+ "popularity_percentile": 15,
+ "vid": "2815e96b5b1212fc"
+}

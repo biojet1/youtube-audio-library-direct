@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "album": "None",
+ "artist": "JR Tundra",
+ "downloadable": true,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "len": 182.25,
+ "reference_vid": "e0263db05a8fb3cd",
+ "fp_ref_id": "e0263db05a8fb3cd",
+ "display_genre": "Reggae",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e0263db05a8fb3cd",
+ "category": "",
+ "title": "Natty Roadster",
+ "genre": "Reggae",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e0263db05a8fb3cd",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChBlMDI2M2RiMDVhOGZiM2NkEAAYAg%3D%3D&sigh=GpOJlHwQWWrNThNHkjLrEg",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "TqLtp_7QtI4AHEvmkbP-OoFOMX31NOEFpg6nZRS-ifSQeyIUMjyY3Gd-XYN-aQyn"
+}

@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dc29fb04c5f2233f",
+ "downloadable": true,
+ "reference_vid": "dc29fb04c5f2233f",
+ "mood": "Dark",
+ "artist_url": "",
+ "license_type": 0,
+ "len": 15.516,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJh1EhYKEGRjMjlmYjA0YzVmMjIzM2YQABgC&sigh=ZgnPl6DpPAD97MfcAjvq7g",
+ "streamid": "DRJ0ZCmqsavfRFLwxs3Hi1557lhVyEU1xnQpZ1_vgisrOkVYtDrjDN0fNkVqZC9V",
+ "genre": "Rock",
+ "display_category": "",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Rock",
+ "vid": "dc29fb04c5f2233f",
+ "artist": "Riot",
+ "popularity_percentile": 86,
+ "fp_ref_id": "dc29fb04c5f2233f",
+ "category": "",
+ "title": "Donations (Sting)",
+ "album": "None"
+}

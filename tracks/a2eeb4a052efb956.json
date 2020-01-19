@@ -1,0 +1,31 @@
+{
+ "display_genre": "Rock",
+ "streamid": "hhKoGhCtKAa7z7Hx_u00vsZyfb2UD9_WuC05jBsFnmnT5QU_ZCrZ7I9lyH2vwWdL",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "display_category": "",
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "drums"
+ ],
+ "vid": "a2eeb4a052efb956",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBhMmVlYjRhMDUyZWZiOTU2EAAYAg%3D%3D&sigh=0vCfZoVHeNeEdPPsDBYpGg",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a2eeb4a052efb956",
+ "fp_ref_id": "a2eeb4a052efb956",
+ "artist": "Dan Lebowitz",
+ "category": "",
+ "display_mood": "Funky",
+ "len": 133,
+ "track_url": "",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "a2eeb4a052efb956",
+ "mood": "Funky",
+ "title": "Say What",
+ "album": "None"
+}

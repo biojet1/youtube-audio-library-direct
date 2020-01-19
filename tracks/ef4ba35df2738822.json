@@ -1,0 +1,33 @@
+{
+ "artist": "The Green Orbs",
+ "mood": "Happy",
+ "vid": "ef4ba35df2738822",
+ "streamid": "i8PLMFjG_BMDZx7G9lIN21FjRQYyP3hX6cO9LolgcBC9rxHBNuDX0dnouRq3dxQB",
+ "display_category": "",
+ "track_url": "",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ef4ba35df2738822",
+ "fp_ref_id": "ef4ba35df2738822",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBlZjRiYTM1ZGYyNzM4ODIyEAAYAg%3D%3D&sigh=NZUgIDqnldRmSiwCEzphSA",
+ "len": 119.683,
+ "display_genre": "Children's",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Children's",
+ "reference_vid": "ef4ba35df2738822",
+ "title": "At The Fair",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "artist_url": "",
+ "category": "",
+ "display_mood": "Happy",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 0
+}

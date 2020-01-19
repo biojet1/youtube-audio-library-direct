@@ -1,0 +1,29 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100598",
+ "mood": "Dramatic",
+ "len": 212.95,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "-K_wa5SrNf8GhU4VUjMCDZO8a-qF8sk-ePve_scXwXhjzl6JohtK6iySloDG6Tfv",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChBhM2ZkMmEyZWMwNmZkMTk2EAAYAg%3D%3D&sigh=AwtoPnkG5MsPrwnqwpffPw",
+ "reference_vid": "a3fd2a2ec06fd196",
+ "title": "Firesong",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a3fd2a2ec06fd196",
+ "vid": "a3fd2a2ec06fd196",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "a3fd2a2ec06fd196",
+ "display_mood": "Dramatic",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "genre": "Cinematic"
+}

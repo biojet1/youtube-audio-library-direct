@@ -1,0 +1,29 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1cef67ce6f30b500",
+ "fp_ref_id": "1cef67ce6f30b500",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1cef67ce6f30b500",
+ "artist_channel_url": null,
+ "instruments": [
+  "piano"
+ ],
+ "len": 133.166,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChAxY2VmNjdjZTZmMzBiNTAwEAAYAg%3D%3D&sigh=Q4ezOIs6UxdZdlIz_dTjwQ",
+ "album": "None",
+ "title": "C Major Prelude",
+ "popularity_percentile": 11,
+ "streamid": "v-TllM_IGXb3CTBiSqoxTTAanouH3nXRXqVu5JWvyLHuNiKwEJ_7xprN1q3xkfM8",
+ "mood": "Happy",
+ "genre": "Classical",
+ "category": "",
+ "favorite": false,
+ "vid": "1cef67ce6f30b500",
+ "track_url": "",
+ "display_genre": "Classical",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Bach"
+}

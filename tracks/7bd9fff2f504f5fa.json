@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "7bd9fff2f504f5fa",
+ "artist": "United States Army Herald Trumpets",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Call to Statesmanship",
+ "vid": "7bd9fff2f504f5fa",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCoAhIWChA3YmQ5ZmZmMmY1MDRmNWZhEAAYAg%3D%3D&sigh=N1NW-Q9hgTQXS45T1JJuRg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7bd9fff2f504f5fa",
+ "display_category": "",
+ "len": 38.916,
+ "album": "None",
+ "license_type": 1,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "UCWscj8vWQq8IUwOhfZX8UvTlmA7csoAcpn0ZgYepRUFotExw6gz5AVod4sR-VBr",
+ "reference_vid": "7bd9fff2f504f5fa",
+ "instruments": [
+  "Trumpet"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "",
+ "genre": "Classical"
+}

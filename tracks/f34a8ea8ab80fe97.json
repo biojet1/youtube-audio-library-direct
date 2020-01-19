@@ -1,0 +1,33 @@
+{
+ "len": 102,
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "0h-2q0AeiNmFUrEug9iwmVg-cAM6D7HaZ_KHWFkKcCDVLHOSvk80hfn3bnpLmbix",
+ "genre": "Cinematic",
+ "vid": "f34a8ea8ab80fe97",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f34a8ea8ab80fe97",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "artist_channel_url": "/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "title": "Realization",
+ "instruments": [
+  "strings",
+  "horn",
+  "acoustic guitar",
+  "drums",
+  "piano"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "f34a8ea8ab80fe97",
+ "mood": "Dramatic",
+ "album": "None",
+ "reference_vid": "f34a8ea8ab80fe97",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBmMzRhOGVhOGFiODBmZTk3EAAYAg%3D%3D&sigh=sdtqFmMCjcqDAV8U35PbQw",
+ "display_genre": "Cinematic",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "artist": "Hanu Dixit"
+}

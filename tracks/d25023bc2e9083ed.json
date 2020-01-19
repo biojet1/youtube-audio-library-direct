@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d25023bc2e9083ed",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "category": "",
+ "title": "Waking to Reality",
+ "track_url": "",
+ "vid": "d25023bc2e9083ed",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "len": 273,
+ "instruments": [
+  "bass",
+  "keys",
+  "synth",
+  "drums",
+  "strings"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "km78gxRzFHeb78ejXnSAmYWjX9ezbGau4IJmv8tn3hTMb171rDqdJyadLZOz7IWJ",
+ "display_genre": "Cinematic",
+ "artist": "Unicorn Heads",
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "reference_vid": "d25023bc2e9083ed",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjUEBIWChBkMjUwMjNiYzJlOTA4M2VkEAAYAg%3D%3D&sigh=fZCKsokDfl64vvpb8jwJsw",
+ "fp_ref_id": "d25023bc2e9083ed",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "license_type": 1
+}

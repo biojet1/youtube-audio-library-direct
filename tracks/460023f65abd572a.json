@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChA0NjAwMjNmNjVhYmQ1NzJhEAAYAg%3D%3D&sigh=4MGaAk_5A5DWQPXUv1GT1Q",
+ "display_genre": "Country & Folk",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "rr-JHthI2fx4sht6VLUpXaXDMAnqh_3YbcbdyGmPoiUBaPxff6FdGeFIg9Srq107",
+ "artist": "Silent Partner",
+ "len": 200.15,
+ "genre": "Country & Folk",
+ "mood": "Inspirational",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "460023f65abd572a",
+ "reference_vid": "460023f65abd572a",
+ "popularity_percentile": 28,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=460023f65abd572a",
+ "fp_ref_id": "460023f65abd572a",
+ "display_mood": "Inspirational",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Staring At The Valley",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "acoustic guitar",
+  "bass",
+  "synth"
+ ]
+}

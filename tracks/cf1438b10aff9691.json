@@ -1,0 +1,31 @@
+{
+ "display_genre": "Rock",
+ "license_type": 1,
+ "genre": "Rock",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "vid": "cf1438b10aff9691",
+ "artist": "Dan Lebowitz",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "cf1438b10aff9691",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "album": "None",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChBjZjE0MzhiMTBhZmY5NjkxEAAYAg%3D%3D&sigh=Zwbo7gcA8wyVIABZhiitCQ",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Bright",
+ "title": "Take it Back",
+ "reference_vid": "cf1438b10aff9691",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cf1438b10aff9691",
+ "track_url": "",
+ "len": 107,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "aljQw0kXBdXSFqUlcjD71eBVfZYmvzvZx46sv4SQZVj0YjTmOkGN3LthZYUCdQtp"
+}

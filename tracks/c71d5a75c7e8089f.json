@@ -1,0 +1,33 @@
+{
+ "reference_vid": "c71d5a75c7e8089f",
+ "popularity_percentile": 77,
+ "display_genre": "Rock",
+ "license_type": 0,
+ "fp_ref_id": "c71d5a75c7e8089f",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ",
+  "Synth"
+ ],
+ "title": "Lunar Landing",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 239.05,
+ "artist_url": "",
+ "display_category": "",
+ "streamid": "cjvkBj8rBa8-c5UNWErM94Ya4lDZS589-ffery2luKgoDP9mMh_eAuGub_vSRLSD",
+ "vid": "c71d5a75c7e8089f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjLDhIWChBjNzFkNWE3NWM3ZTgwODlmEAAYAg%3D%3D&sigh=YS-ITAAXScdiyiVbUJfubA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c71d5a75c7e8089f",
+ "artist": "Silent Partner",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Rock"
+}

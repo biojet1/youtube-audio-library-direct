@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 0,
+ "vid": "13f0f73ac6d66b2e",
+ "fp_ref_id": "13f0f73ac6d66b2e",
+ "album": "None",
+ "streamid": "Toz5MFRg30N6ddreZW6mQOULthfeDSflfiRM39zXVAMBejNy5VB5p-FT-qwiQyfL",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "artist": "Silent Partner",
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=13f0f73ac6d66b2e",
+ "downloadable": true,
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChAxM2YwZjczYWM2ZDY2YjJlEAAYAg%3D%3D&sigh=MQ85mMHsaYFHR2HNxQemoA",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 116.583,
+ "reference_vid": "13f0f73ac6d66b2e",
+ "title": "Brown Bag",
+ "favorite": false,
+ "track_url": ""
+}

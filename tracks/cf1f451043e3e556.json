@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cf1f451043e3e556",
+ "popularity_percentile": 30,
+ "reference_vid": "cf1f451043e3e556",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "bBEfUdwx6wCwM5zdJ4C1Wb5-6pxrCjDTlz0O2SGrLSxMrbh8-BM5iDZBLqFr6a51",
+ "genre": "Cinematic",
+ "len": 319.583,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "instruments": [
+  "Piano",
+  "Drums"
+ ],
+ "title": "Ghost Story",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJi8ExIWChBjZjFmNDUxMDQzZTNlNTU2EAAYAg%3D%3D&sigh=aQIhhnrOANRpb5qIn7lh9w",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "cf1f451043e3e556",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300034",
+ "mood": "Dark",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "cf1f451043e3e556",
+ "is_new_track": false,
+ "favorite": false
+}

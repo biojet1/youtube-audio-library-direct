@@ -1,0 +1,33 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Strings",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "album": "None",
+ "streamid": "L7oYvDFN0bRvfiRGINa7PApuM2eTvpWv70wMc2PAfwltsRGIBE5OxHAp_FMtoib1",
+ "title": "Alta Loma Terrace",
+ "display_genre": "Country & Folk",
+ "vid": "75658ccc667df9a4",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "75658ccc667df9a4",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 1,
+ "fp_ref_id": "75658ccc667df9a4",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Wes Hutchinson",
+ "len": 186.083,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChA3NTY1OGNjYzY2N2RmOWE0EAAYAg%3D%3D&sigh=t5j0h_17sQPvgf3v9IgiVQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=75658ccc667df9a4"
+}

@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "QYP3d6nD-EeYNIGaRw7uhiav23nOgCRB1HI05TS5wg4UeofQH9qnHpbHgXMZecZq",
+ "len": 175.333,
+ "category": "",
+ "license_type": 0,
+ "title": "Disco Ball",
+ "genre": "R&B & Soul",
+ "display_category": "",
+ "vid": "8f601037e695daeb",
+ "album": "None",
+ "mood": "Funky",
+ "artist": "Dougie Wood",
+ "favorite": false,
+ "display_genre": "R&B & Soul",
+ "display_mood": "Funky",
+ "fp_ref_id": "8f601037e695daeb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8f601037e695daeb",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "reference_vid": "8f601037e695daeb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChA4ZjYwMTAzN2U2OTVkYWViEAAYAg%3D%3D&sigh=Qa9E1bTGWQve0p08GBCDLQ",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

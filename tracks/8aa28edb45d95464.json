@@ -1,0 +1,33 @@
+{
+ "len": 123,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "track_url": "",
+ "category": "",
+ "mood": "Happy",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8aa28edb45d95464",
+ "title": "Rollin",
+ "streamid": "2qCJLoCYQufpdPjAPaAZIKQtr4QWpHJibSip0w3M3S-ZAOqh6CAfmfViFLMljoCS",
+ "genre": "Country & Folk",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA4YWEyOGVkYjQ1ZDk1NDY0EAAYAg%3D%3D&sigh=fu8vhRQvPUABoqxWPPgKcw",
+ "license_type": 1,
+ "fp_ref_id": "8aa28edb45d95464",
+ "display_mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "vid": "8aa28edb45d95464",
+ "artist": "Lauren Duski",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "display_genre": "Country & Folk",
+ "favorite": false,
+ "reference_vid": "8aa28edb45d95464"
+}

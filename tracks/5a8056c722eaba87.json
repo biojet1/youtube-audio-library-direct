@@ -1,0 +1,32 @@
+{
+ "vid": "5a8056c722eaba87",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5a8056c722eaba87",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a8056c722eaba87",
+ "favorite": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "track_url": "",
+ "title": "Get Outside!",
+ "genre": "Pop",
+ "mood": "Happy",
+ "artist": "Jason Farnham",
+ "display_mood": "Happy",
+ "streamid": "egHyITV58JTr9IHVSXmqdgaN9WhofQs5LqFOMLVjRI9EDddKcLJgMC6YMRC4K5fq",
+ "display_category": "",
+ "len": 90.383,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChA1YTgwNTZjNzIyZWFiYTg3EAAYAg%3D%3D&sigh=cGOvurbbGNbpAPTjgUUWeA",
+ "reference_vid": "5a8056c722eaba87",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Pop"
+}

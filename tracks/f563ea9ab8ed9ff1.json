@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 135,
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "fp_ref_id": "f563ea9ab8ed9ff1",
+ "reference_vid": "f563ea9ab8ed9ff1",
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "streamid": "bd8Q3237Cp8OogvMmCrzc-lbSCgvck4u6gzur_xbP8RbWgjM-qVREeleCkkjKjnl",
+ "vid": "f563ea9ab8ed9ff1",
+ "mood": "Happy",
+ "artist": "Chris Haugen",
+ "display_genre": "Jazz & Blues",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBmNTYzZWE5YWI4ZWQ5ZmYxEAAYAg%3D%3D&sigh=8HZCWQgNUn881ipfujIkQw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f563ea9ab8ed9ff1",
+ "category": "",
+ "title": "Sunshine Samba",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "percussion",
+  "Acoustic guitars"
+ ]
+}

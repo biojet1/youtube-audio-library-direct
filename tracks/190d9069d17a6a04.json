@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "190d9069d17a6a04",
+ "category": "",
+ "license_type": 6,
+ "title": "Prelude No. 5",
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "display_mood": "Calm",
+ "album": "None",
+ "streamid": "ipqkkwmPUE6YVfWZ0QA1Vbgr-wFFo8tu2tKlU13TtzIB_aWJFC-_JXPPFTgubg4L",
+ "len": 55.383,
+ "artist": "Chris Zabriskie",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=190d9069d17a6a04",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNitAxIWChAxOTBkOTA2OWQxN2E2YTA0EAAYAg%3D%3D&sigh=7-Z1eyONrd5BBRnpZpVcnA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "190d9069d17a6a04",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "190d9069d17a6a04",
+ "track_url": "http://chriszabriskie.com/preludes/"
+}

@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a6f68ceed71748c8",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a6f68ceed71748c8",
+ "fp_ref_id": "a6f68ceed71748c8",
+ "genre": "Jazz & Blues",
+ "album": "None",
+ "title": "Blakey's Burnout",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "track_url": "",
+ "display_mood": "Dark",
+ "streamid": "OaR1ygzw5dbr1kF1sKniqBC8sLTDSOCgNqo5p152mhHZCEppDOPcpt3cqC6649eF",
+ "artist": "John Deley",
+ "mood": "Dark",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a6f68ceed71748c8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBhNmY2OGNlZWQ3MTc0OGM4EAAYAg%3D%3D&sigh=SIzD2RnJSc2LOxROdKb10A",
+ "display_category": "",
+ "len": 187.033,
+ "display_genre": "Jazz & Blues"
+}

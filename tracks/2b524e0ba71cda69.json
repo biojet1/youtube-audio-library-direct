@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 108.15,
+ "reference_vid": "2b524e0ba71cda69",
+ "display_genre": "Alternative & Punk",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2b524e0ba71cda69",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChAyYjUyNGUwYmE3MWNkYTY5EAAYAg%3D%3D&sigh=ZMtiFeWzwh12gpK204SB6w",
+ "display_mood": "Angry",
+ "fp_ref_id": "2b524e0ba71cda69",
+ "track_url": "",
+ "genre": "Alternative & Punk",
+ "vid": "2b524e0ba71cda69",
+ "artist_channel_url": null,
+ "streamid": "FgaWpUalUUqcwDT0JNLKakp_7PJELXiQj6K9z2VIy0GpNTNaqBjYahutWhzSE52h",
+ "license_type": 0,
+ "title": "Work Week",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Topher Mohr and Alex Elena",
+ "mood": "Angry"
+}

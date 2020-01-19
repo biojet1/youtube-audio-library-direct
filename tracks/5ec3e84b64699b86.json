@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "vid": "5ec3e84b64699b86",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 0,
+ "display_category": "",
+ "fp_ref_id": "5ec3e84b64699b86",
+ "track_url": "",
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA1ZWMzZTg0YjY0Njk5Yjg2EAAYAg%3D%3D&sigh=w1vxcJZkniTHxEDJXfuwHQ",
+ "artist_url": "",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "title": "Flow",
+ "downloadable": true,
+ "streamid": "hbEgKMAjuDjlewKUPmxX1oSJRTC10TQVnQdFyO__P9MV3iy4E9uSGlr62uKKlfy4",
+ "genre": "R&B & Soul",
+ "len": 103.45,
+ "artist": "MK2",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ec3e84b64699b86",
+ "popularity_percentile": 37,
+ "reference_vid": "5ec3e84b64699b86",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Dark"
+}

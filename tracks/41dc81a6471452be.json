@@ -1,0 +1,31 @@
+{
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "len": 150.016,
+ "display_category": "",
+ "reference_vid": "41dc81a6471452be",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "41dc81a6471452be",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "QcL-ACjxO0LHFYApXRifDKYjg1nPOyKtJXsf6kjfBW2EPS0X6EWXtnkJvA3W3pXW",
+ "display_mood": "Dramatic",
+ "vid": "41dc81a6471452be",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChA0MWRjODFhNjQ3MTQ1MmJlEAAYAg%3D%3D&sigh=-Iv8zI_B8c_t9gTNO4XB7A",
+ "category": "",
+ "title": "One More",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41dc81a6471452be"
+}

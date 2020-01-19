@@ -1,0 +1,33 @@
+{
+ "len": 195,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChA4MTM0ZjdkNjU0YTk3ZGNkEAAYAg%3D%3D&sigh=SxusW9-AJO53po6BsHRsxQ",
+ "reference_vid": "8134f7d654a97dcd",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "display_genre": "Rock",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "title": "Jack's Garage",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Midnight North",
+ "streamid": "8tJ0NM0wTTmtalnyquIt1e8RJM-8E50VWnvx6F1KCWfsZQdwSYH6k9wxZWGwFK7T",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8134f7d654a97dcd",
+ "fp_ref_id": "8134f7d654a97dcd",
+ "album": "None",
+ "vid": "8134f7d654a97dcd",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "favorite": false
+}

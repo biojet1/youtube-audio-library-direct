@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "artist": "Ethan Meixsell",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "fp_ref_id": "fa4b9712b6843b1e",
+ "popularity_percentile": 98,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChBmYTRiOTcxMmI2ODQzYjFlEAAYAg%3D%3D&sigh=3x1cQnAiAY3PAtkRdE-ZXA",
+ "favorite": false,
+ "genre": "Rock",
+ "category": "",
+ "vid": "fa4b9712b6843b1e",
+ "streamid": "t_p_qzxR4cX_cWk4Z6uzL-3zCMQNfmV7VPAvqAIZDw5D3DwfWsjzsTQMOSTEYKoa",
+ "mood": "Angry",
+ "reference_vid": "fa4b9712b6843b1e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fa4b9712b6843b1e",
+ "title": "Fight or Flight",
+ "display_mood": "Angry",
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Rock",
+ "display_category": "",
+ "instruments": [
+  "Guitar",
+  "Bass Drums"
+ ],
+ "len": 112.383,
+ "album": "None",
+ "track_url": ""
+}

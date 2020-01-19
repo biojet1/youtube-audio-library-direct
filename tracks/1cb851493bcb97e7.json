@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "_QMgY6Cv-bo13bxIwZU3fbIxYO_HRD56079_wlaWTN7NQ8Ki6fjeK90zeYwzziLJ",
+ "title": "Glee Club Polka",
+ "display_genre": "Country & Folk",
+ "vid": "1cb851493bcb97e7",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "1cb851493bcb97e7",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100218",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 6,
+ "fp_ref_id": "1cb851493bcb97e7",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Kevin MacLeod",
+ "len": 206.85,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChAxY2I4NTE0OTNiY2I5N2U3EAAYAg%3D%3D&sigh=seomdhb3zBEusYcxLFnvNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1cb851493bcb97e7"
+}

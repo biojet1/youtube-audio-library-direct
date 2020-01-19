@@ -1,0 +1,31 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100178",
+ "mood": "Dark",
+ "len": 143.95,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "Osn6I7kra6QlnYfqLaiM4gLoNLx8H4lRL0kLiL8LS0f5pCICDeVSrBPbDaOIj2XB",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChAwZDdkYTM3YWJhMDI2MzRiEAAYAg%3D%3D&sigh=fkOIEgRB-jPU3gM9FvtZcw",
+ "reference_vid": "0d7da37aba02634b",
+ "title": "Lasting Hope",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d7da37aba02634b",
+ "vid": "0d7da37aba02634b",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "0d7da37aba02634b",
+ "display_mood": "Dark",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Synth",
+  "Bass"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "genre": "Ambient"
+}

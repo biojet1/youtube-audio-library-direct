@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "d1bd7f0012b0cff7",
+ "display_genre": "Dance & Electronic",
+ "artist": "Josh Kirsch/Media Right Productions",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKhGEhYKEGQxYmQ3ZjAwMTJiMGNmZjcQABgC&sigh=yn7t6ExB2mz-w_EqtHjjLg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d1bd7f0012b0cff7",
+ "len": 9.366,
+ "mood": "Bright",
+ "title": "Cologne 1983 (Sting)",
+ "vid": "d1bd7f0012b0cff7",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 0,
+ "artist_url": "",
+ "genre": "Dance & Electronic",
+ "display_mood": "Bright",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "d1bd7f0012b0cff7",
+ "streamid": "kH4mDIHH2E_7gpc-l8vgEu3_tdHZj4CFrSyPzChU_If8nOBLyFrA_Zz_uNhwelb9"
+}

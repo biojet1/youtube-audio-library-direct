@@ -1,0 +1,30 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChA3MGM2ODFmYWI1YjI5Y2Q1EAAYAg%3D%3D&sigh=MjQCl3dvJk6Vtcxj1uDeLg",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Dance & Electronic",
+ "mood": "Funky",
+ "reference_vid": "70c681fab5b29cd5",
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200015",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=70c681fab5b29cd5",
+ "favorite": false,
+ "popularity_percentile": 31,
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "category": "",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "license_type": 6,
+ "fp_ref_id": "70c681fab5b29cd5",
+ "title": "Latin Industries",
+ "len": 200.716,
+ "streamid": "CMqBEorOmeVCtSK5WfC7z8Uv3ET5w1ytHqk3SHCDbsNgsJhmhhNbmVvJ0A7u7ClZ",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "vid": "70c681fab5b29cd5"
+}

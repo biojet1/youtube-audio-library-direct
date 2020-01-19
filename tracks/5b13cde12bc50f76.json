@@ -1,0 +1,32 @@
+{
+ "vid": "5b13cde12bc50f76",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5b13cde12bc50f76",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5b13cde12bc50f76",
+ "favorite": false,
+ "instruments": [
+  "Piano",
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "title": "Stuck in One Place",
+ "genre": "Rock",
+ "mood": "Dramatic",
+ "artist": "Everet Almond",
+ "display_mood": "Dramatic",
+ "streamid": "m_lk13-iNQt7vdzob-D0bb2IaPVd_VR-gHc2Wsr6yD-IXDuzqTtEqFlgsLSf4nXK",
+ "display_category": "",
+ "len": 150.183,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChA1YjEzY2RlMTJiYzUwZjc2EAAYAg%3D%3D&sigh=5har4BGbV-j6JYoe6l_UuQ",
+ "reference_vid": "5b13cde12bc50f76",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Rock"
+}

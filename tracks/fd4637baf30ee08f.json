@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100288",
+ "downloadable": true,
+ "streamid": "iMDryT_J9ASQX6PRn6XbnWGG8Dy-A3vqTiLnKO2aRlA4thhxA5uz3lMVvUpqRTwA",
+ "len": 46.05,
+ "category": "",
+ "license_type": 6,
+ "title": "Comedic Juggernaut - Music to Delight",
+ "genre": "Children's",
+ "display_category": "",
+ "vid": "fd4637baf30ee08f",
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "display_genre": "Children's",
+ "display_mood": "Happy",
+ "fp_ref_id": "fd4637baf30ee08f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fd4637baf30ee08f",
+ "instruments": [
+  "Synth"
+ ],
+ "reference_vid": "fd4637baf30ee08f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDnAhIWChBmZDQ2MzdiYWYzMGVlMDhmEAAYAg%3D%3D&sigh=nKZKnQASjP7R8EM7Ys5y_g",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 56
+}

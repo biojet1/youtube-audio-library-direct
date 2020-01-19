@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Drums"
+ ],
+ "len": 280.55,
+ "fp_ref_id": "f61b8b4f684d1c83",
+ "streamid": "yLPTfAEflMqHhNAD3AmBAdyoupgwIem9wGIa38cXZyIxPDKoch_6mLaaF6XDOcAL",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Classical",
+ "popularity_percentile": 64,
+ "vid": "f61b8b4f684d1c83",
+ "display_genre": "Classical",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f61b8b4f684d1c83",
+ "album": "None",
+ "title": "Angevin - Thatched Villagers",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCLERIWChBmNjFiOGI0ZjY4NGQxYzgzEAAYAg%3D%3D&sigh=zGllhOeKKWIuApbELqyf6Q",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Calm",
+ "is_new_track": false,
+ "reference_vid": "f61b8b4f684d1c83",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200110",
+ "license_type": 6
+}

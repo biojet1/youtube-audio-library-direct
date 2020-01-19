@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e85d7af294acff5a",
+ "category": "",
+ "title": "Galactic Damages",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "genre": "Cinematic",
+ "display_mood": "Dramatic",
+ "streamid": "WjFNLdFqI3eEs6RCnG-j58Yr8CAUEH5wVrzduuMlL2h1i3Iae9JA-vGT-vb-pQaf",
+ "album": "None",
+ "len": 64.916,
+ "artist": "Jingle Punks",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e85d7af294acff5a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID0AxIWChBlODVkN2FmMjk0YWNmZjVhEAAYAg%3D%3D&sigh=PCy7HTi_E1Ls-DYo7jjskg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e85d7af294acff5a",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "e85d7af294acff5a",
+ "license_type": 0,
+ "track_url": ""
+}

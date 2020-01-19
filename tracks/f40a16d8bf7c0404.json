@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100731",
+ "artist_channel_url": null,
+ "len": 120.366,
+ "mood": "Bright",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f40a16d8bf7c0404",
+ "title": "Merry Go - Silent Film Light",
+ "streamid": "IGaW6VlL5K1oJqXFaztlFBg6Qz0_5AnHA0d-Kqatn_cuVXxyCNgExIXlzPvZB22P",
+ "genre": "Classical",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBmNDBhMTZkOGJmN2MwNDA0EAAYAg%3D%3D&sigh=ojb6_xzkcGeN_IspS7wNAw",
+ "license_type": 6,
+ "fp_ref_id": "f40a16d8bf7c0404",
+ "display_mood": "Bright",
+ "vid": "f40a16d8bf7c0404",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Piano"
+ ],
+ "display_genre": "Classical",
+ "favorite": false,
+ "reference_vid": "f40a16d8bf7c0404"
+}

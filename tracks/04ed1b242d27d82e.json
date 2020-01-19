@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChAwNGVkMWIyNDJkMjdkODJlEAAYAg%3D%3D&sigh=63S1ZCl9rnue6Olorp7J0g",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "04ed1b242d27d82e",
+ "reference_vid": "04ed1b242d27d82e",
+ "popularity_percentile": 3,
+ "artist": "Riot",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04ed1b242d27d82e",
+ "mood": "Dark",
+ "genre": "Rock",
+ "streamid": "gDlVNgsTfMo7AdFu3KF938MFTnf9SMaynshdTDFSs3wxUyYdt9pffewX6CbAMGNX",
+ "title": "Highway Girl",
+ "downloadable": true,
+ "category": "",
+ "len": 148.416,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "fp_ref_id": "04ed1b242d27d82e",
+ "album": "None"
+}

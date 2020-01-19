@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "artist": "Twin Musicom",
+ "is_new_track": false,
+ "fp_ref_id": "5aaceb87898d5f38",
+ "artist_channel_url": null,
+ "len": 193.983,
+ "downloadable": true,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChA1YWFjZWI4Nzg5OGQ1ZjM4EAAYAg%3D%3D&sigh=MIJiOhNtOgXEj0EK2r0eOA",
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "vid": "5aaceb87898d5f38",
+ "display_category": "",
+ "reference_vid": "5aaceb87898d5f38",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5aaceb87898d5f38",
+ "album": "None",
+ "track_url": "http://www.twinmusicom.org/song/308/winter-ride",
+ "streamid": "EtiBUdBpyvtI9WGmgSzyYeKGiSF3IpoNHAyRY1kS23m0WuNtkptgIEgkLDLSwh7m",
+ "mood": "Happy",
+ "artist_url": "http://www.twinmusicom.org",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Strings"
+ ],
+ "title": "Winter Ride",
+ "popularity_percentile": 44,
+ "category": ""
+}

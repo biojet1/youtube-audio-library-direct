@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "vid": "2149b0b7b0a4607a",
+ "streamid": "qmDkC90o2uh3jZE57HDF3HqFV-p2_N2ZJN-qXvqz-rcTzjVouEQAtxQYfqeHDtFk",
+ "title": "Apocalypse",
+ "category": "",
+ "len": 226,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDlDRIWChAyMTQ5YjBiN2IwYTQ2MDdhEAAYAg%3D%3D&sigh=VwRWek1OrWfBxbNlgrFD7Q",
+ "artist": "SYBS",
+ "artist_url": "https://www.youtube.com/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "reference_vid": "2149b0b7b0a4607a",
+ "display_mood": "Dark",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2149b0b7b0a4607a",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Synth",
+  "Piano",
+  "Bass"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "2149b0b7b0a4607a",
+ "favorite": false,
+ "mood": "Dark"
+}

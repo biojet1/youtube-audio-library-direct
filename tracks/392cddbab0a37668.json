@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "reference_vid": "392cddbab0a37668",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "QCjmA70cHzv7-36F6EREHQQNlho9Kk3mwYcNOhaHQ0NF1qWVgE_0iW_IPjlmqIZD",
+ "display_mood": "Romantic",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "display_genre": "Country & Folk",
+ "title": "As We Go",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "392cddbab0a37668",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChAzOTJjZGRiYWIwYTM3NjY4EAAYAg%3D%3D&sigh=MOH7W5kJEfhKe4NtNmiVcg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=392cddbab0a37668",
+ "artist": "The 126ers",
+ "len": 141.55,
+ "track_url": "",
+ "fp_ref_id": "392cddbab0a37668",
+ "mood": "Romantic",
+ "is_new_track": false,
+ "popularity_percentile": 22,
+ "display_category": ""
+}

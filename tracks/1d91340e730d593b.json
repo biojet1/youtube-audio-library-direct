@@ -1,0 +1,29 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100862",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 10.616,
+ "category": "",
+ "title": "First Call",
+ "display_genre": "Classical",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1d91340e730d593b",
+ "instruments": [
+  "Trumpet"
+ ],
+ "album": "None",
+ "reference_vid": "1d91340e730d593b",
+ "fp_ref_id": "1d91340e730d593b",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEDFkOTEzNDBlNzMwZDU5M2IQABgC&sigh=jV_9jbOwejYiLmwSc6MG7Q",
+ "license_type": 6,
+ "mood": "Bright",
+ "vid": "1d91340e730d593b",
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "popularity_percentile": 71,
+ "display_mood": "Bright",
+ "streamid": "EsBVwZhZJUPtdGT2rSJQwaI0EjNpM6myWMztlSxIhKN0TpLNDQ0Ha-A0jZfgXAy3"
+}

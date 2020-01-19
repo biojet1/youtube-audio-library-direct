@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAzZDAyZjJmN2I5MGU4NWI0EAAYAg%3D%3D&sigh=wXZfI5-dVaF1Ov-K_c_DQw",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "organ"
+ ],
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "3d02f2f7b90e85b4",
+ "reference_vid": "3d02f2f7b90e85b4",
+ "genre": "R&B & Soul",
+ "popularity_percentile": 24,
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "track_url": "",
+ "title": "George",
+ "downloadable": true,
+ "category": "",
+ "streamid": "gx5aPUxGuG4ihLPHYefpJD_c0UdgpqiE_DaGiqgFUw82mLbIW0nFkJg7OlgcdILi",
+ "fp_ref_id": "3d02f2f7b90e85b4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3d02f2f7b90e85b4",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Funky",
+ "len": 122.55
+}

@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 128,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "fp_ref_id": "28e75b5e15341e25",
+ "reference_vid": "28e75b5e15341e25",
+ "artist_channel_url": "/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "license_type": 1,
+ "streamid": "3c51NxrqMw8axjjaejC42Xu3Xkk_sp0DfBge5FtikmSW2O1oR13hCZcUbZ36nD6s",
+ "vid": "28e75b5e15341e25",
+ "mood": "Inspirational",
+ "artist": "Endless Love",
+ "display_genre": "Alternative & Punk",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChAyOGU3NWI1ZTE1MzQxZTI1EAAYAg%3D%3D&sigh=3j1dnSKoQOv6JgEFALcMgQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=28e75b5e15341e25",
+ "category": "",
+ "title": "Outro (White Smoke)",
+ "genre": "Alternative & Punk",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ]
+}

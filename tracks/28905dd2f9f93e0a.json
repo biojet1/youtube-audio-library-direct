@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=28905dd2f9f93e0a",
+ "fp_ref_id": "28905dd2f9f93e0a",
+ "len": 113.266,
+ "artist": "Text Me Records / Jorge Hernandez",
+ "mood": "Dark",
+ "reference_vid": "28905dd2f9f93e0a",
+ "vid": "28905dd2f9f93e0a",
+ "title": "Jam",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Synth"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "streamid": "Mp14OJ53LqM9NmzggRvJLTeJnDnxXb9XmJK6cfNEK0kCrY-ha6un3TvkdAZXkLfN",
+ "display_genre": "Hip Hop & Rap",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChAyODkwNWRkMmY5ZjkzZTBhEAAYAg%3D%3D&sigh=tACPXxhP4hMx_70jrsxEjA"
+}

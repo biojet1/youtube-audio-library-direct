@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "mood": "Funky",
+ "len": 104.316,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "dRAnaZkR4GPhRRMWzDevaxcYTnjc5iLQ3_m5lxflWUFQNeJ-4nr2nTd1WEM0vlFW",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBlNTc3ZjdlMDY5NGFjYzVhEAAYAg%3D%3D&sigh=Iq1KJrbku43RS1HvxDe2EA",
+ "reference_vid": "e577f7e0694acc5a",
+ "title": "Magnolia",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e577f7e0694acc5a",
+ "vid": "e577f7e0694acc5a",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "fp_ref_id": "e577f7e0694acc5a",
+ "display_mood": "Funky",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Rock",
+ "license_type": 0,
+ "genre": "Rock"
+}

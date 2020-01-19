@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4785246191342dc7",
+ "downloadable": true,
+ "reference_vid": "4785246191342dc7",
+ "mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "license_type": 1,
+ "len": 142,
+ "instruments": [
+  "synth",
+  "piano",
+  "bass",
+  "acoustic guitar",
+  "drums"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChA0Nzg1MjQ2MTkxMzQyZGM3EAAYAg%3D%3D&sigh=jI3Yw3JdtQ7HqrFIbFwgDg",
+ "streamid": "x9tQUZZLfWbwZTaRdO_0iSqDPEL0NhjVXpa7jNaLzaBpHJfnVBVwBQaBRpbmSyWu",
+ "genre": "Pop",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "display_genre": "Pop",
+ "vid": "4785246191342dc7",
+ "artist": "Freedom Trail Studio",
+ "popularity_percentile": 99,
+ "fp_ref_id": "4785246191342dc7",
+ "category": "",
+ "title": "Plenty Step",
+ "album": "None"
+}

@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "ef63eb5f62cc3be5",
+ "display_category": "",
+ "fp_ref_id": "ef63eb5f62cc3be5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ef63eb5f62cc3be5",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "downloadable": true,
+ "display_genre": "World",
+ "title": "Amor Chiquito",
+ "favorite": false,
+ "license_type": 1,
+ "len": 136,
+ "display_mood": "Happy",
+ "instruments": [
+  "bass",
+  "drums",
+  "horns",
+  "organ",
+  "electric guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChBlZjYzZWI1ZjYyY2MzYmU1EAAYAg%3D%3D&sigh=94I4WuliQpjEhHM1WdqpUA",
+ "streamid": "t4JEzcRuTkwC8vGNU_oRnM0_Wj14DhRvoKC0p95pP2HH-YL1b6WW4S-W_FOdwMto",
+ "genre": "World",
+ "vid": "ef63eb5f62cc3be5",
+ "artist": "Quincas Moreira"
+}

@@ -1,0 +1,32 @@
+{
+ "title": "Ersatz Bossa (Sting)",
+ "favorite": false,
+ "len": 14.583,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCLBtEhYKEGRhMTMzZWEzYTcyYTQ3MTgQABgC&sigh=WrP3yCR66VUa_8MQ5A4p6g",
+ "fp_ref_id": "da133ea3a72a4718",
+ "artist_channel_url": null,
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "genre": "Jazz & Blues",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "artist_url": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "reference_vid": "da133ea3a72a4718",
+ "display_category": "",
+ "vid": "da133ea3a72a4718",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=da133ea3a72a4718",
+ "streamid": "kzbT8-WRjJsVSk1RRNSs4odxPLLFsfu6VnO7ewAKPpxLhnh7_n15kLvkKkq08Tt2",
+ "artist": "John Deley and the 41 Players"
+}

@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "65f16508f6cec998",
+ "is_new_track": false,
+ "mood": "Bright",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA2NWYxNjUwOGY2Y2VjOTk4EAAYAg%3D%3D&sigh=B1elzU_42GS7A4LJXTDD_w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=65f16508f6cec998",
+ "artist": "Patrick Patrikios",
+ "len": 146,
+ "streamid": "U6mbFLrPA12qNKxggDxT03sTRPnKNZgTUt3nYzxpCiuYObTU0TTZFx-CMBi2lf82",
+ "album": "None",
+ "display_mood": "Bright",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops"
+ ],
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "title": "Touch",
+ "vid": "65f16508f6cec998",
+ "reference_vid": "65f16508f6cec998",
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

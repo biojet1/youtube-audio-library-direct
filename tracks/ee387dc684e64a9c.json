@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "is_new_track": false,
+ "reference_vid": "ee387dc684e64a9c",
+ "display_category": "",
+ "fp_ref_id": "ee387dc684e64a9c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ee387dc684e64a9c",
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "instruments": [
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBlZTM4N2RjNjg0ZTY0YTljEAAYAg%3D%3D&sigh=52mQX_v5nb7xgq1htKr0cQ",
+ "streamid": "XubP4wBO-IW9X7XjygTjnkQq0_NZkuyvHUwjJlJHJWc-fuuiE5OosimQ9Jf7SrFU",
+ "genre": "Cinematic",
+ "vid": "ee387dc684e64a9c",
+ "artist": "ELPHNT",
+ "display_genre": "Cinematic",
+ "title": "Sunn Forest",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 174,
+ "display_mood": "Happy",
+ "downloadable": true
+}

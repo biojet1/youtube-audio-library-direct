@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "mood": "Inspirational",
+ "artist": "Bird Creek",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=71e7af02e3fde394",
+ "len": 100.25,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA3MWU3YWYwMmUzZmRlMzk0EAAYAg%3D%3D&sigh=MnqZ6JSYbY15DyCVbgzFjQ",
+ "fp_ref_id": "71e7af02e3fde394",
+ "vid": "71e7af02e3fde394",
+ "title": "Aurora Borealis",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "71e7af02e3fde394",
+ "license_type": 0,
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "streamid": "cs_QosAGsm0fuu3-KcJWGrluwevIhJUWYMf7RjII3FxTt3YVYQt8vgWjOkV-l3sx",
+ "category": ""
+}

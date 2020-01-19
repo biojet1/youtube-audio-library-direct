@@ -1,0 +1,33 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1be87f90cb6f3336",
+ "fp_ref_id": "1be87f90cb6f3336",
+ "artist_url": "",
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1be87f90cb6f3336",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ",
+  "Trumpet"
+ ],
+ "len": 86.883,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCfBRIWChAxYmU4N2Y5MGNiNmYzMzM2EAAYAg%3D%3D&sigh=5nBxPK8YnWGKYAxbJ_xY_A",
+ "album": "None",
+ "title": "Down 'N Dirty",
+ "popularity_percentile": 11,
+ "streamid": "dUILGXi7U5DC5NA49DcfVgFr8q7DVf3tg98PUOoO1CB2swgWyf5o13YEFWPSld-c",
+ "mood": "Funky",
+ "genre": "R&B & Soul",
+ "category": "",
+ "favorite": false,
+ "vid": "1be87f90cb6f3336",
+ "track_url": "",
+ "display_genre": "R&B & Soul",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Jingle Punks"
+}

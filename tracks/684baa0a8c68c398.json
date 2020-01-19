@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "album": "None",
+ "vid": "684baa0a8c68c398",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA2ODRiYWEwYThjNjhjMzk4EAAYAg%3D%3D&sigh=QoUyO0F8Mm-YidvY6ZwmlQ",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "artist_channel_url": "/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "track_url": "",
+ "streamid": "2Bp6jQ4ND3vhW6MBNQOxH6GLU-kUESuStBZW-_QgE3HfoXPA2bXSWibqqJ8rn-pH",
+ "len": 171,
+ "genre": "Dance & Electronic",
+ "artist": "Andrew Huang",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Blunt",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=684baa0a8c68c398",
+ "reference_vid": "684baa0a8c68c398",
+ "popularity_percentile": 99,
+ "fp_ref_id": "684baa0a8c68c398",
+ "display_mood": "Dramatic"
+}

@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChBmYjliY2RmZDcxNDIxNzBkEAAYAg%3D%3D&sigh=pmjTwcPGa6Ndn3iQvmPYyw",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fb9bcdfd7142170d",
+ "reference_vid": "fb9bcdfd7142170d",
+ "popularity_percentile": 99,
+ "artist": "Dougie Wood",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fb9bcdfd7142170d",
+ "mood": "Funky",
+ "genre": "R&B & Soul",
+ "streamid": "aqHZsKFifj5aGU-EjEOAorGj2ql-5qdB677npx-Am_uJSQICFJusKwhMuvlw5OJa",
+ "title": "Beach Disco",
+ "downloadable": true,
+ "category": "",
+ "len": 183.683,
+ "artist_url": "",
+ "display_genre": "R&B & Soul",
+ "fp_ref_id": "fb9bcdfd7142170d",
+ "album": "None"
+}

@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChA1MmYyNTk0NDU1NWYzMGU4EAAYAg%3D%3D&sigh=inaTK3ZbfYRbewhxwoFmEA",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=52f25944555f30e8",
+ "title": "Open Highway",
+ "mood": "Angry",
+ "display_mood": "Angry",
+ "display_category": "",
+ "track_url": "",
+ "is_new_track": false,
+ "reference_vid": "52f25944555f30e8",
+ "license_type": 0,
+ "artist": "Silent Partner",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "fp_ref_id": "52f25944555f30e8",
+ "display_genre": "Rock",
+ "len": 162.65,
+ "vid": "52f25944555f30e8",
+ "category": "",
+ "artist_url": "",
+ "popularity_percentile": 33,
+ "genre": "Rock",
+ "streamid": "3T4YUelqJnaBkdbbGDmMq7wnf2Is8bKH5FYBBgDcABw-rEy_83D7hSiacNjYBpE1",
+ "artist_channel_url": null
+}

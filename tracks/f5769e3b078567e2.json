@@ -1,0 +1,33 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "album": "None",
+ "reference_vid": "f5769e3b078567e2",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "f5769e3b078567e2",
+ "title": "Summer In NY",
+ "mood": "Happy",
+ "len": 117,
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "artist": "Dyalla",
+ "fp_ref_id": "f5769e3b078567e2",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "license_type": 1,
+ "instruments": [
+  "acoustic guitar",
+  "vocal chops",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "streamid": "sQnjNTIIzhngL2GPPxKEopMUC-Ufs_2AYJSbAQ2U_Vbp2E7dQrssjwPrYjk4KVsx",
+ "display_mood": "Happy",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f5769e3b078567e2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChBmNTc2OWUzYjA3ODU2N2UyEAAYAg%3D%3D&sigh=wP9jWcibihNYwDUCdPUFtg"
+}

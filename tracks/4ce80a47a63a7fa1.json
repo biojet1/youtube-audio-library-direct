@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "artist_url": "http://chriszabriskie.com/",
+ "display_mood": "Calm",
+ "reference_vid": "4ce80a47a63a7fa1",
+ "streamid": "g4E9EAPUTz5YClwICj3vYnHiIZgXBCiehwbj828LQY_ezgGrFxZl5Cjfgvu3UG3p",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChA0Y2U4MGE0N2E2M2E3ZmExEAAYAg%3D%3D&sigh=vqNKs4H1MjNDGDS7kwqrTg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ce80a47a63a7fa1",
+ "len": 191.183,
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "display_category": "",
+ "fp_ref_id": "4ce80a47a63a7fa1",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "NirvanaVEVO",
+ "mood": "Calm",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Chris Zabriskie",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Classical",
+ "track_url": "http://chriszabriskie.com/uvp/",
+ "vid": "4ce80a47a63a7fa1"
+}

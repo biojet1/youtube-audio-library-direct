@@ -1,0 +1,31 @@
+{
+ "title": "West",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "7Qe3c_4_hGPSWMpNm1-LLUDm0mygk4Ud5ce8DWGf-yTYeF9vIvC_W0cEZOLCbcEl",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Pop",
+ "vid": "343be9dd023b2421",
+ "display_mood": "Bright",
+ "len": 107.416,
+ "display_genre": "Pop",
+ "downloadable": true,
+ "reference_vid": "343be9dd023b2421",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "category": "",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=343be9dd023b2421",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChAzNDNiZTlkZDAyM2IyNDIxEAAYAg%3D%3D&sigh=FGeaiOOyBfd8jmvDFr-o0Q",
+ "favorite": false,
+ "fp_ref_id": "343be9dd023b2421",
+ "album": "None",
+ "popularity_percentile": 20,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

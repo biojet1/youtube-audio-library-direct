@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "genre": "Jazz & Blues",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "title": "New Toys",
+ "streamid": "BxRMvphIkIbXIVETLLMBmEndY8woffHYhnt0Tv9LNY0XrpW3Fz1xxdTCBWnuhyMG",
+ "downloadable": true,
+ "album": "None",
+ "len": 149.45,
+ "fp_ref_id": "16d214b31afe2afe",
+ "vid": "16d214b31afe2afe",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=16d214b31afe2afe",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "license_type": 0,
+ "mood": "Bright",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "reference_vid": "16d214b31afe2afe",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChAxNmQyMTRiMzFhZmUyYWZlEAAYAg%3D%3D&sigh=cfT28vnjWpoidncJpwqLag",
+ "category": "",
+ "popularity_percentile": 9
+}

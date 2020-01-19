@@ -1,0 +1,32 @@
+{
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJi_EhIWChAzZjEyYjkyYzlkODA3MzNmEAAYAg%3D%3D&sigh=SBg1vB6-ydriZxrI-aHIPw",
+ "instruments": [
+  "drums",
+  "organ",
+  "piano",
+  "synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "3f12b92c9d80733f",
+ "reference_vid": "3f12b92c9d80733f",
+ "popularity_percentile": 99,
+ "artist": "Max McFerren",
+ "artist_channel_url": "/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f12b92c9d80733f",
+ "mood": "Bright",
+ "genre": "Dance & Electronic",
+ "streamid": "MtBU_FxONqxXtkmNf7aI-OBlfLvUEUE7e5aCmf4ecRE9NtgyKn5dKdYiCCi8XTtM",
+ "title": "Fine",
+ "downloadable": true,
+ "category": "",
+ "len": 303,
+ "artist_url": "https://www.youtube.com/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "3f12b92c9d80733f",
+ "album": "None"
+}

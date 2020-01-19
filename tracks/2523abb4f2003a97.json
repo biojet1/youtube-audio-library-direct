@@ -1,0 +1,29 @@
+{
+ "title": "Jaunty Gumption",
+ "favorite": false,
+ "len": 118.416,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChAyNTIzYWJiNGYyMDAzYTk3EAAYAg%3D%3D&sigh=efZqyn6dUYEsyk43k3p5Pg",
+ "fp_ref_id": "2523abb4f2003a97",
+ "artist_channel_url": null,
+ "display_genre": "Classical",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300017",
+ "genre": "Classical",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Bass"
+ ],
+ "reference_vid": "2523abb4f2003a97",
+ "display_category": "",
+ "vid": "2523abb4f2003a97",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2523abb4f2003a97",
+ "streamid": "1NFszHTHvQYaDh7Ps9xRqc4FI9EjJTDsO0RQrnsAIqe0cOKIpnM1J7UwFpAMenRW",
+ "artist": "Kevin MacLeod"
+}

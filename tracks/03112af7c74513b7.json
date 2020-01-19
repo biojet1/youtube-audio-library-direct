@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "03112af7c74513b7",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=03112af7c74513b7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChAwMzExMmFmN2M3NDUxM2I3EAAYAg%3D%3D&sigh=TVTZY0SI4fMXGR_2nX4kKw",
+ "is_new_track": false,
+ "reference_vid": "03112af7c74513b7",
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "category": "",
+ "title": "Adrift",
+ "streamid": "rRDtw_ZD6Asp2sA-SgqvJNy65tF8NlCHQAvxT_dfK1Uk3MQRO5yjibc4V_C-S2LU",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "len": 158,
+ "album": "None",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "ELPHNT",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "fp_ref_id": "03112af7c74513b7"
+}

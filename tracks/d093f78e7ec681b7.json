@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Acoustic Guitar",
+  "Organ"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d093f78e7ec681b7",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "The Green Orbs",
+ "len": 133.95,
+ "display_category": "",
+ "display_genre": "Children's",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "Yn68CPaJao_NY8YqhWm-2kaRGWuIUaBo6CrGLKPnn-JtR_CfiNLI5qFrvTrimafY",
+ "category": "",
+ "title": "London Bridge (vocal)",
+ "display_mood": "Happy",
+ "favorite": false,
+ "reference_vid": "d093f78e7ec681b7",
+ "genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBkMDkzZjc4ZTdlYzY4MWI3EAAYAg%3D%3D&sigh=duKWaJAFrz2NAciymTkUBg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d093f78e7ec681b7",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "d093f78e7ec681b7"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "595a03cd3cd087b6",
+ "downloadable": true,
+ "fp_ref_id": "595a03cd3cd087b6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=595a03cd3cd087b6",
+ "album": "None",
+ "artist": "Jingle Punks",
+ "display_mood": "Funky",
+ "streamid": "piDN01jrlwbWUXU0re4axD1Ou04ILKkyYYIqRrg80LkhW3RaUCUzn_NM8xpIIoyz",
+ "mood": "Funky",
+ "title": "The Deed",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Hip Hop & Rap",
+ "reference_vid": "595a03cd3cd087b6",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 111.199,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChA1OTVhMDNjZDNjZDA4N2I2EAAYAg%3D%3D&sigh=tkTiyJ20xUvkcBPoEcaO5A"
+}

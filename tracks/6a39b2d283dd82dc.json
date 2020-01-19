@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "artist": "Chris Haugen",
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "downloadable": true,
+ "fp_ref_id": "6a39b2d283dd82dc",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChA2YTM5YjJkMjgzZGQ4MmRjEAAYAg%3D%3D&sigh=ewuGuZzv0aJREqPIFGR8-w",
+ "favorite": false,
+ "genre": "Cinematic",
+ "category": "",
+ "vid": "6a39b2d283dd82dc",
+ "streamid": "e5VU-foJ6HjOSDArGtmGXKeSUY2ho3BuGWVlK142hGYBnOvWu6VOeCv4sl3rEost",
+ "mood": "Dramatic",
+ "reference_vid": "6a39b2d283dd82dc",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6a39b2d283dd82dc",
+ "title": "Tumbleweed Texas",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "instruments": [
+  "Acoustic slide guitar",
+  "mandolin",
+  "steel drums",
+  "percussion.",
+  "electric guitar"
+ ],
+ "len": 187,
+ "album": "None",
+ "track_url": ""
+}

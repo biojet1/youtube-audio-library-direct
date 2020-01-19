@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChAwMzU5N2ExMGFmYTZmZjNkEAAYAg%3D%3D&sigh=nyPAyfF4cHJHM8fFyaBbjg",
+ "title": "New Beginning",
+ "favorite": false,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "03597a10afa6ff3d",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "artist": "Gunnar Olsen",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 2,
+ "reference_vid": "03597a10afa6ff3d",
+ "streamid": "u-FVxyR3cPKP320v8GfE4pOQGd7w0WZ6xQ9JDTVQk5Mg1oknuHfgmWnO3TR8yTpL",
+ "artist_url": "",
+ "len": 170.083,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=03597a10afa6ff3d",
+ "vid": "03597a10afa6ff3d",
+ "category": ""
+}

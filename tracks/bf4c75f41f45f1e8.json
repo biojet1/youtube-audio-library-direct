@@ -1,0 +1,29 @@
+{
+ "title": "Glitch",
+ "favorite": false,
+ "len": 16.116,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIB9EhYKEGJmNGM3NWY0MWY0NWYxZTgQABgC&sigh=VTbrPLW2PVVmfnZPVS3kwg",
+ "fp_ref_id": "bf4c75f41f45f1e8",
+ "artist_channel_url": null,
+ "display_genre": "Dance & Electronic",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Synth"
+ ],
+ "reference_vid": "bf4c75f41f45f1e8",
+ "display_category": "",
+ "vid": "bf4c75f41f45f1e8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf4c75f41f45f1e8",
+ "streamid": "d1JZ8widDf66x8q8qWTQf7vbcJE_lrrD6LTyOFdiAlwYM2PWJyU7Isq3_FO3e7E4",
+ "artist": "Audionautix"
+}

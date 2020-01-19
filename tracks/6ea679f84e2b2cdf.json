@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "artist": "The Green Orbs",
+ "is_new_track": false,
+ "fp_ref_id": "6ea679f84e2b2cdf",
+ "artist_channel_url": null,
+ "len": 150.416,
+ "downloadable": true,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChA2ZWE2NzlmODRlMmIyY2RmEAAYAg%3D%3D&sigh=2PmRBWT2eN6npAprVriNQQ",
+ "display_genre": "Children's",
+ "genre": "Children's",
+ "vid": "6ea679f84e2b2cdf",
+ "display_category": "",
+ "reference_vid": "6ea679f84e2b2cdf",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6ea679f84e2b2cdf",
+ "album": "None",
+ "track_url": "",
+ "streamid": "hmrxcI55MvfqFyTb9WdqMobv-Gzualk6agDeya25G6Y3-9yRJpkWxyUR3nckG6ca",
+ "mood": "Happy",
+ "artist_url": "",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "title": "The Alphabet Song",
+ "popularity_percentile": 43,
+ "category": ""
+}

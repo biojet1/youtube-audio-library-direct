@@ -1,0 +1,29 @@
+{
+ "display_mood": "Calm",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChBiYzc1ODE3NWIyYjZiNDRmEAAYAg%3D%3D&sigh=8eXeC-YsxkR1uBex73aX-g",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "bc758175b2b6b44f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bc758175b2b6b44f",
+ "streamid": "3hkR8ZxsqzgcrRozA-eVIjQyQEUQFbcosqjDU24yKwWglRMRacvgBAyrUN1pnADF",
+ "genre": "Classical",
+ "track_url": "",
+ "reference_vid": "bc758175b2b6b44f",
+ "vid": "bc758175b2b6b44f",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Classical",
+ "mood": "Calm",
+ "len": 171,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "instruments": [
+  "piano"
+ ],
+ "title": "Aurora Borealis Expedition",
+ "artist": "Asher Fulero"
+}

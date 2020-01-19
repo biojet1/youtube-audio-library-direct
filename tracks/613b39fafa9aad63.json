@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "7L89ai45iS-AC0yJxJUk56-soslmGRDSB9_VFOn4rCUZdJ0X6D43Z-Wsd6-6qiud",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChA2MTNiMzlmYWZhOWFhZDYzEAAYAg%3D%3D&sigh=LxF4gdG1KBoSVrfVH3uo5w",
+ "album": "None",
+ "artist": "Silent Partner",
+ "mood": "Dark",
+ "len": 183.583,
+ "reference_vid": "613b39fafa9aad63",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "vid": "613b39fafa9aad63",
+ "title": "Stadium Job",
+ "fp_ref_id": "613b39fafa9aad63",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "synth",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=613b39fafa9aad63",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap"
+}

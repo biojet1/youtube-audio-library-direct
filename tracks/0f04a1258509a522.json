@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDBFBIWChAwZjA0YTEyNTg1MDlhNTIyEAAYAg%3D%3D&sigh=X2XB0mV8kWg9gWgL7-aJ0Q",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0f04a1258509a522",
+ "title": "Smooth Sailing (with Guitar)",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "display_category": "",
+ "track_url": "",
+ "is_new_track": false,
+ "reference_vid": "0f04a1258509a522",
+ "license_type": 6,
+ "artist": "Audionautix",
+ "instruments": [
+  "Electric Guitar",
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "fp_ref_id": "0f04a1258509a522",
+ "display_genre": "Pop",
+ "len": 336.016,
+ "vid": "0f04a1258509a522",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 34,
+ "genre": "Pop",
+ "streamid": "P66B8yApoQ13MrO0Q6k34CneyTN4pVlcdDrua0C-GOghfMbOCXTAXHwwzrDvwBPT",
+ "artist_channel_url": null
+}

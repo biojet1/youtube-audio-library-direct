@@ -1,0 +1,33 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChBhNTk0ZjYzZGJmY2MwMTg3EAAYAg%3D%3D&sigh=e6q7kUoAiyPR5hM3D2r-rQ",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "synth",
+  "piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "a594f63dbfcc0187",
+ "reference_vid": "a594f63dbfcc0187",
+ "popularity_percentile": 99,
+ "artist": "Drew Banga",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a594f63dbfcc0187",
+ "mood": "Happy",
+ "genre": "R&B & Soul",
+ "streamid": "XetQqqTfIUr1wHWdPcD3IZeSJqdOGOwWXpEMsTx6CJ9pFUpr3jM50nwyYdWq3RBg",
+ "title": "BoogieBounce",
+ "downloadable": true,
+ "category": "",
+ "len": 212,
+ "artist_url": "https://www.youtube.com/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "display_genre": "R&B & Soul",
+ "fp_ref_id": "a594f63dbfcc0187",
+ "album": "None"
+}

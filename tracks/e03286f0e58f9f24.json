@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Strings",
+  "Synth"
+ ],
+ "album": "None",
+ "artist": "MK2",
+ "downloadable": true,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "len": 111.55,
+ "reference_vid": "e03286f0e58f9f24",
+ "fp_ref_id": "e03286f0e58f9f24",
+ "display_genre": "Hip Hop & Rap",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e03286f0e58f9f24",
+ "category": "",
+ "title": "Tarantula",
+ "genre": "Hip Hop & Rap",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e03286f0e58f9f24",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChBlMDMyODZmMGU1OGY5ZjI0EAAYAg%3D%3D&sigh=gWKTWHk6tSP8eYpRBsCDUg",
+ "license_type": 1,
+ "popularity_percentile": 87,
+ "streamid": "QgMhyiwPLp1J_60zZMdodtu_Y6BI-kYBfMZAa7P1Rwjj6El-jJF4NBeETvtD5div"
+}

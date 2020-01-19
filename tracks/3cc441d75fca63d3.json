@@ -1,0 +1,32 @@
+{
+ "reference_vid": "3cc441d75fca63d3",
+ "display_mood": "Dark",
+ "fp_ref_id": "3cc441d75fca63d3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3cc441d75fca63d3",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "vid": "3cc441d75fca63d3",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi7DhIWChAzY2M0NDFkNzVmY2E2M2QzEAAYAg%3D%3D&sigh=lacBRnccYaxhlUVQasRYpQ",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Drums",
+  "Organ",
+  "Strings",
+  "Bass"
+ ],
+ "downloadable": true,
+ "streamid": "hRpW88GufDnemjoUxLSogN6XJ-SsiYpp6iAaNUwUKxRF-ptkbd8NbjlIH_nMpPlH",
+ "len": 237.45,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100643",
+ "album": "None",
+ "license_type": 6,
+ "title": "Act One - Tenebrous Brothers Carnival",
+ "genre": "Cinematic",
+ "display_category": ""
+}

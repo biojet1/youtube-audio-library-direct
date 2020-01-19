@@ -1,0 +1,29 @@
+{
+ "streamid": "pZGtmbqwFoah2DdGeKXd35S8bitgddysfjGIw978_rPKdqZcLnruatPw6nkxGmYn",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC8CxIWChBlOWIwMzkyOTQ4Y2MwODU2EAAYAg%3D%3D&sigh=lwSqHkmHVdhvccB7WH8xqA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e9b0392948cc0856",
+ "favorite": false,
+ "genre": "Classical",
+ "title": "Dance for Wind Trio",
+ "mood": "Happy",
+ "category": "",
+ "vid": "e9b0392948cc0856",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "e9b0392948cc0856",
+ "len": 188,
+ "display_mood": "Happy",
+ "artist": "Sir Cubworth",
+ "downloadable": true,
+ "fp_ref_id": "e9b0392948cc0856",
+ "album": "None",
+ "instruments": [
+  "strings"
+ ]
+}

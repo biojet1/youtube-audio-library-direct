@@ -1,0 +1,33 @@
+{
+ "title": "Pickup Truck",
+ "favorite": false,
+ "len": 122.216,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChA4NjhmNjdiMjJlYWI2ZjkxEAAYAg%3D%3D&sigh=ISdXTH-CuyHN-ZYw5ca49Q",
+ "fp_ref_id": "868f67b22eab6f91",
+ "artist_channel_url": null,
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "genre": "Country & Folk",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar",
+  "synth"
+ ],
+ "reference_vid": "868f67b22eab6f91",
+ "display_category": "",
+ "vid": "868f67b22eab6f91",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=868f67b22eab6f91",
+ "streamid": "GzBnChCvGGugknyPuqap9RppQO7jKW7dOhHxhSPa1M3CieQSJ2EH_CSCMBGacGx1",
+ "artist": "Silent Partner"
+}

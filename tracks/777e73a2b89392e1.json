@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "777e73a2b89392e1",
+ "display_genre": "Cinematic",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCGAxIWChA3NzdlNzNhMmI4OTM5MmUxEAAYAg%3D%3D&sigh=HW-KoOW6xsAgr8q7KVwl4A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=777e73a2b89392e1",
+ "len": 50.616,
+ "mood": "Dark",
+ "title": "Creeping To Ship - The Descent",
+ "vid": "777e73a2b89392e1",
+ "category": "",
+ "downloadable": true,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100278",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Cinematic",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Strings"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "777e73a2b89392e1",
+ "streamid": "4GxNydC8zvjOVifhpfljKscpUAEI8DW6iAY-5DftSuODX8niNVt17cJpIISFLhos"
+}

@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "fp_ref_id": "f89320a8bf2d447b",
+ "artist_channel_url": null,
+ "len": 134.283,
+ "downloadable": true,
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChBmODkzMjBhOGJmMmQ0NDdiEAAYAg%3D%3D&sigh=b9Bp1tMe70iKzT6UHzkuow",
+ "display_genre": "Country & Folk",
+ "genre": "Country & Folk",
+ "vid": "f89320a8bf2d447b",
+ "display_category": "",
+ "reference_vid": "f89320a8bf2d447b",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f89320a8bf2d447b",
+ "album": "None",
+ "track_url": "",
+ "streamid": "9jCV8XTSiLolWhP_h_mGngUgaW0rqWWyfiJwT02trwJ2K3OfeQ7YAo5EAhZiz32D",
+ "mood": "Bright",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Electric Guitar",
+  "Acoustic Guitar",
+  "Bas",
+  "Drums"
+ ],
+ "title": "Dirt Road Traveler",
+ "popularity_percentile": 44,
+ "category": ""
+}

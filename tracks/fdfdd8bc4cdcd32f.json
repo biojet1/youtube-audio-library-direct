@@ -1,0 +1,33 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "popularity_percentile": 0,
+ "reference_vid": "fdfdd8bc4cdcd32f",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808",
+  "electric piano"
+ ],
+ "display_category": "",
+ "fp_ref_id": "fdfdd8bc4cdcd32f",
+ "license_type": 1,
+ "title": "Backward",
+ "mood": "Calm",
+ "downloadable": true,
+ "len": 112,
+ "artist_url": "https://www.youtube.com/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "vid": "fdfdd8bc4cdcd32f",
+ "streamid": "dV42MPcFvj3Ecl9YHHDDFTlBjGblrqNO5Q7mUqlEp7AtP2rAMnuIqISIq9ndcGBK",
+ "artist": "Saidbysed",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fdfdd8bc4cdcd32f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChBmZGZkZDhiYzRjZGNkMzJmEAAYAg%3D%3D&sigh=U_BqsOtasQResYxQYJ4Z1g",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "album": "None",
+ "track_url": ""
+}

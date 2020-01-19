@@ -1,0 +1,30 @@
+{
+ "mood": "Calm",
+ "album": "None",
+ "vid": "d0d954e1e9fdcb75",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChBkMGQ5NTRlMWU5ZmRjYjc1EAAYAg%3D%3D&sigh=C_YluZ-vMu70tGfmn2hCNw",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "artist_channel_url": "/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "track_url": "",
+ "streamid": "8ta-RJMiquRI6g3Ih7Eu9HFEszz2lN0pJpLfxi1wCJQAWOLNdn_pOrIP5ClBbz_Z",
+ "len": 193,
+ "genre": "Jazz & Blues",
+ "artist": "Andrew Huang",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Jazz Tape",
+ "instruments": [
+  "piano",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d0d954e1e9fdcb75",
+ "reference_vid": "d0d954e1e9fdcb75",
+ "popularity_percentile": 99,
+ "fp_ref_id": "d0d954e1e9fdcb75",
+ "display_mood": "Calm"
+}

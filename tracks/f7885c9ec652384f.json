@@ -1,0 +1,33 @@
+{
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "fp_ref_id": "f7885c9ec652384f",
+ "artist_channel_url": "/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "reference_vid": "f7885c9ec652384f",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 111,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChBmNzg4NWM5ZWM2NTIzODRmEAAYAg%3D%3D&sigh=k6h5MoncqKeNKAGIkJdinA",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f7885c9ec652384f",
+ "instruments": [
+  "synth",
+  "808",
+  "vocal chops",
+  "acoustic guitar",
+  "drums"
+ ],
+ "title": "Wake",
+ "genre": "Pop",
+ "streamid": "HE0jjIq6Izf1sZqtJqpF7_oaMn5SIiEIppjy3SxPATo4p59PCFQgDG1D3bc-QasR",
+ "vid": "f7885c9ec652384f",
+ "display_genre": "Pop",
+ "mood": "Happy",
+ "license_type": 1,
+ "artist": "Rick Steel"
+}

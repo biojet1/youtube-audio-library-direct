@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "artist": "Ethan Meixsell",
+ "vid": "848521e25022320c",
+ "display_category": "",
+ "streamid": "xvlA2cY7rUaBW3tmBD2pZ0XVqjHcmA-XE9F0DTtumVGjrV4nyVU7dgTj9XaPSjmV",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=848521e25022320c",
+ "fp_ref_id": "848521e25022320c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChA4NDg1MjFlMjUwMjIzMjBjEAAYAg%3D%3D&sigh=AuKAZM-OFG31tHYSStlojg",
+ "display_genre": "Rock",
+ "len": 119.15,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "reference_vid": "848521e25022320c",
+ "title": "Dead Reckoning",
+ "genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 52
+}

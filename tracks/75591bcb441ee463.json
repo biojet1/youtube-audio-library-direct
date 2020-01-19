@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Sad",
+ "favorite": false,
+ "len": 102.766,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=75591bcb441ee463",
+ "category": "",
+ "streamid": "wxcv2rrBaICjjzRdoNO7h9UNtm7-cTyRqBdMZN-_k0fHLJiVfO91dkb9y1Dd0--b",
+ "fp_ref_id": "75591bcb441ee463",
+ "mood": "Sad",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChA3NTU5MWJjYjQ0MWVlNDYzEAAYAg%3D%3D&sigh=riMp86N0LXMMt0Kdjag_0g",
+ "popularity_percentile": 0,
+ "reference_vid": "75591bcb441ee463",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Strings"
+ ],
+ "is_new_track": false,
+ "vid": "75591bcb441ee463",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "Yiddish Sadness",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Doug Maxwell"
+}

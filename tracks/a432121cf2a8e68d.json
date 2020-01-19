@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Classical",
+ "streamid": "EofTs72-W6Ejl2XDg83AYEnj-4mqqm9smGX2LIiKt08nEKNdDzxneM7AWFIWiOgM",
+ "reference_vid": "a432121cf2a8e68d",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100293",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a432121cf2a8e68d",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOi8GBIWChBhNDMyMTIxY2YyYThlNjhkEAAYAg%3D%3D&sigh=P2upGGyqmNGL4Ndv9mssaA",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "display_category": "",
+ "title": "Chomatic3Fantasia - Classical Rousing",
+ "album": "None",
+ "vid": "a432121cf2a8e68d",
+ "downloadable": true,
+ "instruments": [
+  "Organ"
+ ],
+ "favorite": false,
+ "len": 401.35,
+ "fp_ref_id": "a432121cf2a8e68d",
+ "display_genre": "Classical"
+}

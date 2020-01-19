@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "vid": "b6990f10244004b3",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Cinematic",
+ "fp_ref_id": "b6990f10244004b3",
+ "streamid": "MukuGt9pFdoOSP4mocoMlLpPG_HNILQgz9H7R0UBe-DPWdPOaQUoz9G7AB6tmhci",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChBiNjk5MGYxMDI0NDAwNGIzEAAYAg%3D%3D&sigh=iSuZWEzGMWxPnt09nWKL5w",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "title": "Crater Laker",
+ "track_url": "",
+ "len": 132,
+ "popularity_percentile": 99,
+ "reference_vid": "b6990f10244004b3",
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6990f10244004b3",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar"
+ ],
+ "is_new_track": false
+}

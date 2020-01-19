@@ -1,0 +1,31 @@
+{
+ "vid": "eedaeca1bbbea17b",
+ "display_mood": "Funky",
+ "title": "Down The Way",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCfBRIWChBlZWRhZWNhMWJiYmVhMTdiEAAYAg%3D%3D&sigh=BslNJ-NOC7ATVIAQt5KvxQ",
+ "display_genre": "Jazz & Blues",
+ "mood": "Funky",
+ "artist": "Audionautix",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=eedaeca1bbbea17b",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "",
+ "popularity_percentile": 61,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "favorite": false,
+ "reference_vid": "eedaeca1bbbea17b",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "7MymKzhCQsrt3X4UgN_UQlNpoLObUoe18z_z9LpCfzh-j7sr_7WsdBCRgkWWowLw",
+ "artist_url": "http://audionautix.com/",
+ "len": 86.25,
+ "fp_ref_id": "eedaeca1bbbea17b",
+ "license_type": 6,
+ "is_new_track": false
+}

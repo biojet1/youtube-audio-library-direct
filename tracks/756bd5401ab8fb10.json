@@ -1,0 +1,29 @@
+{
+ "mood": "Calm",
+ "reference_vid": "756bd5401ab8fb10",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChA3NTZiZDU0MDFhYjhmYjEwEAAYAg%3D%3D&sigh=cJjO8BrUXqWb8T_kQnYB_A",
+ "display_mood": "Calm",
+ "title": "Creek",
+ "artist": "HOVATOFF",
+ "is_new_track": false,
+ "len": 107,
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "756bd5401ab8fb10",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=756bd5401ab8fb10",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCQ3QtdsILJ8zuXpvqlRXfsw",
+ "artist_url": "https://www.youtube.com/channel/UCQ3QtdsILJ8zuXpvqlRXfsw",
+ "license_type": 1,
+ "instruments": [
+  "synth"
+ ],
+ "fp_ref_id": "756bd5401ab8fb10",
+ "streamid": "bHxJqaS9lVXDdSGhFHP9ZrQHazlWl2LQ7oSBwHHDP0D7e_IE_3HsMZwkwIb5nHm7"
+}

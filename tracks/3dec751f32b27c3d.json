@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChAzZGVjNzUxZjMyYjI3YzNkEAAYAg%3D%3D&sigh=8Qu775Eies9PYzhcdiqZ0Q",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "display_mood": "Funky",
+ "artist": "John Deley",
+ "artist_channel_url": null,
+ "vid": "3dec751f32b27c3d",
+ "reference_vid": "3dec751f32b27c3d",
+ "genre": "R&B & Soul",
+ "popularity_percentile": 24,
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "track_url": "",
+ "title": "In the Quarter",
+ "downloadable": true,
+ "category": "",
+ "streamid": "Rvp29AxvlxfTgm8zFGbyIbbo_Fj6CxaBFgbp_8U7Um3DQK-PB3126ZjqYAFAz70c",
+ "fp_ref_id": "3dec751f32b27c3d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3dec751f32b27c3d",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Funky",
+ "len": 153.983
+}

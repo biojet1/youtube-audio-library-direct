@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Trumpet",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "album": "None",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "downloadable": true,
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "len": 105.016,
+ "reference_vid": "e0000feedd7276f3",
+ "fp_ref_id": "e0000feedd7276f3",
+ "display_genre": "Jazz & Blues",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e0000feedd7276f3",
+ "category": "",
+ "title": "Sing Swing Bada Bing",
+ "genre": "Jazz & Blues",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e0000feedd7276f3",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBlMDAwMGZlZWRkNzI3NmYzEAAYAg%3D%3D&sigh=3lBAdG6d8qlKqZXAde8tOg",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "XP7YzsaAunYE-mHHAigsUxHBPBdOrcjv4GY0TQxQoyaTPH4EQP8Sxlf8eb8mgpxU"
+}

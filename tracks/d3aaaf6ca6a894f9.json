@@ -1,0 +1,32 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "popularity_percentile": 0,
+ "reference_vid": "d3aaaf6ca6a894f9",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808"
+ ],
+ "display_category": "",
+ "fp_ref_id": "d3aaaf6ca6a894f9",
+ "license_type": 1,
+ "title": "Off of Work",
+ "mood": "Dramatic",
+ "downloadable": true,
+ "len": 105,
+ "artist_url": "https://www.youtube.com/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "vid": "d3aaaf6ca6a894f9",
+ "streamid": "xrAyaG-hKgIvROpYg1Y7-yUVwBVs99bHzXqosbbJctan1pI1Vi7SRDwxONsfQUfY",
+ "artist": "Saidbysed",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d3aaaf6ca6a894f9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBkM2FhYWY2Y2E2YTg5NGY5EAAYAg%3D%3D&sigh=6FA-ZGrnUSpfKO1RacCaKQ",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "album": "None",
+ "track_url": ""
+}

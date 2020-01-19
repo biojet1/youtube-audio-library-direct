@@ -1,0 +1,30 @@
+{
+ "mood": "Bright",
+ "artist": "Sir Cubworth",
+ "vid": "d0395b2287ce46e3",
+ "display_category": "",
+ "streamid": "FBhFiBv6VGNXup7Sk66U6VkDczgMA-fl51FbGhWOFLXl3ztsxkqG388EDs7ujsYv",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d0395b2287ce46e3",
+ "fp_ref_id": "d0395b2287ce46e3",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBkMDM5NWIyMjg3Y2U0NmUzEAAYAg%3D%3D&sigh=NH3T_qqwjLUV7mI7AeZ07A",
+ "display_genre": "Cinematic",
+ "len": 165,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "strings",
+  "trumpet"
+ ],
+ "reference_vid": "d0395b2287ce46e3",
+ "title": "Adventure Theme",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "license_type": 1,
+ "display_mood": "Bright",
+ "popularity_percentile": 99
+}

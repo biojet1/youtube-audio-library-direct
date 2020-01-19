@@ -1,0 +1,29 @@
+{
+ "reference_vid": "9b47b9dcf3e97f94",
+ "display_mood": "Dark",
+ "fp_ref_id": "9b47b9dcf3e97f94",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b47b9dcf3e97f94",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "vid": "9b47b9dcf3e97f94",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA5YjQ3YjlkY2YzZTk3Zjk0EAAYAg%3D%3D&sigh=-WQMd_RRrsuIqfbXqu4Wjw",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Strings"
+ ],
+ "downloadable": true,
+ "streamid": "1yeMSBkizCIU8dFsUcB0smSG6PPKW6e6h8HbresPBZQR-7z1hRRMjHKKZnV1a5Pk",
+ "len": 145.716,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100811",
+ "album": "None",
+ "license_type": 6,
+ "title": "Industrial Revolution",
+ "genre": "Cinematic",
+ "display_category": ""
+}

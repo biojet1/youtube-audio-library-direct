@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "album": "None",
+ "vid": "fc5973a338bde1e4",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChBmYzU5NzNhMzM4YmRlMWU0EAAYAg%3D%3D&sigh=Mhrt47YfXg96dwYcPmh18A",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "streamid": "VopIbtQssNih5Hy1SW9ZuVDxtOUCu378abrlQgoICf1Sw98tXysOQFYZW5AXtw1P",
+ "len": 146,
+ "genre": "Dance & Electronic",
+ "artist": "Coyote Hearing",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Traps or Steel",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc5973a338bde1e4",
+ "reference_vid": "fc5973a338bde1e4",
+ "popularity_percentile": 99,
+ "fp_ref_id": "fc5973a338bde1e4",
+ "display_mood": "Dramatic"
+}

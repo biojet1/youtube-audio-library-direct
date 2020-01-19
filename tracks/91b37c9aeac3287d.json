@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Funky",
+ "reference_vid": "91b37c9aeac3287d",
+ "streamid": "9pLuqSo0ZmWcdUmkq2yrJfX3OxOjlceziwo0nvZJ4OPx2pNxuXFV_1miApOpH1_K",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChA5MWIzN2M5YWVhYzMyODdkEAAYAg%3D%3D&sigh=owUJeCx1UU6V6rvvoKl8FQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91b37c9aeac3287d",
+ "len": 130.75,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Piano",
+  "Bass"
+ ],
+ "display_category": "",
+ "fp_ref_id": "91b37c9aeac3287d",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Not Too Cray",
+ "mood": "Funky",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Huma-Huma",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "vid": "91b37c9aeac3287d"
+}

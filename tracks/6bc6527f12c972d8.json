@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChA2YmM2NTI3ZjEyYzk3MmQ4EAAYAg%3D%3D&sigh=3NTkoE04Ww5o2qY7miRjqQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6bc6527f12c972d8",
+ "track_url": "",
+ "genre": "Pop",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6bc6527f12c972d8",
+ "fp_ref_id": "6bc6527f12c972d8",
+ "category": "",
+ "title": "Chocolate River",
+ "reference_vid": "6bc6527f12c972d8",
+ "artist": "Silent Partner",
+ "display_genre": "Pop",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "synth",
+  "bass"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "_s-WQMFJiDZLJrM2lQCAuQ-WjeXbCA0vFchjNsR-qooyNelLnC3TkrLSHIKBvF4j",
+ "len": 173.033,
+ "license_type": 0,
+ "is_new_track": false
+}

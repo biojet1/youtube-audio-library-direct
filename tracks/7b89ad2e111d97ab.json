@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Hip Hop & Rap",
+ "category": "",
+ "fp_ref_id": "7b89ad2e111d97ab",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Alot For a Light (Sting)",
+ "vid": "7b89ad2e111d97ab",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDdiODlhZDJlMTExZDk3YWIQABgC&sigh=I6Ans27eYj5atT5I9xHXog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7b89ad2e111d97ab",
+ "display_category": "",
+ "len": 4.016,
+ "album": "None",
+ "license_type": 0,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "k0YG-HhCRifBQLzaZ2fdMmNAj60iseh3HS4YV9RsZzDFqSV0eEaghVVOveExUSi4",
+ "reference_vid": "7b89ad2e111d97ab",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "",
+ "genre": "Hip Hop & Rap"
+}

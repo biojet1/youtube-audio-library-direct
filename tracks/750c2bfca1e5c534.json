@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=750c2bfca1e5c534",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA3NTBjMmJmY2ExZTVjNTM0EAAYAg%3D%3D&sigh=7G-xX8r6z5AMFb7kCvN32Q",
+ "vid": "750c2bfca1e5c534",
+ "title": "Mirror Mirror",
+ "display_category": "",
+ "album": "None",
+ "favorite": false,
+ "streamid": "vfAKe4edpADj8VQNISNwrK-RWqajZlXVyacPL2S8IURF07v2qsae5WS_niY46w88",
+ "genre": "Hip Hop & Rap",
+ "len": 151,
+ "mood": "Dark",
+ "popularity_percentile": 0,
+ "fp_ref_id": "750c2bfca1e5c534",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "808"
+ ],
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "category": "",
+ "artist": "Audio Hertz",
+ "is_new_track": true,
+ "downloadable": true,
+ "reference_vid": "750c2bfca1e5c534",
+ "display_mood": "Dark"
+}

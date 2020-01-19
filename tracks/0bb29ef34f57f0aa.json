@@ -1,0 +1,29 @@
+{
+ "mood": "Happy",
+ "title": "Yankee Doodle",
+ "album": "None",
+ "artist": "U.S. Navy Band",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Classical",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "display_category": "",
+ "vid": "0bb29ef34f57f0aa",
+ "streamid": "13Yq33BqB0EnDucQKgebmRkM2abjdcb8N-uwqtSkDIdA1iALDsbxFN3h1eYLHWBs",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCTBBIWChAwYmIyOWVmMzRmNTdmMGFhEAAYAg%3D%3D&sigh=jv8SUDBtTOlQOyzhcy4BKQ",
+ "fp_ref_id": "0bb29ef34f57f0aa",
+ "len": 68.316,
+ "favorite": false,
+ "instruments": [
+  "Trumpet"
+ ],
+ "artist_channel_url": null,
+ "license_type": 1,
+ "artist_url": "",
+ "reference_vid": "0bb29ef34f57f0aa",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0bb29ef34f57f0aa",
+ "downloadable": true
+}

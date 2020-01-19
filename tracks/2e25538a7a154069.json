@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "2e25538a7a154069",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "title": "Aitech",
+ "vid": "2e25538a7a154069",
+ "mood": "Funky",
+ "display_genre": "Dance & Electronic",
+ "len": 150.916,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChAyZTI1NTM4YTdhMTU0MDY5EAAYAg%3D%3D&sigh=ARnqzidI3knI303WO4VT0w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2e25538a7a154069",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100336",
+ "streamid": "Pn16MRGOTg3nfM5m-8Emkb0N_OioQLGlVrEJvut4_xI_YY8Vp498N7gOW28v9Pe7",
+ "reference_vid": "2e25538a7a154069",
+ "instruments": [
+  "Drums",
+  "Electronic Guitar"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "artist_url": "http://incompetech.com/"
+}

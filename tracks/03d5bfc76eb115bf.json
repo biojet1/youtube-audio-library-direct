@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Rondo Brothers",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "downloadable": true,
+ "fp_ref_id": "03d5bfc76eb115bf",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChAwM2Q1YmZjNzZlYjExNWJmEAAYAg%3D%3D&sigh=_5GIGf-iHDoPOkAdcumq3g",
+ "favorite": false,
+ "genre": "Rock",
+ "category": "",
+ "vid": "03d5bfc76eb115bf",
+ "streamid": "LhVzaZaZlqvOrn1SrCU4uMpuhAJ4dkroZIh2FhUvCGOiK-sb4MrJ7w-Qf2ZErGEw",
+ "mood": "Happy",
+ "reference_vid": "03d5bfc76eb115bf",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=03d5bfc76eb115bf",
+ "title": "Not the Only One",
+ "display_mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "license_type": 1,
+ "display_genre": "Rock",
+ "display_category": "",
+ "instruments": [
+  "guitars",
+  "bass",
+  "drums"
+ ],
+ "len": 92,
+ "album": "None",
+ "track_url": ""
+}

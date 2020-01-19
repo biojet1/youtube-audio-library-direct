@@ -1,0 +1,30 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiqBBIWChAwNDI2NGMwNmYyZDRjMzFiEAAYAg%3D%3D&sigh=7LWC1RiwBYCXhaX-lo5LiQ",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "04264c06f2d4c31b",
+ "reference_vid": "04264c06f2d4c31b",
+ "popularity_percentile": 2,
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04264c06f2d4c31b",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "streamid": "qt88NGclQRZx7yoE7wjIBoP7AOmPuUkVlyidiF1-iB8rP1wca9zttDIwV1z0CCrz",
+ "title": "Moombahton Buildup",
+ "downloadable": true,
+ "category": "",
+ "len": 71.65,
+ "artist_url": "",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "04264c06f2d4c31b",
+ "album": "None"
+}

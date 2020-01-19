@@ -1,0 +1,30 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChAwN2U3ZjU0ZTllYTYwZDRjEAAYAg%3D%3D&sigh=r1ANbzFxzCA8NGvvgJbZDg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "category": "",
+ "instruments": [
+  "synths",
+  "drums"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "07e7f54e9ea60d4c",
+ "is_new_track": false,
+ "len": 99,
+ "genre": "Pop",
+ "reference_vid": "07e7f54e9ea60d4c",
+ "downloadable": true,
+ "streamid": "Rsy5RPyGXEr3jHXu0NBNpCQ-LD8iXQAloKHIK18RRYe1PwZPeiwL2LIGxLP75_tL",
+ "track_url": "",
+ "vid": "07e7f54e9ea60d4c",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=07e7f54e9ea60d4c",
+ "artist_url": "https://www.youtube.com/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "license_type": 1,
+ "title": "Manea 2",
+ "artist": "Vibe Mountain"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "58669690f87387f1",
+ "downloadable": true,
+ "fp_ref_id": "58669690f87387f1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=58669690f87387f1",
+ "album": "None",
+ "artist": "Silent Partner",
+ "display_mood": "Inspirational",
+ "streamid": "aH6KTjmypYFv7syDxNNF18VAWwz70U-mWf_fGSDV436-G_OXkXnpOXlbuel2DjCB",
+ "mood": "Inspirational",
+ "title": "Digital Stroll",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "reference_vid": "58669690f87387f1",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 108.583,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChA1ODY2OTY5MGY4NzM4N2YxEAAYAg%3D%3D&sigh=uUyi5tbmgbvMhN7afYc6pQ"
+}

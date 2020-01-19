@@ -1,0 +1,29 @@
+{
+ "artist": "United States Marine Band",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=38d9ae09d6f69751",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiJDxIWChAzOGQ5YWUwOWQ2ZjY5NzUxEAAYAg%3D%3D&sigh=zppzxXqD2Dr6mPn1ehiiVQ",
+ "genre": "Classical",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "album": "None",
+ "track_url": "",
+ "len": 247.45,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "38d9ae09d6f69751",
+ "streamid": "RXWiRmEfktXUotD7v4j_gqFX8X55kSlLfa9TD0I73pIi8m4Glue4qgKm86SbeU2a",
+ "title": "True To The Flag",
+ "artist_url": "",
+ "mood": "Happy",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "popularity_percentile": 22,
+ "reference_vid": "38d9ae09d6f69751",
+ "instruments": [
+  "Trumpet"
+ ],
+ "fp_ref_id": "38d9ae09d6f69751",
+ "license_type": 1
+}

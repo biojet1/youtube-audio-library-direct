@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "artist": "MK2",
+ "downloadable": true,
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "len": 129.85,
+ "reference_vid": "e01cdddde5a8e5f0",
+ "fp_ref_id": "e01cdddde5a8e5f0",
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e01cdddde5a8e5f0",
+ "category": "",
+ "title": "U Make Me Feel",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e01cdddde5a8e5f0",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBlMDFjZGRkZGU1YThlNWYwEAAYAg%3D%3D&sigh=Ztpe6AJoRhOHE7ycC8sqrg",
+ "license_type": 1,
+ "popularity_percentile": 87,
+ "streamid": "8WeSM7gmK4XeJoVzOKW-SU6bhmZG4ykH5G-yfqs0XVJeefcNcXab_Ob84AdCYFBn"
+}

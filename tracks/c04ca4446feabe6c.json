@@ -1,0 +1,33 @@
+{
+ "streamid": "t_EeLpgF8Ytg80TMsYj0qRqfoxn14or0DCjqjeL8_Bly11weI5u1juHBWWTlXjGF",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj6DhIWChBjMDRjYTQ0NDZmZWFiZTZjEAAYAg%3D%3D&sigh=r2nusObqegnquB4bXpz5hw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c04ca4446feabe6c",
+ "favorite": false,
+ "genre": "R&B & Soul",
+ "title": "Late Nights",
+ "mood": "Romantic",
+ "category": "",
+ "vid": "c04ca4446feabe6c",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCptYdIghPgmOl8opbjZrcuA",
+ "artist_channel_url": "/channel/UCptYdIghPgmOl8opbjZrcuA",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "c04ca4446feabe6c",
+ "len": 245,
+ "display_mood": "Romantic",
+ "artist": "Causmic",
+ "downloadable": true,
+ "fp_ref_id": "c04ca4446feabe6c",
+ "album": "None",
+ "instruments": [
+  "808",
+  "synth",
+  "vocal chops",
+  "drums",
+  "bass"
+ ]
+}

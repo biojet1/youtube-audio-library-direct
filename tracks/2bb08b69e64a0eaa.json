@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 215.85,
+ "reference_vid": "2bb08b69e64a0eaa",
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2bb08b69e64a0eaa",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiPDRIWChAyYmIwOGI2OWU2NGEwZWFhEAAYAg%3D%3D&sigh=OxZ78oCODi0i8XmMzkRcDQ",
+ "display_mood": "Calm",
+ "fp_ref_id": "2bb08b69e64a0eaa",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "vid": "2bb08b69e64a0eaa",
+ "artist_channel_url": null,
+ "streamid": "PKED0lXdMSwtZUnJGk8X7CwT9LPizYzeE8JClZxe_n8eGUtkJ8KAE_Z7ZwB1fMhw",
+ "license_type": 0,
+ "title": "Zoom",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Vibe Tracks",
+ "mood": "Calm"
+}

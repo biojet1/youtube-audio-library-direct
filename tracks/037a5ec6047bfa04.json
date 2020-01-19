@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=037a5ec6047bfa04",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChAwMzdhNWVjNjA0N2JmYTA0EAAYAg%3D%3D&sigh=IZAX_E7oCHZK1ix3CgNy5Q",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "037a5ec6047bfa04",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "display_genre": "Ambient",
+ "vid": "037a5ec6047bfa04",
+ "downloadable": true,
+ "title": "Retro Dreamscape",
+ "reference_vid": "037a5ec6047bfa04",
+ "artist_url": "http://www.twinmusicom.org",
+ "len": 195.95,
+ "artist": "Twin Musicom",
+ "license_type": 6,
+ "track_url": "http://www.twinmusicom.org/song/283/retro-dreamscape",
+ "streamid": "dEcD1WPW0T808rK9jWxOx9dLuDxHtKpA6jDtcLC8XAb1KpB5CatLAIA3b80-LsO7",
+ "album": "None",
+ "instruments": [
+  "Synth"
+ ],
+ "genre": "Ambient",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

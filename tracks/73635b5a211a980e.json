@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "fp_ref_id": "73635b5a211a980e",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Sad",
+ "title": "Somber",
+ "vid": "73635b5a211a980e",
+ "mood": "Sad",
+ "display_genre": "Cinematic",
+ "len": 109.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA3MzYzNWI1YTIxMWE5ODBlEAAYAg%3D%3D&sigh=Qo7MG_3C2iGPOMwKtwr7tQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73635b5a211a980e",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "_cLaR3fFwfwS_oZPfqtcQsZ7qHcacUsANrbPBVrAkCWgc4Sx3DtDsrnPbdGe5yWP",
+ "reference_vid": "73635b5a211a980e",
+ "instruments": [
+  "Strings"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist_url": "http://audionautix.com/"
+}

@@ -1,0 +1,29 @@
+{
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "len": 180.516,
+ "track_url": "",
+ "fp_ref_id": "b2ca152d7983fd08",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "6nIpr8n30aqC2h6TqTYZxPlym0c3R2ZhmGOU-pyEW0bynysj6sodVfDVpEq8l4D2",
+ "title": "Swipesy Cakewalk",
+ "artist": "E's Jammy Jams",
+ "is_new_track": false,
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b2ca152d7983fd08",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "b2ca152d7983fd08",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChBiMmNhMTUyZDc5ODNmZDA4EAAYAg%3D%3D&sigh=ykn1-ydxfcoQ4ggayjB5UA",
+ "vid": "b2ca152d7983fd08",
+ "display_genre": "Jazz & Blues",
+ "license_type": 1,
+ "mood": "Happy",
+ "instruments": [
+  "Piano"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "display_genre": "Cinematic",
+ "album": "None",
+ "reference_vid": "3f7a158192820e0d",
+ "popularity_percentile": 66,
+ "category": "",
+ "vid": "3f7a158192820e0d",
+ "title": "Eastern Thought",
+ "mood": "Dramatic",
+ "len": 261.882,
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "3f7a158192820e0d",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100682",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "streamid": "gLaEUcusErZnMBmWORVMGVnCUiZ7jet70uy2jITSvwXcgt-he_hPTwIYV_o9I5Xu",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f7a158192820e0d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj3DxIWChAzZjdhMTU4MTkyODIwZTBkEAAYAg%3D%3D&sigh=ApUyAeqriUgCpfS6x2hRgg"
+}

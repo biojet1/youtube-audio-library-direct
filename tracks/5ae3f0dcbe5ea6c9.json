@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 161,
+ "display_mood": "Dark",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "5ae3f0dcbe5ea6c9",
+ "reference_vid": "5ae3f0dcbe5ea6c9",
+ "artist_channel_url": "/channel/UCej6bRv8lR48AEbQvdb_9Cg",
+ "license_type": 1,
+ "streamid": "QsahNbNkt97sLMz1VsGsMuWVSfL49bS95I4170hBTKAcz5zl8usC0r2YRWtLR3Jj",
+ "vid": "5ae3f0dcbe5ea6c9",
+ "mood": "Dark",
+ "artist": "Otis McDonald",
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChA1YWUzZjBkY2JlNWVhNmM5EAAYAg%3D%3D&sigh=g_Fd-MrLarBKNRShyZvkPA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ae3f0dcbe5ea6c9",
+ "category": "",
+ "title": "Bit Coin",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Guitar"
+ ]
+}

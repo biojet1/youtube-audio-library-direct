@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Bright",
+ "reference_vid": "917ef535a6574a79",
+ "streamid": "YcqtYVkX5JK5guSSlxKp43q1Z98o5Lg7Br9hHf8Yqjxf3IHybk_7yQYIMiSc_Txl",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA5MTdlZjUzNWE2NTc0YTc5EAAYAg%3D%3D&sigh=_GFRNx4YUsDtvLDw0hXFkg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=917ef535a6574a79",
+ "len": 106.6,
+ "genre": "Pop",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "display_category": "",
+ "fp_ref_id": "917ef535a6574a79",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Do Do Do",
+ "mood": "Bright",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Pop",
+ "track_url": "",
+ "vid": "917ef535a6574a79"
+}

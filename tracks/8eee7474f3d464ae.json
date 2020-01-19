@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "Xv6YcwroLOhpfbMaM0Cvb9gy46JG_ET8WDvD8nTtmvZBxhQsaKD9FguHGj2qCLHP",
+ "len": 97.283,
+ "category": "",
+ "license_type": 0,
+ "title": "First In Line",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "vid": "8eee7474f3d464ae",
+ "album": "None",
+ "mood": "Angry",
+ "artist": "Silent Partner",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "display_mood": "Angry",
+ "fp_ref_id": "8eee7474f3d464ae",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8eee7474f3d464ae",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "reference_vid": "8eee7474f3d464ae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChA4ZWVlNzQ3NGYzZDQ2NGFlEAAYAg%3D%3D&sigh=-Rdu1kxzF85Y_NFRA5Nj3w",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

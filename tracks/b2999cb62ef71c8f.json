@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 127.75,
+ "category": "",
+ "title": "Rich Man in the Sky",
+ "display_genre": "Hip Hop & Rap",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b2999cb62ef71c8f",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "strings"
+ ],
+ "album": "None",
+ "reference_vid": "b2999cb62ef71c8f",
+ "fp_ref_id": "b2999cb62ef71c8f",
+ "artist": "Otis McDonald",
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBiMjk5OWNiNjJlZjcxYzhmEAAYAg%3D%3D&sigh=NSmkB_uyFsgF9k12Ro_FHg",
+ "license_type": 0,
+ "mood": "Dramatic",
+ "vid": "b2999cb62ef71c8f",
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 70,
+ "display_mood": "Dramatic",
+ "streamid": "stTrvjKeR8qlnf_AasfE8zlIfATIpG7II4WPuDdkRppGXiKDmO0Hr9oSWAKOZhFX"
+}

@@ -1,0 +1,32 @@
+{
+ "title": "Double O",
+ "favorite": false,
+ "len": 234.916,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCkDhIWChA0YzhmMDk4NWVmZDExZmMyEAAYAg%3D%3D&sigh=UZMshcBOPF-BjkzLEIoUHw",
+ "fp_ref_id": "4c8f0985efd11fc2",
+ "artist_channel_url": null,
+ "display_genre": "Jazz & Blues",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100503",
+ "genre": "Jazz & Blues",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass",
+  "Organ"
+ ],
+ "reference_vid": "4c8f0985efd11fc2",
+ "display_category": "",
+ "vid": "4c8f0985efd11fc2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4c8f0985efd11fc2",
+ "streamid": "8lKvB22pB6GaXiEOsK67dOtYqlt3jbKZ3cZk7XLAr1QTbT5CCGRojW1KUHpK6wvE",
+ "artist": "Kevin MacLeod"
+}

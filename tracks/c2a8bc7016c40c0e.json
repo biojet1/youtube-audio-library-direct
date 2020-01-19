@@ -1,0 +1,32 @@
+{
+ "mood": "Dark",
+ "artist": "Sir Cubworth",
+ "vid": "c2a8bc7016c40c0e",
+ "display_category": "",
+ "streamid": "RE2xKYcQPrB9ArcPqp8_yWWmnateEZ8cAWi5h3aD0xYY4hBzN13tI3k-3nZQZNoa",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c2a8bc7016c40c0e",
+ "fp_ref_id": "c2a8bc7016c40c0e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChBjMmE4YmM3MDE2YzQwYzBlEAAYAg%3D%3D&sigh=sQ5XmlEUjE6anK8sMCz_CA",
+ "display_genre": "Cinematic",
+ "len": 180,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "piano",
+  "bass",
+  "drums",
+  "strings"
+ ],
+ "reference_vid": "c2a8bc7016c40c0e",
+ "title": "Spying In The 60's",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "license_type": 1,
+ "display_mood": "Dark",
+ "popularity_percentile": 99
+}

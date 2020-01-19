@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "reference_vid": "476f3c36a1fff123",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "TrackTribe",
+ "category": "",
+ "artist_channel_url": "/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "artist_url": "https://www.youtube.com/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "genre": "R&B & Soul",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "display_genre": "R&B & Soul",
+ "track_url": "",
+ "fp_ref_id": "476f3c36a1fff123",
+ "mood": "Funky",
+ "popularity_percentile": 0,
+ "len": 190,
+ "license_type": 1,
+ "streamid": "1j0T9eeiThFFd1De70BdK7ka3TwPFW0r2oyjPHXAgdGOVcJul2QfnH1ODgyyKf1h",
+ "favorite": false,
+ "album": "None",
+ "display_category": "",
+ "title": "Six O'Clock Rush",
+ "vid": "476f3c36a1fff123",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChA0NzZmM2MzNmExZmZmMTIzEAAYAg%3D%3D&sigh=oiMTq9Ltl0ZyMJA8OCqrOA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=476f3c36a1fff123"
+}

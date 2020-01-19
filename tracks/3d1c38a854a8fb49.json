@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "vid": "3d1c38a854a8fb49",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "3d1c38a854a8fb49",
+ "track_url": "",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChAzZDFjMzhhODU0YThmYjQ5EAAYAg%3D%3D&sigh=WgVYCceLHBzp22tWZ3_2Iw",
+ "artist_url": "http://www.twinmusicom.org/",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "title": "Fall of the Solar King",
+ "downloadable": true,
+ "streamid": "MEOEylgrCPANFUmeVATpdwFc3y5Hv6JNnKIElY4x2031YwYpxZmEPHh8jiubuif3",
+ "genre": "Cinematic",
+ "len": 199.716,
+ "artist": "Twin Musicom",
+ "display_mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3d1c38a854a8fb49",
+ "popularity_percentile": 38,
+ "reference_vid": "3d1c38a854a8fb49",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Dramatic"
+}

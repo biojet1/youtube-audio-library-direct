@@ -1,0 +1,33 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "mood": "Dramatic",
+ "artist": "MK2",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=70f99e7db690823c",
+ "len": 90.083,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChA3MGY5OWU3ZGI2OTA4MjNjEAAYAg%3D%3D&sigh=GH3y6WlIu9pJ0hDDcyXz7A",
+ "fp_ref_id": "70f99e7db690823c",
+ "vid": "70f99e7db690823c",
+ "title": "Hero Theme",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "70f99e7db690823c",
+ "license_type": 0,
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Electric Guitar",
+  "Strings",
+  "Brass"
+ ],
+ "streamid": "fzaznvjakz1To5Tu00HKgDR4tciVJIGMdw5jpema9BoWNGhf7DgqMHKh1AjwGMRN",
+ "category": ""
+}

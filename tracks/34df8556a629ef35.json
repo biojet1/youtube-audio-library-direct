@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=34df8556a629ef35",
+ "popularity_percentile": 30,
+ "reference_vid": "34df8556a629ef35",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "nEu8RX0maTAHzhtd0VZgaHH-POSHJppNGtokjFheEyIJDiP7hINXu9hXKpOFDAfP",
+ "genre": "Pop",
+ "len": 31.283,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "title": "Easy Lemon 30 Second",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjyARIWChAzNGRmODU1NmE2MjllZjM1EAAYAg%3D%3D&sigh=BSeiBbKjZaMn7Eo1eO2slQ",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "34df8556a629ef35",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200078",
+ "mood": "Bright",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "34df8556a629ef35",
+ "is_new_track": false,
+ "favorite": false
+}

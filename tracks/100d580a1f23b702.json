@@ -1,0 +1,30 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "len": 16.416,
+ "mood": "Funky",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIB9EhYKEDEwMGQ1ODBhMWYyM2I3MDIQABgC&sigh=KPFL_sVBAIbEmMpp3zan9g",
+ "genre": "Pop",
+ "streamid": "4nLPFowQ4OnDwF2HOTyqTJmgaO0tJaZc_ZNDBM5pvxX5goo8pUfy1u7g1zRBrWbU",
+ "downloadable": true,
+ "fp_ref_id": "100d580a1f23b702",
+ "vid": "100d580a1f23b702",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Pop",
+ "popularity_percentile": 60,
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=100d580a1f23b702",
+ "category": "",
+ "reference_vid": "100d580a1f23b702",
+ "title": "Disco Sting",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100363"
+}

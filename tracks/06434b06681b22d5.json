@@ -1,0 +1,30 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "len": 241.916,
+ "mood": "Calm",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjaDhIWChAwNjQzNGIwNjY4MWIyMmQ1EAAYAg%3D%3D&sigh=59wTSpkl4hbtFFwnqIGvaA",
+ "genre": "Dance & Electronic",
+ "streamid": "a7yblcb10Hwom9Hm9Q_NmIPfBf9YpmMqyQTZ8bTQiV5uBEjoF5OK7GmkmXwXFnuR",
+ "downloadable": true,
+ "fp_ref_id": "06434b06681b22d5",
+ "vid": "06434b06681b22d5",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=06434b06681b22d5",
+ "category": "",
+ "reference_vid": "06434b06681b22d5",
+ "title": "Klockworx",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100392"
+}

@@ -1,0 +1,33 @@
+{
+ "display_genre": "R&B & Soul",
+ "album": "None",
+ "reference_vid": "752d8438672923dc",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "752d8438672923dc",
+ "title": "Cruise With Me",
+ "mood": "Happy",
+ "len": 171,
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "artist": "Patrick Patrikios",
+ "fp_ref_id": "752d8438672923dc",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "license_type": 1,
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "percussion",
+  "808"
+ ],
+ "streamid": "J82tWWv5dWhEyumyvx95waEzwP8DEYEK0Ydvne_NNk-SE9bySTLRyzNv9MGBdjVI",
+ "display_mood": "Happy",
+ "downloadable": true,
+ "genre": "R&B & Soul",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=752d8438672923dc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA3NTJkODQzODY3MjkyM2RjEAAYAg%3D%3D&sigh=b_N_UHdVOe0lFXTowS5xNQ"
+}

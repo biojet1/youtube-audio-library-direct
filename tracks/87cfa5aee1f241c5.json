@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "genre": "Rock",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "percussion",
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "reference_vid": "87cfa5aee1f241c5",
+ "streamid": "k8JuwnRtcdo6KXF0YHAmjZuQSpWbvGXKsk7MRwUY4WjZfZSGFlsKi-1999x8zLnF",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=87cfa5aee1f241c5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChA4N2NmYTVhZWUxZjI0MWM1EAAYAg%3D%3D&sigh=oR9djUVWxeiL8ICJwgxt8Q",
+ "len": 120,
+ "is_new_track": false,
+ "mood": "Angry",
+ "vid": "87cfa5aee1f241c5",
+ "title": "My Master",
+ "display_mood": "Angry",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "favorite": false,
+ "fp_ref_id": "87cfa5aee1f241c5",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "artist": "Jeremy Korpas"
+}

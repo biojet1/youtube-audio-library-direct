@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "genre": "Jazz & Blues",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "title": "The Messenger",
+ "streamid": "n-_0Oy8hd87wz9egwfT_yCkQO6KdINF-3R1To0mdM2yxdRVpcIZDDmw_LTwfk4h-",
+ "downloadable": true,
+ "album": "None",
+ "len": 131.85,
+ "fp_ref_id": "174cc96f39df3863",
+ "vid": "174cc96f39df3863",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=174cc96f39df3863",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "license_type": 0,
+ "mood": "Happy",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "reference_vid": "174cc96f39df3863",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAxNzRjYzk2ZjM5ZGYzODYzEAAYAg%3D%3D&sigh=4WqAoJv6j_uhkXMz2HK-1A",
+ "category": "",
+ "popularity_percentile": 10
+}

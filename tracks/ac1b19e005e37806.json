@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChBhYzFiMTllMDA1ZTM3ODA2EAAYAg%3D%3D&sigh=Ds9dLJLupTFYConUYkoIGg",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "ac1b19e005e37806",
+ "reference_vid": "ac1b19e005e37806",
+ "popularity_percentile": 99,
+ "artist": "Spazz Cardigan",
+ "artist_channel_url": "/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac1b19e005e37806",
+ "mood": "Dramatic",
+ "genre": "Hip Hop & Rap",
+ "streamid": "lK0OSKUw_JoR6MTZVLT1fDl9e7fd5hP9khHyesYKnWHmEkAWZh1lfq_WrI7MDaEa",
+ "title": "Beam Me Up",
+ "downloadable": true,
+ "category": "",
+ "len": 178,
+ "artist_url": "https://www.youtube.com/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "ac1b19e005e37806",
+ "album": "None"
+}

@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Ambient",
+ "category": "",
+ "fp_ref_id": "63aa4b4f4501af6b",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Decay",
+ "vid": "63aa4b4f4501af6b",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPD7EBIWChA2M2FhNGI0ZjQ1MDFhZjZiEAAYAg%3D%3D&sigh=8iIM-C6s8qXjMQYlhPxcNQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=63aa4b4f4501af6b",
+ "display_category": "",
+ "len": 278.083,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100512",
+ "downloadable": true,
+ "streamid": "WAPGsiAXiiH1PMEfnwzmm2OX4eXJZOirCUdVTlRae8HdXHXKA0KZSAN7F75fd-kh",
+ "reference_vid": "63aa4b4f4501af6b",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Ambient"
+}

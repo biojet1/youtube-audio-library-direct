@@ -1,0 +1,33 @@
+{
+ "len": 129,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "track_url": "",
+ "category": "",
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=13851094db4987d2",
+ "title": "Plantation Island",
+ "streamid": "8-s6csGCfbUrThkWX4dPEoouvYOzuI8yipISzfgZ7-ocwzWpopsp7AL9OTC57oha",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChAxMzg1MTA5NGRiNDk4N2QyEAAYAg%3D%3D&sigh=LKOV7Rn7vP5WLdMipA6qNA",
+ "license_type": 1,
+ "fp_ref_id": "13851094db4987d2",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "vid": "13851094db4987d2",
+ "artist": "Stayloose",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops",
+  "808"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "13851094db4987d2"
+}

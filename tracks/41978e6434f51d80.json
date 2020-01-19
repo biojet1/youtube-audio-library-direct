@@ -1,0 +1,31 @@
+{
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "len": 140.783,
+ "display_category": "",
+ "reference_vid": "41978e6434f51d80",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "41978e6434f51d80",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "0tJudt1Zjb-sHiUl3mBjTdo1nxXZQlu5Rer_d3muwnHNDNu-X1Flq-oh-rvXPp-L",
+ "display_mood": "Inspirational",
+ "vid": "41978e6434f51d80",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChA0MTk3OGU2NDM0ZjUxZDgwEAAYAg%3D%3D&sigh=AWJd3x9HZXT-qevsc8zSyg",
+ "category": "",
+ "title": "To the Top",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41978e6434f51d80"
+}

@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChAyNTk4YzFhN2Q1MjJlOThiEAAYAg%3D%3D&sigh=d_y6fuuqbKYeNcDjP_1Jrg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "category": "",
+ "instruments": [
+  "drum",
+  "bass",
+  "synth",
+  "strings"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "2598c1a7d522e98b",
+ "is_new_track": false,
+ "len": 168,
+ "genre": "Dance & Electronic",
+ "reference_vid": "2598c1a7d522e98b",
+ "downloadable": true,
+ "streamid": "4XLix3PRJxS3oIp1v47HzZ31n_BHATt42all1mGIjiFVhyC_fRRZEvhcw5XfFqsc",
+ "track_url": "",
+ "vid": "2598c1a7d522e98b",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2598c1a7d522e98b",
+ "artist_url": "",
+ "license_type": 1,
+ "title": "Ionic Magnet",
+ "artist": "Asher Fulero"
+}

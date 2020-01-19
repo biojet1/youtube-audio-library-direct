@@ -1,0 +1,29 @@
+{
+ "genre": "Classical",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Ron Meixsell",
+ "fp_ref_id": "9894a50b486c6136",
+ "display_mood": "Happy",
+ "display_genre": "Classical",
+ "vid": "9894a50b486c6136",
+ "mood": "Happy",
+ "instruments": [
+  "Piano"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChA5ODk0YTUwYjQ4NmM2MTM2EAAYAg%3D%3D&sigh=KxOhdjjd1rzV32ZzE5xMJg",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Brahms Lullaby",
+ "category": "",
+ "len": 105.05,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9894a50b486c6136",
+ "reference_vid": "9894a50b486c6136",
+ "streamid": "M_AqRNviKs8rr2lxwXtbHrpPC5LwwW1ANmL_Uft3Oh-HOARb6-NDxPcWbX4FZjYl"
+}

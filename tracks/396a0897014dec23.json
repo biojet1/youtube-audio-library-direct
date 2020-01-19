@@ -1,0 +1,33 @@
+{
+ "display_genre": "Cinematic",
+ "instruments": [
+  "piano",
+  "strings",
+  "bass",
+  "violin",
+  "cello"
+ ],
+ "artist": "Jeremy Blake",
+ "reference_vid": "396a0897014dec23",
+ "genre": "Cinematic",
+ "streamid": "pYac1jh2EweQjRPWmrI6kjFGzImw1FGw8oQyz_3nzOTBvSMLrvxi_p8T6T-f1sEI",
+ "len": 171,
+ "display_category": "",
+ "fp_ref_id": "396a0897014dec23",
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChAzOTZhMDg5NzAxNGRlYzIzEAAYAg%3D%3D&sigh=hoCAd0Spx7ln6hIfZVvNVQ",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "vid": "396a0897014dec23",
+ "display_mood": "Sad",
+ "favorite": false,
+ "mood": "Sad",
+ "downloadable": true,
+ "album": "None",
+ "title": "We'll Meet Again",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=396a0897014dec23",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "track_url": "",
+ "popularity_percentile": 99,
+ "category": ""
+}

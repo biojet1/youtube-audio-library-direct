@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "071e3680456de0cc",
+ "category": "",
+ "license_type": 6,
+ "title": "Classic Horror - Madness Paranoia",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "instruments": [
+  "Piano"
+ ],
+ "display_mood": "Dark",
+ "album": "None",
+ "streamid": "06wOTFitO0qZEPyP60XHoNf6LcbvNntLB9s8ogNB1R11hhI4q96cplcKgWnfqlsO",
+ "len": 75.283,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=071e3680456de0cc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjJBBIWChAwNzFlMzY4MDQ1NmRlMGNjEAAYAg%3D%3D&sigh=xlH0ZgeU-BVlzp6CG-SCPg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "071e3680456de0cc",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "071e3680456de0cc",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100471"
+}

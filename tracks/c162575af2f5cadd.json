@@ -1,0 +1,31 @@
+{
+ "title": "Student",
+ "artist": "Odonis Odonis",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCeEBIWChBjMTYyNTc1YWYyZjVjYWRkEAAYAg%3D%3D&sigh=PcUTc3cOvBpwYXtm7i6psA",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "c162575af2f5cadd",
+ "mood": "Dark",
+ "license_type": 1,
+ "is_new_track": false,
+ "len": 266,
+ "instruments": [
+  "drum machine",
+  "drums",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c162575af2f5cadd",
+ "display_mood": "Dark",
+ "streamid": "fFx_fcAYZfDWDlhGGHqRdF71_RqdVnfiSK8kwQUENUcFtWHYpiYedOGeMe5f1iNo",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "fp_ref_id": "c162575af2f5cadd",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 99,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "c162575af2f5cadd"
+}

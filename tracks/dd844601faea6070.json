@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "vid": "dd844601faea6070",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dd844601faea6070",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChBkZDg0NDYwMWZhZWE2MDcwEAAYAg%3D%3D&sigh=5nP3r9G64-Mgi9sU0WHxHw",
+ "is_new_track": false,
+ "reference_vid": "dd844601faea6070",
+ "display_mood": "Calm",
+ "favorite": false,
+ "category": "",
+ "title": "Ether",
+ "streamid": "HJ7mO75bXfpIDO_ceNUg6ts1rL0uJTQsP9NrZeMAIG2XvVqEEVPhy1EEmVndhjSe",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "len": 169.333,
+ "album": "None",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Text Me Records / Bobby Renz",
+ "instruments": [
+  "Synth",
+  "Drum"
+ ],
+ "fp_ref_id": "dd844601faea6070"
+}

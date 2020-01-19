@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "album": "None",
+ "reference_vid": "a361d7cfce6ffe1d",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a361d7cfce6ffe1d",
+ "title": "The Star Spangled Banner - Band Only",
+ "mood": "Inspirational",
+ "len": 77.416,
+ "artist_url": "",
+ "artist": "The U.S. Army Band",
+ "fp_ref_id": "a361d7cfce6ffe1d",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "instruments": [
+  "Trumpet"
+ ],
+ "streamid": "eh2DZ7-wEHJfCIUxuu0h7HonE2hwhGxhfZ267W7u8IMr2Oy2F_gwvA7rORM3GAgv",
+ "display_mood": "Inspirational",
+ "downloadable": true,
+ "genre": "Classical",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a361d7cfce6ffe1d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjZBBIWChBhMzYxZDdjZmNlNmZmZTFkEAAYAg%3D%3D&sigh=Eput15RqIA864TwH_aKpRQ"
+}

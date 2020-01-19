@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a87bd69c564088d8",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a87bd69c564088d8",
+ "fp_ref_id": "a87bd69c564088d8",
+ "genre": "Rock",
+ "album": "None",
+ "title": "Don't Sleep",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "track_url": "",
+ "display_mood": "Dramatic",
+ "streamid": "LBPSkhqGy51bUJ25qp8sFnm5vcxnZDRG_y7gK7DjALkjXeFlVjW49PKqUK0QhGu0",
+ "artist": "Silent Partner",
+ "mood": "Dramatic",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a87bd69c564088d8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBhODdiZDY5YzU2NDA4OGQ4EAAYAg%3D%3D&sigh=E53KJs5fsadQVv5bB0ioNg",
+ "display_category": "",
+ "len": 130.032,
+ "display_genre": "Rock"
+}

@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "len": 267,
+ "vid": "94af1676ac81c27d",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "94af1676ac81c27d",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPilEBIWChA5NGFmMTY3NmFjODFjMjdkEAAYAg%3D%3D&sigh=-TwJsQ2pz5bZOVaGp2ojEQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=94af1676ac81c27d",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "title": "Lovers, Entwined",
+ "display_genre": "Cinematic",
+ "artist": "Hainbach",
+ "reference_vid": "94af1676ac81c27d",
+ "streamid": "KXBYdsgh8Y0xFKFc3sBeakhHUKmSahQ_UTuVCnMXqiBHsew8UcWTx55O-Lmi7R3r"
+}

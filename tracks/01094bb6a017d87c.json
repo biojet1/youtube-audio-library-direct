@@ -1,0 +1,33 @@
+{
+ "mood": "Inspirational",
+ "artist": "Dyalla",
+ "vid": "01094bb6a017d87c",
+ "display_category": "",
+ "streamid": "zo43X6fkt4kiSw2Gx-zdJja5nQPr-vWWoqU5OkqxSF4GAwMinkYLS6-KH640NSaQ",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=01094bb6a017d87c",
+ "fp_ref_id": "01094bb6a017d87c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAwMTA5NGJiNmEwMTdkODdjEAAYAg%3D%3D&sigh=lf1EPj-ID_lq_tMGCTTc0A",
+ "display_genre": "Dance & Electronic",
+ "len": 134,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "synth",
+  "acoustic guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "reference_vid": "01094bb6a017d87c",
+ "title": "Ebb and Flow",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "license_type": 1,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99
+}

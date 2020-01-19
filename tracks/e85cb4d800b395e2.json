@@ -1,0 +1,29 @@
+{
+ "title": "Friday Morning",
+ "favorite": false,
+ "len": 210.316,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChBlODVjYjRkODAwYjM5NWUyEAAYAg%3D%3D&sigh=EQAJTbV7dYOkf9RTsAxFsA",
+ "fp_ref_id": "e85cb4d800b395e2",
+ "artist_channel_url": null,
+ "display_genre": "Classical",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100224",
+ "genre": "Classical",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "e85cb4d800b395e2",
+ "display_category": "",
+ "vid": "e85cb4d800b395e2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e85cb4d800b395e2",
+ "streamid": "Mxd2hjCV-a3eCLQuMIKNkZx-elt-I7sRS6tEvq83HprCN1KboW0ptLSC15P34zFm",
+ "artist": "Kevin MacLeod"
+}

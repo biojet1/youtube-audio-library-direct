@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "reference_vid": "13ebdccd6d1844dc",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=13ebdccd6d1844dc",
+ "fp_ref_id": "13ebdccd6d1844dc",
+ "mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Trumpet",
+  "Drums"
+ ],
+ "len": 62.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDkAxIWChAxM2ViZGNjZDZkMTg0NGRjEAAYAg%3D%3D&sigh=0PJlwnZ5DQ7f4MvHbiTsng",
+ "streamid": "2f0USiHMQDlEILAwYJMUX3rRofC0rGVJ7VudsmW1d1WzraoMa2aPYhcyf1isw5Zi",
+ "artist": "Audionautix",
+ "popularity_percentile": 80,
+ "title": "Stalking Prey",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "vid": "13ebdccd6d1844dc",
+ "track_url": "",
+ "genre": "Cinematic",
+ "category": "",
+ "favorite": false
+}

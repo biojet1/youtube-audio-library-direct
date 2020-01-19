@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 67,
+ "downloadable": true,
+ "vid": "1ab2595ca4c97e57",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1ab2595ca4c97e57",
+ "fp_ref_id": "1ab2595ca4c97e57",
+ "genre": "Ambient",
+ "album": "None",
+ "title": "B - Somber Ballads",
+ "instruments": [
+  "Piano"
+ ],
+ "track_url": "",
+ "display_mood": "Sad",
+ "streamid": "FvwgbH8tPUqjkpBvKCyHnEppCX3VmI21Z_WQHypW_finKWBVb-4fheJiIs73WoIR",
+ "artist": "Kevin MacLeod",
+ "mood": "Sad",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "1ab2595ca4c97e57",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPD7EBIWChAxYWIyNTk1Y2E0Yzk3ZTU3EAAYAg%3D%3D&sigh=Sls_IJRjLFRWNw4t-j-Fqg",
+ "display_category": "",
+ "len": 278.083,
+ "display_genre": "Ambient"
+}

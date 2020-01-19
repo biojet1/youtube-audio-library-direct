@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChAwNTAzYTdhOWJjZGYyY2VlEAAYAg%3D%3D&sigh=Fz4Fn-RGJXvQ8NMNSzxXJw",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0503a7a9bcdf2cee",
+ "reference_vid": "0503a7a9bcdf2cee",
+ "popularity_percentile": 3,
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0503a7a9bcdf2cee",
+ "mood": "Happy",
+ "genre": "Jazz & Blues",
+ "streamid": "vJC8Kx8QdGYTSpzuo_f_qsXpFyGNtBDYcGuTtu8V2KnKpr1IHqpE_7qUt9aKjhzn",
+ "title": "Sabana Havana",
+ "downloadable": true,
+ "category": "",
+ "len": 108.399,
+ "artist_url": "",
+ "display_genre": "Jazz & Blues",
+ "fp_ref_id": "0503a7a9bcdf2cee",
+ "album": "None"
+}

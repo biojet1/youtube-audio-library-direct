@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano"
+ ],
+ "display_mood": "Sad",
+ "vid": "a50f8964a10d4746",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a50f8964a10d4746",
+ "is_new_track": false,
+ "license_type": 6,
+ "mood": "Sad",
+ "display_genre": "Classical",
+ "fp_ref_id": "a50f8964a10d4746",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "len": 410.083,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500027",
+ "category": "",
+ "streamid": "dUlBEVaBsoehYwA1f52mjRKZEZE50wXnS-0gibBOrrFNE6lFKPY8IkMrEleVSBi_",
+ "title": "Dreams Become Real",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCDGRIWChBhNTBmODk2NGExMGQ0NzQ2EAAYAg%3D%3D&sigh=dW5DD61yvNgcMBLsCN3gDw",
+ "popularity_percentile": 50,
+ "reference_vid": "a50f8964a10d4746",
+ "artist": "Kevin MacLeod",
+ "genre": "Classical"
+}

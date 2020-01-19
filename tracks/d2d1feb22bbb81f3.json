@@ -1,0 +1,31 @@
+{
+ "display_mood": "Calm",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "VEl1_nsJWIOpC_5z9yXcXm0gBUfCGV7nil_JufJte30k1A6qEprEtpY23qcZve5q",
+ "title": "Sideways Samba",
+ "display_genre": "Jazz & Blues",
+ "vid": "d2d1feb22bbb81f3",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "d2d1feb22bbb81f3",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Calm",
+ "license_type": 6,
+ "fp_ref_id": "d2d1feb22bbb81f3",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 190.95,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChBkMmQxZmViMjJiYmI4MWYzEAAYAg%3D%3D&sigh=WWzbFuq7lhUzIqJKex_sMQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2d1feb22bbb81f3"
+}

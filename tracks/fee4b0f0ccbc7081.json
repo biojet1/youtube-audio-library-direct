@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiiDBIWChBmZWU0YjBmMGNjYmM3MDgxEAAYAg%3D%3D&sigh=KrcDFIH4NInmbxWHCmu_Iw",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "fee4b0f0ccbc7081",
+ "reference_vid": "fee4b0f0ccbc7081",
+ "popularity_percentile": 99,
+ "artist": "Puddle of Infinity",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fee4b0f0ccbc7081",
+ "mood": "Dramatic",
+ "genre": "Ambient",
+ "streamid": "-ZHK4Q-rXWm9Ub9psbyLOOuCj-HGLM7z-skqLau83yGqDrHODOP0JuuuIx9B93uo",
+ "title": "Wind Marching For Rain",
+ "downloadable": true,
+ "category": "",
+ "len": 201.016,
+ "artist_url": "",
+ "display_genre": "Ambient",
+ "fp_ref_id": "fee4b0f0ccbc7081",
+ "album": "None"
+}

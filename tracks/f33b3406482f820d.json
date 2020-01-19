@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "f33b3406482f820d",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f33b3406482f820d",
+ "popularity_percentile": 95,
+ "vid": "f33b3406482f820d",
+ "streamid": "ABfYz0r_N0s0nkWpF3DR0ReIiQSIgBrYCQjXVHYTL7N_5GJfzAnmQHJxHxg8D80_",
+ "artist": "Bird Creek",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBmMzNiMzQwNjQ4MmY4MjBkEAAYAg%3D%3D&sigh=CiFrM9m34YG-tFw74-CXMg",
+ "display_category": "",
+ "title": "Climbing",
+ "album": "None",
+ "license_type": 0,
+ "mood": "Dramatic",
+ "display_genre": "Rock",
+ "reference_vid": "f33b3406482f820d",
+ "artist_url": "",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "len": 115.683,
+ "category": ""
+}

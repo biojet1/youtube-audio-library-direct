@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Guitar",
+  "Piano"
+ ],
+ "display_mood": "Inspirational",
+ "vid": "7e25497173b2e54a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7e25497173b2e54a",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Inspirational",
+ "display_genre": "Rock",
+ "fp_ref_id": "7e25497173b2e54a",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 122.083,
+ "track_url": "",
+ "category": "",
+ "streamid": "DZrf93gQdaPDWvCI4I46VSra93sNNGSlcF47gAK_N29i5SkV0VGL5_YJeCvAq9ul",
+ "title": "Our Distance",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChA3ZTI1NDk3MTczYjJlNTRhEAAYAg%3D%3D&sigh=3qNDst-vWUG99U0XP5UZlw",
+ "popularity_percentile": 50,
+ "reference_vid": "7e25497173b2e54a",
+ "artist": "Silent Partner",
+ "genre": "Rock"
+}

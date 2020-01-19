@@ -1,0 +1,30 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJChDxIWChA0NGQ2NWFlNTczOTlhMjdjEAAYAg%3D%3D&sigh=41MM69NO5TSIhuapYaId9w",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "44d65ae57399a27c",
+ "reference_vid": "44d65ae57399a27c",
+ "popularity_percentile": 99,
+ "artist": "Max McFerren",
+ "artist_channel_url": "/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=44d65ae57399a27c",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "streamid": "sxfbF4OgV-3Y_VOHdotQuYh5unKQ_Rrx0EcJXFO-j87PTttL2XT_Xx6v4wa8-_Vg",
+ "title": "All I Can Do Is This",
+ "downloadable": true,
+ "category": "",
+ "len": 250,
+ "artist_url": "https://www.youtube.com/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "44d65ae57399a27c",
+ "album": "None"
+}

@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "reference_vid": "a947d0549af624c4",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBhOTQ3ZDA1NDlhZjYyNGM0EAAYAg%3D%3D&sigh=JKPbRVwZA0OIoOQXs7nGjw",
+ "display_mood": "Dramatic",
+ "title": "Action Time",
+ "artist": "Biz Baz Studio",
+ "is_new_track": false,
+ "len": 94,
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "a947d0549af624c4",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a947d0549af624c4",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "license_type": 1,
+ "instruments": [
+  "synth",
+  "horns",
+  "drums",
+  "strings"
+ ],
+ "fp_ref_id": "a947d0549af624c4",
+ "streamid": "hfUKCZwDvvmxXWaAy_2X1b2QvvsqBHtF7pTEPIEG9TgLXGvCaRShOpekXj6vL7SL"
+}

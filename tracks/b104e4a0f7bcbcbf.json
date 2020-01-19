@@ -1,0 +1,31 @@
+{
+ "genre": "Cinematic",
+ "display_category": "",
+ "len": 86.116,
+ "track_url": "",
+ "fp_ref_id": "b104e4a0f7bcbcbf",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "jE-7NvCp8omMFU-Xmwfcv3Z2JRO0hskz2LyoVw2DToj0mhe8SAQZ-Ifdm4FQwa56",
+ "title": "On the Tip",
+ "artist": "Jingle Punks",
+ "is_new_track": false,
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b104e4a0f7bcbcbf",
+ "display_mood": "Dramatic",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 69,
+ "category": "",
+ "reference_vid": "b104e4a0f7bcbcbf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCfBRIWChBiMTA0ZTRhMGY3YmNiY2JmEAAYAg%3D%3D&sigh=oQO4EOC_g5geaEadl7C9dA",
+ "vid": "b104e4a0f7bcbcbf",
+ "display_genre": "Cinematic",
+ "license_type": 0,
+ "mood": "Dramatic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Strings"
+ ]
+}

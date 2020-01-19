@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "mood": "Funky",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "f9114b18c9b8d5fd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChBmOTExNGIxOGM5YjhkNWZkEAAYAg%3D%3D&sigh=PoI09FNL9QGGeJi5K_fFRw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "reference_vid": "f9114b18c9b8d5fd",
+ "downloadable": true,
+ "streamid": "i9uCe87HbqG5YI-xBFTjQXqOAOdFYlOYZXRAWN4wyF1ozORwRZ9BbR4Ln65-xx4O",
+ "track_url": "",
+ "vid": "f9114b18c9b8d5fd",
+ "len": 199,
+ "license_type": 1,
+ "title": "Break Ur Legs",
+ "is_new_track": false,
+ "artist": "Verified Picasso",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f9114b18c9b8d5fd",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

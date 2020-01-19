@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "len": 61.85,
+ "mood": "Funky",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChA5NmY0YjdlODI1NGY2ZmYyEAAYAg%3D%3D&sigh=Ki8LkF1BzwaMJczGGWUavA",
+ "genre": "R&B & Soul",
+ "streamid": "AnHgXypbFgxRmVujOlqgfFiLdt3rZ6CkgkvVyUSPmsAL4O3ufl5deOPTWXnpxeeC",
+ "downloadable": true,
+ "fp_ref_id": "96f4b7e8254f6ff2",
+ "vid": "96f4b7e8254f6ff2",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "R&B & Soul",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Organ",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=96f4b7e8254f6ff2",
+ "category": "",
+ "reference_vid": "96f4b7e8254f6ff2",
+ "title": "Speakeasy in Crescent City",
+ "artist": "Jingle Punks",
+ "track_url": ""
+}

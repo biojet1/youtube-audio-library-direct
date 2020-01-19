@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChAwNjAzZTljZmE3ZWFkMzFhEAAYAg%3D%3D&sigh=-rSklcw1Qr5TNdFP8rQmKg",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0603e9cfa7ead31a",
+ "reference_vid": "0603e9cfa7ead31a",
+ "popularity_percentile": 3,
+ "artist": "Otis McDonald",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0603e9cfa7ead31a",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "streamid": "j0ln-8YFYhC-08OPdMGCNboaKNmrrMrwrbYA55RAhCI_uE9ud085DNEc6g5o-jK2",
+ "title": "Sun #40",
+ "downloadable": true,
+ "category": "",
+ "len": 169.983,
+ "artist_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "0603e9cfa7ead31a",
+ "album": "None"
+}

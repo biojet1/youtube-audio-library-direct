@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Funky",
+ "reference_vid": "9053028bd3d0bb83",
+ "streamid": "ewXaiU-eT3uxyH0eLxLwzdXqIkQMozsIFrBkE8vpa7CMV7eZfCSAS3pB8nbainN9",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA5MDUzMDI4YmQzZDBiYjgzEAAYAg%3D%3D&sigh=tQ4Jpw6JAmKXe7Q2hkeXrA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9053028bd3d0bb83",
+ "len": 126.583,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "piano",
+  "synth",
+  "strings"
+ ],
+ "display_category": "",
+ "fp_ref_id": "9053028bd3d0bb83",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Crispy",
+ "mood": "Funky",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "vid": "9053028bd3d0bb83"
+}

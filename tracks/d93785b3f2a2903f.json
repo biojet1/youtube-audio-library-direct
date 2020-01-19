@@ -1,0 +1,33 @@
+{
+ "title": "Another Perspective",
+ "favorite": false,
+ "len": 177.216,
+ "popularity_percentile": 84,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChBkOTM3ODViM2YyYTI5MDNmEAAYAg%3D%3D&sigh=ocVxjS7-oUje0BP46Kl1nw",
+ "fp_ref_id": "d93785b3f2a2903f",
+ "artist_channel_url": null,
+ "display_genre": "Pop",
+ "track_url": "",
+ "genre": "Pop",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Synth",
+  "Electric Guitar",
+  "Strings"
+ ],
+ "reference_vid": "d93785b3f2a2903f",
+ "display_category": "",
+ "vid": "d93785b3f2a2903f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d93785b3f2a2903f",
+ "streamid": "lNOYPhfYzUTv53eUeTmmW-jTkY60vRY4HUiajuDlYSAhwEVYMCRMqHYxdfY1J9m0",
+ "artist": "Silent Partner"
+}

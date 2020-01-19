@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "abc3be1fc6b6c597",
+ "album": "None",
+ "popularity_percentile": 67,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBhYmMzYmUxZmM2YjZjNTk3EAAYAg%3D%3D&sigh=kY1T_KQ374FC5KCwdhYamA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=abc3be1fc6b6c597",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "reference_vid": "abc3be1fc6b6c597",
+ "category": "",
+ "len": 126.9,
+ "vid": "abc3be1fc6b6c597",
+ "display_mood": "Angry",
+ "artist_channel_url": null,
+ "mood": "Angry",
+ "license_type": 0,
+ "genre": "Rock",
+ "title": "Let Her In",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "A9op7U4GGgSOgrEcGeA3_gps1TTq2-LMxxVPGqvP_jiID86KSUymWqMORGN0Gv10"
+}

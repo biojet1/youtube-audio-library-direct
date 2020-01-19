@@ -1,0 +1,31 @@
+{
+ "reference_vid": "b11e078a70a1c85d",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "b11e078a70a1c85d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b11e078a70a1c85d",
+ "mood": "Inspirational",
+ "artist": "E's Jammy Jams",
+ "vid": "b11e078a70a1c85d",
+ "favorite": false,
+ "display_genre": "Holiday",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChBiMTFlMDc4YTcwYTFjODVkEAAYAg%3D%3D&sigh=rhHGDIpE-Q8Ued-O3TVIGQ",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "downloadable": true,
+ "streamid": "R4TgpkBnhwGvLlTkxL_Bv93iWKNcg-e4Ku1J520gMFDOpXqVnkzijb9NpQ3qwuFV",
+ "len": 142.883,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Oh Little Town of Bethlehem (Instrumental)",
+ "genre": "Holiday",
+ "display_category": ""
+}

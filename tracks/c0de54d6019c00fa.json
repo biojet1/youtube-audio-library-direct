@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChBjMGRlNTRkNjAxOWMwMGZhEAAYAg%3D%3D&sigh=2IrPEFLQ735j6JDqIDoTeg",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "c0de54d6019c00fa",
+ "downloadable": true,
+ "reference_vid": "c0de54d6019c00fa",
+ "favorite": false,
+ "fp_ref_id": "c0de54d6019c00fa",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c0de54d6019c00fa",
+ "genre": "Children's",
+ "streamid": "Z8iXsWW0JMRKduOSCMJhxtZoswMoTEzJxH6osqajXSaeJo-7l-qe5kSDiyOJW4kw",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 137.95,
+ "display_genre": "Children's",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Twinkle Twinkle Little Star (vocal)",
+ "artist": "The Green Orbs",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano",
+  "Bass"
+ ]
+}

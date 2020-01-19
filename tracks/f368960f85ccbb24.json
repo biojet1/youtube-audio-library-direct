@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f368960f85ccbb24",
+ "genre": "Pop",
+ "instruments": [
+  "Bass",
+  "Guitar",
+  "Keyboards"
+ ],
+ "track_url": "",
+ "popularity_percentile": 99,
+ "downloadable": true,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBmMzY4OTYwZjg1Y2NiYjI0EAAYAg%3D%3D&sigh=iy-ackEYB-n4zerPgPQxLg",
+ "title": "Winds of Spring",
+ "reference_vid": "f368960f85ccbb24",
+ "vid": "f368960f85ccbb24",
+ "mood": "Happy",
+ "artist": "The 126ers",
+ "display_genre": "Pop",
+ "favorite": false,
+ "is_new_track": false,
+ "len": 174,
+ "fp_ref_id": "f368960f85ccbb24",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "streamid": "B4vCECJZJDBFxN5wKfyFuuXmoDWRERob5j9YIbE02UzcEF0QS_LOtG-YMZhn_rFV",
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "album": "None"
+}

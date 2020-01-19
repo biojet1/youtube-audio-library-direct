@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "genre": "Cinematic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "bass",
+  "synth",
+  "drums",
+  "strings"
+ ],
+ "reference_vid": "5cf2ccf4fb59d081",
+ "streamid": "rR_4WW-eVZbUbP5jRkz1SQb1-A8TGUuBAsrG3UY8UJKSisE9uVqlnaJ6tETDzKJT",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5cf2ccf4fb59d081",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChA1Y2YyY2NmNGZiNTlkMDgxEAAYAg%3D%3D&sigh=FPnQJXFk4ndMOm6xHNkqTg",
+ "len": 128,
+ "is_new_track": false,
+ "mood": "Dark",
+ "vid": "5cf2ccf4fb59d081",
+ "title": "Poisoned Rose",
+ "display_mood": "Dark",
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "favorite": false,
+ "fp_ref_id": "5cf2ccf4fb59d081",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "artist": "Aakash Gandhi"
+}

@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "f8d1ef54c15d19ac",
+ "mood": "Funky",
+ "title": "Honeybar",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "len": 203,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPixDBIWChBmOGQxZWY1NGMxNWQxOWFjEAAYAg%3D%3D&sigh=r_nyhubNYAowJ00FqlgyaQ",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f8d1ef54c15d19ac",
+ "fp_ref_id": "f8d1ef54c15d19ac",
+ "artist": "Rondo Brothers",
+ "display_mood": "Funky",
+ "display_genre": "Dance & Electronic",
+ "streamid": "BRiECSOM_va-F72eBAs4af71w_jZAI9Xj1KRNOb9f_lIyrj5G6Iq9XNbUyv5GndY",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums"
+ ],
+ "vid": "f8d1ef54c15d19ac"
+}

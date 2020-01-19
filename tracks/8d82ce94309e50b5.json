@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Sad",
+ "reference_vid": "8d82ce94309e50b5",
+ "streamid": "e8MFPX2jrGrpZrg_Xg5KL8re3rHHXlPgps0h06X-SCI-FEcub0ZhEuVak1tvQvLB",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChA4ZDgyY2U5NDMwOWU1MGI1EAAYAg%3D%3D&sigh=OtJRyGZuWyNHE6wJX7DP3Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8d82ce94309e50b5",
+ "len": 195.716,
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "fp_ref_id": "8d82ce94309e50b5",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Plantation",
+ "mood": "Sad",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "vid": "8d82ce94309e50b5"
+}

@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a8540ad22cfb2055",
+ "category": "",
+ "title": "High Tension",
+ "genre": "Cinematic",
+ "favorite": false,
+ "reference_vid": "a8540ad22cfb2055",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBhODU0MGFkMjJjZmIyMDU1EAAYAg%3D%3D&sigh=CapUqRBf-EpS-STiGnhpqQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "a8540ad22cfb2055",
+ "license_type": 6,
+ "popularity_percentile": 92,
+ "vid": "a8540ad22cfb2055",
+ "instruments": [
+  "Trumpet",
+  "Strings"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Audionautix",
+ "len": 130.515,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "streamid": "8oZ7aZud6SdQTy1tMbiqSiMEO6O_JXxZobI3MG3Ty84hsPbDsgPvmDUzebmXTrqG"
+}

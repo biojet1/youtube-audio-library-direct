@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "fp_ref_id": "49c9ba7f9c9bd27a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiNExIWChA0OWM5YmE3ZjljOWJkMjdhEAAYAg%3D%3D&sigh=1wT3b3A8fXFtd1i-CnzVVw",
+ "streamid": "wdo8LFNtQDWtVlCi6apY-Umdul-hF2u8DVhV5y-m1YVALjQ_r7Xs2i1bvi8NDY05",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 313,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=49c9ba7f9c9bd27a",
+ "favorite": false,
+ "title": "Compressor Works Twang",
+ "artist": "Max McFerren",
+ "genre": "Dance & Electronic",
+ "vid": "49c9ba7f9c9bd27a",
+ "display_category": "",
+ "reference_vid": "49c9ba7f9c9bd27a",
+ "instruments": [
+  "Synth",
+  "Dums",
+  "Bass"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UCPywCus1znKhyinACXl--cA",
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "is_new_track": false
+}

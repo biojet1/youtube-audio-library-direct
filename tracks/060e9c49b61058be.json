@@ -1,0 +1,32 @@
+{
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChAwNjBlOWM0OWI2MTA1OGJlEAAYAg%3D%3D&sigh=-NDG5jaY6RB0a3Cf1yhtFg",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "060e9c49b61058be",
+ "reference_vid": "060e9c49b61058be",
+ "popularity_percentile": 3,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=060e9c49b61058be",
+ "mood": "Sad",
+ "genre": "Rock",
+ "streamid": "98p-VkXYExT-aI8wvCRZMeviHwrpcE4Z6-e5ljbqnx6TGaxwhz9G7vOc18nV6JsF",
+ "title": "Wise",
+ "downloadable": true,
+ "category": "",
+ "len": 149.95,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "fp_ref_id": "060e9c49b61058be",
+ "album": "None"
+}

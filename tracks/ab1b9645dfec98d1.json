@@ -1,0 +1,31 @@
+{
+ "display_mood": "Funky",
+ "reference_vid": "ab1b9645dfec98d1",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "TrackTribe",
+ "category": "",
+ "artist_channel_url": "/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "artist_url": "https://www.youtube.com/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "genre": "Country & Folk",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "fp_ref_id": "ab1b9645dfec98d1",
+ "mood": "Funky",
+ "popularity_percentile": 0,
+ "len": 114,
+ "license_type": 1,
+ "streamid": "Adf53jBG0ZRJ6nOdpYgqPZBhzL_RgUsHHM7Un1SPpdFFrb53UZmorDoRctlTwzaV",
+ "favorite": false,
+ "album": "None",
+ "display_category": "",
+ "title": "Drive In",
+ "vid": "ab1b9645dfec98d1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChBhYjFiOTY0NWRmZWM5OGQxEAAYAg%3D%3D&sigh=qidCjaOwypd7SjtLGnI0uA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab1b9645dfec98d1"
+}

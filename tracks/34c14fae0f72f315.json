@@ -1,0 +1,31 @@
+{
+ "artist": "Letter Box",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=34c14fae0f72f315",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChAzNGMxNGZhZTBmNzJmMzE1EAAYAg%3D%3D&sigh=AvAXv_Txfg9ki2gZ7trr1w",
+ "genre": "Rock",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "album": "None",
+ "track_url": "",
+ "len": 206.016,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "34c14fae0f72f315",
+ "streamid": "0TjKsgNmcioSinnkg9JxhzyjfZbEgYEe-zMwgZMQASzyDGkKIJuStUM8bxxiYj5_",
+ "title": "First Aid",
+ "artist_url": "",
+ "mood": "Dramatic",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "popularity_percentile": 21,
+ "reference_vid": "34c14fae0f72f315",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "fp_ref_id": "34c14fae0f72f315",
+ "license_type": 0
+}

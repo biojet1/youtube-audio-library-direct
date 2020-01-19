@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "ce72e9d93f0d78d5",
+ "downloadable": true,
+ "fp_ref_id": "ce72e9d93f0d78d5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ce72e9d93f0d78d5",
+ "album": "None",
+ "artist": "Audionautix",
+ "display_mood": "Funky",
+ "streamid": "36XS6LN_scidGFeQ5-xY7vIAsuFm98LrePUyC8EF1wti0vTPMvY3uPh8NPKjFHx-",
+ "mood": "Funky",
+ "title": "Dat Groove (Full Track)",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "ce72e9d93f0d78d5",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "len": 129.65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBjZTcyZTlkOTNmMGQ3OGQ1EAAYAg%3D%3D&sigh=fm7M5zEfG7ko_iX3btkFYQ"
+}

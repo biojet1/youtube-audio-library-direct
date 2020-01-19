@@ -1,0 +1,31 @@
+{
+ "vid": "20f2bb2142c614e4",
+ "display_mood": "Angry",
+ "title": "Chtulthu",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChAyMGYyYmIyMTQyYzYxNGU0EAAYAg%3D%3D&sigh=u9-Wp2OyvHb6gZ_wB-Coyw",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Angry",
+ "artist": "Quincas Moreira",
+ "reference_vid": "20f2bb2142c614e4",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=20f2bb2142c614e4",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 99,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "album": "None",
+ "streamid": "bqlnP2vNAeLRG0zb1fP-KTJFGsoHqvaDqQuELjgVtimgN07hsyvIp2Dr7e3Qx5_e",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "len": 179,
+ "fp_ref_id": "20f2bb2142c614e4",
+ "license_type": 1,
+ "is_new_track": false
+}

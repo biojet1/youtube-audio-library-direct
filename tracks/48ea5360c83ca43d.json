@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "48ea5360c83ca43d",
+ "display_category": "",
+ "fp_ref_id": "48ea5360c83ca43d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48ea5360c83ca43d",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Bright",
+ "instruments": [
+  "Drums",
+  "Keyboard",
+  "Synth",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA0OGVhNTM2MGM4M2NhNDNkEAAYAg%3D%3D&sigh=oJJRL2aWTLW69_MOpDsf6A",
+ "streamid": "looJQ1asdkQMWsqPrwWzlMmVapZ7tZPQehKDgiWkq-E5aFQZVhQiHFwgss9E0DtQ",
+ "genre": "R&B & Soul",
+ "vid": "48ea5360c83ca43d",
+ "artist": "Joe Bagale",
+ "display_genre": "R&B & Soul",
+ "title": "Thank You R.G.E.",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 134.883,
+ "display_mood": "Bright",
+ "downloadable": true
+}

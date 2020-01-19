@@ -1,0 +1,32 @@
+{
+ "vid": "979f5aea36b9c25f",
+ "display_mood": "Dark",
+ "title": "Low Tide",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChA5NzlmNWFlYTM2YjljMjVmEAAYAg%3D%3D&sigh=3g1h81bdypXVVtRkumM_9Q",
+ "display_genre": "Jazz & Blues",
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=979f5aea36b9c25f",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "",
+ "popularity_percentile": 60,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "reference_vid": "979f5aea36b9c25f",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "hw1HUUBu2s0iNCGKj6fLgDwcEepdQqFEUV7pRyuOVcILxWtpFwhUu9GHOdAAVMGw",
+ "artist_url": "",
+ "len": 174.55,
+ "fp_ref_id": "979f5aea36b9c25f",
+ "license_type": 0,
+ "is_new_track": false
+}

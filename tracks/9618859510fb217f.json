@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "9618859510fb217f",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "len": 101,
+ "streamid": "JiUtar9rOQlvZjOyffBAAZuHwltTwIDfPBoGy320fUI01QKWxqyFyS57kD-RtLoI",
+ "license_type": 1,
+ "vid": "9618859510fb217f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChA5NjE4ODU5NTEwZmIyMTdmEAAYAg%3D%3D&sigh=3bDo-MSAntCc_ShDUFnIdg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9618859510fb217f",
+ "title": "Chromatic Rag",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "display_category": "",
+ "fp_ref_id": "9618859510fb217f",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "instruments": [
+  "acoustic guitar"
+ ],
+ "artist": "Mini Vandals",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Jazz & Blues",
+ "category": ""
+}

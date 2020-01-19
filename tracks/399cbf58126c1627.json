@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "reference_vid": "399cbf58126c1627",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "5HrkZ2dR_q8LrH7lCcCnwSaVf_0fNbXuP6qG9UtXnRuKe_8dat6T0ghG2EKe-7RD",
+ "display_mood": "Inspirational",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "display_genre": "Country & Folk",
+ "title": "In the Garden",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "399cbf58126c1627",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAzOTljYmY1ODEyNmMxNjI3EAAYAg%3D%3D&sigh=ONRQu1sKkODseByyL4HJqg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=399cbf58126c1627",
+ "artist": "Silent Partner",
+ "len": 121.416,
+ "track_url": "",
+ "fp_ref_id": "399cbf58126c1627",
+ "mood": "Inspirational",
+ "is_new_track": false,
+ "popularity_percentile": 22,
+ "display_category": ""
+}

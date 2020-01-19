@@ -1,0 +1,31 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "len": 131.383,
+ "mood": "Calm",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChA5Nzg5N2JhNjZlZDY4MDkzEAAYAg%3D%3D&sigh=c_GsXGbOrrcI4k1-PSi0iw",
+ "genre": "Jazz & Blues",
+ "streamid": "d5AxRFWlKD0FlldBn49PEY6xLpRQ500CYbatYAxg7DXq3TiTp0QG1WiGDGk-9xVH",
+ "downloadable": true,
+ "fp_ref_id": "97897ba66ed68093",
+ "vid": "97897ba66ed68093",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Jazz & Blues",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=97897ba66ed68093",
+ "category": "",
+ "reference_vid": "97897ba66ed68093",
+ "title": "Cancun",
+ "artist": "Topher Mohr and Alex Elena",
+ "track_url": ""
+}

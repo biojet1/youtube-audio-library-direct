@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4a74c80fcd55f599",
+ "display_category": "",
+ "fp_ref_id": "4a74c80fcd55f599",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4a74c80fcd55f599",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Inspirational",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA0YTc0YzgwZmNkNTVmNTk5EAAYAg%3D%3D&sigh=KD0ZnAxDOgnkm7NLzfcDeA",
+ "streamid": "lBt0VJK75Yw0FCAa_TrG9FqFYBJ7YwE_dJZcCgZCWrpvQPEkeVvOlW7FRW9pSY9V",
+ "genre": "Holiday",
+ "vid": "4a74c80fcd55f599",
+ "artist": "E's Jammy Jams",
+ "display_genre": "Holiday",
+ "title": "Jingle Bells (Instrumental Jazz)",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 171.65,
+ "display_mood": "Inspirational",
+ "downloadable": true
+}

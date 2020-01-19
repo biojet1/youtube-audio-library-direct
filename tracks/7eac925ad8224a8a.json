@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano",
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "display_mood": "Inspirational",
+ "vid": "7eac925ad8224a8a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7eac925ad8224a8a",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Inspirational",
+ "display_genre": "Pop",
+ "fp_ref_id": "7eac925ad8224a8a",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 187.883,
+ "track_url": "",
+ "category": "",
+ "streamid": "q9v1vD7FTYfXTicXJga7GfkCPWubmRPJZJJyg3Ddt9d3mAhKnat0grID5zr-z2kB",
+ "title": "Golden Days",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChA3ZWFjOTI1YWQ4MjI0YThhEAAYAg%3D%3D&sigh=dEu-moW3CnZjjmRGYKpSgA",
+ "popularity_percentile": 50,
+ "reference_vid": "7eac925ad8224a8a",
+ "artist": "Topher Mohr and Alex Elena",
+ "genre": "Pop"
+}

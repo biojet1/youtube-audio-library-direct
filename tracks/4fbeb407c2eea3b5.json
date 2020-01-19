@@ -1,0 +1,32 @@
+{
+ "display_mood": "Bright",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjdDRIWChA0ZmJlYjQwN2MyZWVhM2I1EAAYAg%3D%3D&sigh=fSwWubO5bziz49in5UgYGw",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "4fbeb407c2eea3b5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4fbeb407c2eea3b5",
+ "streamid": "DgHfHKNGJO-tyGNiViZb2JIeXEasiIAwSfDlkavLeUNzjIU_yrm4n4WbORlrarHS",
+ "genre": "Jazz & Blues",
+ "track_url": "",
+ "reference_vid": "4fbeb407c2eea3b5",
+ "vid": "4fbeb407c2eea3b5",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Jazz & Blues",
+ "mood": "Bright",
+ "len": 225,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "organ"
+ ],
+ "title": "River Changes",
+ "artist": "Freedom Trail Studio"
+}

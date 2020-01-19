@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "f3b93b3c5143fca3",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Pop",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f3b93b3c5143fca3",
+ "popularity_percentile": 95,
+ "vid": "f3b93b3c5143fca3",
+ "streamid": "4LQItGeGv7TeNecWiKxh8fPQYWThbrcQeEimQ48-r2a52A2mUHLKJFYqXsoZpprR",
+ "artist": "JR Tundra",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBmM2I5M2IzYzUxNDNmY2EzEAAYAg%3D%3D&sigh=ZIsLoWX4av5kg0qmHE0qXg",
+ "display_category": "",
+ "title": "Bubblegum Ballgame",
+ "album": "None",
+ "license_type": 0,
+ "mood": "Happy",
+ "display_genre": "Pop",
+ "reference_vid": "f3b93b3c5143fca3",
+ "artist_url": "",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Organ",
+  "Piano",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "len": 126.55,
+ "category": ""
+}

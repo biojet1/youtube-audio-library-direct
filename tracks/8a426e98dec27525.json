@@ -1,0 +1,32 @@
+{
+ "vid": "8a426e98dec27525",
+ "downloadable": true,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Acoustic Guitar"
+ ],
+ "len": 131.45,
+ "artist_channel_url": null,
+ "fp_ref_id": "8a426e98dec27525",
+ "display_genre": "Children's",
+ "artist": "The Green Orbs",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChA4YTQyNmU5OGRlYzI3NTI1EAAYAg%3D%3D&sigh=WX-eEirbVUAjx9DrW5-G0g",
+ "display_mood": "Happy",
+ "display_category": "",
+ "title": "Mary Had A Little Lamb (vocal)",
+ "album": "None",
+ "reference_vid": "8a426e98dec27525",
+ "mood": "Happy",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a426e98dec27525",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_url": "",
+ "popularity_percentile": 54,
+ "genre": "Children's",
+ "streamid": "3aP-mGTiOIaeP8JeUoBZMESclTDghKwyfm02z2ZPi4xienToxF8pY1iAvSLlJnB6"
+}

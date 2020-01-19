@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "c58e0f63a7653a3e",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Public Memory",
+ "vid": "c58e0f63a7653a3e",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChBjNThlMGY2M2E3NjUzYTNlEAAYAg%3D%3D&sigh=e8goto5IQzhWWCi4-YgpPg",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Skying",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c58e0f63a7653a3e",
+ "reference_vid": "c58e0f63a7653a3e",
+ "mood": "Dramatic",
+ "streamid": "1UKDwhsPmPHCuiZeho2hatsbSFTdtRDJFsERCOctl_jiUlAkbF-Wo6zJP_Mt8QQb",
+ "track_url": "",
+ "album": "None",
+ "len": 146,
+ "instruments": [
+  "drums",
+  "percussion",
+  "synth",
+  "bass"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic"
+}

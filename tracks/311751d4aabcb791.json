@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=311751d4aabcb791",
+ "display_mood": "Calm",
+ "downloadable": true,
+ "category": "",
+ "title": "Cosmic Groove",
+ "track_url": "",
+ "vid": "311751d4aabcb791",
+ "mood": "Calm",
+ "is_new_track": false,
+ "len": 180,
+ "instruments": [
+  "percussion",
+  "strings",
+  "synth"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "J0ynSr-hjjOcowAakZPlSamEhPhVkNpVf6ps5NzCnXguCqm7KM48M8fmDKaQvtHv",
+ "display_genre": "Cinematic",
+ "artist": "Cooper Cannell",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "reference_vid": "311751d4aabcb791",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChAzMTE3NTFkNGFhYmNiNzkxEAAYAg%3D%3D&sigh=SnZFFWV0mx5LW2OsmqOvwg",
+ "fp_ref_id": "311751d4aabcb791",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "license_type": 1
+}

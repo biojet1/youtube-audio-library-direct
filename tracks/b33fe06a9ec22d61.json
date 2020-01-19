@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "title": "Foiled Again",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Matt Harris",
+ "vid": "b33fe06a9ec22d61",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "reference_vid": "b33fe06a9ec22d61",
+ "track_url": "",
+ "streamid": "FQ7lIVroRZ_bDNnJJu5SCQhozkgF_qNY-7JnM9zmAi1iQZKoUObJigiRnhO0Ik8w",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b33fe06a9ec22d61",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBiMzNmZTA2YTllYzIyZDYxEAAYAg%3D%3D&sigh=VZS_rRP1Pw7OAdOZz1baRA",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "b33fe06a9ec22d61",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 104.533,
+ "display_genre": "Cinematic"
+}

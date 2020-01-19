@@ -1,0 +1,33 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73f4667e58f7830a",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "SjE3MwqD5wyzlONW6zjKDHf9D2DZohWxnYqQEj1QwBFvsXSTfwQHn4qIobqWEulc",
+ "genre": "Dance & Electronic",
+ "vid": "73f4667e58f7830a",
+ "reference_vid": "73f4667e58f7830a",
+ "fp_ref_id": "73f4667e58f7830a",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChA3M2Y0NjY3ZTU4Zjc4MzBhEAAYAg%3D%3D&sigh=Nn3wKSP7fxg4WQ7hoQWAdQ",
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums",
+  "electric guitar",
+  "strings"
+ ],
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "artist": "RKVC",
+ "title": "Inevitable Hope",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Dance & Electronic",
+ "len": 159,
+ "mood": "Bright"
+}

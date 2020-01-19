@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA0ODU0M2ZlZDE3MzRlNGUyEAAYAg%3D%3D&sigh=7BAdaekqfMnwpjg53dIqTA",
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "uSgAYSzfRVwtRY9ytg3BVDi1eU_8FzKgZCovU6Xl3vZz1V0QWRmFvStpfdnJWAAs",
+ "artist": "Ethan Meixsell",
+ "len": 118.45,
+ "genre": "Rock",
+ "mood": "Angry",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "48543fed1734e4e2",
+ "reference_vid": "48543fed1734e4e2",
+ "popularity_percentile": 28,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48543fed1734e4e2",
+ "fp_ref_id": "48543fed1734e4e2",
+ "display_mood": "Angry",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Run",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ]
+}

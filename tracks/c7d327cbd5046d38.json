@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "reference_vid": "c7d327cbd5046d38",
+ "streamid": "I2Vy1fVVHbTKV6Ix39ouAF7Qr4gFbE4k18i-U_H_bTYvPxFN0E7qq8Ifjvl2NOJw",
+ "artist_url": "https://www.youtube.com/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "favorite": false,
+ "fp_ref_id": "c7d327cbd5046d38",
+ "len": 150,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Classical",
+ "artist": "Asher Fulero",
+ "mood": "Romantic",
+ "vid": "c7d327cbd5046d38",
+ "display_mood": "Romantic",
+ "title": "Beseeched",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBjN2QzMjdjYmQ1MDQ2ZDM4EAAYAg%3D%3D&sigh=vRcOJHMAcOUo43mFGqrdYw",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "piano"
+ ],
+ "genre": "Classical",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c7d327cbd5046d38",
+ "category": ""
+}

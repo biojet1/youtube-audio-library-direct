@@ -1,0 +1,32 @@
+{
+ "mood": "Bright",
+ "artist": "Verified Picasso",
+ "vid": "2b10e35dad030ea2",
+ "display_category": "",
+ "streamid": "voUdJzKKrVtMlRJFdDgkcROtDG63cZdj6GcyNW2m7p6AYaD-kmwGKT5WQhmRJM05",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2b10e35dad030ea2",
+ "fp_ref_id": "2b10e35dad030ea2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChAyYjEwZTM1ZGFkMDMwZWEyEAAYAg%3D%3D&sigh=WTNr2cwQfMX0pczOC4HvcQ",
+ "display_genre": "Hip Hop & Rap",
+ "len": 145,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "bass",
+  "808",
+  "drums",
+  "synth"
+ ],
+ "reference_vid": "2b10e35dad030ea2",
+ "title": "Yo Picasso",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "license_type": 1,
+ "display_mood": "Bright",
+ "popularity_percentile": 99
+}

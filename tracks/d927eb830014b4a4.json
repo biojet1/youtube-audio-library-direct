@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "artist": "Konrad OldMoney",
+ "category": "",
+ "artist_channel_url": "/channel/UCOKKRpPuacmwPSpf2t3tdeg",
+ "title": "Silk n Cashmere Riddim",
+ "album": "None",
+ "fp_ref_id": "d927eb830014b4a4",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChBkOTI3ZWI4MzAwMTRiNGE0EAAYAg%3D%3D&sigh=Ce8yXV9UunI5DhTQcO0qHw",
+ "genre": "Dance & Electronic",
+ "vid": "d927eb830014b4a4",
+ "streamid": "_GFmQ5_XJM3kT0aAd2uXQhnq3Z7gR-6ro1Vhmeu1QSwKgqiKUuMtPglROiY1xO2R",
+ "display_category": "",
+ "display_mood": "Happy",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d927eb830014b4a4",
+ "reference_vid": "d927eb830014b4a4",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCOKKRpPuacmwPSpf2t3tdeg",
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "percussion",
+  "electric guitar",
+  "bass"
+ ],
+ "len": 100.9
+}

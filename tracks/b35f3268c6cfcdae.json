@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://www.twinmusicom.org",
+ "favorite": false,
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBiMzVmMzI2OGM2Y2ZjZGFlEAAYAg%3D%3D&sigh=A99H-1CLRlIckWd6OAKh2A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b35f3268c6cfcdae",
+ "track_url": "http://www.twinmusicom.org/song/295/video-game-soldiers",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "b35f3268c6cfcdae",
+ "fp_ref_id": "b35f3268c6cfcdae",
+ "category": "",
+ "title": "Video Game Soldiers",
+ "reference_vid": "b35f3268c6cfcdae",
+ "artist": "Twin Musicom",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Piano"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "t1rB6gGVjk7jgBH2yI1gCvf-gIEVnxja-Yuh1Z1Szouz0-W2adQ6EtPeMZEK6igQ",
+ "len": 128.015,
+ "license_type": 6,
+ "is_new_track": false
+}

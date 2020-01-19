@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 67,
+ "downloadable": true,
+ "vid": "ba2651d730aaa04e",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ba2651d730aaa04e",
+ "fp_ref_id": "ba2651d730aaa04e",
+ "genre": "Ambient",
+ "album": "None",
+ "title": "The Visitors",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "track_url": "",
+ "display_mood": "Dramatic",
+ "streamid": "WyhGYsqXJicdfj0UFYtBIvQV6nRVws-gA50seY30gDjCehwae7H7ljBsCjM0jJaG",
+ "artist": "Audionautix",
+ "mood": "Dramatic",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "ba2651d730aaa04e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChBiYTI2NTFkNzMwYWFhMDRlEAAYAg%3D%3D&sigh=Hy4vqBHUpwHVymNc0lnh2A",
+ "display_category": "",
+ "len": 192.916,
+ "display_genre": "Ambient"
+}

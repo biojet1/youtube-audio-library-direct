@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "694d2691f94338a2",
+ "display_category": "",
+ "fp_ref_id": "694d2691f94338a2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=694d2691f94338a2",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChA2OTRkMjY5MWY5NDMzOGEyEAAYAg%3D%3D&sigh=qgT6xJxfC5HWqPnsDLkrhw",
+ "streamid": "Ssx5KJeGba0Cui3frlkrWQHuCbAmjlUV-teBELhbD1l9rSM-xF4F69I4BkfC8Lfl",
+ "genre": "Ambient",
+ "vid": "694d2691f94338a2",
+ "artist": "White Hex",
+ "display_genre": "Ambient",
+ "title": "Lost Constructs",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 113,
+ "display_mood": "Dramatic",
+ "downloadable": true
+}

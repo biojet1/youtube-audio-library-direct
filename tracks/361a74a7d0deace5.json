@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=361a74a7d0deace5",
+ "fp_ref_id": "361a74a7d0deace5",
+ "len": 147.2,
+ "artist": "Coyote Hearing",
+ "mood": "Dark",
+ "reference_vid": "361a74a7d0deace5",
+ "vid": "361a74a7d0deace5",
+ "title": "On Transience",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Drum Machine"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "streamid": "rX5Kk9GtiIhtEo8DS_CpCCqTbn-xik3HKEkOC4-oVUgY70mpPoyBlhd96RKhxkoG",
+ "display_genre": "Dance & Electronic",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChAzNjFhNzRhN2QwZGVhY2U1EAAYAg%3D%3D&sigh=mdzoIc5RGTmFDdz2Vxopww"
+}

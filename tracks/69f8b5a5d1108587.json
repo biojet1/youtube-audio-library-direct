@@ -1,0 +1,30 @@
+{
+ "reference_vid": "69f8b5a5d1108587",
+ "display_mood": "Calm",
+ "fp_ref_id": "69f8b5a5d1108587",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=69f8b5a5d1108587",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "vid": "69f8b5a5d1108587",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChA2OWY4YjVhNWQxMTA4NTg3EAAYAg%3D%3D&sigh=YwRZ3dL_uiTvvBsR14VlbQ",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "RYq1eAdhtuGJC0M5Tfyk71btmcBBLciOwYRmaF2Gre2YA-yyfqt2P7Ws_zI2f9Ys",
+ "len": 187.216,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/?keywords=electro+sketch&Search=Search",
+ "album": "None",
+ "license_type": 6,
+ "title": "Electro Sketch",
+ "genre": "Dance & Electronic",
+ "display_category": ""
+}

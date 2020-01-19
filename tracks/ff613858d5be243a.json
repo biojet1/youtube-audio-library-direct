@@ -1,0 +1,31 @@
+{
+ "reference_vid": "ff613858d5be243a",
+ "display_mood": "Calm",
+ "fp_ref_id": "ff613858d5be243a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ff613858d5be243a",
+ "mood": "Calm",
+ "artist": "Audionautix",
+ "vid": "ff613858d5be243a",
+ "favorite": false,
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjRDBIWChBmZjYxMzg1OGQ1YmUyNDNhEAAYAg%3D%3D&sigh=zj8YL_HvA0ULYjnPNps-WA",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "eQwtWaAUH3D0Saqso-6UvZR5HoTt39LwCbW7G_TTI9FZIbD1OKnLcpkqAzTqJPW7",
+ "len": 207.316,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 6,
+ "title": "V for Victory",
+ "genre": "Pop",
+ "display_category": ""
+}

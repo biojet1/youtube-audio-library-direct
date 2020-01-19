@@ -1,0 +1,32 @@
+{
+ "vid": "d948952a3cccf2fe",
+ "display_mood": "Angry",
+ "title": "Sonos",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBkOTQ4OTUyYTNjY2NmMmZlEAAYAg%3D%3D&sigh=34-OnGaBQzj0SI4Io-2wpQ",
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "mood": "Angry",
+ "artist": "Lish Grooves",
+ "reference_vid": "d948952a3cccf2fe",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d948952a3cccf2fe",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 99,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "genre": "Jazz & Blues",
+ "artist_channel_url": "/channel/UCic-oq3pWq4hfUVbxP7zxMQ",
+ "album": "None",
+ "streamid": "gHiNfMaUUeUzhLmz4d4QZf_2Re4eCp2JYciqTJBKDZMuN1B73sx0K14bM3MiFQ93",
+ "artist_url": "https://www.youtube.com/channel/UCic-oq3pWq4hfUVbxP7zxMQ",
+ "len": 133,
+ "fp_ref_id": "d948952a3cccf2fe",
+ "license_type": 1,
+ "is_new_track": false
+}

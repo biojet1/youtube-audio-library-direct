@@ -1,0 +1,31 @@
+{
+ "genre": "Reggae",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Audionautix",
+ "fp_ref_id": "72ab232aaf020fee",
+ "display_mood": "Funky",
+ "display_genre": "Reggae",
+ "vid": "72ab232aaf020fee",
+ "mood": "Funky",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCUDhIWChA3MmFiMjMyYWFmMDIwZmVlEAAYAg%3D%3D&sigh=KghUTqUVVwtUXaaytsNb-A",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Rhastafarian",
+ "category": "",
+ "len": 232.416,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=72ab232aaf020fee",
+ "reference_vid": "72ab232aaf020fee",
+ "streamid": "ZB1eF98se5F-_mmWOXWO35zPhoujzz1xlTv8ze4k-I3fn4R8T_PExZMo_n4htcLB"
+}

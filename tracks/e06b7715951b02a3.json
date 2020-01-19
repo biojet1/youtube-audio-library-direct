@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "album": "None",
+ "artist": "JR Tundra",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "len": 124.15,
+ "reference_vid": "e06b7715951b02a3",
+ "fp_ref_id": "e06b7715951b02a3",
+ "display_genre": "Alternative & Punk",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e06b7715951b02a3",
+ "category": "",
+ "title": "Black Highway",
+ "genre": "Alternative & Punk",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e06b7715951b02a3",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChBlMDZiNzcxNTk1MWIwMmEzEAAYAg%3D%3D&sigh=Eu6SCvWjLR95Lvec2CB0mA",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "31v4MBvB-DzV09uLpbaDOAtSVZv_kWRsKSIoccautVqTbM6ZMiazJ4JinAqOdezI"
+}

@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "beaa04b0537a3ac8",
+ "instruments": [
+  "strings",
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Cinematic",
+ "category": "",
+ "artist": "RW Smith",
+ "display_category": "",
+ "streamid": "85oCtr59ntAmEYyP4XqBnKMNiEEyAFpmMMnNhaEN5H_pkCOGlb7L8XGeHUOlWvXB",
+ "license_type": 0,
+ "vid": "beaa04b0537a3ac8",
+ "popularity_percentile": 74,
+ "reference_vid": "beaa04b0537a3ac8",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 108.033,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBiZWFhMDRiMDUzN2EzYWM4EAAYAg%3D%3D&sigh=WmM8qEsMd6raj1ue4M8D2A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=beaa04b0537a3ac8",
+ "title": "Done Runnin"
+}

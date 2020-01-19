@@ -1,0 +1,30 @@
+{
+ "reference_vid": "98f6bb4b90882611",
+ "popularity_percentile": 78,
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "fp_ref_id": "98f6bb4b90882611",
+ "instruments": [
+  "Piano",
+  "Synth"
+ ],
+ "title": "Aretes",
+ "downloadable": true,
+ "mood": "Calm",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 276.45,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "streamid": "7AKToei6lRXEyMpQ_PPMogO4JZXLDoTNqxfMM2WP8uKeRaN3tb5HxCS-gqf0R1wT",
+ "vid": "98f6bb4b90882611",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDsEBIWChA5OGY2YmI0YjkwODgyNjExEAAYAg%3D%3D&sigh=PcttMqv1_THJ5Kz7J5qQsg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=98f6bb4b90882611",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100325",
+ "album": "None",
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Ambient"
+}

@@ -1,0 +1,29 @@
+{
+ "genre": "Classical",
+ "display_genre": "Classical",
+ "len": 180.083,
+ "display_category": "",
+ "reference_vid": "422cd12495cf69e9",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 1,
+ "album": "None",
+ "artist": "United States Naval Academy Band",
+ "fp_ref_id": "422cd12495cf69e9",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "zomzCW2EIglQKOyTaREz5ZDztbUgSOmsR3vLBRhxvyencZ2I3ykqXRNUd_U9h1FM",
+ "display_mood": "Bright",
+ "vid": "422cd12495cf69e9",
+ "track_url": "",
+ "instruments": [
+  "Trumpet"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChA0MjJjZDEyNDk1Y2Y2OWU5EAAYAg%3D%3D&sigh=MbHuQxTNwjYGZweHht6eFw",
+ "category": "",
+ "title": "National Emblem",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=422cd12495cf69e9"
+}

@@ -1,0 +1,32 @@
+{
+ "streamid": "vX6hbhL-hLfNoAvkToaDPp92yb2cA_8LeU3zICDk1tgbBoZn9WyQuAy56uhGq6c3",
+ "genre": "Rock",
+ "fp_ref_id": "ccefb96156e3d47d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ccefb96156e3d47d",
+ "favorite": false,
+ "reference_vid": "ccefb96156e3d47d",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Dark",
+ "display_category": "",
+ "vid": "ccefb96156e3d47d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBjY2VmYjk2MTU2ZTNkNDdkEAAYAg%3D%3D&sigh=wBFF15-UOFF0QzmZYwHWsg",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "title": "Floor Plan",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 0,
+ "display_genre": "Rock",
+ "mood": "Dark",
+ "len": 127.65,
+ "popularity_percentile": 80
+}

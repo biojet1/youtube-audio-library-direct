@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "7a32f215973c1be9",
+ "reference_vid": "7a32f215973c1be9",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a32f215973c1be9",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "4-omfZHD_jc7d7wdGNjrvdgskekCxLr4WoayAJBjYPnwX7pTH0ncDRxf8w1zAN4X",
+ "genre": "Rock",
+ "popularity_percentile": 48,
+ "mood": "Dark",
+ "downloadable": true,
+ "vid": "7a32f215973c1be9",
+ "len": 151.083,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "favorite": false,
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA3YTMyZjIxNTk3M2MxYmU5EAAYAg%3D%3D&sigh=nn4EytGzycp7YMV98QQhpA",
+ "display_mood": "Dark",
+ "album": "None",
+ "title": "I Want More",
+ "display_category": ""
+}

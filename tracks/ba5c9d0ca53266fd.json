@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "genre": "Pop",
+ "is_new_track": false,
+ "artist": "Quincas Moreira",
+ "title": "Tango Mango",
+ "streamid": "JCV8KHhaISDZR1kwy8Za1g9YtZzD5cfkcHP_B3CiMxB5LzcSM6L-Ysk9LjSH6h0S",
+ "downloadable": true,
+ "album": "None",
+ "len": 132,
+ "fp_ref_id": "ba5c9d0ca53266fd",
+ "vid": "ba5c9d0ca53266fd",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "display_mood": "Romantic",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ba5c9d0ca53266fd",
+ "instruments": [
+  "Bass",
+  "Strings",
+  "Piano"
+ ],
+ "license_type": 1,
+ "mood": "Romantic",
+ "display_genre": "Pop",
+ "track_url": "",
+ "reference_vid": "ba5c9d0ca53266fd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChBiYTVjOWQwY2E1MzI2NmZkEAAYAg%3D%3D&sigh=gLqJtQVcaoIlNZVzJFoESQ",
+ "category": "",
+ "popularity_percentile": 99
+}

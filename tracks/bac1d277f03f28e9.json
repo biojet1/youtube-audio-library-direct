@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "len": 148,
+ "vid": "bac1d277f03f28e9",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "synth",
+  "electric guitar"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "bac1d277f03f28e9",
+ "album": "None",
+ "display_mood": "Dark",
+ "artist_channel_url": "/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBiYWMxZDI3N2YwM2YyOGU5EAAYAg%3D%3D&sigh=IbtOmH5ucSh1PpulRo-KMg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bac1d277f03f28e9",
+ "mood": "Dark",
+ "genre": "Dance & Electronic",
+ "title": "Devildog",
+ "display_genre": "Dance & Electronic",
+ "artist": "Mike Relm",
+ "reference_vid": "bac1d277f03f28e9",
+ "streamid": "AjUDL8aJxSY9LNMZ-gp5RG4AlmP_ew7qPwFWC7sOfmM2bzcAxaee9uG19aZe8KO1"
+}

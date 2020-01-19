@@ -1,0 +1,33 @@
+{
+ "mood": "Dramatic",
+ "title": "The Simplest",
+ "album": "None",
+ "artist": "Jingle Punks",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Hip Hop & Rap",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "vid": "0d0573baa7c47b88",
+ "streamid": "rmPYcNHk6U8UKjbohRUnXTC_P_QkFIszFr3GKISMm3jIq2hGjkoVhXVrfRcJiav_",
+ "genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChAwZDA1NzNiYWE3YzQ3Yjg4EAAYAg%3D%3D&sigh=nDuPRG087bLpc2mb4gzR2A",
+ "fp_ref_id": "0d0573baa7c47b88",
+ "len": 154.316,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Synth",
+  "Bass",
+  "Piano"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0d0573baa7c47b88",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d0573baa7c47b88",
+ "downloadable": true
+}

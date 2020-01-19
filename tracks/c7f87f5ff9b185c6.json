@@ -1,0 +1,31 @@
+{
+ "vid": "c7f87f5ff9b185c6",
+ "display_mood": "Angry",
+ "title": "Fire Breather",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChBjN2Y4N2Y1ZmY5YjE4NWM2EAAYAg%3D%3D&sigh=Hm4LmVKAMDKI5WIh3F_kQQ",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Angry",
+ "artist": "Silent Partner",
+ "reference_vid": "c7f87f5ff9b185c6",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c7f87f5ff9b185c6",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 78,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "dn4HOYq3g6vrNbbD2f63I90Lbu12vzRjGZ03VpcCP-rxAgEFr6B1FUkdkQw8k1MC",
+ "artist_url": "",
+ "len": 117.216,
+ "fp_ref_id": "c7f87f5ff9b185c6",
+ "license_type": 0,
+ "is_new_track": false
+}

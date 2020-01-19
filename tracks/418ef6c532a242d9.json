@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "418ef6c532a242d9",
+ "display_genre": "Children's",
+ "favorite": false,
+ "artist_channel_url": "/channel/UC2lHxFyHL96NPhdU9XyXnPQ",
+ "len": 117,
+ "streamid": "WXhvQo1GiwyObcRe5B6_YxXOb3v-6I7cnyPR1LpN8vAjmOEZcuHlcGzcpQiwU_ln",
+ "license_type": 1,
+ "vid": "418ef6c532a242d9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChA0MThlZjZjNTMyYTI0MmQ5EAAYAg%3D%3D&sigh=UN3Md5cUOtDMhzGU18KPBg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=418ef6c532a242d9",
+ "title": "Sunny Day",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "display_category": "",
+ "fp_ref_id": "418ef6c532a242d9",
+ "artist_url": "https://www.youtube.com/channel/UC2lHxFyHL96NPhdU9XyXnPQ?internalcountrycode=US",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar",
+  "bass",
+  "piano",
+  "electric piano"
+ ],
+ "artist": "Reed Mathis",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Children's",
+ "category": ""
+}

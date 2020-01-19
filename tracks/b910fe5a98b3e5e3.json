@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "vid": "b910fe5a98b3e5e3",
+ "album": "None",
+ "artist_channel_url": "/channel/UCBCI_QCAMe1hx8UNyvJlM_Q",
+ "artist_url": "https://www.youtube.com/channel/UCBCI_QCAMe1hx8UNyvJlM_Q",
+ "artist": "Bad Snacks",
+ "genre": "Dance & Electronic",
+ "fp_ref_id": "b910fe5a98b3e5e3",
+ "streamid": "jyy63Y4urYqfx7EwIvggvJMWv0M7osACQ9E5lbF64xZqm9y8swSnhVMEPEnjIGy_",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChBiOTEwZmU1YTk4YjNlNWUzEAAYAg%3D%3D&sigh=ap9R89sBQaM0eGbQTEKKdg",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "title": "Kawaii!",
+ "track_url": "",
+ "len": 162,
+ "popularity_percentile": 99,
+ "reference_vid": "b910fe5a98b3e5e3",
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b910fe5a98b3e5e3",
+ "instruments": [
+  "percussion",
+  "drums",
+  "synth"
+ ],
+ "is_new_track": false
+}

@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "artist": "Reed Mathis",
+ "artist_channel_url": "/channel/UC68AFP-IByN3wAe1uc4fzxw",
+ "downloadable": true,
+ "fp_ref_id": "f7142925eb1fe8d7",
+ "popularity_percentile": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChBmNzE0MjkyNWViMWZlOGQ3EAAYAg%3D%3D&sigh=oiguco4ZaXA24adgD3-D9A",
+ "favorite": false,
+ "genre": "Rock",
+ "category": "",
+ "vid": "f7142925eb1fe8d7",
+ "streamid": "GDIlAur9LFvLrCM4eANEozvGHpaKV7Hl5oFdq0Vf7WBRb_8e712OZTWblozaiaE0",
+ "mood": "Happy",
+ "reference_vid": "f7142925eb1fe8d7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f7142925eb1fe8d7",
+ "title": "Please Advise",
+ "display_mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UC68AFP-IByN3wAe1uc4fzxw",
+ "license_type": 1,
+ "display_genre": "Rock",
+ "display_category": "",
+ "instruments": [
+  "electric guitar",
+  "keys",
+  "electric piano",
+  "bass drums",
+  "acoustic guitar"
+ ],
+ "len": 155,
+ "album": "None",
+ "track_url": ""
+}

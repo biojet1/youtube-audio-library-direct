@@ -1,0 +1,31 @@
+{
+ "artist": "Kevin MacLeod",
+ "mood": "Dark",
+ "vid": "5ee5466b79db7551",
+ "streamid": "UPCkvBqsuRxPPeX5JPAuFvTIFALjhvHI2zq31dFrE7_pHHk1FiDd_mj8rFkYCZ_y",
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400056",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ee5466b79db7551",
+ "fp_ref_id": "5ee5466b79db7551",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj0EBIWChA1ZWU1NDY2Yjc5ZGI3NTUxEAAYAg%3D%3D&sigh=FJaIOfqUP86Fl9kIu6VsJw",
+ "len": 277.866,
+ "display_genre": "Ambient",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Ambient",
+ "reference_vid": "5ee5466b79db7551",
+ "title": "Metaphysik",
+ "instruments": [
+  "Synth",
+  "Strings",
+  "Piano"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "display_mood": "Dark",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 6
+}

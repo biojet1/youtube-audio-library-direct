@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 36,
+ "is_new_track": false,
+ "vid": "f255ce88db986acd",
+ "downloadable": true,
+ "fp_ref_id": "f255ce88db986acd",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f255ce88db986acd",
+ "album": "None",
+ "artist": "Audionautix",
+ "display_mood": "Dark",
+ "streamid": "RpWqpsOG_2yobU7M1HKmU78WYUjSm1VtC-GWnYfTO1aXXv_BtE9pQeiSRkn64-iH",
+ "mood": "Dark",
+ "title": "Meditation 1",
+ "genre": "Ambient",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Ambient",
+ "reference_vid": "f255ce88db986acd",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "len": 270.05,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLC9EBIWChBmMjU1Y2U4OGRiOTg2YWNkEAAYAg%3D%3D&sigh=oiThmsy0VotrP1Gi7faMmA"
+}

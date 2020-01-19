@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=35d12a3f9d3627ec",
+ "popularity_percentile": 30,
+ "reference_vid": "35d12a3f9d3627ec",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "-B1L37ZEo0A01eMYPOZeBo82K3zn3wyb7tPhpxYm1QIcD4mnRKfX7n5W8aV1-kf7",
+ "genre": "Ambient",
+ "len": 157.25,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings",
+  "Trumpet"
+ ],
+ "title": "Big Mojo - Vadodara",
+ "display_genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChAzNWQxMmEzZjlkMzYyN2VjEAAYAg%3D%3D&sigh=Z5Myuu2-QZ1LekZmQA7lqQ",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "35d12a3f9d3627ec",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100306",
+ "mood": "Dark",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "35d12a3f9d3627ec",
+ "is_new_track": false,
+ "favorite": false
+}

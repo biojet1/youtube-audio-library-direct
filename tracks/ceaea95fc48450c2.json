@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "ceaea95fc48450c2",
+ "category": "",
+ "title": "Cool Rock - Take the Lead",
+ "display_genre": "Rock",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "genre": "Rock",
+ "display_mood": "Funky",
+ "streamid": "SF2UwWntWcE1fnkaI72XzN_fVRxEk_o4mEAnfyDH47B1VIqTCX5NEKbm4q4Vngw_",
+ "album": "None",
+ "len": 209.383,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ceaea95fc48450c2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjgDBIWChBjZWFlYTk1ZmM0ODQ1MGMyEAAYAg%3D%3D&sigh=mgTkEDOBCX4Hmfm2AlZxZA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "ceaea95fc48450c2",
+ "is_new_track": false,
+ "mood": "Funky",
+ "fp_ref_id": "ceaea95fc48450c2",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100279"
+}

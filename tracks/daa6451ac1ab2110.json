@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "popularity_percentile": 85,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 108.116,
+ "mood": "Calm",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=daa6451ac1ab2110",
+ "title": "Mountain Dub",
+ "streamid": "6q5J9sNvzA3YmIO_1_bnbIensT5P8JrTHrUE-EemjbGcTzKlyWssVSaKoC0R2Ae6",
+ "genre": "Reggae",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBkYWE2NDUxYWMxYWIyMTEwEAAYAg%3D%3D&sigh=nzeSZ0tDCTNED1Jk9IQEPw",
+ "license_type": 0,
+ "fp_ref_id": "daa6451ac1ab2110",
+ "display_mood": "Calm",
+ "vid": "daa6451ac1ab2110",
+ "artist_url": "",
+ "artist": "Gunnar Olsen",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "display_genre": "Reggae",
+ "favorite": false,
+ "reference_vid": "daa6451ac1ab2110"
+}

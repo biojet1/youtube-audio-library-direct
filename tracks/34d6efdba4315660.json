@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "artist_url": "",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "34d6efdba4315660",
+ "display_category": "",
+ "fp_ref_id": "34d6efdba4315660",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=34d6efdba4315660",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "title": "Fall Of The Dynasty",
+ "favorite": false,
+ "license_type": 1,
+ "len": 119,
+ "display_mood": "Dramatic",
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChAzNGQ2ZWZkYmE0MzE1NjYwEAAYAg%3D%3D&sigh=5XGKOCfZehsTGohxg7_Reg",
+ "streamid": "GU9afTIf-HMZdj2lJCMbp9aQu_OyrLz4UlHw_xedgqpyqZisa7gICs-JvqZQJ5Pr",
+ "genre": "Cinematic",
+ "vid": "34d6efdba4315660",
+ "artist": "Asher Fulero"
+}

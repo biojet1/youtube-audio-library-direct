@@ -1,0 +1,32 @@
+{
+ "vid": "09d5beb340859e3c",
+ "display_mood": "Angry",
+ "title": "Don't Shoot!",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChAwOWQ1YmViMzQwODU5ZTNjEAAYAg%3D%3D&sigh=a16QK-VV1stGc0W9kcPMlA",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Angry",
+ "artist": "Jeremy Korpas",
+ "reference_vid": "09d5beb340859e3c",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09d5beb340859e3c",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 99,
+ "instruments": [
+  "synth",
+  "bass",
+  "drums",
+  "electric guitar"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "album": "None",
+ "streamid": "d2d9ae0kfkSKSZrIUO2RjjqFFdrSclY6Z4EbHZRvMq_gZ60MpNkfA7Cw174sou7m",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "len": 111,
+ "fp_ref_id": "09d5beb340859e3c",
+ "license_type": 1,
+ "is_new_track": false
+}

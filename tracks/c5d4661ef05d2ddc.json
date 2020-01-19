@@ -1,0 +1,32 @@
+{
+ "len": 226,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "track_url": "",
+ "category": "",
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c5d4661ef05d2ddc",
+ "title": "Go On Going",
+ "streamid": "8Twiajt381JL3mhCMbLHn7a75_0dkmt5-sA1YoLwBKLB0lP8tTvvwURkQ3HMZzVU",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDlDRIWChBjNWQ0NjYxZWYwNWQyZGRjEAAYAg%3D%3D&sigh=JhJXMDCH-kSB92dSonp4kg",
+ "license_type": 1,
+ "fp_ref_id": "c5d4661ef05d2ddc",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "vid": "c5d4661ef05d2ddc",
+ "artist": "Stayloose",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "c5d4661ef05d2ddc"
+}

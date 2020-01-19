@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "b5e2be71557789ce",
+ "mood": "Dramatic",
+ "reference_vid": "b5e2be71557789ce",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChBiNWUyYmU3MTU1Nzc4OWNlEAAYAg%3D%3D&sigh=vD184hsOJweTKeU49tc3NA",
+ "len": 122.283,
+ "favorite": false,
+ "display_mood": "Dramatic",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b5e2be71557789ce",
+ "streamid": "mOcDnsPsW49dyAkqNyRkAeexXhsjUlQlfP82_6iCTAMEvPvNcOrNFBbkHUkNtOaw",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b5e2be71557789ce",
+ "title": "Crystals",
+ "display_genre": "Dance & Electronic",
+ "artist": "Silent Partner",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

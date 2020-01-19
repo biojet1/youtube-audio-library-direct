@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Funky",
+ "genre": "Jazz & Blues",
+ "streamid": "zh80BYrEU2vFpgUz5NHWyCbB54q_aZDsFl0v_Yyp5Z0uZcw8-Dhbkr1q18pYnCGQ",
+ "fp_ref_id": "8bb3357a63129371",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChA4YmIzMzU3YTYzMTI5MzcxEAAYAg%3D%3D&sigh=tx0oemBexuJkNlWguaBbZw",
+ "mood": "Funky",
+ "vid": "8bb3357a63129371",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8bb3357a63129371",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Guitar"
+ ],
+ "album": "None",
+ "reference_vid": "8bb3357a63129371",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 113.15,
+ "category": "",
+ "title": "Sliding Jigsaw"
+}

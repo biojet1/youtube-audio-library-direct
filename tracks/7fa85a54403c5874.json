@@ -1,0 +1,30 @@
+{
+ "artist": "Audionautix",
+ "display_category": "",
+ "genre": "Jazz & Blues",
+ "vid": "7fa85a54403c5874",
+ "instruments": [
+  "Electric Guitar",
+  "Bass"
+ ],
+ "reference_vid": "7fa85a54403c5874",
+ "artist_url": "http://audionautix.com/",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "album": "None",
+ "category": "",
+ "license_type": 6,
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "7fa85a54403c5874",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7fa85a54403c5874",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiiDBIWChA3ZmE4NWE1NDQwM2M1ODc0EAAYAg%3D%3D&sigh=eotxouYJ3SfzPRqTiM-PmQ",
+ "streamid": "6bew4vbqkHv0BqVZUmgskH0gmdhR-4eKfPEVd1Qc3dxUH_yxxIeZoeRSQYZShDQg",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 201.716,
+ "title": "Big Blues",
+ "favorite": false
+}

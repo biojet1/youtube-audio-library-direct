@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "238e2b48646e1154",
+ "downloadable": true,
+ "fp_ref_id": "238e2b48646e1154",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=238e2b48646e1154",
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "display_mood": "Bright",
+ "streamid": "jOO1Ahlre3U6gJH7o4K4mY0LhxEYqRsr7GMMTaLR_p3BL02JiCgjsyc23_HRiAto",
+ "mood": "Bright",
+ "title": "Merry Go Slower - Distressed",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100732",
+ "favorite": false,
+ "display_genre": "Classical",
+ "reference_vid": "238e2b48646e1154",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "len": 131.216,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAyMzhlMmI0ODY0NmUxMTU0EAAYAg%3D%3D&sigh=GwyV7fmUMpdmM8pNHinSow"
+}

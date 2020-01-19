@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "8168a61eb0835833",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8168a61eb0835833",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChA4MTY4YTYxZWIwODM1ODMzEAAYAg%3D%3D&sigh=wQl9KN-JeZ4Jdx9yNTdQYg",
+ "is_new_track": false,
+ "reference_vid": "8168a61eb0835833",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "category": "",
+ "title": "Mission to Mars",
+ "streamid": "XnZD8qdZAvP0d6P9l7R9Uby1A70-h0b2bt1vj2LWW-Bi7sZi-d_RG3Wv822Z0zbe",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 180,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Audio Hertz",
+ "instruments": [
+  "808",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "fp_ref_id": "8168a61eb0835833"
+}

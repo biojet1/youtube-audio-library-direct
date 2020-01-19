@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a94e72ffa50b5e3b",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a94e72ffa50b5e3b",
+ "fp_ref_id": "a94e72ffa50b5e3b",
+ "genre": "Rock",
+ "album": "None",
+ "title": "Blast Off To Glory",
+ "instruments": [
+  "bass",
+  "drums",
+  "electric guitar",
+  "synth"
+ ],
+ "track_url": "",
+ "display_mood": "Dark",
+ "streamid": "6RJpsGkhl-BBWmo2cnFRsTuhha8f2-qdXIjby7kwp9XRMQ5I3xW3FlhW4z4qgDSL",
+ "artist": "Media Right Productions",
+ "mood": "Dark",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a94e72ffa50b5e3b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBhOTRlNzJmZmE1MGI1ZTNiEAAYAg%3D%3D&sigh=YTe59zkoRmKt_y0pzyjhNQ",
+ "display_category": "",
+ "len": 104.05,
+ "display_genre": "Rock"
+}

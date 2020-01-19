@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=20a77b60ce5f345d",
+ "fp_ref_id": "20a77b60ce5f345d",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "20a77b60ce5f345d",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Acoustic Guitar"
+ ],
+ "len": 4.483,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDIwYTc3YjYwY2U1ZjM0NWQQABgC&sigh=_xwSYEptIYWP0xqNe5yyxQ",
+ "album": "None",
+ "title": "Danzon De Pasion (Sting)",
+ "popularity_percentile": 13,
+ "streamid": "TamhMLwMtSSzYiYDaDUrrGGObevKFK6Pl4DakKr5w6U8VF2Kp_hRc9Tzxfeusnh0",
+ "mood": "Happy",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "favorite": false,
+ "vid": "20a77b60ce5f345d",
+ "track_url": "",
+ "display_genre": "Jazz & Blues",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Jimmy Fontanez/Media Right Productions"
+}

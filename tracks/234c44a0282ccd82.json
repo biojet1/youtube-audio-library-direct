@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=234c44a0282ccd82",
+ "downloadable": true,
+ "reference_vid": "234c44a0282ccd82",
+ "mood": "Inspirational",
+ "artist_url": "https://www.youtube.com/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "license_type": 1,
+ "len": 205,
+ "instruments": [
+  "bass",
+  "synths",
+  "drums",
+  "strings"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjBDBIWChAyMzRjNDRhMDI4MmNjZDgyEAAYAg%3D%3D&sigh=u7fQLSUOrA3YN11u97QvBg",
+ "streamid": "xMyZU7yoM2wmLbsc16IAl67xSv8EXU_KpkZu8ikn3t3gBq6Rsbl2lihSJP4DjgjF",
+ "genre": "Pop",
+ "display_category": "",
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "display_genre": "Pop",
+ "vid": "234c44a0282ccd82",
+ "artist": "Vibe Mountain",
+ "popularity_percentile": 99,
+ "fp_ref_id": "234c44a0282ccd82",
+ "category": "",
+ "title": "Clover 3",
+ "album": "None"
+}

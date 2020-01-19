@@ -1,0 +1,30 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDyDhIWChA1ODNmNDMzMDIyN2FhYWE3EAAYAg%3D%3D&sigh=VpZi3kgjamcmuXhll-u2Jw",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "583f4330227aaaa7",
+ "reference_vid": "583f4330227aaaa7",
+ "popularity_percentile": 99,
+ "artist": "Max McFerren",
+ "artist_channel_url": "/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=583f4330227aaaa7",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "streamid": "1hyFnxWw7tnqHlc2-Wyjp6TTsXXb3ZWofi5Ckzsg0uACdeBeXpa81kxwaPiNip75",
+ "title": "Come With Some Funk",
+ "downloadable": true,
+ "category": "",
+ "len": 244,
+ "artist_url": "https://www.youtube.com/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "583f4330227aaaa7",
+ "album": "None"
+}

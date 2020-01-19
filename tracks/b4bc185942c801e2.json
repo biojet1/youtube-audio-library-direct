@@ -1,0 +1,29 @@
+{
+ "streamid": "1N9Xp9cokUBfeSdrvYIsiIt7xh8EhXU8S01xl_03hE6WanK_U6W9aRrQpw2IrciE",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChBiNGJjMTg1OTQyYzgwMWUyEAAYAg%3D%3D&sigh=aH7-tTcSXDE3sOcAgsCYug",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b4bc185942c801e2",
+ "favorite": false,
+ "genre": "Classical",
+ "title": "Harpsichord Fugue",
+ "mood": "Bright",
+ "category": "",
+ "vid": "b4bc185942c801e2",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "b4bc185942c801e2",
+ "len": 147,
+ "display_mood": "Bright",
+ "artist": "Sir Cubworth",
+ "downloadable": true,
+ "fp_ref_id": "b4bc185942c801e2",
+ "album": "None",
+ "instruments": [
+  "strings"
+ ]
+}

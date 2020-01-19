@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "c1ce4a760b981ec2",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "c1ce4a760b981ec2",
+ "title": "Timeless",
+ "mood": "Funky",
+ "len": 178,
+ "artist_url": "https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "artist": "Slenderbeats",
+ "fp_ref_id": "c1ce4a760b981ec2",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "license_type": 1,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "streamid": "xX1Jn095JTfoJ0aEwfbhwTvyQ82DIKln4NRXcDZEK23jYA6zjbFxplIm_TYrVMcc",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c1ce4a760b981ec2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChBjMWNlNGE3NjBiOTgxZWMyEAAYAg%3D%3D&sigh=tDaUUCLlqH_qF77RPtQaxQ"
+}

@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA5MjVlMTQ3OTIzMGQ0MTNmEAAYAg%3D%3D&sigh=Tmsqxq74cQ2D5Q89FxZsqQ",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "reference_vid": "925e1479230d413f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=925e1479230d413f",
+ "genre": "Classical",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "len": 126,
+ "is_new_track": true,
+ "downloadable": true,
+ "streamid": "lIgR_If5grTgkQ22SJO5Mobs9gKFpl1G5QKNXBd_WfLIm_KGzZc5cYSEMa72nC5G",
+ "display_mood": "Calm",
+ "display_genre": "Classical",
+ "mood": "Calm",
+ "title": "Star Spangled Banner",
+ "license_type": 1,
+ "track_url": "",
+ "vid": "925e1479230d413f",
+ "artist": "Cooper Cannell",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "925e1479230d413f",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "instruments": [
+  "cello",
+  "violin",
+  "strings"
+ ],
+ "album": "None"
+}

@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "e59996759de2cbe1",
+ "display_category": "",
+ "fp_ref_id": "e59996759de2cbe1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e59996759de2cbe1",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Inspirational",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "piano",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChBlNTk5OTY3NTlkZTJjYmUxEAAYAg%3D%3D&sigh=UzmggmSDWsz2qVA1ajDLqg",
+ "streamid": "fB2X-OJeKj1nf272IZjQor3hzdcVCbJdRxmwNcuF6b4r_chnt9mE4Qc9MJILiawX",
+ "genre": "Dance & Electronic",
+ "vid": "e59996759de2cbe1",
+ "artist": "Dan Henig",
+ "display_genre": "Dance & Electronic",
+ "title": "Low Life High Life",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 99,
+ "display_mood": "Inspirational",
+ "downloadable": true
+}

@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "favorite": false,
+ "reference_vid": "45fe197ab6faf05c",
+ "category": "",
+ "title": "Future Girl",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums",
+  "electric guitar",
+  "piano"
+ ],
+ "genre": "Dance & Electronic",
+ "display_mood": "Inspirational",
+ "streamid": "-4bAot2EsUmPEM55f7oTDxYv-autt8710ge2Fu01xchHLOhcuksh3dqDpEAlA_gL",
+ "album": "None",
+ "len": 159,
+ "artist": "RKVC",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=45fe197ab6faf05c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChA0NWZlMTk3YWI2ZmFmMDVjEAAYAg%3D%3D&sigh=2ZK271CaUIfFFEtJ8owovw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "45fe197ab6faf05c",
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "fp_ref_id": "45fe197ab6faf05c",
+ "license_type": 1,
+ "track_url": ""
+}

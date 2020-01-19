@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f89c18c329e2d06f",
+ "len": 202.983,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCqDBIWChBmODljMThjMzI5ZTJkMDZmEAAYAg%3D%3D&sigh=YnwLCEAcVZf6dJd7Ifo-gw",
+ "fp_ref_id": "f89c18c329e2d06f",
+ "vid": "f89c18c329e2d06f",
+ "title": "Impact Prelude",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100617",
+ "reference_vid": "f89c18c329e2d06f",
+ "license_type": 6,
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "instruments": [
+  "Electric Guitar",
+  "Synth"
+ ],
+ "streamid": "rEyB1DMwXz-6vQwG4A0pKAUGT3H5iyGNHuTF8aFSB0gkr95ZtorSIeGxPeNfCj6o",
+ "category": ""
+}

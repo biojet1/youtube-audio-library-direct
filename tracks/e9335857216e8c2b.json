@@ -1,0 +1,33 @@
+{
+ "streamid": "_TFmS9aFv5yHCrw7zxi5yX6om02bkobo3ONVJWq3v6m2j_JTgtj_ca70RIBzMMMY",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 170.816,
+ "track_url": "http://www.twinmusicom.org/song/309/night-at-the-dance-hall",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e9335857216e8c2b",
+ "display_category": "",
+ "reference_vid": "e9335857216e8c2b",
+ "title": "Night at the Dance Hall",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChBlOTMzNTg1NzIxNmU4YzJiEAAYAg%3D%3D&sigh=xet-nWh8k40wNB6XIRdgCg",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Trumpet",
+  "Synth"
+ ],
+ "category": "",
+ "display_mood": "Happy",
+ "favorite": false,
+ "fp_ref_id": "e9335857216e8c2b",
+ "artist": "Twin Musicom",
+ "vid": "e9335857216e8c2b",
+ "artist_url": "http://www.twinmusicom.org",
+ "genre": "Pop",
+ "license_type": 6,
+ "display_genre": "Pop"
+}

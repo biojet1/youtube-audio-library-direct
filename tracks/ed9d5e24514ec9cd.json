@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "streamid": "htGDAYeSsiudI7tmL0vCWd1ZvxkdKPhK5E-F-YfAnxzwVbjb5C3KTw2RYvOJP-WO",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ed9d5e24514ec9cd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCHDRIWChBlZDlkNWUyNDUxNGVjOWNkEAAYAg%3D%3D&sigh=fMYFFPTfKJx5DHYbuaI6Lw",
+ "vid": "ed9d5e24514ec9cd",
+ "display_category": "",
+ "title": "Straighty Baby",
+ "album": "None",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Audionautix",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "reference_vid": "ed9d5e24514ec9cd",
+ "len": 214.25,
+ "popularity_percentile": 52,
+ "genre": "Pop",
+ "fp_ref_id": "ed9d5e24514ec9cd",
+ "track_url": "",
+ "display_genre": "Pop",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Synth",
+  "Drums"
+ ],
+ "license_type": 6
+}

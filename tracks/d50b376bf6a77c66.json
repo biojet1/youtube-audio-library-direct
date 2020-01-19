@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Sad",
+ "favorite": false,
+ "len": 157.833,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d50b376bf6a77c66",
+ "category": "",
+ "streamid": "RL1XDNQfsz01QpojQd4rK5oHjWcBqY50GA-yZUtKo4nN1FCygNPZMy-MVpEoerQX",
+ "fp_ref_id": "d50b376bf6a77c66",
+ "mood": "Sad",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChBkNTBiMzc2YmY2YTc3YzY2EAAYAg%3D%3D&sigh=7HLOmbeeaT5DWAYCciaw4w",
+ "popularity_percentile": 0,
+ "reference_vid": "d50b376bf6a77c66",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Piano",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "vid": "d50b376bf6a77c66",
+ "display_genre": "Classical",
+ "track_url": "",
+ "title": "Secret Second Earth",
+ "downloadable": true,
+ "genre": "Classical",
+ "artist": "The 129ers"
+}

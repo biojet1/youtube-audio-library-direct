@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "reference_vid": "91fc7325ef36c598",
+ "streamid": "5zmrJPMvcxBBgnXyjB_6KqQMk27SkdrVrTqCK3o7aVkJUP7gt_WVPmea56sN1jp7",
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "favorite": false,
+ "fp_ref_id": "91fc7325ef36c598",
+ "len": 146,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "artist": "I Think I Can Help You",
+ "mood": "Bright",
+ "vid": "91fc7325ef36c598",
+ "display_mood": "Bright",
+ "title": "Realization of a New Earth",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA5MWZjNzMyNWVmMzZjNTk4EAAYAg%3D%3D&sigh=uuh54OcZ4mDG04TkW7q-bA",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "strings",
+  "bass",
+  "synth",
+  "acoustic guitar"
+ ],
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91fc7325ef36c598",
+ "category": ""
+}

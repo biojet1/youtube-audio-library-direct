@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "reference_vid": "cbc25f47bbf60d38",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChBjYmMyNWY0N2JiZjYwZDM4EAAYAg%3D%3D&sigh=RO5oWPKHmhU4KSt0jR5M0w",
+ "display_mood": "Dramatic",
+ "title": "End of Time",
+ "artist": "Ugonna Onyekwe",
+ "is_new_track": false,
+ "len": 153,
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "cbc25f47bbf60d38",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cbc25f47bbf60d38",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "artist_url": "https://www.youtube.com/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "license_type": 1,
+ "instruments": [
+  "synth",
+  "drums",
+  "strings"
+ ],
+ "fp_ref_id": "cbc25f47bbf60d38",
+ "streamid": "dPpin_kH1XGXKyjwlwgo1WEfZXGb4KxOM3uIq4N0nbB_Pcn99Sthr8gQn7u32lAU"
+}

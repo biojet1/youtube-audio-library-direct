@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Strings"
+ ],
+ "len": 171.95,
+ "fp_ref_id": "a125e139d2c80d36",
+ "streamid": "EiLb35Mfm9XWs-_YmyBlJ1C7lAm3lY3Mi4wCiDP2GrEABdW4mcED5vy8TSpu3dc-",
+ "artist_url": "",
+ "category": "",
+ "genre": "Country & Folk",
+ "popularity_percentile": 64,
+ "vid": "a125e139d2c80d36",
+ "display_genre": "Country & Folk",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a125e139d2c80d36",
+ "album": "None",
+ "title": "Eagle Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChBhMTI1ZTEzOWQyYzgwZDM2EAAYAg%3D%3D&sigh=zpEdDM1Cn1q6wRSTtx1IXg",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "artist": "Wes Hutchinson",
+ "display_category": "",
+ "mood": "Inspirational",
+ "is_new_track": false,
+ "reference_vid": "a125e139d2c80d36",
+ "track_url": "",
+ "license_type": 1
+}

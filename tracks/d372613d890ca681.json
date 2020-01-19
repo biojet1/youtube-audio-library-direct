@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d372613d890ca681",
+ "len": 189.216,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjECxIWChBkMzcyNjEzZDg5MGNhNjgxEAAYAg%3D%3D&sigh=j6QJy3CrMEuFTW6mxFSZcA",
+ "fp_ref_id": "d372613d890ca681",
+ "vid": "d372613d890ca681",
+ "title": "Local Elevator",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300012",
+ "reference_vid": "d372613d890ca681",
+ "license_type": 6,
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "streamid": "q6u_DNn7AETyHyK6P8M7xSRvH_qwgFKy1kH0WyBDRQ2ks_Y33bcCMf9FClBVFqMY",
+ "category": ""
+}

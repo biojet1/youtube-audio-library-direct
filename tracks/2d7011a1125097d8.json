@@ -1,0 +1,30 @@
+{
+ "mood": "Calm",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChAyZDcwMTFhMTEyNTA5N2Q4EAAYAg%3D%3D&sigh=CspdnpLGk0lFOggVL0d5Hg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "category": "",
+ "instruments": [
+  "synths",
+  "drums"
+ ],
+ "display_mood": "Calm",
+ "fp_ref_id": "2d7011a1125097d8",
+ "is_new_track": false,
+ "len": 115,
+ "genre": "Pop",
+ "reference_vid": "2d7011a1125097d8",
+ "downloadable": true,
+ "streamid": "4J00uE1pzgVbJ-bw3EpvYoDCcjbj9v_N1u29KL16udcIxO4FJdbxFz7nSwr-FCNa",
+ "track_url": "",
+ "vid": "2d7011a1125097d8",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2d7011a1125097d8",
+ "artist_url": "https://www.youtube.com/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "license_type": 1,
+ "title": "Classic Rose 2",
+ "artist": "Vibe Mountain"
+}

@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChAwZDcyYTI2MmI2Nzk2YjRiEAAYAg%3D%3D&sigh=ny4MjuzGyyirOfssvdZeMw",
+ "display_category": "",
+ "display_mood": "Sad",
+ "album": "None",
+ "vid": "0d72a262b6796b4b",
+ "downloadable": true,
+ "reference_vid": "0d72a262b6796b4b",
+ "favorite": false,
+ "fp_ref_id": "0d72a262b6796b4b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d72a262b6796b4b",
+ "genre": "Ambient",
+ "streamid": "6Tvk1EISfq_rIUWqDoxVjUDeerFFWD3Q1WpzhG3eVnE2H4r3ejlRY2jNX_6k2w0P",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Sad",
+ "len": 138,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Hungry Ghost",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth"
+ ]
+}

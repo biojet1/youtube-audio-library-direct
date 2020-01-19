@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "len": 168.433,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5cad5cad79e97577",
+ "category": "",
+ "streamid": "RCl5yyto-m65SEtfl74f20Q4so1LNV2068_9H7iwl9150CfT5u_FPNrDqCQA3TCz",
+ "fp_ref_id": "5cad5cad79e97577",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA1Y2FkNWNhZDc5ZTk3NTc3EAAYAg%3D%3D&sigh=fWSf6cvfEQloUz7oII1k9w",
+ "popularity_percentile": 0,
+ "reference_vid": "5cad5cad79e97577",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Synth",
+  "Guitar",
+  "Bass"
+ ],
+ "is_new_track": false,
+ "vid": "5cad5cad79e97577",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "Moog Night",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "The 129ers"
+}

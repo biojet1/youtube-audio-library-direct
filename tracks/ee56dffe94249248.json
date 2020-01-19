@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ee56dffe94249248",
+ "len": 353.583,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjFFRIWChBlZTU2ZGZmZTk0MjQ5MjQ4EAAYAg%3D%3D&sigh=ZuG2m65bgJedru3CIOLiwg",
+ "fp_ref_id": "ee56dffe94249248",
+ "vid": "ee56dffe94249248",
+ "title": "Chomatic2Fuge - Classical Rousing",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "ee56dffe94249248",
+ "license_type": 6,
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "instruments": [
+  "Organ"
+ ],
+ "streamid": "-vi5Aq_V6wLAeEFdQe6DaBD0qCSjIblBSWVkT8Hg4-25wa2YSG2_cWCX7gCwfaoC",
+ "category": ""
+}

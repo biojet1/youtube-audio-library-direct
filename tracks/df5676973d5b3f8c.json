@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=df5676973d5b3f8c",
+ "display_mood": "Calm",
+ "downloadable": true,
+ "category": "",
+ "title": "There's Life Out There",
+ "track_url": "",
+ "vid": "df5676973d5b3f8c",
+ "mood": "Calm",
+ "is_new_track": false,
+ "len": 144,
+ "instruments": [
+  "horns",
+  "synth",
+  "strings"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "OHf8-WkZsynUjx7vC-_eZMqoH7cIG1Ym2RMa3SVaMjpfKpNDmLPHS9GdeZO6Xyx8",
+ "display_genre": "Cinematic",
+ "artist": "Cooper Cannell",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "reference_vid": "df5676973d5b3f8c",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBkZjU2NzY5NzNkNWIzZjhjEAAYAg%3D%3D&sigh=ZpNYn6MHLvKKycs_MILA3Q",
+ "fp_ref_id": "df5676973d5b3f8c",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "license_type": 1
+}

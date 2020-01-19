@@ -1,0 +1,30 @@
+{
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "favorite": false,
+ "fp_ref_id": "23c5dd7a78fe745a",
+ "instruments": [
+  "Trumpet",
+  "Strings"
+ ],
+ "streamid": "X5x6Dg45GDQUz2KeYj9WjF_QRzLfGGcXlGM9GPMM0WlfgHDRr6nIvzubW1A5HzcG",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=23c5dd7a78fe745a",
+ "album": "None",
+ "mood": "Romantic",
+ "downloadable": true,
+ "artist": "United States Marine Band",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 124.916,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChAyM2M1ZGQ3YTc4ZmU3NDVhEAAYAg%3D%3D&sigh=PMFCNSRw85BKpxTtt6CiJw",
+ "reference_vid": "23c5dd7a78fe745a",
+ "popularity_percentile": 14,
+ "artist_channel_url": null,
+ "display_mood": "Romantic",
+ "display_category": "",
+ "track_url": "",
+ "title": "Myositis",
+ "category": "",
+ "vid": "23c5dd7a78fe745a"
+}

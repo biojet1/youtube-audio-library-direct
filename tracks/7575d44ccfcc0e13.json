@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "album": "None",
+ "streamid": "nNCME7IoOdDcxKe3rsD2SSspJv8Ol9bNF2jo1HzUf5bm3r5JqXOgicq0qLTBIMhZ",
+ "title": "Persian Bump",
+ "display_genre": "Dance & Electronic",
+ "vid": "7575d44ccfcc0e13",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "7575d44ccfcc0e13",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 1,
+ "fp_ref_id": "7575d44ccfcc0e13",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "MK2",
+ "len": 241.683,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjaDhIWChA3NTc1ZDQ0Y2NmY2MwZTEzEAAYAg%3D%3D&sigh=wYAJkLhaKL1gw8NoIodi7Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7575d44ccfcc0e13"
+}

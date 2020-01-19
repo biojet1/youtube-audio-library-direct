@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e2d2dfe5d9def357",
+ "category": "",
+ "title": "Ghost Dance",
+ "display_genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "genre": "Classical",
+ "display_mood": "Dark",
+ "streamid": "Uw0Ar8U6PFuw0ZKqqlSZtsK76bF2OVZfk6QaN-evUsIF-LXAis4OQwINeHxXq0lo",
+ "album": "None",
+ "len": 73.316,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e2d2dfe5d9def357",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi6BBIWChBlMmQyZGZlNWQ5ZGVmMzU3EAAYAg%3D%3D&sigh=U0RGefM5jg4EowyJUJZMKg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "e2d2dfe5d9def357",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "e2d2dfe5d9def357",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100573"
+}

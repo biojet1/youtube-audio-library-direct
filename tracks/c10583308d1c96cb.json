@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "mood": "Angry",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODRBBIWChBjMTA1ODMzMDhkMWM5NmNiEAAYAg%3D%3D&sigh=ipx5a98i-R8XIl94GO839A",
+ "title": "Burnt",
+ "vid": "c10583308d1c96cb",
+ "artist_url": "",
+ "streamid": "cVKcENOGcCKxoAJ8F4qvtWjtxC3wEAKNfagsK7l_Uv2g0O37Lrh5fuMfR50EnURr",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c10583308d1c96cb",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "display_mood": "Angry",
+ "len": 76.85,
+ "genre": "Rock",
+ "fp_ref_id": "c10583308d1c96cb",
+ "track_url": "",
+ "album": "None",
+ "display_genre": "Rock",
+ "reference_vid": "c10583308d1c96cb",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Jingle Punks",
+ "popularity_percentile": 75
+}

@@ -1,0 +1,31 @@
+{
+ "vid": "c89c4c412a3da1ea",
+ "display_mood": "Calm",
+ "title": "Eureka",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD7CxIWChBjODljNGM0MTJhM2RhMWVhEAAYAg%3D%3D&sigh=-Eoxr9Kd4y_tmXN1-qGWEw",
+ "favorite": false,
+ "display_genre": "Ambient",
+ "mood": "Calm",
+ "artist": "Huma-Huma",
+ "reference_vid": "c89c4c412a3da1ea",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c89c4c412a3da1ea",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 78,
+ "instruments": [
+  "Synth",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "genre": "Ambient",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "BMayCJGzsCIz52SzXLXjaz27Cuig7BwgzdSNaIDe9vFWIXlPKdkkeg8vbOdY_FBp",
+ "artist_url": "",
+ "len": 196.55,
+ "fp_ref_id": "c89c4c412a3da1ea",
+ "license_type": 0,
+ "is_new_track": false
+}

@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ae8bc1588beb14dd",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBhZThiYzE1ODhiZWIxNGRkEAAYAg%3D%3D&sigh=Ar8jQGP40sIkcFzeE9wdZg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ae8bc1588beb14dd",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "reference_vid": "ae8bc1588beb14dd",
+ "category": "",
+ "len": 126.25,
+ "vid": "ae8bc1588beb14dd",
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "mood": "Dark",
+ "license_type": 0,
+ "genre": "Dance & Electronic",
+ "title": "Slow Shock",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "ft8crZKpAzyA79zci2if_aTtOE8_Jy-RH2NkYlDal2ccguvb0In3Pv9cL_qe7wH_"
+}

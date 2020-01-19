@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 98,
+ "reference_vid": "f95632bde31064ea",
+ "display_genre": "Ambient",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 127.516,
+ "streamid": "Saxhr0axd-_5GqDJui0EZT-MJAyctkhr_WpDmTOBfgIuuLZngSM5ry5sIuW1vTTI",
+ "license_type": 0,
+ "vid": "f95632bde31064ea",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBmOTU2MzJiZGUzMTA2NGVhEAAYAg%3D%3D&sigh=UU9Wo8-xVnb76_6_BKgzWA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f95632bde31064ea",
+ "title": "First of the Last",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Sad",
+ "mood": "Sad",
+ "display_category": "",
+ "fp_ref_id": "f95632bde31064ea",
+ "artist_url": "",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Strings"
+ ],
+ "artist": "Silent Partner",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Ambient",
+ "category": ""
+}

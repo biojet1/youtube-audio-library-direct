@@ -1,0 +1,33 @@
+{
+ "display_category": "",
+ "license_type": 1,
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "cb3e98b2bf5785c0",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBjYjNlOThiMmJmNTc4NWMwEAAYAg%3D%3D&sigh=QIGmSzbPzjM4qdbsZkkRYw",
+ "display_genre": "Rock",
+ "track_url": "",
+ "fp_ref_id": "cb3e98b2bf5785c0",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "instruments": [
+  "organ",
+  "percussion",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "title": "Nomads",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "category": "",
+ "popularity_percentile": 99,
+ "reference_vid": "cb3e98b2bf5785c0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cb3e98b2bf5785c0",
+ "artist": "The Mini Vandals",
+ "display_mood": "Dramatic",
+ "genre": "Rock",
+ "len": 148,
+ "streamid": "WgoHUFQSeVf3DpGyZYqFqX2kLVqwmdoPtCh6i9TDOENzb2_diJN3EIupRJwjO9sz"
+}

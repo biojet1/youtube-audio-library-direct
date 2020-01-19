@@ -1,0 +1,32 @@
+{
+ "display_genre": "Children's",
+ "title": "Twirly Tops",
+ "album": "None",
+ "streamid": "qIef6BN-CqKtLHElzXCmbZzHwBXbiuRULKL2Bdz8GWkOittQSbz1BbtjkZwkVowx",
+ "display_mood": "Happy",
+ "genre": "Children's",
+ "instruments": [
+  "piano",
+  "organ",
+  "drums",
+  "synth"
+ ],
+ "reference_vid": "3f06ae70b1ff7cea",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "category": "",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "track_url": "",
+ "fp_ref_id": "3f06ae70b1ff7cea",
+ "is_new_track": false,
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAzZjA2YWU3MGIxZmY3Y2VhEAAYAg%3D%3D&sigh=ydOpRa8gy-bXhDJJ27jc2w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f06ae70b1ff7cea",
+ "artist": "The Green Orbs",
+ "license_type": 1,
+ "len": 130,
+ "vid": "3f06ae70b1ff7cea",
+ "downloadable": true
+}

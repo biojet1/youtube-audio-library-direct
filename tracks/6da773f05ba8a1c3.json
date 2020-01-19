@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "Ey8LFeipN7XO0vbuLbIzsQZrAp5RkXAQtx7u_Mxq-38KGdCmDTMUmnZVH_FSRcSO",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChA2ZGE3NzNmMDViYThhMWMzEAAYAg%3D%3D&sigh=OnX-De6kbvUtEKVE0KOU3Q",
+ "album": "None",
+ "artist": "Audionautix",
+ "mood": "Dramatic",
+ "len": 154.016,
+ "reference_vid": "6da773f05ba8a1c3",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "vid": "6da773f05ba8a1c3",
+ "title": "Wheel Of Karma",
+ "fp_ref_id": "6da773f05ba8a1c3",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Ambient",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6da773f05ba8a1c3",
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "display_genre": "Ambient"
+}

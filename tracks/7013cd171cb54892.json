@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "title": "Darkness Speaks",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7013cd171cb54892",
+ "reference_vid": "7013cd171cb54892",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100364",
+ "album": "None",
+ "len": 25.083,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "display_category": "",
+ "display_genre": "Ambient",
+ "streamid": "VrlOcfvLpiiPznAFo07lYXtkcWu5eWlYU4phTZwzKs8NN2TcF7WxBq_MzKpTB73u",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "7013cd171cb54892",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "7013cd171cb54892",
+ "category": "",
+ "genre": "Ambient",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKjDARIWChA3MDEzY2QxNzFjYjU0ODkyEAAYAg%3D%3D&sigh=SXWSjSWLhrfLStge8zaSiA"
+}

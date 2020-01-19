@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91bda68b97528285",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChA5MWJkYTY4Yjk3NTI4Mjg1EAAYAg%3D%3D&sigh=YuMAeC8LirO1szL9fVqbMA",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "91bda68b97528285",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_genre": "R&B & Soul",
+ "vid": "91bda68b97528285",
+ "downloadable": true,
+ "title": "Groovy Baby",
+ "reference_vid": "91bda68b97528285",
+ "artist_url": "http://audionautix.com/",
+ "len": 147.916,
+ "artist": "Audionautix",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "Hfyo0vx9cGbSRdt-yxWkFNu8Dgwx7BQSklKEWpZ3u9fCCTg_WQj_4M2zCNr-G2OS",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass"
+ ],
+ "genre": "R&B & Soul",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

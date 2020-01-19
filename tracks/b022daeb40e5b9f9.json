@@ -1,0 +1,32 @@
+{
+ "reference_vid": "b022daeb40e5b9f9",
+ "display_mood": "Happy",
+ "fp_ref_id": "b022daeb40e5b9f9",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b022daeb40e5b9f9",
+ "mood": "Happy",
+ "artist": "The Green Orbs",
+ "vid": "b022daeb40e5b9f9",
+ "favorite": false,
+ "display_genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBiMDIyZGFlYjQwZTViOWY5EAAYAg%3D%3D&sigh=34Sa9nSZNPj2pDdjpboJYw",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Organ",
+  "Trumpet"
+ ],
+ "downloadable": true,
+ "streamid": "dGBae36lfKcCk_xuqkN_G0_oftP7uHmTNBP1jsLD6sfW2f9l4uxZ3pUP3_OKnSDl",
+ "len": 148,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 1,
+ "title": "Rodeo Show",
+ "genre": "Children's",
+ "display_category": ""
+}

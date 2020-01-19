@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 170,
+ "display_mood": "Calm",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "fp_ref_id": "769cb9647701bc2a",
+ "reference_vid": "769cb9647701bc2a",
+ "artist_channel_url": "/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "license_type": 1,
+ "streamid": "QAF-MhK9rLC-CwkDy_WOtPB34anNHyDCh6rZBVE9kxtTQMkMZNA_8iivY_Qydgbi",
+ "vid": "769cb9647701bc2a",
+ "mood": "Calm",
+ "artist": "South London HiFi",
+ "display_genre": "Jazz & Blues",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChA3NjljYjk2NDc3MDFiYzJhEAAYAg%3D%3D&sigh=jAwkR3FaF6sHDKMQKt3xSA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=769cb9647701bc2a",
+ "category": "",
+ "title": "One Last Time",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ]
+}

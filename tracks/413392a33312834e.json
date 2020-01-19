@@ -1,0 +1,32 @@
+{
+ "genre": "Hip Hop & Rap",
+ "display_genre": "Hip Hop & Rap",
+ "len": 103.316,
+ "display_category": "",
+ "reference_vid": "413392a33312834e",
+ "popularity_percentile": 25,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "RW Smith",
+ "fp_ref_id": "413392a33312834e",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "o71ZIHxDQDuk8y8geqy-tMKK5iF4I2CcaHPcBzeSH4ZIF5BDJ98tHf0QVkV9Qdio",
+ "display_mood": "Dark",
+ "vid": "413392a33312834e",
+ "track_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA0MTMzOTJhMzMzMTI4MzRlEAAYAg%3D%3D&sigh=iY_NCfTcDTPnBcLfu9AOQA",
+ "category": "",
+ "title": "Tune In",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=413392a33312834e"
+}

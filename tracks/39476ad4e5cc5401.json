@@ -1,0 +1,29 @@
+{
+ "artist": "United States Marine Band",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=39476ad4e5cc5401",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDDDhIWChAzOTQ3NmFkNGU1Y2M1NDAxEAAYAg%3D%3D&sigh=RX9DXjpTPsLtWKtsBESK5A",
+ "genre": "Classical",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "album": "None",
+ "track_url": "",
+ "len": 238.316,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "39476ad4e5cc5401",
+ "streamid": "inSB1FdqZlK31ooGFwNPspUTO7jeoaC29JUZT_rfuH6ZyS5NW2XziFBdiGoLAKuM",
+ "title": "Maria Theresia",
+ "artist_url": "",
+ "mood": "Bright",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "popularity_percentile": 22,
+ "reference_vid": "39476ad4e5cc5401",
+ "instruments": [
+  "Trumpet"
+ ],
+ "fp_ref_id": "39476ad4e5cc5401",
+ "license_type": 1
+}

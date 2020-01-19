@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "gUqQ-N30-CsbAFkRn-IWWU3zCN9MSK69Uslcqgy29LUQbvwTi_hbrTudZmgxF0Rh",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d5de638151d82548",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODaARIWChBkNWRlNjM4MTUxZDgyNTQ4EAAYAg%3D%3D&sigh=oLkz238RD0GdUkberh6fTg",
+ "vid": "d5de638151d82548",
+ "display_category": "",
+ "title": "Bad Ideas - Silent Film Dark",
+ "album": "None",
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "reference_vid": "d5de638151d82548",
+ "len": 28.116,
+ "popularity_percentile": 52,
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "d5de638151d82548",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100489",
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Piano"
+ ],
+ "license_type": 6
+}

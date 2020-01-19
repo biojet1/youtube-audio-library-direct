@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "d34cf81384c66c74",
+ "display_genre": "Rock",
+ "artist": "Letter Box",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChBkMzRjZjgxMzg0YzY2Yzc0EAAYAg%3D%3D&sigh=l7WYv2dz-oMAgCWFlAUfmA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d34cf81384c66c74",
+ "len": 210.316,
+ "mood": "Dramatic",
+ "title": "Promises",
+ "vid": "d34cf81384c66c74",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 0,
+ "artist_url": "",
+ "genre": "Rock",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "d34cf81384c66c74",
+ "streamid": "zDwwWShyLTu91fkqMZz7LYjwYTJ-PcawRY5yeX9AkyKDUbAR6HNOlkQoKb62PnoX"
+}

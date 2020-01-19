@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Asher Fulero",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "downloadable": true,
+ "fp_ref_id": "9f23c37828b5c128",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDiDhIWChA5ZjIzYzM3ODI4YjVjMTI4EAAYAg%3D%3D&sigh=LpDx5cz6miima4DBosPz8g",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "9f23c37828b5c128",
+ "streamid": "m2N54XU_hvOpZTFFi9E9w4AKfm5Veuz64ErMMYlWELQE6UazDjs4m0JSF7uGA3PZ",
+ "mood": "Dark",
+ "reference_vid": "9f23c37828b5c128",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f23c37828b5c128",
+ "title": "Delta Wave",
+ "display_mood": "Dark",
+ "artist_url": "",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "drum",
+  "strings",
+  "synth",
+  "piano"
+ ],
+ "len": 242,
+ "album": "None",
+ "track_url": ""
+}

@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 125,
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "fp_ref_id": "58b2b820e23db073",
+ "reference_vid": "58b2b820e23db073",
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "license_type": 1,
+ "streamid": "2MlAgmyd0rpcjPx25AJXKLyoSkK3HYjRc0-zE_NelIK03Vp3TTjCjP0uzxnjGcsy",
+ "vid": "58b2b820e23db073",
+ "mood": "Happy",
+ "artist": "Aaron Kenny",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChA1OGIyYjgyMGUyM2RiMDczEAAYAg%3D%3D&sigh=ppATz5oWQI1kKjWAaFMHqQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=58b2b820e23db073",
+ "category": "",
+ "title": "Roundup on the Prairie",
+ "genre": "Cinematic",
+ "instruments": [
+  "Acoustic Guitar",
+  "Strings",
+  "Horn"
+ ]
+}

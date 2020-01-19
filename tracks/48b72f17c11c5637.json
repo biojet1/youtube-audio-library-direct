@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "48b72f17c11c5637",
+ "display_category": "",
+ "fp_ref_id": "48b72f17c11c5637",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48b72f17c11c5637",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Sad",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChA0OGI3MmYxN2MxMWM1NjM3EAAYAg%3D%3D&sigh=_EX9wZfv-ZXf1Y7ikvZvwg",
+ "streamid": "7VIOdP3TKlvyvRKJs7nGqSWH7JWl2O-TeC_6HdrUxQlrD6U8flZisiu1bKEshR5a",
+ "genre": "Pop",
+ "vid": "48b72f17c11c5637",
+ "artist": "Silent Partner",
+ "display_genre": "Pop",
+ "title": "Finals",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 124.966,
+ "display_mood": "Sad",
+ "downloadable": true
+}

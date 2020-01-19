@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDCBBIWChA2ZDUxNDUwODhmYzA1ZGY1EAAYAg%3D%3D&sigh=_9wJ6k6L5GilOqqsTnENjg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6d5145088fc05df5",
+ "track_url": "",
+ "genre": "Rock",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6d5145088fc05df5",
+ "fp_ref_id": "6d5145088fc05df5",
+ "category": "",
+ "title": "Orange Blanket",
+ "reference_vid": "6d5145088fc05df5",
+ "artist": "Jingle Punks",
+ "display_genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "bffx38c2EecvUWhOmPNqpPAw1ABQcpafuOfcq1c95akYAVLfLG7SgNFkWzEf6xMp",
+ "len": 74.05,
+ "license_type": 0,
+ "is_new_track": false
+}

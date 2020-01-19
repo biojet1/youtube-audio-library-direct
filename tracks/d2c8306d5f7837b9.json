@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "d2c8306d5f7837b9",
+ "display_genre": "Holiday",
+ "artist": "Jingle Punks",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBkMmM4MzA2ZDVmNzgzN2I5EAAYAg%3D%3D&sigh=U822eCJ_eHY8_cIdVT_UiA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2c8306d5f7837b9",
+ "len": 133.616,
+ "mood": "Inspirational",
+ "title": "12 Days of Christmas (Instrumental)",
+ "vid": "d2c8306d5f7837b9",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 0,
+ "artist_url": "",
+ "genre": "Holiday",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "d2c8306d5f7837b9",
+ "streamid": "aKfTXg3AqA-RO3HI6MxjhdkGInIcKt4dXpMAwRBlEC01cV2syE2eZ-EEIUQ4p3Xh"
+}

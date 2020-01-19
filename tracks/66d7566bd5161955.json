@@ -1,0 +1,29 @@
+{
+ "streamid": "lVXaGnJEqcfQdMkVBeg_ddS_CqC3WGCYjA9g948vtYP8swApkmmhT2PQtF0mH5yE",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA2NmQ3NTY2YmQ1MTYxOTU1EAAYAg%3D%3D&sigh=tTsr17UvEDeofUW1nNlg_Q",
+ "display_mood": "Calm",
+ "display_category": "",
+ "reference_vid": "66d7566bd5161955",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100236",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=66d7566bd5161955",
+ "downloadable": true,
+ "len": 145.216,
+ "instruments": [
+  "Strings"
+ ],
+ "favorite": false,
+ "fp_ref_id": "66d7566bd5161955",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Evening Fall Harp",
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "66d7566bd5161955",
+ "display_genre": "Classical"
+}

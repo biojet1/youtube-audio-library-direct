@@ -1,0 +1,33 @@
+{
+ "display_genre": "Rock",
+ "vid": "6bdf241e68414ebd",
+ "is_new_track": false,
+ "category": "",
+ "len": 323.233,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6bdf241e68414ebd",
+ "streamid": "j1vQQUH6-SQi4sZbJSGT3v8JMocJ2liMmlvvdejJVCeh2Vm35c-eVXnquY_WIDyG",
+ "reference_vid": "6bdf241e68414ebd",
+ "downloadable": true,
+ "track_url": "",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "electric guitar",
+  "bass",
+  "organ"
+ ],
+ "license_type": 1,
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UC5MBYjOajpL7BwHNA85ZKAA",
+ "favorite": false,
+ "mood": "Dramatic",
+ "artist": "DJ Williams",
+ "fp_ref_id": "6bdf241e68414ebd",
+ "title": "Dusty Fingers",
+ "genre": "Rock",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UC5MBYjOajpL7BwHNA85ZKAA",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjbExIWChA2YmRmMjQxZTY4NDE0ZWJkEAAYAg%3D%3D&sigh=21cLokLtAA6PEP4ZvswiDg"
+}

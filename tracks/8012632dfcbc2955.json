@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 358,
+ "artist_url": "https://www.youtube.com/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "8012632dfcbc2955",
+ "mood": "Dark",
+ "display_genre": "Dance & Electronic",
+ "genre": "Dance & Electronic",
+ "license_type": 1,
+ "title": "A Mystical Experience",
+ "display_mood": "Dark",
+ "instruments": [
+  "strings",
+  "synth",
+  "keys",
+  "drums",
+  "bass"
+ ],
+ "streamid": "G1YdV4k4fLN70QZ1iZgSC9DRHrj4EniBoGrDJI3KJujEoY-vybDKSNJOCocD6xGI",
+ "reference_vid": "8012632dfcbc2955",
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8012632dfcbc2955",
+ "fp_ref_id": "8012632dfcbc2955",
+ "artist": "Unicorn Heads",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPDsFRIWChA4MDEyNjMyZGZjYmMyOTU1EAAYAg%3D%3D&sigh=CvwGDIFwFNBr45JMO_Y7Vw"
+}

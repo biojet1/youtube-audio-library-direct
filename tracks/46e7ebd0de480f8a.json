@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "46e7ebd0de480f8a",
+ "display_category": "",
+ "fp_ref_id": "46e7ebd0de480f8a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=46e7ebd0de480f8a",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 28,
+ "mood": "Angry",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChA0NmU3ZWJkMGRlNDgwZjhhEAAYAg%3D%3D&sigh=nhYVXivzefRS_swScei2Lg",
+ "streamid": "_CBrH37fQZwZOt2_KpXnu_NHdm4hC8ibE9mDFzSHAMnaNLJOswKEUa05X10yIpRl",
+ "genre": "Rock",
+ "vid": "46e7ebd0de480f8a",
+ "artist": "Silent Partner",
+ "display_genre": "Rock",
+ "title": "Jon's On Fire",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 169.35,
+ "display_mood": "Angry",
+ "downloadable": true
+}

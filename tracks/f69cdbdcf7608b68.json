@@ -1,0 +1,31 @@
+{
+ "len": 62.483,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f69cdbdcf7608b68",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "display_mood": "Bright",
+ "streamid": "EIduvKmIi6yAH4YpSFDBBYjQKmfRDnLXDZQ18HrkWZOvZVw-67VRoqorJpttgbPO",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDkAxIWChBmNjljZGJkY2Y3NjA4YjY4EAAYAg%3D%3D&sigh=80gCsP8YXHrbEIKY-ToJ3g",
+ "title": "Easy Lemon 60 Second",
+ "vid": "f69cdbdcf7608b68",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "mood": "Bright",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "popularity_percentile": 83,
+ "display_genre": "Pop",
+ "reference_vid": "f69cdbdcf7608b68",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Pop",
+ "fp_ref_id": "f69cdbdcf7608b68",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200077",
+ "album": "None"
+}

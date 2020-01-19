@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChA2YmM1NTExOWJhMzg0OTkwEAAYAg%3D%3D&sigh=5bKqPEpSbg3eFcNHjav_pg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6bc55119ba384990",
+ "track_url": "",
+ "genre": "Reggae",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6bc55119ba384990",
+ "fp_ref_id": "6bc55119ba384990",
+ "category": "",
+ "title": "City Groove",
+ "reference_vid": "6bc55119ba384990",
+ "artist": "Jingle Punks",
+ "display_genre": "Reggae",
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "W1UgQtjmG-2daCJlT5xf58IJD5m-1dFMiiq2QY_oP4Gs4ee7aXKtfobgizjl1dVZ",
+ "len": 102.033,
+ "license_type": 0,
+ "is_new_track": false
+}

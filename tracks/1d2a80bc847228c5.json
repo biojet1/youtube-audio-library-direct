@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1d2a80bc847228c5",
+ "track_url": "",
+ "fp_ref_id": "1d2a80bc847228c5",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "reference_vid": "1d2a80bc847228c5",
+ "display_mood": "Dramatic",
+ "len": 234.966,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCkDhIWChAxZDJhODBiYzg0NzIyOGM1EAAYAg%3D%3D&sigh=YZiymF_YPL0bTaTNy10z8w",
+ "popularity_percentile": 12,
+ "streamid": "-l4nv7JwoqtrHCb742YznKfw9Qa9m8h4etZGSk6p5gViIy82CldCVIzyFH1kJKAz",
+ "license_type": 0,
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "title": "Take You Home",
+ "genre": "Dance & Electronic",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1d2a80bc847228c5"
+}

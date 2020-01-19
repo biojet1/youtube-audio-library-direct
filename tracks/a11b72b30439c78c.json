@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "a11b72b30439c78c",
+ "category": "",
+ "title": "Inner Sanctum",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "genre": "Ambient",
+ "display_mood": "Dark",
+ "streamid": "_UzrU2b_NfgjbKZGtN6njHFcynCZ-NOCT1m3qcGXyixcdGtnUelSCrXAphkWFeWG",
+ "album": "None",
+ "len": 250.45,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a11b72b30439c78c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJChDxIWChBhMTFiNzJiMzA0MzljNzhjEAAYAg%3D%3D&sigh=8nEZBlyMa5OGg9_EBSDeIA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "a11b72b30439c78c",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "a11b72b30439c78c",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100196"
+}

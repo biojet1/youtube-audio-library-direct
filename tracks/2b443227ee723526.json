@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 102.083,
+ "reference_vid": "2b443227ee723526",
+ "display_genre": "Cinematic",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2b443227ee723526",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChAyYjQ0MzIyN2VlNzIzNTI2EAAYAg%3D%3D&sigh=kYhNoBvhgXEQyJlotmyc2g",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "2b443227ee723526",
+ "track_url": "",
+ "genre": "Cinematic",
+ "vid": "2b443227ee723526",
+ "artist_channel_url": null,
+ "streamid": "FwSgycFHdsD8Q3VhMjlRdtSYZ5O15vA9_TWNq6rsGjvNQm8ChF9pzp98K9rW5ZqF",
+ "license_type": 0,
+ "title": "Mumbai Effect",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Jingle Punks",
+ "mood": "Dramatic"
+}

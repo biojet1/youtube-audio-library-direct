@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "222d2ef7da7d72e3",
+ "track_url": "",
+ "fp_ref_id": "222d2ef7da7d72e3",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "222d2ef7da7d72e3",
+ "display_mood": "Inspirational",
+ "len": 152.516,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChAyMjJkMmVmN2RhN2Q3MmUzEAAYAg%3D%3D&sigh=g5h7qvtt0bAKbTHcaR1HRQ",
+ "popularity_percentile": 13,
+ "streamid": "u2Mg3nlPKektM3XVB2jESq3f6EZoc2kw_ogoWiGJijYePJ85FqIbisFAKszuTqQg",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "category": "",
+ "title": "We Were Once Kings",
+ "genre": "Cinematic",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=222d2ef7da7d72e3"
+}

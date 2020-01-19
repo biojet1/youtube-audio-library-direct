@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "73b272a96e92bc65",
+ "artist_url": "https://www.youtube.com/channel/UCIUATMnLtNo51kKuv95R1UQ",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "73b272a96e92bc65",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73b272a96e92bc65",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChA3M2IyNzJhOTZlOTJiYzY1EAAYAg%3D%3D&sigh=EuubIsZMNxiA6FWlFBp34w",
+ "display_category": "",
+ "display_mood": "Bright",
+ "vid": "73b272a96e92bc65",
+ "len": 160,
+ "mood": "Bright",
+ "streamid": "s0YhAV5UPpfSymLGIPHZ8UBl3VgCQjVi1F5UH0OQh2CbwSYqGUuubBHfzF36R4VX",
+ "artist": "Noir Et Blanc Vie",
+ "is_new_track": false,
+ "title": "So Long Analog",
+ "genre": "Dance & Electronic",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCIUATMnLtNo51kKuv95R1UQ"
+}

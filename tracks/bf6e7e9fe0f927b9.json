@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "album": "None",
+ "reference_vid": "bf6e7e9fe0f927b9",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "bf6e7e9fe0f927b9",
+ "title": "In the West",
+ "mood": "Dramatic",
+ "len": 39.75,
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "bf6e7e9fe0f927b9",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100746",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Strings"
+ ],
+ "streamid": "UABaJK9rXI5HMm_bZNXtoVUzTiqJARMcZ2LGGhleLLvZTWIskSxQ2ZyjQxHWJ8Rg",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "genre": "Classical",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf6e7e9fe0f927b9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiwAhIWChBiZjZlN2U5ZmUwZjkyN2I5EAAYAg%3D%3D&sigh=eYxSIqQ3d4WHPZ7b87cQIg"
+}

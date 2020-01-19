@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4a7d058f20d31cc4",
+ "display_category": "",
+ "fp_ref_id": "4a7d058f20d31cc4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4a7d058f20d31cc4",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Sad",
+ "instruments": [
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKC2IhIWChA0YTdkMDU4ZjIwZDMxY2M0EAAYAg%3D%3D&sigh=W5BnCQGKUL9lW6yV1KuBdg",
+ "streamid": "WuXmXB4Jy1gbnJ0xl_KifrNOzQHCSWyWZgE64T5e_DvYXZzZC6CoW5MQp1O5fSBK",
+ "genre": "Classical",
+ "vid": "4a7d058f20d31cc4",
+ "artist": "Chopin",
+ "display_genre": "Classical",
+ "title": "Funeral March (by Chopin)",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 564.733,
+ "display_mood": "Sad",
+ "downloadable": true
+}

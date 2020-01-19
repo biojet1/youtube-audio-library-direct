@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "vid": "1e8791c0a285eb9d",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Dance & Electronic",
+ "fp_ref_id": "1e8791c0a285eb9d",
+ "streamid": "2hZgGH3_NED6jI49u7moNWij71NNJjVhmJj2IGYTcJ-nbvpRZDNPDr5kLARqkOCw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChAxZTg3OTFjMGEyODVlYjlkEAAYAg%3D%3D&sigh=XS-jOp0vnKc_1BS-IUUepQ",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "title": "Fortuna",
+ "track_url": "",
+ "len": 95,
+ "popularity_percentile": 99,
+ "reference_vid": "1e8791c0a285eb9d",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1e8791c0a285eb9d",
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "percussion",
+  "synth",
+  "drums"
+ ],
+ "is_new_track": false
+}

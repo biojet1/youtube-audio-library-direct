@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=298efc782fdb459c",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Jingle Punks",
+ "len": 98.283,
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "uHPFxPIsmKXd7HHcogBUVz-bh0XRdDrpfUgnnR8UMHa3tFyvZSNhXCnZNy_3YiQg",
+ "category": "",
+ "title": "Must Be Something",
+ "display_mood": "Funky",
+ "favorite": false,
+ "reference_vid": "298efc782fdb459c",
+ "genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChAyOThlZmM3ODJmZGI0NTljEAAYAg%3D%3D&sigh=W2Uzw2PWGL6hfVGyKMxKcw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "298efc782fdb459c",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "298efc782fdb459c"
+}

@@ -1,0 +1,31 @@
+{
+ "genre": "Alternative & Punk",
+ "display_genre": "Alternative & Punk",
+ "len": 134.083,
+ "display_category": "",
+ "reference_vid": "434418ed6e65d27e",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "434418ed6e65d27e",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "GosFNnm5QctNS56zqNHmfDF4IW1ZvPorta5QRPoD5LFv2hUCIVpn1ENsBhrW8mof",
+ "display_mood": "Dark",
+ "vid": "434418ed6e65d27e",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA0MzQ0MThlZDZlNjVkMjdlEAAYAg%3D%3D&sigh=PFI6zUYFNQQVSbwvEbzprQ",
+ "category": "",
+ "title": "Grand Navy Plaza",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=434418ed6e65d27e"
+}

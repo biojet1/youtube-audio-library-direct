@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "streamid": "WP5nJo1miP-0YL8sO1McWM_u_NnkB2KaCCR7Qq-VUInXCjAU2raZD7vvo1NJW30O",
+ "title": "Love Explosion",
+ "display_genre": "Jazz & Blues",
+ "vid": "bb3e4a138aa09bfd",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "bb3e4a138aa09bfd",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 0,
+ "fp_ref_id": "bb3e4a138aa09bfd",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "len": 128.782,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBiYjNlNGExMzhhYTA5YmZkEAAYAg%3D%3D&sigh=uIyh-n9JpvAFj5PKUW-DfQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bb3e4a138aa09bfd"
+}

@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a4392ce679c24430",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "IjZxZz4f5CAumnLPrekAyp3FPLWmVfvCkdpgxQninTSdiByk3yvzSzbhpcQfXKOY",
+ "genre": "Pop",
+ "vid": "a4392ce679c24430",
+ "reference_vid": "a4392ce679c24430",
+ "fp_ref_id": "a4392ce679c24430",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChBhNDM5MmNlNjc5YzI0NDMwEAAYAg%3D%3D&sigh=PUZhpp2g4T8rzpND9in24A",
+ "artist_url": "https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "artist_channel_url": "/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "artist": "Slenderbeats",
+ "title": "Doorway",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Pop",
+ "len": 192,
+ "mood": "Calm"
+}

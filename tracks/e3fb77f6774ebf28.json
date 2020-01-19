@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "e3fb77f6774ebf28",
+ "mood": "Calm",
+ "reference_vid": "e3fb77f6774ebf28",
+ "popularity_percentile": 72,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChBlM2ZiNzdmNjc3NGViZjI4EAAYAg%3D%3D&sigh=Eu4HkoAUONS-ZEq-PBrftg",
+ "len": 110.216,
+ "favorite": false,
+ "display_mood": "Calm",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "e3fb77f6774ebf28",
+ "streamid": "JCjNalcJx4WluZ4fzDE8y4Q_UEnEKZ4KVqm1fchrxVM0KjXopw9uwAcjETjy5QR6",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e3fb77f6774ebf28",
+ "title": "Serenity",
+ "display_genre": "Ambient",
+ "artist": "Audionautix",
+ "genre": "Ambient",
+ "downloadable": true,
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "is_new_track": false
+}

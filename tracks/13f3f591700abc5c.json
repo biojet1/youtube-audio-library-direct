@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 0,
+ "vid": "13f3f591700abc5c",
+ "fp_ref_id": "13f3f591700abc5c",
+ "album": "None",
+ "streamid": "YlcylbTcsCotbg2QMMCTB0ys4VjukqkwlXDG7x2xbNMwu6fHVIL_2OI4OZwwpGT0",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Reggae",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "artist": "Jingle Punks",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=13f3f591700abc5c",
+ "downloadable": true,
+ "display_genre": "Reggae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjpBBIWChAxM2YzZjU5MTcwMGFiYzVjEAAYAg%3D%3D&sigh=NOYnV2nHJm971lViOeE9_A",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 79.85,
+ "reference_vid": "13f3f591700abc5c",
+ "title": "Reggie and the Dubwisemen",
+ "favorite": false,
+ "track_url": ""
+}

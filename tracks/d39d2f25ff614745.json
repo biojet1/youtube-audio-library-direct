@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "is_new_track": false,
+ "reference_vid": "d39d2f25ff614745",
+ "display_category": "",
+ "fp_ref_id": "d39d2f25ff614745",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d39d2f25ff614745",
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "instruments": [
+  "keys",
+  "synth",
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBkMzlkMmYyNWZmNjE0NzQ1EAAYAg%3D%3D&sigh=MWQoeHByCWvHyMsoC85xtw",
+ "streamid": "84oSJF0rngn5Kfaz6kV0xiNjzDu0te_OtGmKH4GgoLcEZPAInDkBiW3aUdkPsgsZ",
+ "genre": "Pop",
+ "vid": "d39d2f25ff614745",
+ "artist": "Audio Hertz",
+ "display_genre": "Pop",
+ "title": "Bright Skies",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 174,
+ "display_mood": "Happy",
+ "downloadable": true
+}

@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "instruments": [
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100202",
+ "fp_ref_id": "4883a2e21b88d210",
+ "display_genre": "Jazz & Blues",
+ "title": "Hot Swing",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "favorite": false,
+ "len": 50.083,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4883a2e21b88d210",
+ "category": "",
+ "streamid": "GCsUdMrjAsYBlFeFbK75cJDLh1v3jB0pMjvQz-2JvlhPo91kvsE89oD9rlNIyYAX",
+ "vid": "4883a2e21b88d210",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCGAxIWChA0ODgzYTJlMjFiODhkMjEwEAAYAg%3D%3D&sigh=xaINHBnfePaSseQGXvNzkQ",
+ "popularity_percentile": 37,
+ "reference_vid": "4883a2e21b88d210"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "ltvTtmRBSw7FDHr-TPpuUTKgL6ZPRSD6T4-E0pEM6X8yPnivnohHWFn6eoyhYog1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81be9734f844406c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA4MWJlOTczNGY4NDQ0MDZjEAAYAg%3D%3D&sigh=lrankSnAXWlvbhW1X0lXAg",
+ "vid": "81be9734f844406c",
+ "display_category": "",
+ "title": "Funky Good Time",
+ "album": "None",
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "reference_vid": "81be9734f844406c",
+ "len": 109.216,
+ "popularity_percentile": 51,
+ "genre": "Rock",
+ "fp_ref_id": "81be9734f844406c",
+ "track_url": "",
+ "display_genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano"
+ ],
+ "license_type": 0
+}

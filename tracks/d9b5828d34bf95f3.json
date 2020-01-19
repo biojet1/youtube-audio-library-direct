@@ -1,0 +1,31 @@
+{
+ "title": "Sugar",
+ "favorite": false,
+ "len": 230.483,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCEDhIWChBkOWI1ODI4ZDM0YmY5NWYzEAAYAg%3D%3D&sigh=aklPx5Lc62O0urw770UJRg",
+ "fp_ref_id": "d9b5828d34bf95f3",
+ "artist_channel_url": null,
+ "display_genre": "Dance & Electronic",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "artist_url": "",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "d9b5828d34bf95f3",
+ "display_category": "",
+ "vid": "d9b5828d34bf95f3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d9b5828d34bf95f3",
+ "streamid": "NoYXjp6qI6l8WVJmg_VJSVJ4AonKedqfi3hWJ6fhp8grN44Vt9o8fVTP24vC41z1",
+ "artist": "Vibe Tracks"
+}

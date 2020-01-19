@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Calm",
+ "title": "Fluidscape",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e27db32da8179de0",
+ "reference_vid": "e27db32da8179de0",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100393",
+ "album": "None",
+ "len": 1821.15,
+ "instruments": [
+  "Synth"
+ ],
+ "display_category": "",
+ "display_genre": "Ambient",
+ "streamid": "kZnWdrruI5RQga7rE0PLyD6CYorZe2eDSUDSaE-90JSt5KvaDnFtnADukTg9nVHJ",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "e27db32da8179de0",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "e27db32da8179de0",
+ "category": "",
+ "genre": "Ambient",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMiSbxIWChBlMjdkYjMyZGE4MTc5ZGUwEAAYAg%3D%3D&sigh=qNkz6YattdL6ZegFgjcPxg"
+}

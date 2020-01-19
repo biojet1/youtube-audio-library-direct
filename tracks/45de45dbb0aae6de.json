@@ -1,0 +1,29 @@
+{
+ "instruments": [
+  "Piano"
+ ],
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "len": 87.05,
+ "reference_vid": "45de45dbb0aae6de",
+ "fp_ref_id": "45de45dbb0aae6de",
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100737",
+ "vid": "45de45dbb0aae6de",
+ "category": "",
+ "title": "Amazing Plan - Silent Film Dark",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=45de45dbb0aae6de",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNinBRIWChA0NWRlNDVkYmIwYWFlNmRlEAAYAg%3D%3D&sigh=xuinWF7ly8Trlh004lz-Mw",
+ "license_type": 6,
+ "popularity_percentile": 87,
+ "streamid": "Pbcx78LRgjeU6zctA8S9X21Wi_8KYMdBhc5GAptkQsg550xt7_W-znmJhXT7pJD-"
+}

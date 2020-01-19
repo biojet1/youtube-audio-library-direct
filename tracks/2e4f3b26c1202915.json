@@ -1,0 +1,32 @@
+{
+ "title": "Jack in the Box",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "V4Vxzv9Iz-qnr-4J3WTXgEoaKCuSjjN1oPT4jZidK_TxzVoo1p-kGQtSqnCmxPzY",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Pop",
+ "vid": "2e4f3b26c1202915",
+ "display_mood": "Happy",
+ "len": 119.15,
+ "display_genre": "Pop",
+ "downloadable": true,
+ "reference_vid": "2e4f3b26c1202915",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "acoustic guitar"
+ ],
+ "category": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2e4f3b26c1202915",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChAyZTRmM2IyNmMxMjAyOTE1EAAYAg%3D%3D&sigh=VSaS9eQLXEZ8PoTybTPVCw",
+ "favorite": false,
+ "fp_ref_id": "2e4f3b26c1202915",
+ "album": "None",
+ "popularity_percentile": 18,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

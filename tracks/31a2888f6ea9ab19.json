@@ -1,0 +1,33 @@
+{
+ "display_category": "",
+ "genre": "Cinematic",
+ "track_url": "",
+ "is_new_track": false,
+ "artist": "VYEN",
+ "title": "Beth",
+ "streamid": "CBC_da9rddNMD0vRtRtQDMop2WHyFXanBPRihIiLIew2utSnortHHh7zfy-UZ7sw",
+ "downloadable": true,
+ "album": "None",
+ "fp_ref_id": "31a2888f6ea9ab19",
+ "len": 124,
+ "favorite": false,
+ "artist_channel_url": "/channel/UC_PXVKkmQdeK4tQwl5SD9PQ",
+ "display_mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=31a2888f6ea9ab19",
+ "artist_url": "https://www.youtube.com/channel/UC_PXVKkmQdeK4tQwl5SD9PQ",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "choir",
+  "piano"
+ ],
+ "mood": "Calm",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "vid": "31a2888f6ea9ab19",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChAzMWEyODg4ZjZlYTlhYjE5EAAYAg%3D%3D&sigh=30dcgWrM62BWrhZOwZUpaQ",
+ "reference_vid": "31a2888f6ea9ab19",
+ "category": "",
+ "popularity_percentile": 99
+}

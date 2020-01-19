@@ -1,0 +1,31 @@
+{
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAwNTQwMTk4M2JmODMyYjg0EAAYAg%3D%3D&sigh=kAk-KHLiw8qh-DY80FAqaA",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "05401983bf832b84",
+ "reference_vid": "05401983bf832b84",
+ "popularity_percentile": 3,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05401983bf832b84",
+ "mood": "Bright",
+ "genre": "Rock",
+ "streamid": "He-z7I4Z_47BXJT0gGEVyg6hMswZhH7cskx0lnaClzlOHpoGWMS2szLG1xEwZ8cG",
+ "title": "Get There",
+ "downloadable": true,
+ "category": "",
+ "len": 130.383,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "fp_ref_id": "05401983bf832b84",
+ "album": "None"
+}

@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=298d9435355b6930",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "MK2",
+ "len": 222.95,
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "IW7SzpB4FjeZJMSIy4LggQ3UmfcMVArWUgD4SJ-FBQotaN7EcyZRZrS_nAGGv7j0",
+ "category": "",
+ "title": "Meta Crush",
+ "display_mood": "Dark",
+ "favorite": false,
+ "reference_vid": "298d9435355b6930",
+ "genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChAyOThkOTQzNTM1NWI2OTMwEAAYAg%3D%3D&sigh=QJLC0M5Tv5kWWGmjAo8RHQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "298d9435355b6930",
+ "license_type": 1,
+ "popularity_percentile": 16,
+ "vid": "298d9435355b6930"
+}

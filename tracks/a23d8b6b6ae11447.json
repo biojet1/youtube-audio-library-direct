@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "vid": "a23d8b6b6ae11447",
+ "streamid": "9SF7Fh7WLefInRmARzmXaSL-mRpF7k-SZVBkMYkpfwj1j-GaqW87KBul2yvN6Qq4",
+ "title": "Waltz To Death",
+ "category": "",
+ "len": 152,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChBhMjNkOGI2YjZhZTExNDQ3EAAYAg%3D%3D&sigh=xArYi7vBZtUzgR_O6hYEAg",
+ "artist": "Sir Cubworth",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "reference_vid": "a23d8b6b6ae11447",
+ "display_mood": "Dark",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a23d8b6b6ae11447",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Synth",
+  "Piano"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "a23d8b6b6ae11447",
+ "favorite": false,
+ "mood": "Dark"
+}

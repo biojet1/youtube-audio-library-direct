@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "717862d3bbbd083f",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=717862d3bbbd083f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChA3MTc4NjJkM2JiYmQwODNmEAAYAg%3D%3D&sigh=E6qGhzK_yObG4I-3UgzTBw",
+ "is_new_track": false,
+ "reference_vid": "717862d3bbbd083f",
+ "display_mood": "Sad",
+ "favorite": false,
+ "category": "",
+ "title": "Badlands",
+ "streamid": "a0iK_eWjeNe9y1ACApsMR4AtSkDDkvxaYt3P2jfseL0Da9jwQ2qJBCeTSn9z2Yyr",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "len": 144,
+ "album": "None",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "mood": "Sad",
+ "artist": "ELPHNT",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "fp_ref_id": "717862d3bbbd083f"
+}

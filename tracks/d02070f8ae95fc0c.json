@@ -1,0 +1,33 @@
+{
+ "downloadable": true,
+ "instruments": [
+  "percussion",
+  "organ",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "category": "",
+ "display_category": "",
+ "license_type": 1,
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "d02070f8ae95fc0c",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCD5hjK3sDzk2W-jw9roHuVw",
+ "len": 143,
+ "title": "Loneliest Road in America (US 50)",
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "d02070f8ae95fc0c",
+ "artist": "Jesse Gallagher",
+ "streamid": "y6BrTaFfWKZFieLhICk_3eztFdscK6QV39W07015BXLj07TpnbwqxD3EAP34Yg0y",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d02070f8ae95fc0c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChBkMDIwNzBmOGFlOTVmYzBjEAAYAg%3D%3D&sigh=oPmW6c_Ta_RFaHV4z-flwQ",
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "d02070f8ae95fc0c",
+ "album": "None",
+ "display_mood": "Dark",
+ "artist_channel_url": "/channel/UCD5hjK3sDzk2W-jw9roHuVw"
+}

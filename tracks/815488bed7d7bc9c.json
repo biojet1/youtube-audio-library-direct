@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "815488bed7d7bc9c",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "title": "Fork and Spoon",
+ "vid": "815488bed7d7bc9c",
+ "mood": "Funky",
+ "display_genre": "R&B & Soul",
+ "len": 196.083,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD7CxIWChA4MTU0ODhiZWQ3ZDdiYzljEAAYAg%3D%3D&sigh=Jdg_rIGE0xhpMAHOr04iCQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=815488bed7d7bc9c",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100226",
+ "streamid": "WBice_Q7lK8545Ry_pViHykDW1PNycVF4sz3w650X-cY_oStEVJGU4AayhVoSfd0",
+ "reference_vid": "815488bed7d7bc9c",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "R&B & Soul",
+ "artist_url": "http://incompetech.com/"
+}

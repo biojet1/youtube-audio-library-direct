@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA1NTA5OWU4ZGMwZTFiYjExEAAYAg%3D%3D&sigh=BzYuLMkwuSl9ixtxO1LERw",
+ "display_category": "",
+ "display_mood": "Sad",
+ "album": "None",
+ "vid": "55099e8dc0e1bb11",
+ "downloadable": true,
+ "reference_vid": "55099e8dc0e1bb11",
+ "favorite": false,
+ "fp_ref_id": "55099e8dc0e1bb11",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=55099e8dc0e1bb11",
+ "genre": "Pop",
+ "streamid": "CtH88TFhlDTC0hox2rpqAgJKGeI9sacjXX8HEJN49km5QvnIN4350C0kcvU93gnm",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Sad",
+ "len": 126.383,
+ "display_genre": "Pop",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "5 Cents Back",
+ "artist": "Audionautix",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

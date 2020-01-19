@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "3CkGj5Y2jFccDoLFRlfxnDXbyF8ell2q2LyvhDW5G704bVk9S9WE-r7DMCaa5i3l",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a7e501fabcdda44a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChBhN2U1MDFmYWJjZGRhNDRhEAAYAg%3D%3D&sigh=bvK_Tv0ayKcO_hsKEeNaVw",
+ "vid": "a7e501fabcdda44a",
+ "display_category": "",
+ "title": "Hand Trolley",
+ "album": "None",
+ "mood": "Bright",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "reference_vid": "a7e501fabcdda44a",
+ "len": 95.183,
+ "genre": "Classical",
+ "popularity_percentile": 33,
+ "fp_ref_id": "a7e501fabcdda44a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100211",
+ "display_genre": "Classical",
+ "license_type": 6,
+ "instruments": [
+  "Piano"
+ ]
+}

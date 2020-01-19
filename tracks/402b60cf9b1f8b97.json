@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMiyERIWChA0MDJiNjBjZjliMWY4Yjk3EAAYAg%3D%3D&sigh=z3vMJjkMuEe6kGNc4yI61A",
+ "display_category": "",
+ "display_genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "title": "Stardrive",
+ "genre": "Rock",
+ "streamid": "uTIo3C7sP4GSBOdytGEFmtdSYxVHtwIwG1Ts5sDOqPrDyt0idAT_cR_PKQiDGYUQ",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist": "Jeremy Blake",
+ "favorite": false,
+ "vid": "402b60cf9b1f8b97",
+ "instruments": [
+  "bass",
+  "synth",
+  "electric guitar",
+  "drums",
+  "percussion"
+ ],
+ "is_new_track": false,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=402b60cf9b1f8b97",
+ "display_mood": "Bright",
+ "album": "None",
+ "mood": "Bright",
+ "fp_ref_id": "402b60cf9b1f8b97",
+ "track_url": "",
+ "len": 285,
+ "popularity_percentile": 99,
+ "reference_vid": "402b60cf9b1f8b97"
+}

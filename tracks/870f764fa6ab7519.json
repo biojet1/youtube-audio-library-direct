@@ -1,0 +1,31 @@
+{
+ "title": "Raw Deal",
+ "favorite": false,
+ "len": 168.816,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA4NzBmNzY0ZmE2YWI3NTE5EAAYAg%3D%3D&sigh=X3JatnyyoM1tEIMSql2tSg",
+ "fp_ref_id": "870f764fa6ab7519",
+ "artist_channel_url": null,
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "reference_vid": "870f764fa6ab7519",
+ "display_category": "",
+ "vid": "870f764fa6ab7519",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=870f764fa6ab7519",
+ "streamid": "uldaX8-wER7W607RmpIQ14A6BPYtBRWKHyiC5Znxz06Wotp7D_FUy8ohg8MNPxJx",
+ "artist": "Gunnar Olsen"
+}

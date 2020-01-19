@@ -1,0 +1,30 @@
+{
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "fp_ref_id": "614f3f80e6067a7f",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "reference_vid": "614f3f80e6067a7f",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 113,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChA2MTRmM2Y4MGU2MDY3YTdmEAAYAg%3D%3D&sigh=jQKz7u8PhgOHjh1GJ2caXA",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=614f3f80e6067a7f",
+ "instruments": [
+  "piano",
+  "strings"
+ ],
+ "title": "Theme for a One-Handed Piano Concerto",
+ "genre": "Classical",
+ "streamid": "TfCt-dWHgYn0qXiSKCB3ZRt0-ti9oDSVJa2WWI5ZODpqxAE4l6pZEVy9veXQbdTu",
+ "vid": "614f3f80e6067a7f",
+ "display_genre": "Classical",
+ "mood": "Happy",
+ "license_type": 1,
+ "artist": "Sir Cubworth"
+}

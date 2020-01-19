@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "artist": "Doug Maxwell",
+ "artist_channel_url": "/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "downloadable": true,
+ "fp_ref_id": "1a66be3369a4f8f7",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChAxYTY2YmUzMzY5YTRmOGY3EAAYAg%3D%3D&sigh=8IoZfwvDFtWT_BhD6d0Xkg",
+ "favorite": false,
+ "genre": "Ambient",
+ "category": "",
+ "vid": "1a66be3369a4f8f7",
+ "streamid": "q9ZWW9o66OHSRcdgdtcykJw6nJbyTQDf9EPxGzSbi4qd_CWrmgdcjjWAiPSM8Jin",
+ "mood": "Calm",
+ "reference_vid": "1a66be3369a4f8f7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1a66be3369a4f8f7",
+ "title": "Cast of Pods",
+ "display_mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "display_category": "",
+ "instruments": [
+  "marimba",
+  "bass tongue drum",
+  "electronic percussion",
+  "celeste",
+  "xyzlophone"
+ ],
+ "len": 117,
+ "album": "None",
+ "track_url": ""
+}

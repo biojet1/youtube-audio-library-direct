@@ -1,0 +1,31 @@
+{
+ "artist": "Au.Ra",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f3ed2d449a1aab2b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChBmM2VkMmQ0NDlhMWFhYjJiEAAYAg%3D%3D&sigh=fWIEUWlx8jU9g1l3UGfc4A",
+ "genre": "Ambient",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "album": "None",
+ "track_url": "",
+ "len": 180,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "f3ed2d449a1aab2b",
+ "streamid": "TmF_X9dgJ8dXSjCQ-B2gR7pgZouyNHTHj59rsCdS3wKXtP5DozxQVP6wy7_mbIvp",
+ "title": "Searching In The Mountains",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "mood": "Dramatic",
+ "downloadable": true,
+ "display_genre": "Ambient",
+ "popularity_percentile": 99,
+ "reference_vid": "f3ed2d449a1aab2b",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "percussion"
+ ],
+ "fp_ref_id": "f3ed2d449a1aab2b",
+ "license_type": 1
+}

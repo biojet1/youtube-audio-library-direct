@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dd661eef56b818c5",
+ "downloadable": true,
+ "reference_vid": "dd661eef56b818c5",
+ "mood": "Happy",
+ "artist_url": "",
+ "license_type": 0,
+ "len": 69.05,
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Flute"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIibBBIWChBkZDY2MWVlZjU2YjgxOGM1EAAYAg%3D%3D&sigh=7y5VDk189ywQpmIPGg1KZA",
+ "streamid": "RJa_JZyhKnjS26rwdwlFJ0Hb-ixOAyk8qhAnwVnVNz46djnJRrC--IhbZaXovfNL",
+ "genre": "Country & Folk",
+ "display_category": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Country & Folk",
+ "vid": "dd661eef56b818c5",
+ "artist": "Jingle Punks",
+ "popularity_percentile": 86,
+ "fp_ref_id": "dd661eef56b818c5",
+ "category": "",
+ "title": "Green Hills",
+ "album": "None"
+}

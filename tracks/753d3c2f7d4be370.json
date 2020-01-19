@@ -1,0 +1,33 @@
+{
+ "len": 230,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=753d3c2f7d4be370",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCEDhIWChA3NTNkM2MyZjdkNGJlMzcwEAAYAg%3D%3D&sigh=LlSDjTB6JKuqw9sZiMh-uw",
+ "fp_ref_id": "753d3c2f7d4be370",
+ "display_category": "",
+ "instruments": [
+  "fiddle",
+  "banjo",
+  "strings",
+  "acoustic guitar",
+  "violin"
+ ],
+ "genre": "Country & Folk",
+ "artist_url": "https://www.youtube.com/channel/UCr1hW0rMwhUGBPne6FYdyIQ",
+ "favorite": false,
+ "license_type": 1,
+ "streamid": "ha5VHSlDO5PrD0tjOaxnkR7VwpgKQk4EfK1znQFfsEeea97mcrEQswLp3VAXoS61",
+ "display_mood": "Bright",
+ "reference_vid": "753d3c2f7d4be370",
+ "popularity_percentile": 99,
+ "title": "Sally Goodin'",
+ "vid": "753d3c2f7d4be370",
+ "track_url": "",
+ "display_genre": "Country & Folk",
+ "album": "None",
+ "mood": "Bright",
+ "artist_channel_url": "/channel/UCr1hW0rMwhUGBPne6FYdyIQ",
+ "category": "",
+ "artist": "Nat Keefe with The Bow Ties",
+ "downloadable": true,
+ "is_new_track": false
+}

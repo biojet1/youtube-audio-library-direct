@@ -1,0 +1,32 @@
+{
+ "streamid": "6cASlWu1gnfqCImfk4uYrl1uQj10I8I23981UZfV67wB91DMqizj_ZyH1QXmXURt",
+ "genre": "Pop",
+ "fp_ref_id": "ff3081f2221dca90",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ff3081f2221dca90",
+ "favorite": false,
+ "reference_vid": "ff3081f2221dca90",
+ "vid": "ff3081f2221dca90",
+ "album": "None",
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChBmZjMwODFmMjIyMWRjYTkwEAAYAg%3D%3D&sigh=cvF5mfdrSp6tGAp-KCgb3w",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "category": "",
+ "artist": "Coyote Hearing",
+ "title": "Just Breathing",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Pop",
+ "mood": "Inspirational",
+ "len": 167,
+ "popularity_percentile": 99
+}

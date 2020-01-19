@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "fSkAXfOnoF4UkZRduyPeLGyKrqBDEgaHpwGnqLVuTPyU6Goiykl5iPFORv6UONOI",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81a911cec167fda5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA4MWE5MTFjZWMxNjdmZGE1EAAYAg%3D%3D&sigh=BtSJh9s3oj-O8iJEfsHilw",
+ "vid": "81a911cec167fda5",
+ "display_category": "",
+ "title": "Old MacDonald (Instrumental)",
+ "album": "None",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "The Green Orbs",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "reference_vid": "81a911cec167fda5",
+ "len": 139.95,
+ "popularity_percentile": 51,
+ "genre": "Children's",
+ "fp_ref_id": "81a911cec167fda5",
+ "track_url": "",
+ "display_genre": "Children's",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "license_type": 0
+}

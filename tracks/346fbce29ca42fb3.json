@@ -1,0 +1,31 @@
+{
+ "display_genre": "Jazz & Blues",
+ "title": "When Johnny Goes Marching",
+ "album": "None",
+ "streamid": "7z3HCVR_ddU-lv1kqGVbDI7hXi4lVmcuYLw6-Abe_QwsQ5jzY8Y80dYZFUvUhOg4",
+ "display_mood": "Dramatic",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "organ",
+  "electric guitar",
+  "drums"
+ ],
+ "reference_vid": "346fbce29ca42fb3",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "artist_url": "https://www.youtube.com/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "category": "",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "track_url": "",
+ "fp_ref_id": "346fbce29ca42fb3",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPixDBIWChAzNDZmYmNlMjljYTQyZmIzEAAYAg%3D%3D&sigh=UropRXvzTzNoYtyc4sHfQQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=346fbce29ca42fb3",
+ "artist": "E's Jammy Jams",
+ "license_type": 1,
+ "len": 203,
+ "vid": "346fbce29ca42fb3",
+ "downloadable": true
+}

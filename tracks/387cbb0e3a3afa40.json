@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "reference_vid": "387cbb0e3a3afa40",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "gVFeDgpgcFZTLVOyYs3wm8UF2Gm_cU0ojn84rphqSeU1HjMdskoFL4JMhPtu98dE",
+ "display_mood": "Funky",
+ "genre": "Reggae",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth",
+  "piano"
+ ],
+ "display_genre": "Reggae",
+ "title": "Sun's Rise",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "387cbb0e3a3afa40",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChAzODdjYmIwZTNhM2FmYTQwEAAYAg%3D%3D&sigh=PuScMy4yvsiQ-wQnA-9lmg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=387cbb0e3a3afa40",
+ "artist": "Silent Partner",
+ "len": 149.316,
+ "track_url": "",
+ "fp_ref_id": "387cbb0e3a3afa40",
+ "mood": "Funky",
+ "is_new_track": false,
+ "popularity_percentile": 22,
+ "display_category": ""
+}

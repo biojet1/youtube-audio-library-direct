@@ -1,0 +1,33 @@
+{
+ "display_mood": "Bright",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChBhYjY5ZjAyMTliYWE2OTUxEAAYAg%3D%3D&sigh=10j1eqp_Arcpvp37j79UIg",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "ab69f0219baa6951",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab69f0219baa6951",
+ "streamid": "pXXUEoDGx5mo8fyKQXir1i30olev8TlSIPBLjbeGD1OVb30Ij3y8DT44eEetkpKU",
+ "genre": "Dance & Electronic",
+ "track_url": "",
+ "reference_vid": "ab69f0219baa6951",
+ "vid": "ab69f0219baa6951",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Dance & Electronic",
+ "mood": "Bright",
+ "len": 124,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "instruments": [
+  "strings",
+  "viola",
+  "violin",
+  "cello",
+  "synth"
+ ],
+ "title": "Computer Bounce",
+ "artist": "Geographer"
+}

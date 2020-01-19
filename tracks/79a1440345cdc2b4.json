@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "79a1440345cdc2b4",
+ "reference_vid": "79a1440345cdc2b4",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=79a1440345cdc2b4",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "Evl66ClvNIzFzZKFtCuth-ZTH6wsPJhSqBVdFP4j3_A6oxJgOD_gu04xr3PhsXpu",
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 48,
+ "mood": "Happy",
+ "downloadable": true,
+ "vid": "79a1440345cdc2b4",
+ "len": 100.983,
+ "instruments": [
+  "Bass",
+  "Piano",
+  "Acoustic Guitar"
+ ],
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA3OWExNDQwMzQ1Y2RjMmI0EAAYAg%3D%3D&sigh=4E2ZgeNANxNVAWzd2a2uVg",
+ "display_mood": "Happy",
+ "album": "None",
+ "title": "Puerto Rico Me Llama",
+ "display_category": ""
+}

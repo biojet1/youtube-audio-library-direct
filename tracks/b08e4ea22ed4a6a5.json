@@ -1,0 +1,30 @@
+{
+ "reference_vid": "b08e4ea22ed4a6a5",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "b08e4ea22ed4a6a5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b08e4ea22ed4a6a5",
+ "mood": "Dramatic",
+ "artist": "Gunnar Olsen",
+ "vid": "b08e4ea22ed4a6a5",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBiMDhlNGVhMjJlZDRhNmE1EAAYAg%3D%3D&sigh=e9LpZ1-o8R4X2deMu0S4tw",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "lq41BHeI6PKOU8eVvtWxXrzxgizD1-ef3QGg6rRzDQ2MjWQzMg2dqofG7wLoVh6N",
+ "len": 140.15,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Snow Drift",
+ "genre": "Dance & Electronic",
+ "display_category": ""
+}

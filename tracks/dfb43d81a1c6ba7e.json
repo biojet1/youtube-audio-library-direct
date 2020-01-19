@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChBkZmI0M2Q4MWExYzZiYTdlEAAYAg%3D%3D&sigh=2Z2rJQemRM0Tz3TXdeaAIg",
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "dfb43d81a1c6ba7e",
+ "reference_vid": "dfb43d81a1c6ba7e",
+ "fp_ref_id": "dfb43d81a1c6ba7e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dfb43d81a1c6ba7e",
+ "downloadable": true,
+ "genre": "Children's",
+ "streamid": "Zd7c2bAX401Gsy_ZUgu-9-9JVR4DA9IkQj3UgxdnikfyjiJs5VIKWcrS_2oS1gCF",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "len": 125,
+ "display_genre": "Children's",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "artist": "The Green Orbs",
+ "title": "The Wheels On The Bus",
+ "license_type": 1,
+ "category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "organ"
+ ],
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw"
+}

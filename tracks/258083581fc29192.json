@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChAyNTgwODM1ODFmYzI5MTkyEAAYAg%3D%3D&sigh=NwNeGw1pp7hwt6gzqjR-oQ",
+ "display_category": "",
+ "display_mood": "Dark",
+ "album": "None",
+ "vid": "258083581fc29192",
+ "downloadable": true,
+ "reference_vid": "258083581fc29192",
+ "favorite": false,
+ "fp_ref_id": "258083581fc29192",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=258083581fc29192",
+ "genre": "Ambient",
+ "streamid": "uFdGM0bvJxIYxbJ5Dv2eSp9D05tNSjRkJNUL0qQE2WarmRDyTj1wSQq4SizXfZct",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Dark",
+ "len": 128,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Six Realms",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth"
+ ]
+}

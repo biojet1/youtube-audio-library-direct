@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCNMISNiEA08dDonkvhbNRhA",
+ "len": 116,
+ "vid": "010f425b51e9db65",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "bass",
+  "electric guitars",
+  "synth",
+  "drums",
+  "piano"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "010f425b51e9db65",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UCNMISNiEA08dDonkvhbNRhA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChAwMTBmNDI1YjUxZTlkYjY1EAAYAg%3D%3D&sigh=Ie_cEsZCG8N0zBN7wB6czA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=010f425b51e9db65",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "title": "Luminous One",
+ "display_genre": "Cinematic",
+ "artist": "Aaron Lieberman",
+ "reference_vid": "010f425b51e9db65",
+ "streamid": "2qX2Lg4NNt3N4CupLYOiVgxDekZ1OKxIQfvA5sVkXERU491dquMYTnFJpMX01CXW"
+}

@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=759cf635aedcde58",
+ "popularity_percentile": 30,
+ "reference_vid": "759cf635aedcde58",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "5sU-ipyUltHNFc2X4Hl5A5XEACINNRwrcqwZGdrG2ceVJoTdysKCpofvA_oC-v-u",
+ "genre": "Rock",
+ "len": 92.55,
+ "artist": "Audionautix",
+ "display_mood": "Happy",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Yeah",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA3NTljZjYzNWFlZGNkZTU4EAAYAg%3D%3D&sigh=m37GLhxuMOq5HRoVkpaCGg",
+ "artist_url": "http://audionautix.com/",
+ "fp_ref_id": "759cf635aedcde58",
+ "track_url": "",
+ "mood": "Happy",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "759cf635aedcde58",
+ "is_new_track": false,
+ "favorite": false
+}

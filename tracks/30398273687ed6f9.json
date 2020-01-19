@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "wG9oHHIpsoQSkVe54AwHgxSVzbIfbDQd09ExAIWuY_ikKeV9uKHizUsh09ZB3NAI",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiYBRIWChAzMDM5ODI3MzY4N2VkNmY5EAAYAg%3D%3D&sigh=hlnARhPFKrlJSR97uXgB6w",
+ "album": "None",
+ "artist": "Twin Musicom",
+ "mood": "Calm",
+ "len": 85.15,
+ "reference_vid": "30398273687ed6f9",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "vid": "30398273687ed6f9",
+ "title": "Elvish Presto",
+ "fp_ref_id": "30398273687ed6f9",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Strings"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=30398273687ed6f9",
+ "is_new_track": false,
+ "artist_url": "http://www.twinmusicom.org/",
+ "license_type": 6,
+ "display_genre": "Jazz & Blues"
+}

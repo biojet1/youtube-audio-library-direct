@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChBmZGNlMGRmM2YxMGUwYTZmEAAYAg%3D%3D&sigh=E-x7sWuEswXs4tAwYpGBfg",
+ "instruments": [
+  "Synth",
+  "Strings",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fdce0df3f10e0a6f",
+ "reference_vid": "fdce0df3f10e0a6f",
+ "popularity_percentile": 99,
+ "artist": "Puddle of Infinity",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fdce0df3f10e0a6f",
+ "mood": "Dark",
+ "genre": "Ambient",
+ "streamid": "GNzA6yRQ5DK0EII-_DwD8KNrvy4SESxPxZPEDSxiRM_P3cGxD6LrRTn9DmGKDFmV",
+ "title": "They Might Not",
+ "downloadable": true,
+ "category": "",
+ "len": 160.016,
+ "artist_url": "",
+ "display_genre": "Ambient",
+ "fp_ref_id": "fdce0df3f10e0a6f",
+ "album": "None"
+}

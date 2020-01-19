@@ -1,0 +1,30 @@
+{
+ "vid": "5ad1f342b4676fc1",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5ad1f342b4676fc1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ad1f342b4676fc1",
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "track_url": "",
+ "title": "Destructoid",
+ "genre": "Dance & Electronic",
+ "mood": "Dramatic",
+ "artist": "MK2",
+ "display_mood": "Dramatic",
+ "streamid": "sjAv1Mww76LnFjFkDOtJ-pw2kNqtZchuBQXcvFkU7K0hHYxvJMeRoZ2449chd3qB",
+ "display_category": "",
+ "len": 94.916,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChA1YWQxZjM0MmI0Njc2ZmMxEAAYAg%3D%3D&sigh=R_-gt1akI1CoD8siDKETPw",
+ "reference_vid": "5ad1f342b4676fc1",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Dance & Electronic"
+}

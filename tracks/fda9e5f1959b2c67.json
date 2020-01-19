@@ -1,0 +1,31 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChBmZGE5ZTVmMTk1OWIyYzY3EAAYAg%3D%3D&sigh=k5CqFGdUvCDyReWnruQLuQ",
+ "instruments": [
+  "Trumpet",
+  "Strings",
+  "Drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fda9e5f1959b2c67",
+ "reference_vid": "fda9e5f1959b2c67",
+ "popularity_percentile": 99,
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fda9e5f1959b2c67",
+ "mood": "Inspirational",
+ "genre": "Classical",
+ "streamid": "IZxsV9XPRRQy5mfz9DYgR-GeyKv-h9TVTrsTcjsFeOmZt91zaoqE4EZBl-Vlg6BD",
+ "title": "Official National Anthem",
+ "downloadable": true,
+ "category": "",
+ "len": 107.483,
+ "artist_url": "",
+ "display_genre": "Classical",
+ "fp_ref_id": "fda9e5f1959b2c67",
+ "album": "None"
+}

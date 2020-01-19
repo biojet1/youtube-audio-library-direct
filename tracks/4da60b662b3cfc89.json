@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Quincas Moreira",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "downloadable": true,
+ "fp_ref_id": "4da60b662b3cfc89",
+ "popularity_percentile": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChA0ZGE2MGI2NjJiM2NmYzg5EAAYAg%3D%3D&sigh=XFE_zHLPAgEskxKMQbLWcw",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "4da60b662b3cfc89",
+ "streamid": "CeoNi3e4Yy5129FoVzcLMrsABavPrZ8TJ7kgqyvOSaR6a2V--Cw7ezBp6QjUTN0V",
+ "mood": "Dramatic",
+ "reference_vid": "4da60b662b3cfc89",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4da60b662b3cfc89",
+ "title": "Pink Flamingo",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "len": 155,
+ "album": "None",
+ "track_url": ""
+}

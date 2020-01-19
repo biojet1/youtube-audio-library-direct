@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "017fd1e1d9a3f324",
+ "category": "",
+ "title": "Wonders",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "keys",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "genre": "Dance & Electronic",
+ "display_mood": "Dramatic",
+ "streamid": "Zyl3OeCtnGcXRnpPXy_lVIexGkECCsthI7Je8OkAA52PFeWR9D-RyYcWDKK9FCuD",
+ "album": "None",
+ "len": 195,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=017fd1e1d9a3f324",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChAwMTdmZDFlMWQ5YTNmMzI0EAAYAg%3D%3D&sigh=qgmFRIXjNqRURS63j8KI4A",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "017fd1e1d9a3f324",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "017fd1e1d9a3f324",
+ "license_type": 1,
+ "track_url": ""
+}

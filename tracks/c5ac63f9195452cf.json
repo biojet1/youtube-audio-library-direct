@@ -1,0 +1,33 @@
+{
+ "mood": "Funky",
+ "reference_vid": "c5ac63f9195452cf",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBjNWFjNjNmOTE5NTQ1MmNmEAAYAg%3D%3D&sigh=hb3Fv5XKLfzhRUchBFFYwg",
+ "display_mood": "Funky",
+ "title": "Again",
+ "artist": "Density & Time",
+ "is_new_track": false,
+ "len": 187,
+ "genre": "R&B & Soul",
+ "display_genre": "R&B & Soul",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "c5ac63f9195452cf",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c5ac63f9195452cf",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "license_type": 1,
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "fp_ref_id": "c5ac63f9195452cf",
+ "streamid": "zYJ-hEI_eTNh0tHSXFudYbjYm3Yxp6Z574Rji_fQks1EBzqhKPCWd8T3LZgFr3Fo"
+}

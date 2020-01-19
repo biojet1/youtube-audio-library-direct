@@ -1,0 +1,32 @@
+{
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=34a77b123551a0e2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiDDBIWChAzNGE3N2IxMjM1NTFhMGUyEAAYAg%3D%3D&sigh=EyatpKPO2mmJXLBl34aDXQ",
+ "genre": "Cinematic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "album": "None",
+ "track_url": "",
+ "len": 197.116,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "34a77b123551a0e2",
+ "streamid": "3k5om49gOykPturI_lsA3lKqe9iuvqRyt36_SSf1oMVnHX_Ki0x0M0LH-48IG0qt",
+ "title": "Haunt",
+ "artist_url": "",
+ "mood": "Funky",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 21,
+ "reference_vid": "34a77b123551a0e2",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "electric guitar"
+ ],
+ "fp_ref_id": "34a77b123551a0e2",
+ "license_type": 0
+}

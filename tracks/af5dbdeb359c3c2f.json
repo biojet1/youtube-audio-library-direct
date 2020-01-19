@@ -1,0 +1,31 @@
+{
+ "reference_vid": "af5dbdeb359c3c2f",
+ "display_mood": "Dark",
+ "fp_ref_id": "af5dbdeb359c3c2f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=af5dbdeb359c3c2f",
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "vid": "af5dbdeb359c3c2f",
+ "favorite": false,
+ "display_genre": "Alternative & Punk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBhZjVkYmRlYjM1OWMzYzJmEAAYAg%3D%3D&sigh=sSTaQn-JZdinkbdZWQlxBg",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "downloadable": true,
+ "streamid": "MMrqhMS7ogNDqzFiupOySx8jjRJ-U1-QyCrQbfwXv25RanGp5VGXm04nEfXAcO9p",
+ "len": 104.783,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Red Light Runner",
+ "genre": "Alternative & Punk",
+ "display_category": ""
+}

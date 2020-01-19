@@ -1,0 +1,31 @@
+{
+ "mood": "Angry",
+ "title": "Start Your Engines",
+ "album": "None",
+ "artist": "Ethan Meixsell",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Rock",
+ "is_new_track": false,
+ "display_mood": "Angry",
+ "display_category": "",
+ "vid": "0d7c39874de1912b",
+ "streamid": "DZEvHplBUguGOWHlqBNL1k9mYk5KMwXPuwgKxDUjDpcEp2EK4W_a9GkVXLuzmsKy",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChAwZDdjMzk4NzRkZTE5MTJiEAAYAg%3D%3D&sigh=_rbM-aIa_UaMj81OWuGVCw",
+ "fp_ref_id": "0d7c39874de1912b",
+ "len": 139.066,
+ "favorite": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0d7c39874de1912b",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d7c39874de1912b",
+ "downloadable": true
+}

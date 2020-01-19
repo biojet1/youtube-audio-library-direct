@@ -1,0 +1,30 @@
+{
+ "artist": "Hainbach",
+ "display_category": "",
+ "genre": "Cinematic",
+ "vid": "71c036f9ea0c4eee",
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "reference_vid": "71c036f9ea0c4eee",
+ "artist_url": "https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "fp_ref_id": "71c036f9ea0c4eee",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=71c036f9ea0c4eee",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCEDhIWChA3MWMwMzZmOWVhMGM0ZWVlEAAYAg%3D%3D&sigh=YA7v91JESXqg04P0Bnyq1g",
+ "streamid": "MQjBGAiyIp1cagXjfr5aBYtQugWIVYDvhqFM53LnBI9mJ4Xbiop3YiWiFZLSxjRT",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 230,
+ "title": "Vehicle Chase",
+ "favorite": false
+}

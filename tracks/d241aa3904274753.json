@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d241aa3904274753",
+ "popularity_percentile": 30,
+ "reference_vid": "d241aa3904274753",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "uZA_YP41CzZ2k0EQNSrEe9lZ4Mj20LBA9S7tmE7Di9_8g_14PwAehAmkgORq4NK-",
+ "genre": "Pop",
+ "len": 125.283,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Piano"
+ ],
+ "title": "Conflicted - Music to Delight",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChBkMjQxYWEzOTA0Mjc0NzUzEAAYAg%3D%3D&sigh=KRikM2Q0Z8eUXDsBPdefcA",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "d241aa3904274753",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200023",
+ "mood": "Dramatic",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "d241aa3904274753",
+ "is_new_track": false,
+ "favorite": false
+}

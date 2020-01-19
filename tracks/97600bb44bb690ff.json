@@ -1,0 +1,31 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "len": 179.766,
+ "mood": "Inspirational",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChA5NzYwMGJiNDRiYjY5MGZmEAAYAg%3D%3D&sigh=SaBq2U7A2V4q6viBPXTiZA",
+ "genre": "Cinematic",
+ "streamid": "bBhckkWSdmCwe7-GopXFgrgyHZW0rMDwEuNyYr2y-HnqawLJSNxdQXZ0me4gWUbL",
+ "downloadable": true,
+ "fp_ref_id": "97600bb44bb690ff",
+ "vid": "97600bb44bb690ff",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "strings",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=97600bb44bb690ff",
+ "category": "",
+ "reference_vid": "97600bb44bb690ff",
+ "title": "March to Victory",
+ "artist": "Silent Partner",
+ "track_url": ""
+}

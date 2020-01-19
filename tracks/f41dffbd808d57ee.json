@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDsEBIWChBmNDFkZmZiZDgwOGQ1N2VlEAAYAg%3D%3D&sigh=quazQ49NXaEf8E4NillYTQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f41dffbd808d57ee",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500031",
+ "genre": "Country & Folk",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "f41dffbd808d57ee",
+ "fp_ref_id": "f41dffbd808d57ee",
+ "category": "",
+ "title": "Bumba Crossing",
+ "reference_vid": "f41dffbd808d57ee",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Synth"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "lwD7v8sLOPD83i1gNhpQFsz1W0s05tIc__wgYbs789A4rw7pwJy0iqz7dtllxpX4",
+ "len": 276.983,
+ "license_type": 6,
+ "is_new_track": false
+}

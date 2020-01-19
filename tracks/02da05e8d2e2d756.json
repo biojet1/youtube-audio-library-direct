@@ -1,0 +1,33 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAwMmRhMDVlOGQyZTJkNzU2EAAYAg%3D%3D&sigh=KoDFUmRzUL3ZMactK3t5kg",
+ "instruments": [
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "_audiolibrary_featured"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "02da05e8d2e2d756",
+ "reference_vid": "02da05e8d2e2d756",
+ "popularity_percentile": 2,
+ "artist": "Topher Mohr and Alex Elena",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=02da05e8d2e2d756",
+ "mood": "Dark",
+ "genre": "Country & Folk",
+ "streamid": "_3MZGoI3K962Ims3cxr22NQMRPScG3Tz8Akk9xfEZRzyCWGs_sz5q7t1KkpNFKW5",
+ "title": "Uptown",
+ "downloadable": true,
+ "category": "",
+ "len": 183.483,
+ "artist_url": "",
+ "display_genre": "Country & Folk",
+ "fp_ref_id": "02da05e8d2e2d756",
+ "album": "None"
+}

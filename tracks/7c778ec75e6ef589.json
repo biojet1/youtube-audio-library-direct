@@ -1,0 +1,32 @@
+{
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 141.783,
+ "fp_ref_id": "7c778ec75e6ef589",
+ "artist_url": "",
+ "streamid": "Yt_u1MarNbokqCVBu8XNW-adX6npzf7U0iCDQestm3QfrrbGEUxDd-354P-SKZhO",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "drums",
+  "organ",
+  "bass",
+  "electric guitar"
+ ],
+ "track_url": "",
+ "popularity_percentile": 49,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Funky",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c778ec75e6ef589",
+ "mood": "Funky",
+ "artist": "Gunnar Olsen",
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChA3Yzc3OGVjNzVlNmVmNTg5EAAYAg%3D%3D&sigh=vEHM3c_iT-oFUr319pcVCA",
+ "title": "Good To Go",
+ "reference_vid": "7c778ec75e6ef589",
+ "vid": "7c778ec75e6ef589"
+}

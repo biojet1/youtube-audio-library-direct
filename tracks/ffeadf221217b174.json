@@ -1,0 +1,33 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "len": 180,
+ "mood": "Funky",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChBmZmVhZGYyMjEyMTdiMTc0EAAYAg%3D%3D&sigh=LGo7_yNH4DDKzr8TaxNtEQ",
+ "genre": "Pop",
+ "streamid": "2MnXr2Z2yszkrFUJTgcxeuMjJWlKaEi0giTexSCMefdhNkPPQKw_2Y5dOCdBU1_l",
+ "downloadable": true,
+ "fp_ref_id": "ffeadf221217b174",
+ "vid": "ffeadf221217b174",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "instruments": [
+  "bass",
+  "drums",
+  "horns",
+  "synth",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ffeadf221217b174",
+ "category": "",
+ "reference_vid": "ffeadf221217b174",
+ "title": "Sabor Moreno",
+ "artist": "Quincas Moreira",
+ "track_url": ""
+}

@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "len": 166,
+ "vid": "e8e6d82e7ba8c8b1",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "808",
+  "electric guitar",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "e8e6d82e7ba8c8b1",
+ "album": "None",
+ "display_mood": "Happy",
+ "artist_channel_url": "/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChBlOGU2ZDgyZTdiYThjOGIxEAAYAg%3D%3D&sigh=cM4quCM_A20n9FQkc1OyWg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e8e6d82e7ba8c8b1",
+ "mood": "Happy",
+ "genre": "Dance & Electronic",
+ "title": "Plex",
+ "display_genre": "Dance & Electronic",
+ "artist": "Mike Relm",
+ "reference_vid": "e8e6d82e7ba8c8b1",
+ "streamid": "a_PPnTI_3aHIDLUJJrSC2Pd5XaKCwLh7mgyDYzFWszRVpN0YHAm3lc_U2I6HXvnz"
+}

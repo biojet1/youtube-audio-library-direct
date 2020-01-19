@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap",
+ "genre": "Hip Hop & Rap",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=65345ff4f9284c8a",
+ "artist_url": "",
+ "downloadable": true,
+ "len": 102.15,
+ "album": "None",
+ "mood": "Dark",
+ "artist": "MK2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChA2NTM0NWZmNGY5Mjg0YzhhEAAYAg%3D%3D&sigh=cs9Xo4Q9jaCHgJWbhKJsXg",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "65345ff4f9284c8a",
+ "title": "Leavin",
+ "vid": "65345ff4f9284c8a",
+ "display_mood": "Dark",
+ "reference_vid": "65345ff4f9284c8a",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "streamid": "AcM7QmSEBCd272gRRX159aB6vq8r2mV5YQg9Ay0P9HVW1OkpeZJCTGo8mdnKzm3w",
+ "category": ""
+}

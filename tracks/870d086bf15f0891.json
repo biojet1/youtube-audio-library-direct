@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "title": "Slunky",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Aaron Lieberman",
+ "vid": "870d086bf15f0891",
+ "mood": "Dramatic",
+ "genre": "Ambient",
+ "reference_vid": "870d086bf15f0891",
+ "track_url": "",
+ "streamid": "CdygxgcfpSbRF3RXtxzwOzyZgUqDawtmH0Hl4Bp8Sz1uXDrR4hDOQn0FryBLtc-P",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=870d086bf15f0891",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChA4NzBkMDg2YmYxNWYwODkxEAAYAg%3D%3D&sigh=4Z_g5v-IAEnZOw07yr8kbA",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "870d086bf15f0891",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 117.166,
+ "display_genre": "Ambient"
+}

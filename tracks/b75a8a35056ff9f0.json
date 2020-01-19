@@ -1,0 +1,29 @@
+{
+ "reference_vid": "b75a8a35056ff9f0",
+ "display_mood": "Happy",
+ "fp_ref_id": "b75a8a35056ff9f0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b75a8a35056ff9f0",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "vid": "b75a8a35056ff9f0",
+ "favorite": false,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMiyERIWChBiNzVhOGEzNTA1NmZmOWYwEAAYAg%3D%3D&sigh=8iQURiflVcL-QgbcFkzs2A",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Strings"
+ ],
+ "downloadable": true,
+ "streamid": "nQ5XSyiIyffN_DsrFZqnR4hpaVJR7BYS0vhhWFTCHl3KYJBIZRWSNdxrxXcsVfRH",
+ "len": 285.883,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 6,
+ "title": "Triumphant Return",
+ "genre": "Classical",
+ "display_category": ""
+}

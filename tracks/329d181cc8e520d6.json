@@ -1,0 +1,32 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChAzMjlkMTgxY2M4ZTUyMGQ2EAAYAg%3D%3D&sigh=Yp01iW_HIWWi3GfiRX1JcA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "category": "",
+ "instruments": [
+  "strings",
+  "hand percussion",
+  "bass",
+  "acoustic guitar"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "329d181cc8e520d6",
+ "is_new_track": false,
+ "len": 123,
+ "genre": "Country & Folk",
+ "reference_vid": "329d181cc8e520d6",
+ "downloadable": true,
+ "streamid": "kZtnqaQcesrPUiNw0uAfawCmsBw8nQa23nWNZV6j-XKO8vGZPrWRwEeFiu31sgua",
+ "track_url": "",
+ "vid": "329d181cc8e520d6",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=329d181cc8e520d6",
+ "artist_url": "",
+ "license_type": 1,
+ "title": "Run One Down",
+ "artist": "Dan Lebowitz"
+}

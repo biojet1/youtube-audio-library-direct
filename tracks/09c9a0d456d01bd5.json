@@ -1,0 +1,30 @@
+{
+ "title": "South Of The Border",
+ "favorite": false,
+ "len": 59.516,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjMAxIWChAwOWM5YTBkNDU2ZDAxYmQ1EAAYAg%3D%3D&sigh=_QiWuZgr70-um9cIPFCrsg",
+ "fp_ref_id": "09c9a0d456d01bd5",
+ "artist_channel_url": null,
+ "display_genre": "Classical",
+ "track_url": "",
+ "genre": "Classical",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Acoustic Guitar",
+  "Trumpet"
+ ],
+ "reference_vid": "09c9a0d456d01bd5",
+ "display_category": "",
+ "vid": "09c9a0d456d01bd5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09c9a0d456d01bd5",
+ "streamid": "1EsuC8EtB1pz0rKAv94o4EEDGTAoUog2RCc_HO0Pk_iv_4tAiA9YbLLSHTCaAoEX",
+ "artist": "Audionautix"
+}

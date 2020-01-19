@@ -1,0 +1,32 @@
+{
+ "title": "Sioux Falls",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "XXDL3uTrFGo7tXd11dRBmEtj02w_VbcbtPgopt0ZJwvfOkaiIGk1Wy_e8Q3jBTQx",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Country & Folk",
+ "vid": "2f97f940d4138a74",
+ "display_mood": "Happy",
+ "len": 146.816,
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "reference_vid": "2f97f940d4138a74",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "category": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2f97f940d4138a74",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChAyZjk3Zjk0MGQ0MTM4YTc0EAAYAg%3D%3D&sigh=5-I96fK2N8s0zhbFcm2bDQ",
+ "favorite": false,
+ "fp_ref_id": "2f97f940d4138a74",
+ "album": "None",
+ "popularity_percentile": 18,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

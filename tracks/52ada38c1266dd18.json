@@ -1,0 +1,31 @@
+{
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Piano",
+  "strings",
+  "Drums"
+ ],
+ "artist": "Aakash Gandhi",
+ "reference_vid": "52ada38c1266dd18",
+ "genre": "Cinematic",
+ "streamid": "vBCFVukZv6lc4r5GJlQHzYgsxBJa8VzaVuJeemFS33V1iJTGpab08VS1KqwGZsOr",
+ "len": 180.033,
+ "display_category": "",
+ "fp_ref_id": "52ada38c1266dd18",
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChA1MmFkYTM4YzEyNjZkZDE4EAAYAg%3D%3D&sigh=XNxi0-hKozi1GAzgnKecpw",
+ "artist_url": "https://www.youtube.com/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "vid": "52ada38c1266dd18",
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "mood": "Inspirational",
+ "downloadable": true,
+ "album": "None",
+ "title": "The Rising",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=52ada38c1266dd18",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "track_url": "",
+ "popularity_percentile": 0,
+ "category": ""
+}

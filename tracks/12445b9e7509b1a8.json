@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "genre": "Pop",
+ "track_url": "",
+ "is_new_track": false,
+ "artist": "Wayne Jones",
+ "title": "Retro",
+ "streamid": "vUcovi3c-fS3a7dGuSyZKi9Jmo4IsbdWkUe0cJEmpOERgNQRdur9TfrFT7UKhj8o",
+ "downloadable": true,
+ "album": "None",
+ "fp_ref_id": "12445b9e7509b1a8",
+ "len": 124.466,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "display_mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=12445b9e7509b1a8",
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "mood": "Funky",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "vid": "12445b9e7509b1a8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChAxMjQ0NWI5ZTc1MDliMWE4EAAYAg%3D%3D&sigh=h6HWkpq3OTJvKHttDUevhw",
+ "reference_vid": "12445b9e7509b1a8",
+ "category": "",
+ "popularity_percentile": 99
+}

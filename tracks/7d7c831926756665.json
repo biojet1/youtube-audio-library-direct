@@ -1,0 +1,32 @@
+{
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 116.05,
+ "fp_ref_id": "7d7c831926756665",
+ "artist_url": "",
+ "streamid": "xKzNET34IMrdhgg5oDnHPiAqt4tN9WZ7xzFHGqBQePDEZboocLhu_Utld8wzw-ts",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "track_url": "",
+ "popularity_percentile": 49,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Calm",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7d7c831926756665",
+ "mood": "Calm",
+ "artist": "Gunnar Olsen",
+ "display_genre": "Hip Hop & Rap",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA3ZDdjODMxOTI2NzU2NjY1EAAYAg%3D%3D&sigh=h8o0xOOZ34s8eZJajXHQTw",
+ "title": "Howling",
+ "reference_vid": "7d7c831926756665",
+ "vid": "7d7c831926756665"
+}

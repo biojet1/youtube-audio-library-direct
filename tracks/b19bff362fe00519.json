@@ -1,0 +1,33 @@
+{
+ "reference_vid": "b19bff362fe00519",
+ "display_mood": "Calm",
+ "fp_ref_id": "b19bff362fe00519",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b19bff362fe00519",
+ "mood": "Calm",
+ "artist": "Topher Mohr and Alex Elena",
+ "vid": "b19bff362fe00519",
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChBiMTliZmYzNjJmZTAwNTE5EAAYAg%3D%3D&sigh=4VANZmGYFNtIWFECUzFBsw",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Flute",
+  "Strings"
+ ],
+ "downloadable": true,
+ "streamid": "BQtYP8LtxtEoVYWX30LXob7aKgrRgNTskFvE3drqFM59VA-Csp4BEvRkx5HX7U3-",
+ "len": 179.25,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Fortaleza",
+ "genre": "Jazz & Blues",
+ "display_category": ""
+}

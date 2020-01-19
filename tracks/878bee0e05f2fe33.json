@@ -1,0 +1,32 @@
+{
+ "title": "La Premiere Banlieue",
+ "favorite": false,
+ "len": 141.966,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChA4NzhiZWUwZTA1ZjJmZTMzEAAYAg%3D%3D&sigh=leUtWvyzJ5EE5HtPEtakqQ",
+ "fp_ref_id": "878bee0e05f2fe33",
+ "artist_channel_url": null,
+ "display_genre": "Pop",
+ "track_url": "",
+ "genre": "Pop",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "reference_vid": "878bee0e05f2fe33",
+ "display_category": "",
+ "vid": "878bee0e05f2fe33",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=878bee0e05f2fe33",
+ "streamid": "cBkT3LNf8LeaSJctFVeejNPVqKcJpK46jzbmq1c3J9H9p9gOaXvdmpVnRu_j26sX",
+ "artist": "Silent Partner"
+}

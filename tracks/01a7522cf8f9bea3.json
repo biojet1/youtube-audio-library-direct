@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDAxYTc1MjJjZjhmOWJlYTMQABgC&sigh=b3aDuN9o34cPz03ZwQPfkw",
+ "title": "Demilitarized Zone (Sting)",
+ "favorite": false,
+ "mood": "Angry",
+ "display_mood": "Angry",
+ "fp_ref_id": "01a7522cf8f9bea3",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "display_genre": "Rock",
+ "artist": "Ethan Meixsell",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Rock",
+ "popularity_percentile": 1,
+ "reference_vid": "01a7522cf8f9bea3",
+ "streamid": "ZGLZcld6P-coEW0jfR30HPm6fcOZ5uRWGEaljjYeIrQMtQMlWjWWdZYfMGQ7aOCp",
+ "artist_url": "",
+ "len": 5.483,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=01a7522cf8f9bea3",
+ "vid": "01a7522cf8f9bea3",
+ "category": ""
+}

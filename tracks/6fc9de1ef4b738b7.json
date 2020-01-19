@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "6fc9de1ef4b738b7",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "6fc9de1ef4b738b7",
+ "title": "Above Planets",
+ "mood": "Bright",
+ "len": 145,
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "artist": "Patrick Patrikios",
+ "fp_ref_id": "6fc9de1ef4b738b7",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "license_type": 1,
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "electric guitar"
+ ],
+ "streamid": "dyFUSMQ8uo6_EeAGFWE0tbyuzpyu__GKvt3fXQQJvF03yZlX3tGex5bFSOxcs_hb",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6fc9de1ef4b738b7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA2ZmM5ZGUxZWY0YjczOGI3EAAYAg%3D%3D&sigh=3IC365RaVsr4ZFjrbBo_nQ"
+}

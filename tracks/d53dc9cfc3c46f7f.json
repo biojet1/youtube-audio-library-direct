@@ -1,0 +1,31 @@
+{
+ "genre": "Country & Folk",
+ "display_genre": "Country & Folk",
+ "len": 150,
+ "display_category": "",
+ "reference_vid": "d53dc9cfc3c46f7f",
+ "popularity_percentile": 99,
+ "artist_url": "",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Dan Lebowitz",
+ "fp_ref_id": "d53dc9cfc3c46f7f",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "streamid": "1JVn5jdyqKETT7i1FpRzmrSCZ4x9AvEbpICoAXR2gC3RWOFFgT2uC1cS_qDfhyxJ",
+ "display_mood": "Bright",
+ "vid": "d53dc9cfc3c46f7f",
+ "track_url": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Weissenborn",
+  "Percussion"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBkNTNkYzljZmMzYzQ2ZjdmEAAYAg%3D%3D&sigh=xVwEp2M-YE_99SFhkf2TaA",
+ "category": "",
+ "title": "Hiiltop",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d53dc9cfc3c46f7f"
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "2ebdd1c74dd333bc",
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "len": 191,
+ "streamid": "uaiFOLkKVXSLyArOMxxMJZ8XL_6ZdZxnOUIKd2NLsmY9MLx8lrqn9AOWd3dFXZMg",
+ "license_type": 1,
+ "vid": "2ebdd1c74dd333bc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChAyZWJkZDFjNzRkZDMzM2JjEAAYAg%3D%3D&sigh=a5Whjp-OSN8T1n9tGJPCvQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ebdd1c74dd333bc",
+ "title": "Chilltronic",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "display_category": "",
+ "fp_ref_id": "2ebdd1c74dd333bc",
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw?internalcountrycode=US",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "artist": "RKVC",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Dance & Electronic",
+ "category": ""
+}

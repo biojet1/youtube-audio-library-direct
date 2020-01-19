@@ -1,0 +1,29 @@
+{
+ "display_mood": "Calm",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "album": "None",
+ "streamid": "uNr6cFF2NMt-PkmCmj1me2JQgqgKGYwohLp-xBoJl7pUz8eEd7j-Rv5x4ZLgmc6E",
+ "title": "Life in Romance",
+ "display_genre": "Classical",
+ "vid": "1b1721838f7b0a85",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://www.twinmusicom.org/",
+ "reference_vid": "1b1721838f7b0a85",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Calm",
+ "license_type": 6,
+ "fp_ref_id": "1b1721838f7b0a85",
+ "display_category": "",
+ "popularity_percentile": 74,
+ "category": "",
+ "downloadable": true,
+ "artist": "Twin Musicom",
+ "len": 237.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi7DhIWChAxYjE3MjE4MzhmN2IwYTg1EAAYAg%3D%3D&sigh=GvVZkJny5BMJAx08Nn-uOg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b1721838f7b0a85"
+}

@@ -1,0 +1,31 @@
+{
+ "genre": "Holiday",
+ "display_genre": "Holiday",
+ "len": 137.716,
+ "display_category": "",
+ "reference_vid": "42f4e638798e5c08",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "E's Jammy Jams",
+ "fp_ref_id": "42f4e638798e5c08",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "WDD5XDPqqa55k2k6KdVipZPmoqRwnVvBAzGvyrn1TupBep7kWa7DZf-ScaUX3CST",
+ "display_mood": "Inspirational",
+ "vid": "42f4e638798e5c08",
+ "track_url": "",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChA0MmY0ZTYzODc5OGU1YzA4EAAYAg%3D%3D&sigh=_y8fe18XDZPtnNtgJqb_3A",
+ "category": "",
+ "title": "Jingle Bells (Jazz)",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=42f4e638798e5c08"
+}

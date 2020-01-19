@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "is_new_track": false,
+ "fp_ref_id": "910252aa0ad228a8",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "title": "Go to Sleep My Little One",
+ "vid": "910252aa0ad228a8",
+ "mood": "Calm",
+ "display_genre": "Classical",
+ "len": 118.683,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA5MTAyNTJhYTBhZDIyOGE4EAAYAg%3D%3D&sigh=_Eel_gg-RxO09shnNd7r9g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=910252aa0ad228a8",
+ "display_category": "",
+ "category": "",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "QFkXjeUIfaQhVPaala4zFzWh-3j48UUoWYV0d9p7cYYiTGQBg0iYw3kpU4_oEcpg",
+ "reference_vid": "910252aa0ad228a8",
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Classical",
+ "artist_url": ""
+}

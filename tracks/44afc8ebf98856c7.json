@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChA0NGFmYzhlYmY5ODg1NmM3EAAYAg%3D%3D&sigh=4V9V2t3QQiz0-AzSAwB7Kg",
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "egwFFCtdRm1B9izsnokT60kIUSKUFDC8N5FS6t3l1dm0K3HclFEBmAlx-2e8Rx_0",
+ "artist": "Ethan Meixsell",
+ "len": 141.516,
+ "genre": "Rock",
+ "mood": "Angry",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "44afc8ebf98856c7",
+ "reference_vid": "44afc8ebf98856c7",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=44afc8ebf98856c7",
+ "fp_ref_id": "44afc8ebf98856c7",
+ "display_mood": "Angry",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Thor's Hammer",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

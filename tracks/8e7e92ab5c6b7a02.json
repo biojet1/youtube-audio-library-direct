@@ -1,0 +1,30 @@
+{
+ "display_mood": "Calm",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "fp_ref_id": "8e7e92ab5c6b7a02",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "reference_vid": "8e7e92ab5c6b7a02",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 149,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChA4ZTdlOTJhYjVjNmI3YTAyEAAYAg%3D%3D&sigh=dMUWMVrtGFv6xY2BP7XQsg",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8e7e92ab5c6b7a02",
+ "instruments": [
+  "piano",
+  "strings"
+ ],
+ "title": "People Watching",
+ "genre": "Cinematic",
+ "streamid": "6rIP4WGfP_5MgHIpDcRBht3DdAfq9T04a87z_zD59eaOp-ekqdhvK2wxZhVs1lO7",
+ "vid": "8e7e92ab5c6b7a02",
+ "display_genre": "Cinematic",
+ "mood": "Calm",
+ "license_type": 1,
+ "artist": "Sir Cubworth"
+}

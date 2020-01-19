@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "popularity_percentile": 85,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 148.65,
+ "mood": "Inspirational",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db2682af9a7b514e",
+ "title": "We Wish You a Merry Christmas (Vocals)",
+ "streamid": "KJ9YYk5bOn9fK_xVppjXmKrt17ouZc5lsXjni8D5oc_NTapzvHG9bls5enLnN4Z1",
+ "genre": "Holiday",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBkYjI2ODJhZjlhN2I1MTRlEAAYAg%3D%3D&sigh=rxRjyJ_8p2te4e6y_wUL1Q",
+ "license_type": 0,
+ "fp_ref_id": "db2682af9a7b514e",
+ "display_mood": "Inspirational",
+ "vid": "db2682af9a7b514e",
+ "artist_url": "",
+ "artist": "Jingle Punks",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Acoustic Guitar",
+  "Bass",
+  "Organ"
+ ],
+ "display_genre": "Holiday",
+ "favorite": false,
+ "reference_vid": "db2682af9a7b514e"
+}

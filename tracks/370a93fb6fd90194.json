@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 175,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "370a93fb6fd90194",
+ "mood": "Calm",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "The End",
+ "display_mood": "Calm",
+ "instruments": [
+  "strings",
+  "woodwinds",
+  "percussion",
+  "synth",
+  "horns"
+ ],
+ "streamid": "5k4n4hO3QPWnivr1PQA9KNrJKV-iO7wyRC3oAM1Nq6kcR25gnFj5Xw_CcqPw_NM4",
+ "reference_vid": "370a93fb6fd90194",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=370a93fb6fd90194",
+ "fp_ref_id": "370a93fb6fd90194",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChAzNzBhOTNmYjZmZDkwMTk0EAAYAg%3D%3D&sigh=O27xKd8be3-lpw_wWXi1Ig"
+}

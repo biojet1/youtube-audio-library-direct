@@ -1,0 +1,31 @@
+{
+ "mood": "Inspirational",
+ "album": "None",
+ "vid": "ca29812a5e309aa8",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBjYTI5ODEyYTVlMzA5YWE4EAAYAg%3D%3D&sigh=jYAM2UsXt9rg9qCZIEm4NA",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "streamid": "93seHAb08ykO5TW9Z-uxKgJog-Ge_q-DF-aUSRBUhOWnL9z90-jnuHou4DEcSi94",
+ "len": 187,
+ "genre": "Hip Hop & Rap",
+ "artist": "Coyote Hearing",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Get Up",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ca29812a5e309aa8",
+ "reference_vid": "ca29812a5e309aa8",
+ "popularity_percentile": 99,
+ "fp_ref_id": "ca29812a5e309aa8",
+ "display_mood": "Inspirational"
+}

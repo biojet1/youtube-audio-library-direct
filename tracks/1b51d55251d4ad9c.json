@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b51d55251d4ad9c",
+ "fp_ref_id": "1b51d55251d4ad9c",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1b51d55251d4ad9c",
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "organ"
+ ],
+ "len": 148.916,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChAxYjUxZDU1MjUxZDRhZDljEAAYAg%3D%3D&sigh=4jyHiKjgOO9xJQ9dOnHzbQ",
+ "album": "None",
+ "title": "Stay with You",
+ "popularity_percentile": 11,
+ "streamid": "jUK8ZDUEexnojoLg5em7XM6aVQ-69sDOItNW_gPRQ6W3gIVD4v79GX3xoDGQs4fA",
+ "mood": "Happy",
+ "genre": "Pop",
+ "category": "",
+ "favorite": false,
+ "vid": "1b51d55251d4ad9c",
+ "track_url": "",
+ "display_genre": "Pop",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Silent Partner"
+}

@@ -1,0 +1,29 @@
+{
+ "genre": "Jazz & Blues",
+ "display_genre": "Jazz & Blues",
+ "len": 153.55,
+ "display_category": "",
+ "reference_vid": "41d82f80abd53499",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 1,
+ "album": "None",
+ "artist": "E's Jammy Jams",
+ "fp_ref_id": "41d82f80abd53499",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "BugPzXxv5QDK9_lMPta_vxfpsON6ttXAlgA0rT4ZFwYA66OEg2XVIbW_EXJlcHnD",
+ "display_mood": "Happy",
+ "vid": "41d82f80abd53499",
+ "track_url": "",
+ "instruments": [
+  "Piano"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChA0MWQ4MmY4MGFiZDUzNDk5EAAYAg%3D%3D&sigh=HPux3SL-eGobLHLqavAxkA",
+ "category": "",
+ "title": "The Entertainer",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41d82f80abd53499"
+}

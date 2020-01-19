@@ -1,0 +1,31 @@
+{
+ "title": "West Coast Trip",
+ "is_new_track": false,
+ "artist": "Gunnar Olsen",
+ "streamid": "s5peBhBMps9NoCo6dTwqGy2EmswCUTMFd8Md3KoJnbsmBPSXpOvpBjR2Cb8icw9B",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Hip Hop & Rap",
+ "vid": "2fbba75e7dd58ddc",
+ "display_mood": "Funky",
+ "len": 130.449,
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "reference_vid": "2fbba75e7dd58ddc",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "category": "",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2fbba75e7dd58ddc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAyZmJiYTc1ZTdkZDU4ZGRjEAAYAg%3D%3D&sigh=LSJVR3mX9m-1uaETm0EaTQ",
+ "favorite": false,
+ "fp_ref_id": "2fbba75e7dd58ddc",
+ "album": "None",
+ "popularity_percentile": 19,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

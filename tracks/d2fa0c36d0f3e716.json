@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "d2fa0c36d0f3e716",
+ "display_genre": "Jazz & Blues",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChBkMmZhMGMzNmQwZjNlNzE2EAAYAg%3D%3D&sigh=XZWYSEfucgOTcpvOMvtOew",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2fa0c36d0f3e716",
+ "len": 93.85,
+ "mood": "Happy",
+ "title": "Hit the Switch",
+ "vid": "d2fa0c36d0f3e716",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 0,
+ "artist_url": "",
+ "genre": "Jazz & Blues",
+ "display_mood": "Happy",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "d2fa0c36d0f3e716",
+ "streamid": "UehJcAozX9IUW_29RcZPjs6hLK3e5WQr7jCLsSw_S-O-0C3r4AcF9FgXmRsW4lBk"
+}

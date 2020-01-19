@@ -1,0 +1,31 @@
+{
+ "mood": "Dark",
+ "artist": "Jingle Punks",
+ "vid": "82ede13ec0baa72d",
+ "display_category": "",
+ "streamid": "p8J1Hv418PdNPqWv2qb8j1TlTx5tJxd451fIuJi6mC2GbRPXOm7u57H-vSF5s9Vl",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=82ede13ec0baa72d",
+ "fp_ref_id": "82ede13ec0baa72d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDhBBIWChA4MmVkZTEzZWMwYmFhNzJkEAAYAg%3D%3D&sigh=H2HcKDAvoIRQq8T6XgFx2A",
+ "display_genre": "Hip Hop & Rap",
+ "len": 78.016,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "reference_vid": "82ede13ec0baa72d",
+ "title": "Yessum",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Dark",
+ "popularity_percentile": 52
+}

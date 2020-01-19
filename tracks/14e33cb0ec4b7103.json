@@ -1,0 +1,31 @@
+{
+ "vid": "14e33cb0ec4b7103",
+ "display_mood": "Funky",
+ "title": "Got Funk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiTERIWChAxNGUzM2NiMGVjNGI3MTAzEAAYAg%3D%3D&sigh=g9TOUFmyOnfnPSvuM0Z0tQ",
+ "display_genre": "R&B & Soul",
+ "mood": "Funky",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14e33cb0ec4b7103",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200005",
+ "popularity_percentile": 61,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "favorite": false,
+ "reference_vid": "14e33cb0ec4b7103",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "iQkMHGePeMKkMhFl3yusAVSPcL3R8ZIPDnmZlXnjO5xCRxAE60sfCtONQMobeJr8",
+ "artist_url": "http://incompetech.com/",
+ "len": 281.083,
+ "fp_ref_id": "14e33cb0ec4b7103",
+ "license_type": 6,
+ "is_new_track": false
+}

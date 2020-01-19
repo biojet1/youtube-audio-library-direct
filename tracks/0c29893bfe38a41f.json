@@ -1,0 +1,30 @@
+{
+ "mood": "Calm",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChAwYzI5ODkzYmZlMzhhNDFmEAAYAg%3D%3D&sigh=sNaLiEUtKdxJ1rx5GfjfcQ",
+ "display_mood": "Calm",
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0c29893bfe38a41f",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Chasms",
+ "title": "Materialize",
+ "reference_vid": "0c29893bfe38a41f",
+ "instruments": [
+  "synth",
+  "piano"
+ ],
+ "display_genre": "Ambient",
+ "fp_ref_id": "0c29893bfe38a41f",
+ "vid": "0c29893bfe38a41f",
+ "category": "",
+ "streamid": "R2-RZLhpogwWOwa2i9EWgSMAdnP-kd4Q38qMZwyEsP-Cy8gkb3eSev-rgs3moHTJ",
+ "popularity_percentile": 99,
+ "len": 106,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

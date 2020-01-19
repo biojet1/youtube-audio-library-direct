@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Classical",
+ "streamid": "6_f1_oWfzaaZtXrYiv6RibOetjQLDeIDiWcl8mC6jt-p5D1P4TkVXVsi719SL-Sd",
+ "reference_vid": "56aacb6a32eb5cd3",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=56aacb6a32eb5cd3",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Bach",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChA1NmFhY2I2YTMyZWI1Y2QzEAAYAg%3D%3D&sigh=U_L5ZAAKOnGxctr1qvARpQ",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "display_category": "",
+ "title": "Toccata in D minor (by Bach)",
+ "album": "None",
+ "vid": "56aacb6a32eb5cd3",
+ "downloadable": true,
+ "instruments": [
+  "Organ"
+ ],
+ "favorite": false,
+ "len": 185.833,
+ "fp_ref_id": "56aacb6a32eb5cd3",
+ "display_genre": "Classical"
+}

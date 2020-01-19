@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "7a66710a6b83c23a",
+ "reference_vid": "7a66710a6b83c23a",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a66710a6b83c23a",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "6LMxy2PFe3e9S9qiMUeDLYHFAOAecGPOpZ1TEXYoY-7KVdrfZl-G056N3EcXOrUc",
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 48,
+ "mood": "Happy",
+ "downloadable": true,
+ "vid": "7a66710a6b83c23a",
+ "len": 96.016,
+ "instruments": [
+  "piano",
+  "drums",
+  "bass"
+ ],
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChA3YTY2NzEwYTZiODNjMjNhEAAYAg%3D%3D&sigh=mGj-GKRaXsZdnZ-F31jgFg",
+ "display_mood": "Happy",
+ "album": "None",
+ "title": "Neck Pillow",
+ "display_category": ""
+}

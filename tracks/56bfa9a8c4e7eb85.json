@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Cinematic",
+ "streamid": "urapaNpGxvuuAo0Xqo_8LdznSRzadEKQ0LpCklEAzz2F10XWdglOssXlT00WD9eA",
+ "reference_vid": "56bfa9a8c4e7eb85",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=56bfa9a8c4e7eb85",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Jingle Punks",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNinBRIWChA1NmJmYTlhOGM0ZTdlYjg1EAAYAg%3D%3D&sigh=zoBLOEjuFSo7Y3VUXTLVzQ",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "title": "Action Hero",
+ "album": "None",
+ "vid": "56bfa9a8c4e7eb85",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Bass",
+  "Synth"
+ ],
+ "favorite": false,
+ "len": 87.316,
+ "fp_ref_id": "56bfa9a8c4e7eb85",
+ "display_genre": "Cinematic"
+}

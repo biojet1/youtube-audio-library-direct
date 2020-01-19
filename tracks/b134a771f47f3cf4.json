@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "b134a771f47f3cf4",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Freedom Trail Studio",
+ "vid": "b134a771f47f3cf4",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChBiMTM0YTc3MWY0N2YzY2Y0EAAYAg%3D%3D&sigh=9X3Om-ZUrfhAoHl4Xov2NQ",
+ "category": "",
+ "genre": "Hip Hop & Rap",
+ "display_mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "title": "Far The Ridden",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b134a771f47f3cf4",
+ "reference_vid": "b134a771f47f3cf4",
+ "mood": "Funky",
+ "streamid": "NLvlfvirFQk-6vW_kki7T2Dlss8JECdKvCOqdPvwZnZWOx3rADQt4sc_S0JIWMiU",
+ "track_url": "",
+ "album": "None",
+ "len": 173,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap"
+}

@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 48,
+ "favorite": false,
+ "mood": "Calm",
+ "display_category": "",
+ "fp_ref_id": "d7e2d6bc6987920e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d7e2d6bc6987920e",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "is_new_track": false,
+ "reference_vid": "d7e2d6bc6987920e",
+ "len": 225.316,
+ "display_mood": "Calm",
+ "streamid": "bp8aTGIrrvKyAyaTC0zBkN5ebmdlOcDGkse7K9cr4l6dtTDdfqRB8rHGcj5NvA69",
+ "display_genre": "R&B & Soul",
+ "title": "Firmament",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100480",
+ "downloadable": true,
+ "license_type": 6,
+ "genre": "R&B & Soul",
+ "vid": "d7e2d6bc6987920e",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjdDRIWChBkN2UyZDZiYzY5ODc5MjBlEAAYAg%3D%3D&sigh=b7Q5aaUVM8zXEtNw9wRvnQ"
+}

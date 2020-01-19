@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "artist": "The Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "title": "Like Lee",
+ "album": "None",
+ "fp_ref_id": "613782b3d7a5c42d",
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChA2MTM3ODJiM2Q3YTVjNDJkEAAYAg%3D%3D&sigh=a50XfvCDJ3Y0AM4heRDXXA",
+ "genre": "Jazz & Blues",
+ "vid": "613782b3d7a5c42d",
+ "streamid": "Wf1dm9GjLjAdeKHyTu7BL48eALuthulTF8ZM08Yj5JGXsECzjkARwn19IXqt_XPc",
+ "display_category": "",
+ "display_mood": "Funky",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=613782b3d7a5c42d",
+ "reference_vid": "613782b3d7a5c42d",
+ "is_new_track": false,
+ "mood": "Funky",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "favorite": false,
+ "instruments": [
+  "bass",
+  "drums",
+  "piano"
+ ],
+ "len": 130
+}

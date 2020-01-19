@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 139.35,
+ "category": "",
+ "title": "Keep It Tight",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b532c158bcb1dc4f",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "reference_vid": "b532c158bcb1dc4f",
+ "fp_ref_id": "b532c158bcb1dc4f",
+ "artist": "John Deley",
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChBiNTMyYzE1OGJjYjFkYzRmEAAYAg%3D%3D&sigh=qS92zwZtGiHeuC4eJtPVOQ",
+ "license_type": 0,
+ "mood": "Funky",
+ "vid": "b532c158bcb1dc4f",
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 70,
+ "display_mood": "Funky",
+ "streamid": "EmKRd4TW7vTxAan-rZ5IvaBjt1Aw5e4mQfVVybGS7fLRPfauvUKdWOTjvZ6Z74RZ"
+}

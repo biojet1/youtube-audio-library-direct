@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "WuCyyZ0bEu3vh5r_EMjLrBPGL-gNgSiyESUFFr246QPkhj5g06X1rf9Zy3l364ab",
+ "len": 132.016,
+ "category": "",
+ "license_type": 6,
+ "title": "Pop Star",
+ "genre": "Pop",
+ "display_category": "",
+ "vid": "48e17cc502956c34",
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "favorite": false,
+ "display_genre": "Pop",
+ "display_mood": "Happy",
+ "fp_ref_id": "48e17cc502956c34",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48e17cc502956c34",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "reference_vid": "48e17cc502956c34",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChA0OGUxN2NjNTAyOTU2YzM0EAAYAg%3D%3D&sigh=jUfdw7AoMihcLvG-Z-MKQA",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 56
+}

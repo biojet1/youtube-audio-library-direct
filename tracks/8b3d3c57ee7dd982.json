@@ -1,0 +1,30 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Dark",
+ "genre": "R&B & Soul",
+ "streamid": "aRTnxzJBee2Foa3SxIrbkdMMIgSKxlsouqG9gxVxbPoMrG0-kats-Q6ecelYo0aX",
+ "fp_ref_id": "8b3d3c57ee7dd982",
+ "artist": "MK2",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDhiM2QzYzU3ZWU3ZGQ5ODIQABgC&sigh=m-VXfRY1zivlwBe5EFppvQ",
+ "mood": "Dark",
+ "vid": "8b3d3c57ee7dd982",
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8b3d3c57ee7dd982",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "8b3d3c57ee7dd982",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 6.916,
+ "category": "",
+ "title": "Flow (Sting)"
+}

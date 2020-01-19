@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Piano",
+  "Synth"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "vJK-_tQeEsoJKEBox9AnAXL5FZsWxftu7sbQAD-3iOBCO2R8wNHn3JnHIKT_e5Rg",
+ "len": 108.016,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aad123f535343203",
+ "category": "",
+ "is_new_track": false,
+ "vid": "aad123f535343203",
+ "display_genre": "Rock",
+ "reference_vid": "aad123f535343203",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBhYWQxMjNmNTM1MzQzMjAzEAAYAg%3D%3D&sigh=HiS1crssCb6iIO5FQnPYug",
+ "display_mood": "Romantic",
+ "artist_url": "",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "",
+ "title": "New Tattoo",
+ "genre": "Rock",
+ "fp_ref_id": "aad123f535343203",
+ "mood": "Romantic",
+ "artist": "Josh Kirsch/Media Right Productions",
+ "favorite": false
+}

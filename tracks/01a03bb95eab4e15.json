@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "vid": "01a03bb95eab4e15",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=01a03bb95eab4e15",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjRDBIWChAwMWEwM2JiOTVlYWI0ZTE1EAAYAg%3D%3D&sigh=xJjMlSUqAv95O3WEQ2CXMQ",
+ "is_new_track": false,
+ "reference_vid": "01a03bb95eab4e15",
+ "display_mood": "Calm",
+ "favorite": false,
+ "category": "",
+ "title": "Gently, Onwards",
+ "streamid": "caSYhC5oqZI6DEaGHSmWhdB_Fz2IIGkA-KWs0h3gqICVzVn_WbkqfwQ2tqcKksKp",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "len": 207,
+ "album": "None",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "ELPHNT",
+ "instruments": [
+  "synth",
+  "piano",
+  "organ"
+ ],
+ "fp_ref_id": "01a03bb95eab4e15"
+}

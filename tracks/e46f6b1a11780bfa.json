@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "e46f6b1a11780bfa",
+ "category": "",
+ "title": "Stars",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "genre": "Dance & Electronic",
+ "display_mood": "Dramatic",
+ "streamid": "wviugVbJWqn9Th2cCVGh51rVGz01ZUwKYczKSxaXBQPdIbPLvjzVZLK-JwWuzgwo",
+ "album": "None",
+ "len": 123,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e46f6b1a11780bfa",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChBlNDZmNmIxYTExNzgwYmZhEAAYAg%3D%3D&sigh=f4hbn3I-0kepZpHPEjo5gg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "e46f6b1a11780bfa",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "e46f6b1a11780bfa",
+ "license_type": 1,
+ "track_url": ""
+}

@@ -1,0 +1,31 @@
+{
+ "display_genre": "Alternative & Punk",
+ "vid": "72e4cc087f9a1b04",
+ "title": "A Young Man",
+ "mood": "Angry",
+ "reference_vid": "72e4cc087f9a1b04",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 139.516,
+ "fp_ref_id": "72e4cc087f9a1b04",
+ "is_new_track": false,
+ "artist": "ALBIS",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "streamid": "-DiBfOA9G4o5VtVI1_-sU36SC3xkwXFDKZWkXLwoB-DO2SqIXAS42_MxPK2qldXx",
+ "display_mood": "Angry",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=72e4cc087f9a1b04",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA3MmU0Y2MwODdmOWExYjA0EAAYAg%3D%3D&sigh=NN8pApBgzJ7qN4OxMIlNYg",
+ "genre": "Alternative & Punk"
+}

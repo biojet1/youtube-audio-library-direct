@@ -1,0 +1,31 @@
+{
+ "mood": "Romantic",
+ "title": "1940's Slow Dance",
+ "album": "None",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Jazz & Blues",
+ "is_new_track": false,
+ "display_mood": "Romantic",
+ "display_category": "",
+ "vid": "0de073f162cb88c8",
+ "streamid": "mZPs8T3JJaG8U0HmrdG60ahOotDRC3wckqmACM82r-dHPrs2qKXN8b9UklRaOftV",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChAwZGUwNzNmMTYyY2I4OGM4EAAYAg%3D%3D&sigh=V4-LaRzeH4-9CM5jbjM9KQ",
+ "fp_ref_id": "0de073f162cb88c8",
+ "len": 123.216,
+ "favorite": false,
+ "instruments": [
+  "Trumpet",
+  "Bass",
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0de073f162cb88c8",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0de073f162cb88c8",
+ "downloadable": true
+}

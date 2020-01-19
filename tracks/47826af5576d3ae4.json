@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChA0NzgyNmFmNTU3NmQzYWU0EAAYAg%3D%3D&sigh=wHR_nGKnXadBkzHtnJeUAg",
+ "display_genre": "Pop",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "pM1RaB0fudeDuOReaETsKbFJh_Eti6arDMluORF1NLfLLS0efyt1OcpuXvtxHAEX",
+ "artist": "Silent Partner",
+ "len": 132.8,
+ "genre": "Pop",
+ "mood": "Funky",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "47826af5576d3ae4",
+ "reference_vid": "47826af5576d3ae4",
+ "popularity_percentile": 28,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=47826af5576d3ae4",
+ "fp_ref_id": "47826af5576d3ae4",
+ "display_mood": "Funky",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "You're No Help",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "acoustic guitar",
+  "bass",
+  "piano"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "db768165e7d07354",
+ "is_new_track": false,
+ "mood": "Happy",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBkYjc2ODE2NWU3ZDA3MzU0EAAYAg%3D%3D&sigh=ZEZhI5jZ4lMlld_mQTOLUA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db768165e7d07354",
+ "artist": "Verified Picasso",
+ "len": 131,
+ "streamid": "kiaoahgJBhdKruIn-qWWTGVqEcMO_qhMR62OBMDYg4tmqi1UaOr4DYwor2cT8RsO",
+ "album": "None",
+ "display_mood": "Happy",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "piano",
+  "808"
+ ],
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "title": "Fish Room",
+ "vid": "db768165e7d07354",
+ "reference_vid": "db768165e7d07354",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

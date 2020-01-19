@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Rock",
+ "category": "",
+ "fp_ref_id": "1893ad9653e784bf",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Gearhead",
+ "vid": "1893ad9653e784bf",
+ "mood": "Angry",
+ "display_mood": "Angry",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChAxODkzYWQ5NjUzZTc4NGJmEAAYAg%3D%3D&sigh=yJIj6b_jrR5p1JsOW17hZQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1893ad9653e784bf",
+ "display_category": "",
+ "len": 139.483,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100221",
+ "downloadable": true,
+ "streamid": "XxhYIO5SgiyW79RYEgjbg5vQk8AO7MipJ-Z2n72D7xg6e0z4Om468eUfIbsQt0uF",
+ "reference_vid": "1893ad9653e784bf",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Rock"
+}

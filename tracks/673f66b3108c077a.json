@@ -1,0 +1,32 @@
+{
+ "vid": "673f66b3108c077a",
+ "display_mood": "Romantic",
+ "title": "Rauchus",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChA2NzNmNjZiMzEwOGMwNzdhEAAYAg%3D%3D&sigh=siiD99LmoyBwS9_9TnwLFg",
+ "favorite": false,
+ "display_genre": "Pop",
+ "mood": "Romantic",
+ "artist": "Twin Musicom",
+ "reference_vid": "673f66b3108c077a",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=673f66b3108c077a",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 79,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "piano"
+ ],
+ "genre": "Pop",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "bSDsL963ZWbrAY3bp7wkpAqRN4DHhtENVts5ickgUqsehrF1ft04F7EyCT6iTy-Y",
+ "artist_url": "http://www.twinmusicom.org/",
+ "len": 179.983,
+ "fp_ref_id": "673f66b3108c077a",
+ "license_type": 6,
+ "is_new_track": false
+}

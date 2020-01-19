@@ -1,0 +1,29 @@
+{
+ "instruments": [
+  "Bass"
+ ],
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "len": 228.416,
+ "reference_vid": "713507d8485803fb",
+ "fp_ref_id": "713507d8485803fb",
+ "display_genre": "Jazz & Blues",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400029",
+ "vid": "713507d8485803fb",
+ "category": "",
+ "title": "Backed Vibes Clean - Rollin at 5",
+ "genre": "Jazz & Blues",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=713507d8485803fb",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChA3MTM1MDdkODQ4NTgwM2ZiEAAYAg%3D%3D&sigh=JrQlzSo1HRSt_fMNVHg49g",
+ "license_type": 6,
+ "popularity_percentile": 88,
+ "streamid": "8T2ZJP6dbeNSIk5Q29_Lmke4eA91RB4qBxvVlx9Jjuj2CRJsLeXv3skpT37TKmBY"
+}

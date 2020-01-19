@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 9,
+ "license_type": 1,
+ "vid": "16e228a1d26a2fb5",
+ "fp_ref_id": "16e228a1d26a2fb5",
+ "album": "None",
+ "streamid": "zFXlHC_QlroQukE9QCXZIFxpQ_3elV3lnf3JeGPGvVPChnVHIX4bJeN26WDyMgpr",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "artist": "The U.S. Army Band",
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=16e228a1d26a2fb5",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAxNmUyMjhhMWQyNmEyZmI1EAAYAg%3D%3D&sigh=JzJG4Gd_JhqO_ZaTCGmuaA",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 183.55,
+ "reference_vid": "16e228a1d26a2fb5",
+ "title": "Bravura",
+ "favorite": false,
+ "track_url": ""
+}

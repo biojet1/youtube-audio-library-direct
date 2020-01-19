@@ -1,0 +1,29 @@
+{
+ "genre": "Classical",
+ "display_genre": "Classical",
+ "len": 122.083,
+ "display_category": "",
+ "reference_vid": "425fb83e317a781d",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "fp_ref_id": "425fb83e317a781d",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "5brtBYwAfpJcC0YJtYoNJaQmh1jRhkio7EwpIFDs-LUgxDIrBbgk8EpvLhhdBxsw",
+ "display_mood": "Romantic",
+ "vid": "425fb83e317a781d",
+ "track_url": "",
+ "instruments": [
+  "Strings"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChA0MjVmYjgzZTMxN2E3ODFkEAAYAg%3D%3D&sigh=hTKh2eCmTAd912YQ0_8nMA",
+ "category": "",
+ "title": "Intimate Tango",
+ "mood": "Romantic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=425fb83e317a781d"
+}

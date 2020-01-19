@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "b6867752312a8a91",
+ "mood": "Funky",
+ "reference_vid": "b6867752312a8a91",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBiNjg2Nzc1MjMxMmE4YTkxEAAYAg%3D%3D&sigh=J9SrYC-W3QIh_49RBhtpmg",
+ "len": 131,
+ "favorite": false,
+ "display_mood": "Funky",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b6867752312a8a91",
+ "streamid": "ayGrpQzheOrXTTJiB_lZu-IG5FicaJlp4WDH4j5fi4isO_vrYxFStSYYeBy3Cmjc",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6867752312a8a91",
+ "title": "Suddenly",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Otis McDonald",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "electric guitar",
+  "strings"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

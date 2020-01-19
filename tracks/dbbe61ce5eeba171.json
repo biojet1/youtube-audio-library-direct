@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dbbe61ce5eeba171",
+ "downloadable": true,
+ "reference_vid": "dbbe61ce5eeba171",
+ "mood": "Dramatic",
+ "artist_url": "",
+ "license_type": 0,
+ "len": 151.216,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChBkYmJlNjFjZTVlZWJhMTcxEAAYAg%3D%3D&sigh=F9WTqzWsRlvIdGsQROfTJQ",
+ "streamid": "g4KSW58xb3veU-db1ycoGrEOdD_IXEmpOiBmN5ATeYV7Y2zx1iM2bjLGn24BaLbZ",
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Jazz & Blues",
+ "vid": "dbbe61ce5eeba171",
+ "artist": "John Deley and the 41 Players",
+ "popularity_percentile": 86,
+ "fp_ref_id": "dbbe61ce5eeba171",
+ "category": "",
+ "title": "Play Song",
+ "album": "None"
+}

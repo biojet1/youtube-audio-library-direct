@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChA3ZjdmMzhhYjdlOGI0ZWU0EAAYAg%3D%3D&sigh=9cyiaY_xumxu_79H9VXMTw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "category": "",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Organ",
+  "Strings"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "7f7f38ab7e8b4ee4",
+ "is_new_track": false,
+ "len": 133,
+ "genre": "Cinematic",
+ "reference_vid": "7f7f38ab7e8b4ee4",
+ "downloadable": true,
+ "streamid": "_-71uCa2oVh_sjvjLedR6VmTGMXIwMhGMEFPEl_EaghI8Fj73SKHMXBdf4SwF81_",
+ "track_url": "",
+ "vid": "7f7f38ab7e8b4ee4",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7f7f38ab7e8b4ee4",
+ "artist_url": "",
+ "license_type": 1,
+ "title": "Fun House Trap",
+ "artist": "Sir Cubworth"
+}

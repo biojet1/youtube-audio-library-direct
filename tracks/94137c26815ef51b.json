@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "artist_url": "http://chriszabriskie.com/",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "mood": "Calm",
+ "artist": "Chris Zabriskie",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=94137c26815ef51b",
+ "len": 653.483,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjtJxIWChA5NDEzN2MyNjgxNWVmNTFiEAAYAg%3D%3D&sigh=7AQbtxbOTTEcc_5FBaikQw",
+ "fp_ref_id": "94137c26815ef51b",
+ "vid": "94137c26815ef51b",
+ "title": "Unfoldment, Revealment, Evolution, Exposition, Integration",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://chriszabriskie.com/reappear/",
+ "reference_vid": "94137c26815ef51b",
+ "license_type": 6,
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "instruments": [
+  "Synth"
+ ],
+ "streamid": "Q6s6Do2VwOMtDHxQ7P3oaJ3YXi75s2tmepDvTSDcpvE51wKG-rwpnJVrU3eM6Rm5",
+ "category": ""
+}

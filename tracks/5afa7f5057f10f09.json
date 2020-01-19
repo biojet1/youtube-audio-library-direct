@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "title": "Sao Meo",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Doug Maxwell/ Zac Zinger",
+ "vid": "5afa7f5057f10f09",
+ "mood": "Sad",
+ "genre": "Ambient",
+ "reference_vid": "5afa7f5057f10f09",
+ "track_url": "",
+ "streamid": "PmlNIbxEfNW7F8_22NSa-Ul0Btb5B57A8uyoA7a5KZwOvHkeM6UMOG48LIxSJx9a",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5afa7f5057f10f09",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChA1YWZhN2Y1MDU3ZjEwZjA5EAAYAg%3D%3D&sigh=kHjnpuAl2yjavQSlzPN5KQ",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Sad",
+ "fp_ref_id": "5afa7f5057f10f09",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 147.499,
+ "display_genre": "Ambient"
+}

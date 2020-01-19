@@ -1,0 +1,30 @@
+{
+ "mood": "Dramatic",
+ "reference_vid": "67d3b080d84857e3",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChA2N2QzYjA4MGQ4NDg1N2UzEAAYAg%3D%3D&sigh=12L97ZntghgNSiWYIN5Hbg",
+ "display_mood": "Dramatic",
+ "title": "808 Doorbell Chime",
+ "artist": "Unicorn Heads",
+ "is_new_track": false,
+ "len": 166,
+ "genre": "Hip Hop & Rap",
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "67d3b080d84857e3",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=67d3b080d84857e3",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "artist_url": "",
+ "license_type": 1,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "fp_ref_id": "67d3b080d84857e3",
+ "streamid": "0wT-vjPQ1hA9upWvWcl25ojxaizoxK8DHBEg_b-w4__RRCEoZR_Yqf5qOX9fwm9Y"
+}

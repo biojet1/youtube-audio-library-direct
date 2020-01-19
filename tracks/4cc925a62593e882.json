@@ -1,0 +1,33 @@
+{
+ "display_genre": "Jazz & Blues",
+ "streamid": "WzDmjhmQVma0wQMGXu7rODlpiEFO5StpmH-HlR0jQYdUq1W_lP_TBGDSunDJ-mEE",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "4cc925a62593e882",
+ "instruments": [
+  "Piano",
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "category": "",
+ "popularity_percentile": 30,
+ "license_type": 0,
+ "fp_ref_id": "4cc925a62593e882",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA0Y2M5MjVhNjI1OTNlODgyEAAYAg%3D%3D&sigh=7zIH4NAZZKY0j_pAosyP4Q",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4cc925a62593e882",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "artist": "John Deley",
+ "mood": "Funky",
+ "title": "Confessin'",
+ "len": 134.783,
+ "vid": "4cc925a62593e882",
+ "track_url": ""
+}

@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "downloadable": true,
+ "license_type": 6,
+ "len": 44.45,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e530e5c9ac046627",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODXAhIWChBlNTMwZTVjOWFjMDQ2NjI3EAAYAg%3D%3D&sigh=ewIfTkPZ20T999vcLCxSYA",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "fp_ref_id": "e530e5c9ac046627",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100268",
+ "display_category": "",
+ "popularity_percentile": 72,
+ "vid": "e530e5c9ac046627",
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "e530e5c9ac046627",
+ "genre": "Ambient",
+ "instruments": [
+  "Synth",
+  "Strings"
+ ],
+ "display_mood": "Dramatic",
+ "album": "None",
+ "streamid": "te-B-5WP2AcptCJlY456dlUQpScSqZwzVVIQmIlObmRpGWhW_yoH8JMxo42yLsKV",
+ "title": "Dark Standoff",
+ "display_genre": "Ambient"
+}

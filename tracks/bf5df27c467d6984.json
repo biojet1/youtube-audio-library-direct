@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "bf5df27c467d6984",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Drums",
+  "Synth"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Classical",
+ "category": "",
+ "artist": "Josh Kirsch/Media Right Productions",
+ "display_category": "",
+ "streamid": "B73fXciyPqBY61tvElYwW5ynCtnw0z_1TnXsCRLeYkr0MvbKM45t4fdUZJtnxXQB",
+ "license_type": 0,
+ "vid": "bf5df27c467d6984",
+ "popularity_percentile": 74,
+ "reference_vid": "bf5df27c467d6984",
+ "display_genre": "Classical",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 108.016,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBiZjVkZjI3YzQ2N2Q2OTg0EAAYAg%3D%3D&sigh=0tWbbfQhAab6-U2sRXN8cQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf5df27c467d6984",
+ "title": "It's Coming"
+}

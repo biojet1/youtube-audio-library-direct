@@ -1,0 +1,31 @@
+{
+ "streamid": "igijfodROWvbpjtTdtdZxp9cuTOUwnp9Fw9ofrBOwU11pWUJbO-kQlQlCBHDDkG8",
+ "genre": "Pop",
+ "fp_ref_id": "3eea8654a090b7a6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3eea8654a090b7a6",
+ "favorite": false,
+ "reference_vid": "3eea8654a090b7a6",
+ "vid": "3eea8654a090b7a6",
+ "album": "None",
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChAzZWVhODY1NGEwOTBiN2E2EAAYAg%3D%3D&sigh=i7AYVz3LSWJlT8nGBuv6OA",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums"
+ ],
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "category": "",
+ "artist": "Coyote Hearing",
+ "title": "Feeling This",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Pop",
+ "mood": "Inspirational",
+ "len": 154,
+ "popularity_percentile": 99
+}

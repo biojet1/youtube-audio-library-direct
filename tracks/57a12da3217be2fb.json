@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "57a12da3217be2fb",
+ "downloadable": true,
+ "fp_ref_id": "57a12da3217be2fb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57a12da3217be2fb",
+ "album": "None",
+ "artist": "Silent Partner",
+ "display_mood": "Happy",
+ "streamid": "3DXZDSfxmxyfw2C4J6qtaH-cjSw4ZENkHJBN3mh3JaPcxg3Sh0bnmZ9GempmBGtu",
+ "mood": "Happy",
+ "title": "Greenery",
+ "genre": "Cinematic",
+ "instruments": [
+  "bass",
+  "strings"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "reference_vid": "57a12da3217be2fb",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 112.716,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChA1N2ExMmRhMzIxN2JlMmZiEAAYAg%3D%3D&sigh=LfxkZWzfVpLm2tJ6wuJLEA"
+}

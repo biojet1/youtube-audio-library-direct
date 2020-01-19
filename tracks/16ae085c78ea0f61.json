@@ -1,0 +1,30 @@
+{
+ "artist": "Audionautix",
+ "display_category": "",
+ "genre": "Pop",
+ "vid": "16ae085c78ea0f61",
+ "instruments": [
+  "Piano",
+  "Drums"
+ ],
+ "reference_vid": "16ae085c78ea0f61",
+ "artist_url": "http://audionautix.com/",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "album": "None",
+ "category": "",
+ "license_type": 6,
+ "display_genre": "Pop",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "16ae085c78ea0f61",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=16ae085c78ea0f61",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCcARIWChAxNmFlMDg1Yzc4ZWEwZjYxEAAYAg%3D%3D&sigh=S4tubnPOiLfQo9TKF4ASNw",
+ "streamid": "ZvkEYS0acVZSCb-bjA2ezuZvB5JjpkQ6ntoXXeCF6VeTud1cQLiFcDzBsq7RwWeG",
+ "downloadable": true,
+ "popularity_percentile": 94,
+ "len": 20.216,
+ "title": "Piano March",
+ "favorite": false
+}

@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7690f82637018257",
+ "category": "",
+ "title": "Sidewalk",
+ "genre": "Pop",
+ "favorite": false,
+ "reference_vid": "7690f82637018257",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA3NjkwZjgyNjM3MDE4MjU3EAAYAg%3D%3D&sigh=27V14D_jedc61syoIfiKEw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "7690f82637018257",
+ "license_type": 6,
+ "popularity_percentile": 91,
+ "vid": "7690f82637018257",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Audionautix",
+ "len": 146.616,
+ "display_mood": "Bright",
+ "display_category": "",
+ "display_genre": "Pop",
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "streamid": "ARBYE0ZvoTAXueKyaRvLHOx7kvhv90kZmqhS-5y5zvnTsRjjjB8cGo69HmtyDcwm"
+}

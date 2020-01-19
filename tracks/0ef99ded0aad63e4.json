@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 0,
+ "vid": "0ef99ded0aad63e4",
+ "fp_ref_id": "0ef99ded0aad63e4",
+ "album": "None",
+ "streamid": "OXv1mNWtVU2mRwCPdWqreyUqjvMmqgJ2ODRV4-OEIklV3ZZVZRh5jANPT56-8lbi",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "trumpet"
+ ],
+ "artist": "Gunnar Olsen",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0ef99ded0aad63e4",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChAwZWY5OWRlZDBhYWQ2M2U0EAAYAg%3D%3D&sigh=zO6XmEcyXCXadpALl3Kgmg",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 139.716,
+ "reference_vid": "0ef99ded0aad63e4",
+ "title": "Tropix",
+ "favorite": false,
+ "track_url": ""
+}

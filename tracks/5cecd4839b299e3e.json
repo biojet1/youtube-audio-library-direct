@@ -1,0 +1,30 @@
+{
+ "mood": "Happy",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODRBBIWChA1Y2VjZDQ4MzliMjk5ZTNlEAAYAg%3D%3D&sigh=RPEyqP_3W2ircnKHWokgrw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "category": "",
+ "instruments": [
+  "Acoustic guitar",
+  "slide guitar"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "5cecd4839b299e3e",
+ "is_new_track": false,
+ "len": 76,
+ "genre": "Jazz & Blues",
+ "reference_vid": "5cecd4839b299e3e",
+ "downloadable": true,
+ "streamid": "njH-HNkj49OmN8bl1DVIBGQ6FXJZsxuKfOCroVGpvGKhZW1vVJw-eB1U8aiLKLoK",
+ "track_url": "",
+ "vid": "5cecd4839b299e3e",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5cecd4839b299e3e",
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "title": "Et Voila",
+ "artist": "Chris Haugen"
+}

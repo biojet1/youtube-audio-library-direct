@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "15af9083f42fa7db",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=15af9083f42fa7db",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "15af9083f42fa7db",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Piano",
+  "Bass"
+ ],
+ "title": "Use It",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChAxNWFmOTA4M2Y0MmZhN2RiEAAYAg%3D%3D&sigh=PW1RzigNZdGj35ZP7of5_Q",
+ "display_genre": "Pop",
+ "artist": "Text Me Records / Jorge Hernandez",
+ "genre": "Pop",
+ "len": 101.266,
+ "streamid": "qrs636-awcZcu1t80i2GhSsus-iyxyAavd4kYiI_TVGt26pt3IH4Ub9VxFmECjsO",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "15af9083f42fa7db",
+ "album": "None",
+ "mood": "Inspirational"
+}

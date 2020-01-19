@@ -1,0 +1,32 @@
+{
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "len": 166,
+ "display_category": "",
+ "reference_vid": "662e64efdf246f2f",
+ "popularity_percentile": 99,
+ "artist_url": "",
+ "license_type": 1,
+ "album": "None",
+ "artist": "The 126ers",
+ "fp_ref_id": "662e64efdf246f2f",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "streamid": "Agm4VbMAIXJNn5wskGb8cRh3yHB6YsFhKnXBS5ZWPFRlGMFaEBgHOgiAbqGwK9i6",
+ "display_mood": "Sad",
+ "vid": "662e64efdf246f2f",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Guitar",
+  "Keyboards"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChA2NjJlNjRlZmRmMjQ2ZjJmEAAYAg%3D%3D&sigh=LcPbIwnQCTFPIOn5yLcKEw",
+ "category": "",
+ "title": "Follow The Shadows",
+ "mood": "Sad",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=662e64efdf246f2f"
+}

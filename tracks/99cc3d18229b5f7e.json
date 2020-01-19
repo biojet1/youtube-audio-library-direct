@@ -1,0 +1,31 @@
+{
+ "genre": "Jazz & Blues",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "E's Jammy Jams",
+ "fp_ref_id": "99cc3d18229b5f7e",
+ "display_mood": "Romantic",
+ "display_genre": "Jazz & Blues",
+ "vid": "99cc3d18229b5f7e",
+ "mood": "Romantic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA5OWNjM2QxODIyOWI1ZjdlEAAYAg%3D%3D&sigh=dk46Jv78M6NtncFY95WIQQ",
+ "license_type": 1,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Forget Me Not",
+ "category": "",
+ "len": 168.35,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=99cc3d18229b5f7e",
+ "reference_vid": "99cc3d18229b5f7e",
+ "streamid": "CK-uGVdB2cs0rIA7j5EHMxWsqGHw7FTx-NUBM2zMcHXTxEhI0NNPBotJbWziWq05"
+}

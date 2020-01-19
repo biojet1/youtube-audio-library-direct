@@ -1,0 +1,32 @@
+{
+ "vid": "832b44f188d5f64e",
+ "display_mood": "Angry",
+ "title": "Dark Walk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiYBRIWChA4MzJiNDRmMTg4ZDVmNjRlEAAYAg%3D%3D&sigh=joAxMlDUvTL29hOwmQiVDA",
+ "display_genre": "Ambient",
+ "mood": "Angry",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=832b44f188d5f64e",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100468",
+ "popularity_percentile": 61,
+ "genre": "Ambient",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Strings",
+  "Bass"
+ ],
+ "favorite": false,
+ "reference_vid": "832b44f188d5f64e",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "b8mZ2Chlp3WmBra6INZnHziHuGzP9vVRSN0SiYjclLdge2GlzLDJw3WUrcAza_O-",
+ "artist_url": "http://incompetech.com/",
+ "len": 85.85,
+ "fp_ref_id": "832b44f188d5f64e",
+ "license_type": 6,
+ "is_new_track": false
+}

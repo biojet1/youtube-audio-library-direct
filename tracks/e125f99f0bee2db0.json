@@ -1,0 +1,31 @@
+{
+ "title": "The Creek",
+ "artist": "Topher Mohr and Alex Elena",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjwDBIWChBlMTI1Zjk5ZjBiZWUyZGIwEAAYAg%3D%3D&sigh=tIMCK0N-RbMRsGoSKkWPuA",
+ "artist_url": "",
+ "vid": "e125f99f0bee2db0",
+ "mood": "Happy",
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 211.083,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e125f99f0bee2db0",
+ "display_mood": "Happy",
+ "streamid": "uRpSJVvDZjDnNs7NKmB50zFMmtX8dKaCDw2YW2d-0KiXsskDbbBfyjL5hjjVWgja",
+ "artist_channel_url": null,
+ "fp_ref_id": "e125f99f0bee2db0",
+ "genre": "Country & Folk",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 88,
+ "display_genre": "Country & Folk",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "e125f99f0bee2db0"
+}

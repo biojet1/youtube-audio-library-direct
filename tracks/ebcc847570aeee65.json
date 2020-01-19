@@ -1,0 +1,32 @@
+{
+ "artist": "Bird Creek",
+ "display_category": "",
+ "genre": "Cinematic",
+ "vid": "ebcc847570aeee65",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "reference_vid": "ebcc847570aeee65",
+ "artist_url": "",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "category": "",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "ebcc847570aeee65",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ebcc847570aeee65",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBlYmNjODQ3NTcwYWVlZTY1EAAYAg%3D%3D&sigh=cG6f9ymTLjP9Ehd8PQMgfw",
+ "streamid": "wANQ0oAStnXSVRBYTDuFTMXgf2OCIfG28UL31N85ll_tOUiybFogy8KciW-dPzBc",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 106.483,
+ "title": "Death Match",
+ "favorite": false
+}

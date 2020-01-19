@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 67,
+ "downloadable": true,
+ "vid": "4f9675019d14e7e6",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4f9675019d14e7e6",
+ "fp_ref_id": "4f9675019d14e7e6",
+ "genre": "Cinematic",
+ "album": "None",
+ "title": "Greta Sting",
+ "instruments": [
+  "Strings"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100530",
+ "display_mood": "Sad",
+ "streamid": "iq127SBLW9LFTSvI1_8zgi47Ef02uU1nlMS_hlk1j0MwkO2RCdSwM_6SX0W7gKiZ",
+ "artist": "Kevin MacLeod",
+ "mood": "Sad",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "4f9675019d14e7e6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCMARIWChA0Zjk2NzUwMTlkMTRlN2U2EAAYAg%3D%3D&sigh=8OwYdRvHoX0JTnIBE5zZdw",
+ "display_category": "",
+ "len": 18.283,
+ "display_genre": "Cinematic"
+}

@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "aV4SZJS5oJ9prblTSDpbjvuasyzt7HBrpLZS1m4XEShpYD_K8VZUOq49wD_r5Cny",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD7CxIWChA2MTVlNmM5NDczMTkwMjAzEAAYAg%3D%3D&sigh=c6X3CtZiU5Bkfvbac0gKPQ",
+ "album": "None",
+ "artist": "Silent Partner",
+ "mood": "Dramatic",
+ "len": 196.283,
+ "reference_vid": "615e6c9473190203",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "vid": "615e6c9473190203",
+ "title": "Yes You Can",
+ "fp_ref_id": "615e6c9473190203",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=615e6c9473190203",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Dance & Electronic"
+}

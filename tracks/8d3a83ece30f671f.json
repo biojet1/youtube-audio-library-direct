@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "vid": "8d3a83ece30f671f",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "8d3a83ece30f671f",
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChA4ZDNhODNlY2UzMGY2NzFmEAAYAg%3D%3D&sigh=dXys9SKMmKE9MoshtJrfHA",
+ "artist_url": "http://chriszabriskie.com/",
+ "instruments": [
+  "Piano"
+ ],
+ "title": "Prelude No. 12",
+ "downloadable": true,
+ "streamid": "nxaZXUOd1oN50fliZhjia3501LhRrhN5MeM4g-AS0pprsLqiRpIOCw98GgHtCg_s",
+ "genre": "Classical",
+ "len": 61.35,
+ "artist": "Chris Zabriskie",
+ "display_mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8d3a83ece30f671f",
+ "popularity_percentile": 38,
+ "reference_vid": "8d3a83ece30f671f",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Calm"
+}

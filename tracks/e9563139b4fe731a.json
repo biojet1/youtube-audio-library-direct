@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "e9563139b4fe731a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e9563139b4fe731a",
+ "display_mood": "Calm",
+ "fp_ref_id": "e9563139b4fe731a",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "synth",
+  "bass",
+  "drums"
+ ],
+ "title": "Peachies",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChBlOTU2MzEzOWI0ZmU3MzFhEAAYAg%3D%3D&sigh=MRwoL8xeZ1hcE5JPQ-iBAQ",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Text Me Records / Leviathe",
+ "genre": "Hip Hop & Rap",
+ "len": 90.766,
+ "streamid": "b5gamFQVm0c4z2rMEMmVsRO7Agp9ux2vGIGJURigNT4AEo5-Fv4TPXGOGY9yBR8K",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "e9563139b4fe731a",
+ "album": "None",
+ "mood": "Calm"
+}

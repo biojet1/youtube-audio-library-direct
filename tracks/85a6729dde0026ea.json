@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "85a6729dde0026ea",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Public Memory",
+ "vid": "85a6729dde0026ea",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChA4NWE2NzI5ZGRlMDAyNmVhEAAYAg%3D%3D&sigh=_z7UY-Se3fIAxt7Uq92qVA",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "display_mood": "Dark",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Tropic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=85a6729dde0026ea",
+ "reference_vid": "85a6729dde0026ea",
+ "mood": "Dark",
+ "streamid": "2-hkFJbOiyBGP70brj2fH-xuMpT9HYQhAvr9SSfPzBVxD3NgumSjdYmEvWUVmqka",
+ "track_url": "",
+ "album": "None",
+ "len": 142,
+ "instruments": [
+  "bass",
+  "drums",
+  "percussion",
+  "synth"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic"
+}

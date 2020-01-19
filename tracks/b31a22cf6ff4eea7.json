@@ -1,0 +1,31 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100875",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "b31a22cf6ff4eea7",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChBiMzFhMjJjZjZmZjRlZWE3EAAYAg%3D%3D&sigh=SG1mLEwoZFDE99elLCzXPw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b31a22cf6ff4eea7",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Classical",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass"
+ ],
+ "reference_vid": "b31a22cf6ff4eea7",
+ "category": "",
+ "len": 155.85,
+ "vid": "b31a22cf6ff4eea7",
+ "display_mood": "Dramatic",
+ "artist_channel_url": null,
+ "mood": "Dramatic",
+ "license_type": 6,
+ "genre": "Classical",
+ "title": "Five Armies",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "streamid": "F7yJkN_O6QNJ0LI3WlJnNsAX2GcboGkCNMUfhmLWbXOB-yuwA9etRadEsIYp886U"
+}

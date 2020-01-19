@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=63e107a132ee8ea6",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "yFf34J3_g5QpYNuQp3bIWnn2gZ3mZSTT-_Wvq2NICVDqzDVilND0lgQgPlWCafbh",
+ "genre": "Rock",
+ "vid": "63e107a132ee8ea6",
+ "reference_vid": "63e107a132ee8ea6",
+ "fp_ref_id": "63e107a132ee8ea6",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChA2M2UxMDdhMTMyZWU4ZWE2EAAYAg%3D%3D&sigh=3A1ac3H_i7Finl_MHvMeTA",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "electric guitar"
+ ],
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "artist": "Dan Bodan",
+ "title": "Cowgirls Rule the Skies",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Rock",
+ "len": 102,
+ "mood": "Happy"
+}

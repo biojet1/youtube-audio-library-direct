@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMA-EhYKEGMwMDExZmIyNGRhYzZhMjIQABgC&sigh=MvJLr7cmk5dSOK-f9a1_fA",
+ "display_category": "",
+ "display_mood": "Funky",
+ "album": "None",
+ "vid": "c0011fb24dac6a22",
+ "downloadable": true,
+ "reference_vid": "c0011fb24dac6a22",
+ "favorite": false,
+ "fp_ref_id": "c0011fb24dac6a22",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c0011fb24dac6a22",
+ "genre": "Hip Hop & Rap",
+ "streamid": "_UMEtcr5xrCClGFBUInuhUZRMM3ad-9MXzhALlUOSChh0dionU8cntTv0yAv7oSx",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Funky",
+ "len": 8.85,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Scarlet Fire (Sting)",
+ "artist": "Otis McDonald",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ]
+}

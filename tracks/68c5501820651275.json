@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Cinematic",
+ "streamid": "O07-MavzK91o1Sqp-l00s5PI4mAlkKD-pDiTZPZcZGzaYL0hV9j3_pry2mi2MO5l",
+ "reference_vid": "68c5501820651275",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100320",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=68c5501820651275",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCWAxIWChA2OGM1NTAxODIwNjUxMjc1EAAYAg%3D%3D&sigh=TLfwEl29jDAY7e8pDmvNIA",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "display_category": "",
+ "title": "Aunt Tagonist - Silent Film Dark",
+ "album": "None",
+ "vid": "68c5501820651275",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Piano"
+ ],
+ "favorite": false,
+ "len": 52.65,
+ "fp_ref_id": "68c5501820651275",
+ "display_genre": "Cinematic"
+}

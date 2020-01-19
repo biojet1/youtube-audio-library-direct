@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "display_mood": "Funky",
+ "vid": "7fc73b543d910966",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7fc73b543d910966",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Funky",
+ "display_genre": "Pop",
+ "fp_ref_id": "7fc73b543d910966",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 187.65,
+ "track_url": "",
+ "category": "",
+ "streamid": "UmzfdV_rfkg4V4_WbpB2hp8NFFbUif9PIONWi0Ox7wIzunwdauMSFchX8qKsfbBY",
+ "title": "Do or Die",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChA3ZmM3M2I1NDNkOTEwOTY2EAAYAg%3D%3D&sigh=uQrw_eoiK9crcBdlG7WOJQ",
+ "popularity_percentile": 50,
+ "reference_vid": "7fc73b543d910966",
+ "artist": "Dougie Wood",
+ "genre": "Pop"
+}

@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "a4c313caa07e2389",
+ "display_category": "",
+ "fp_ref_id": "a4c313caa07e2389",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a4c313caa07e2389",
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "title": "Stealer",
+ "favorite": false,
+ "license_type": 1,
+ "len": 153,
+ "display_mood": "Dark",
+ "instruments": [
+  "Modular synthesizer",
+  "Drums",
+  "Strings"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChBhNGMzMTNjYWEwN2UyMzg5EAAYAg%3D%3D&sigh=XIQVPskwUzc0wMhFiDSB3g",
+ "streamid": "JPcMQrThL_H6KgQW7VHdla9KBN1W_wwP-V_i10czD4MimbHQD8HckhggK20UiCno",
+ "genre": "Dance & Electronic",
+ "vid": "a4c313caa07e2389",
+ "artist": "Density & Time"
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "f066970d9e869890",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f066970d9e869890",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBmMDY2OTcwZDllODY5ODkwEAAYAg%3D%3D&sigh=ZdEO2oOQagn5p70Ywk8iXw",
+ "is_new_track": false,
+ "reference_vid": "f066970d9e869890",
+ "display_mood": "Bright",
+ "favorite": false,
+ "category": "",
+ "title": "Deserts",
+ "streamid": "IFkf3iu31aE0q_1ojIbEdw-0BvsKOFJpSZTl6iVm-hWvATiWhRI81ODKWpfdsb9M",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Rock",
+ "len": 109.5,
+ "album": "None",
+ "genre": "Rock",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Text Me Records / Bobby Renz",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Guitar"
+ ],
+ "fp_ref_id": "f066970d9e869890"
+}

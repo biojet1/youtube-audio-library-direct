@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ba73f2334cc06b83",
+ "title": "Abbey Cadence (Sting)",
+ "is_new_track": false,
+ "mood": "Happy",
+ "downloadable": true,
+ "album": "None",
+ "len": 11.983,
+ "popularity_percentile": 41,
+ "track_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "reference_vid": "ba73f2334cc06b83",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "display_genre": "Classical",
+ "artist": "Twin Musicom",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPhVEhYKEGJhNzNmMjMzNGNjMDZiODMQABgC&sigh=5uVN5smd637PuYFVoZ-gdA",
+ "fp_ref_id": "ba73f2334cc06b83",
+ "license_type": 6,
+ "favorite": false,
+ "vid": "ba73f2334cc06b83",
+ "artist_url": "http://www.twinmusicom.org/",
+ "display_mood": "Happy",
+ "genre": "Classical",
+ "streamid": "fxU8E-h8sh3tQAXF9TSTc6EsTnMmeZ8nrdr5BEOPj15n-IEIxF1g0NTLhwM6RpU9",
+ "display_category": ""
+}

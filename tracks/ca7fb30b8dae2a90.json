@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "reference_vid": "ca7fb30b8dae2a90",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "",
+ "display_mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ca7fb30b8dae2a90",
+ "fp_ref_id": "ca7fb30b8dae2a90",
+ "mood": "Inspirational",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "len": 142.55,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChBjYTdmYjMwYjhkYWUyYTkwEAAYAg%3D%3D&sigh=eCMnDhdcN-wSmJtbc5UM2Q",
+ "streamid": "lClb9G8kxoAz5SH3toylMmZK6ygayBd6eiqCcP04WyVVACiPsttXU0Moux-F1E8E",
+ "artist": "E's Jammy Jams",
+ "popularity_percentile": 79,
+ "title": "Jolly Old St Nicholas",
+ "display_category": "",
+ "display_genre": "Holiday",
+ "license_type": 0,
+ "vid": "ca7fb30b8dae2a90",
+ "track_url": "",
+ "genre": "Holiday",
+ "category": "",
+ "favorite": false
+}

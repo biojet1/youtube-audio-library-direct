@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChAzNTJhNTE1NjE1ODQ4NzI1EAAYAg%3D%3D&sigh=cE9WpSi6oy4rBvXhNcLf5A",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=352a515615848725",
+ "title": "As I Figure - Latinesque",
+ "mood": "Romantic",
+ "display_mood": "Romantic",
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100323",
+ "is_new_track": false,
+ "reference_vid": "352a515615848725",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "favorite": false,
+ "fp_ref_id": "352a515615848725",
+ "display_genre": "Jazz & Blues",
+ "len": 216.85,
+ "vid": "352a515615848725",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 34,
+ "genre": "Jazz & Blues",
+ "streamid": "coyBGJpRe5KBjuHhS3bqiHVK5A7arOy0HjFNUfjI4MCpIgpH0iAaFsOMKf5-S4jC",
+ "artist_channel_url": null
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "artist": "The Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "title": "35,000 Feet",
+ "album": "None",
+ "fp_ref_id": "312ff3d6cebaf58c",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChAzMTJmZjNkNmNlYmFmNThjEAAYAg%3D%3D&sigh=owlmYfV5WeK9VXhEBn9Qiw",
+ "genre": "Rock",
+ "vid": "312ff3d6cebaf58c",
+ "streamid": "52nOX8Ws3Xb44glNWX-FDet7yP6ZTEYPyA4NVMs65bTNVo-zGAe2xhEoB1wP4fcl",
+ "display_category": "",
+ "display_mood": "Dark",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=312ff3d6cebaf58c",
+ "reference_vid": "312ff3d6cebaf58c",
+ "is_new_track": false,
+ "mood": "Dark",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "favorite": false,
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "len": 140
+}

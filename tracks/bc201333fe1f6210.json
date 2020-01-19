@@ -1,0 +1,33 @@
+{
+ "display_mood": "Funky",
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Organ",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "9Ny45OZ7XE8t1xa-iP1D3YfhPyA-hyga3LfZ-npMQ7th0-6M3ONS_YZgIt9kLb0C",
+ "title": "Raindrops",
+ "display_genre": "R&B & Soul",
+ "vid": "bc201333fe1f6210",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "bc201333fe1f6210",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Funky",
+ "license_type": 0,
+ "fp_ref_id": "bc201333fe1f6210",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Huma-Huma",
+ "len": 131.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBiYzIwMTMzM2ZlMWY2MjEwEAAYAg%3D%3D&sigh=gveG5juOeFnpDGlgRkqb-w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bc201333fe1f6210"
+}

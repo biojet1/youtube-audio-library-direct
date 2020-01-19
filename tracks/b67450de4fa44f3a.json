@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "ZVDq3Ls2aq06Qx41YwYuU348efHTdTC08bkX_lCkp36Ahrjgni0J7KKZHlxm6pJo",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMC1AxIWChBiNjc0NTBkZTRmYTQ0ZjNhEAAYAg%3D%3D&sigh=ClCu33ZBUMhPPMQWGyAtCQ",
+ "album": "None",
+ "artist": "Audionautix",
+ "mood": "Dark",
+ "len": 56.15,
+ "reference_vid": "b67450de4fa44f3a",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "vid": "b67450de4fa44f3a",
+ "title": "Delusion 32",
+ "fp_ref_id": "b67450de4fa44f3a",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Rock",
+ "instruments": [
+  "Organ",
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b67450de4fa44f3a",
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "display_genre": "Rock"
+}

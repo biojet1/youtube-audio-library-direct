@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "31d88bcac98eb93f",
+ "display_category": "",
+ "fp_ref_id": "31d88bcac98eb93f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=31d88bcac98eb93f",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Bright",
+ "instruments": [
+  "bass",
+  "acoustic guitar",
+  "vocal chops",
+  "synth",
+  "drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChAzMWQ4OGJjYWM5OGViOTNmEAAYAg%3D%3D&sigh=RHvnqQGbopLpBn19D8xd5Q",
+ "streamid": "t3ygfJ0Rsy6epuHv-r015PW7K7Apglfx4YJByRENv1spN2H9YHMzFmzWLwqyxxFY",
+ "genre": "Pop",
+ "vid": "31d88bcac98eb93f",
+ "artist": "Dan Henig",
+ "display_genre": "Pop",
+ "title": "Pluck It Up",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 94,
+ "display_mood": "Bright",
+ "downloadable": true
+}

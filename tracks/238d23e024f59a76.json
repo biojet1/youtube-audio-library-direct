@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "favorite": false,
+ "fp_ref_id": "238d23e024f59a76",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "streamid": "7BG3Qz4pJ-Ml9AzW_n5xtV_odAosuXuIS90OBsRiNrdta2mk6ZfDMzMBr41QeDvD",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=238d23e024f59a76",
+ "album": "None",
+ "mood": "Sad",
+ "downloadable": true,
+ "artist": "Everet Almond",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 131.05,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAyMzhkMjNlMDI0ZjU5YTc2EAAYAg%3D%3D&sigh=OXdc_McHpVVJ5bDWToJeeQ",
+ "reference_vid": "238d23e024f59a76",
+ "popularity_percentile": 14,
+ "artist_channel_url": null,
+ "display_mood": "Sad",
+ "display_category": "",
+ "track_url": "",
+ "title": "Laserstart",
+ "category": "",
+ "vid": "238d23e024f59a76"
+}

@@ -1,0 +1,30 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChA3NzQ3ODNhODUwZmQ5Y2ViEAAYAg%3D%3D&sigh=UAJKgNu8Zqdn58jzVoMjIA",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "774783a850fd9ceb",
+ "downloadable": true,
+ "reference_vid": "774783a850fd9ceb",
+ "favorite": false,
+ "fp_ref_id": "774783a850fd9ceb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=774783a850fd9ceb",
+ "genre": "Jazz & Blues",
+ "streamid": "uOkfCd2RJZ9aQPQHj0n0_6LobdPfzHEgK3babKwlxR1LrprIldH1TieeLmnMf4tq",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 120,
+ "display_genre": "Jazz & Blues",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Black Terrier Blues",
+ "artist": "Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "instruments": [
+  "acoustic guitar",
+  "harmonica"
+ ]
+}

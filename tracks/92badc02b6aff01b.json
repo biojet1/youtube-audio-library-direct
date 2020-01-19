@@ -1,0 +1,32 @@
+{
+ "mood": "Happy",
+ "album": "None",
+ "vid": "92badc02b6aff01b",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChA5MmJhZGMwMmI2YWZmMDFiEAAYAg%3D%3D&sigh=_abz6d1e5QUlBb7dW2kU6w",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "artist_channel_url": "/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "track_url": "",
+ "streamid": "BUaZeA10EJz4wGei3qvtcQDhqPDRD6QtSXQ0HKhS6xYnZYfzYml9v2ffXqJBhvM5",
+ "len": 183,
+ "genre": "Pop",
+ "artist": "Andrew Huang",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Upbeat",
+ "instruments": [
+  "piano",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=92badc02b6aff01b",
+ "reference_vid": "92badc02b6aff01b",
+ "popularity_percentile": 99,
+ "fp_ref_id": "92badc02b6aff01b",
+ "display_mood": "Happy"
+}

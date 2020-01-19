@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "7a0fc527e0179b22",
+ "reference_vid": "7a0fc527e0179b22",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a0fc527e0179b22",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "heTDv6RSVllB3Vw0I3NxExnPEKAmLOZFK_hDpRq720XD6eUzdA7EosJvUKS96TPo",
+ "genre": "Rock",
+ "popularity_percentile": 48,
+ "mood": "Angry",
+ "downloadable": true,
+ "vid": "7a0fc527e0179b22",
+ "len": 142.583,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "favorite": false,
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "John Deley and the 41 Players",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChA3YTBmYzUyN2UwMTc5YjIyEAAYAg%3D%3D&sigh=5G7srx3iMqCr7tICTDi15w",
+ "display_mood": "Angry",
+ "album": "None",
+ "title": "Black Polkadots",
+ "display_category": ""
+}

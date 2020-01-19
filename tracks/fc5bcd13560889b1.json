@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "fc5bcd13560889b1",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Marty Gots a Plan",
+ "vid": "fc5bcd13560889b1",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChBmYzViY2QxMzU2MDg4OWIxEAAYAg%3D%3D&sigh=2cIM7x6E7ji69VkLJw27Yw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc5bcd13560889b1",
+ "display_category": "",
+ "len": 168.016,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500015",
+ "downloadable": true,
+ "streamid": "JBOd6Eznzr5itwpTJXiWM56Xy7NJwV1mO3fNl_lpj06qWJtVPwnFU8nGbZEmZrLn",
+ "reference_vid": "fc5bcd13560889b1",
+ "instruments": [
+  "Strings"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Classical"
+}

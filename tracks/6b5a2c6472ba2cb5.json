@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "6b5a2c6472ba2cb5",
+ "display_category": "",
+ "fp_ref_id": "6b5a2c6472ba2cb5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6b5a2c6472ba2cb5",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "title": "Scarab",
+ "favorite": false,
+ "license_type": 1,
+ "len": 167,
+ "display_mood": "Dark",
+ "instruments": [
+  "drums",
+  "synths"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChA2YjVhMmM2NDcyYmEyY2I1EAAYAg%3D%3D&sigh=RGZf41r2J16LOq2OsRFDDw",
+ "streamid": "rCYCyg780oEX7tURPEoVNjPpfaRRoaFk4f3s5pa_yJT-qI1beIhDNvp3mk7U0b7u",
+ "genre": "Dance & Electronic",
+ "vid": "6b5a2c6472ba2cb5",
+ "artist": "Quincas Moreira"
+}

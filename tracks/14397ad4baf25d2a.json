@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 0,
+ "vid": "14397ad4baf25d2a",
+ "fp_ref_id": "14397ad4baf25d2a",
+ "album": "None",
+ "streamid": "bPhZ5f2DS-2g3AMeC747lE4wiLkfU6if_6yE2e_AnjUdyq68Jsy28sAPD9pkMWq8",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Reggae",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth",
+  "organ"
+ ],
+ "artist": "Silent Partner",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14397ad4baf25d2a",
+ "downloadable": true,
+ "display_genre": "Reggae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChAxNDM5N2FkNGJhZjI1ZDJhEAAYAg%3D%3D&sigh=J7u6B-4E90zlKzEh701FQw",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 156.25,
+ "reference_vid": "14397ad4baf25d2a",
+ "title": "Come On In",
+ "favorite": false,
+ "track_url": ""
+}

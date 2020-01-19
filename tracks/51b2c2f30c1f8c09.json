@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "51b2c2f30c1f8c09",
+ "mood": "Calm",
+ "title": "Country Gentleman",
+ "category": "",
+ "genre": "Rock",
+ "album": "None",
+ "len": 135,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChA1MWIyYzJmMzBjMWY4YzA5EAAYAg%3D%3D&sigh=mSju_pLtb866STsHj0nVZA",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=51b2c2f30c1f8c09",
+ "fp_ref_id": "51b2c2f30c1f8c09",
+ "artist": "Endless Love",
+ "display_mood": "Calm",
+ "display_genre": "Rock",
+ "streamid": "L-beaMOsUJCwVh0Yu3QwQUkrBVs0oEnl0i4W2Igp3eMyLexi0GnVj7dqlbU0I9pS",
+ "artist_channel_url": "/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "display_category": "",
+ "instruments": [
+  "acoustic guitar",
+  "bass",
+  "drums",
+  "electric guitar"
+ ],
+ "vid": "51b2c2f30c1f8c09"
+}

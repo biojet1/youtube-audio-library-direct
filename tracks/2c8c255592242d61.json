@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 148.15,
+ "reference_vid": "2c8c255592242d61",
+ "display_genre": "Pop",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c8c255592242d61",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChAyYzhjMjU1NTkyMjQyZDYxEAAYAg%3D%3D&sigh=-IgimziAlSc5NKw-Ym26Qg",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "2c8c255592242d61",
+ "track_url": "",
+ "genre": "Pop",
+ "vid": "2c8c255592242d61",
+ "artist_channel_url": null,
+ "streamid": "Zy7FXVap1pYyuMOFS-Lkxwa0DpFZSAw-1qiVBEnofJTXDw7R1hooIPvlups0bzPk",
+ "license_type": 0,
+ "title": "Vision",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "mood": "Inspirational"
+}

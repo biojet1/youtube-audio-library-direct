@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 39,
+ "streamid": "QbNZifY5D2rMZFRHn_b2as2uVhJfN3fswhX3Za3-B_cz-42LmyPcvKw995e21ViN",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDNmNjhlY2Q2MDc2M2I3OWMQABgC&sigh=Ef5tE3sauQe4qZcl1MC5fw",
+ "album": "None",
+ "artist": "Twin Musicom",
+ "mood": "Happy",
+ "len": 7.416,
+ "reference_vid": "3f68ecd60763b79c",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "vid": "3f68ecd60763b79c",
+ "title": "Puppy Love (Sting)",
+ "fp_ref_id": "3f68ecd60763b79c",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Cinematic",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f68ecd60763b79c",
+ "is_new_track": false,
+ "artist_url": "http://www.twinmusicom.org/",
+ "license_type": 6,
+ "display_genre": "Cinematic"
+}

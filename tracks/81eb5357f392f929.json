@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81eb5357f392f929",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDyDhIWChA4MWViNTM1N2YzOTJmOTI5EAAYAg%3D%3D&sigh=VY377awBBg6gIomrF950Uw",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "81eb5357f392f929",
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "vid": "81eb5357f392f929",
+ "downloadable": true,
+ "title": "Laid Back Guitars",
+ "reference_vid": "81eb5357f392f929",
+ "artist_url": "http://incompetech.com/",
+ "len": 244.05,
+ "artist": "Kevin MacLeod",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100181",
+ "streamid": "LLDM71qGliBUFGvlAso7IJVCQyrfHEQq2rMlV9yce0xGuPKoC-kQumQ1HN6xcY9j",
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums"
+ ],
+ "genre": "Classical",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 156.733,
+ "fp_ref_id": "9eee189ac0f00661",
+ "artist_url": "http://audionautix.com/",
+ "streamid": "vR_CIxw3pUGhAdDo1bEBkURrmo2RpGweNLE1OlkyV4Hu2ufArpnXQ5eU0Cb1sibc",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "track_url": "",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Funky",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9eee189ac0f00661",
+ "mood": "Funky",
+ "artist": "Audionautix",
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChA5ZWVlMTg5YWMwZjAwNjYxEAAYAg%3D%3D&sigh=iggCR8JHgFJmrYT6QFEE2A",
+ "title": "Ooh Hey",
+ "reference_vid": "9eee189ac0f00661",
+ "vid": "9eee189ac0f00661"
+}

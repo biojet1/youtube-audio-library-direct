@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "d8d120028417cecb",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8d120028417cecb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBkOGQxMjAwMjg0MTdjZWNiEAAYAg%3D%3D&sigh=ADWSnHsjgHXJMqAq6nc0UQ",
+ "is_new_track": false,
+ "reference_vid": "d8d120028417cecb",
+ "display_mood": "Romantic",
+ "favorite": false,
+ "category": "",
+ "title": "Who Am I",
+ "streamid": "NX0mWQBz4ow4kz0Tj3kJG0NY_5LuBIWJ0jKgvsARN6JmtzoLkyPt_LAsxrb7hLyP",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "len": 119.566,
+ "album": "None",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "mood": "Romantic",
+ "artist": "Text Me Records",
+ "instruments": [
+  "Drums",
+  "Guitar",
+  "Piano",
+  "Bass"
+ ],
+ "fp_ref_id": "d8d120028417cecb"
+}

@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b71b88b8734b5d4",
+ "fp_ref_id": "1b71b88b8734b5d4",
+ "artist_url": "",
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1b71b88b8734b5d4",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Acoustic Guitar"
+ ],
+ "len": 197.383,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiDDBIWChAxYjcxYjg4Yjg3MzRiNWQ0EAAYAg%3D%3D&sigh=UytxKlFyeTSyf-pxtsgm-g",
+ "album": "None",
+ "title": "Across The Room",
+ "popularity_percentile": 11,
+ "streamid": "OMltznO3Okr8nBaqdGQTcuDGPZM0U2l3K6YyN6le_U40fUjYYwW5TTOHo-R0idpI",
+ "mood": "Bright",
+ "genre": "Rock",
+ "category": "",
+ "favorite": false,
+ "vid": "1b71b88b8734b5d4",
+ "track_url": "",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Letter Box"
+}

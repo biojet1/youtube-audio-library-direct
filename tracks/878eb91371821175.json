@@ -1,0 +1,31 @@
+{
+ "title": "Are You Sleeping",
+ "favorite": false,
+ "len": 123.716,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA4NzhlYjkxMzcxODIxMTc1EAAYAg%3D%3D&sigh=-WA7B1Aq2pCmaB7kmUzrcA",
+ "fp_ref_id": "878eb91371821175",
+ "artist_channel_url": null,
+ "display_genre": "Children's",
+ "track_url": "",
+ "genre": "Children's",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "artist_url": "",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Organ"
+ ],
+ "reference_vid": "878eb91371821175",
+ "display_category": "",
+ "vid": "878eb91371821175",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=878eb91371821175",
+ "streamid": "IANDAph_S8wIV-I9z5Rhg6eo26WU6ipIKlr9y2LskbgoifIvMq6azr3L2UaAH4ph",
+ "artist": "The Green Orbs"
+}

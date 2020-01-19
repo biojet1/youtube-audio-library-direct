@@ -1,0 +1,33 @@
+{
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "fp_ref_id": "54ce61d2935c1898",
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "reference_vid": "54ce61d2935c1898",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 100,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA1NGNlNjFkMjkzNWMxODk4EAAYAg%3D%3D&sigh=cd3yn-W25-WCMClv6euG4A",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=54ce61d2935c1898",
+ "instruments": [
+  "strings",
+  "acoustic guitar",
+  "celeste",
+  "electric piano",
+  "keys"
+ ],
+ "title": "The Curious Kitten",
+ "genre": "Cinematic",
+ "streamid": "nvez_asoJh4LnLDm7oRm2T_M2pWld_xpqiG96w3tUJu9upNIFrs8QvL3RMbnQahH",
+ "vid": "54ce61d2935c1898",
+ "display_genre": "Cinematic",
+ "mood": "Bright",
+ "license_type": 1,
+ "artist": "Aaron Kenny"
+}

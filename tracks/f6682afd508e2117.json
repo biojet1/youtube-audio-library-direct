@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Gunnar Olsen",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "fp_ref_id": "f6682afd508e2117",
+ "popularity_percentile": 97,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBmNjY4MmFmZDUwOGUyMTE3EAAYAg%3D%3D&sigh=40hU9Pv2HrkmFta51zo8FQ",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "f6682afd508e2117",
+ "streamid": "jThnOaanRixsMIBhYqCkEM6eVdWN-0n6-Fq4w3v0jONcYvpOUiwI8FPJlmd1QitB",
+ "mood": "Angry",
+ "reference_vid": "f6682afd508e2117",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f6682afd508e2117",
+ "title": "Barge",
+ "display_mood": "Angry",
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "len": 129.15,
+ "album": "None",
+ "track_url": ""
+}

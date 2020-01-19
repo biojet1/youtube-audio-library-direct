@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Romantic",
+ "display_category": "",
+ "fp_ref_id": "796dc11b73d32993",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=796dc11b73d32993",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "796dc11b73d32993",
+ "len": 146.1,
+ "display_mood": "Romantic",
+ "streamid": "ZqKKm5QfbfNVMWrf-P1hvLxdaMc-yMZngTiQPBETk1zV_LZnhLbbPHOOU-AoxB-q",
+ "display_genre": "Country & Folk",
+ "title": "Hounds",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Country & Folk",
+ "vid": "796dc11b73d32993",
+ "artist": "Silent Partner",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA3OTZkYzExYjczZDMyOTkzEAAYAg%3D%3D&sigh=KezQEVvaS8LV36iwoVOvsw"
+}

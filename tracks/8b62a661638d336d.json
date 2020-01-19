@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "vid": "8b62a661638d336d",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8b62a661638d336d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIjZGRIWChA4YjYyYTY2MTYzOGQzMzZkEAAYAg%3D%3D&sigh=CF1J8JV3U8h016xJpOAd0Q",
+ "is_new_track": false,
+ "reference_vid": "8b62a661638d336d",
+ "display_mood": "Funky",
+ "favorite": false,
+ "category": "",
+ "title": "Rollin With The Flow",
+ "streamid": "7y_KkTs5t3vkVAZQ-m5lbCeDBtVB1qpSE_QfToPy-TLifjOTLwIEK_z1E2iFmQ3A",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "len": 421.7,
+ "album": "None",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Max McFerren",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "fp_ref_id": "8b62a661638d336d"
+}

@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Funky",
+ "reference_vid": "920f392a083c05f8",
+ "streamid": "T0fZssiWr9PK8rFFKZGwXZJtzNidQ7T1YWWPlJS1Pr6l9TWh8bqRwVVF-1kXeMFI",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChA5MjBmMzkyYTA4M2MwNWY4EAAYAg%3D%3D&sigh=6opvUpz_7pxjHX478C175g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=920f392a083c05f8",
+ "len": 94.9,
+ "genre": "Reggae",
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "920f392a083c05f8",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Kiss for a Dance",
+ "mood": "Funky",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Jingle Punks",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Reggae",
+ "track_url": "",
+ "vid": "920f392a083c05f8"
+}

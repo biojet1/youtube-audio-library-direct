@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "8ba5e7947e540d42",
+ "is_new_track": false,
+ "mood": "Funky",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi3BRIWChA4YmE1ZTc5NDdlNTQwZDQyEAAYAg%3D%3D&sigh=rBxwRGeMlIhaOyFYF4RINA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ba5e7947e540d42",
+ "artist": "Rondo Brothers",
+ "len": 89,
+ "streamid": "nxNYloniW-IVmTvTF1VF4P8Ekqv_2LAwnlZ3w3s7HmlAi2rr_bwzQFcbUml84VXd",
+ "album": "None",
+ "display_mood": "Funky",
+ "instruments": [
+  "guitars",
+  "synth",
+  "drums"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "title": "Race Car",
+ "vid": "8ba5e7947e540d42",
+ "reference_vid": "8ba5e7947e540d42",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA"
+}

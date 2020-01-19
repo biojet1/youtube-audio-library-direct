@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 228.05,
+ "reference_vid": "2addba2f25a90cd2",
+ "display_genre": "Classical",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2addba2f25a90cd2",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Organ",
+  "Trumpet"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChAyYWRkYmEyZjI1YTkwY2QyEAAYAg%3D%3D&sigh=ajl-O8Sl32vmxuwtuZBxZw",
+ "display_mood": "Bright",
+ "fp_ref_id": "2addba2f25a90cd2",
+ "track_url": "",
+ "genre": "Classical",
+ "vid": "2addba2f25a90cd2",
+ "artist_channel_url": null,
+ "streamid": "z6xq0iDtQoeGztbvt1GbNtfTmXVHFbX2Q4uoP1om1TN6SX_bEIfeTGRM5X8Bib6R",
+ "license_type": 0,
+ "title": "Messiah (by Handel)",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Handel",
+ "mood": "Bright"
+}

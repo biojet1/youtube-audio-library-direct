@@ -1,0 +1,31 @@
+{
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Piano",
+  "Horns",
+  "Acoustic Guitar"
+ ],
+ "artist": "Biz Baz Studio",
+ "reference_vid": "8d203c88c368cadf",
+ "genre": "Cinematic",
+ "streamid": "jn-vXqT8Y4wAoRd286bwHpTeGw_sn64nm6i0TRi6JA-ss1CVoBU6-WVlbjlBT8Rd",
+ "len": 125,
+ "display_category": "",
+ "fp_ref_id": "8d203c88c368cadf",
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChA4ZDIwM2M4OGMzNjhjYWRmEAAYAg%3D%3D&sigh=4SqhvwYnR__0sZOcVTLxHg",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "vid": "8d203c88c368cadf",
+ "display_mood": "Sad",
+ "favorite": false,
+ "mood": "Sad",
+ "downloadable": true,
+ "album": "None",
+ "title": "Emotional Love Theme",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8d203c88c368cadf",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "track_url": "",
+ "popularity_percentile": 99,
+ "category": ""
+}

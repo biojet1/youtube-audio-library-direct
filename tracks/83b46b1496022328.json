@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Cinematic",
+ "category": "",
+ "fp_ref_id": "83b46b1496022328",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Asian Drums - Vadodara",
+ "vid": "83b46b1496022328",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChA4M2I0NmIxNDk2MDIyMzI4EAAYAg%3D%3D&sigh=QQtg33pjSdUgTh7ZshD9HA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=83b46b1496022328",
+ "display_category": "",
+ "len": 138.55,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100396",
+ "downloadable": true,
+ "streamid": "QHqBtIREfe1reCZmL9esxJtfGfQd-PtvxItT65Ph0m3sUmO1C-SMZJ2UF14Lf0kR",
+ "reference_vid": "83b46b1496022328",
+ "instruments": [
+  "Drums"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Cinematic"
+}

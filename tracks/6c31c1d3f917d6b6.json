@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEDZjMzFjMWQzZjkxN2Q2YjYQABgC&sigh=en1JhdFbUd5bi_qbufxeeQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6c31c1d3f917d6b6",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6c31c1d3f917d6b6",
+ "fp_ref_id": "6c31c1d3f917d6b6",
+ "category": "",
+ "title": "Far Away (Sting)",
+ "reference_vid": "6c31c1d3f917d6b6",
+ "artist": "MK2",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth",
+  "Piano"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "ioryEJLBttWlQ6dL2CZ9lMo_F3CEZa0To6egPmXOHjZItd51nROtSzYHMQr_aoS7",
+ "len": 10.983,
+ "license_type": 0,
+ "is_new_track": false
+}

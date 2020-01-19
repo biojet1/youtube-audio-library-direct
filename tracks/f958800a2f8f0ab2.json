@@ -1,0 +1,31 @@
+{
+ "vid": "f958800a2f8f0ab2",
+ "display_mood": "Dark",
+ "title": "Rock Energy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBmOTU4ODAwYTJmOGYwYWIyEAAYAg%3D%3D&sigh=ER8ESKNLFdS5J5paFUCsxQ",
+ "display_genre": "Rock",
+ "mood": "Dark",
+ "artist": "Audionautix",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f958800a2f8f0ab2",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "",
+ "popularity_percentile": 61,
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "reference_vid": "f958800a2f8f0ab2",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "MsrcAltrh4UbMe0_ZyKWU6uuc-pC5HRd8biJLsDh3iX_A6Goe4uhV0iAgIuupFsi",
+ "artist_url": "http://audionautix.com/",
+ "len": 115.05,
+ "fp_ref_id": "f958800a2f8f0ab2",
+ "license_type": 6,
+ "is_new_track": false
+}

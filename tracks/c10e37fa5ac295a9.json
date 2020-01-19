@@ -1,0 +1,31 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChBjMTBlMzdmYTVhYzI5NWE5EAAYAg%3D%3D&sigh=DSOHWE7es3Lnv29nfchHmw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "category": "",
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "c10e37fa5ac295a9",
+ "is_new_track": false,
+ "len": 110,
+ "genre": "Rock",
+ "reference_vid": "c10e37fa5ac295a9",
+ "downloadable": true,
+ "streamid": "opnSHtG6K7KpF_jauApmD9jdK9EOtgdPc2baMTKPBKo09d-hRYFKjVInWrU-MXCr",
+ "track_url": "",
+ "vid": "c10e37fa5ac295a9",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c10e37fa5ac295a9",
+ "artist_url": "https://www.youtube.com/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "license_type": 1,
+ "title": "R\u00eaverie",
+ "artist": "Endless Love"
+}

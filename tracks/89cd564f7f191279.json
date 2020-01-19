@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 159,
+ "display_mood": "Dark",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "89cd564f7f191279",
+ "reference_vid": "89cd564f7f191279",
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "license_type": 1,
+ "streamid": "pcapkh4WNHcbYZ3SwzB9kbayksajsP9raWETH4--a4Wac6id-NEaZ-IaVXfSLRKU",
+ "vid": "89cd564f7f191279",
+ "mood": "Dark",
+ "artist": "The 126ers",
+ "display_genre": "Pop",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChA4OWNkNTY0ZjdmMTkxMjc5EAAYAg%3D%3D&sigh=C9VNshzVsBZvZPmfod6dBQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=89cd564f7f191279",
+ "category": "",
+ "title": "Luna's Soul",
+ "genre": "Pop",
+ "instruments": [
+  "Bass",
+  "Keyboards",
+  "Drums",
+  "Guitar"
+ ]
+}

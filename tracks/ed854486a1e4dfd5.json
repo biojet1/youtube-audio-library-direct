@@ -1,0 +1,31 @@
+{
+ "artist": "Bizet",
+ "display_category": "",
+ "genre": "Classical",
+ "vid": "ed854486a1e4dfd5",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "reference_vid": "ed854486a1e4dfd5",
+ "artist_url": "",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "category": "",
+ "license_type": 0,
+ "display_genre": "Classical",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "ed854486a1e4dfd5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ed854486a1e4dfd5",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChBlZDg1NDQ4NmExZTRkZmQ1EAAYAg%3D%3D&sigh=l9Q6lvruYsLOhiZroN8p4w",
+ "streamid": "E0Wot6A_8AIjEj3rUwJjTbMWj5M208vHgLt169ErVqTRvPfgxuG8O6cpyKgXyPvp",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 124.016,
+ "title": "Habanera (by Bizet)",
+ "favorite": false
+}

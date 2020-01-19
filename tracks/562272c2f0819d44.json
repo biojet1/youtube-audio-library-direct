@@ -1,0 +1,30 @@
+{
+ "genre": "Ambient",
+ "display_category": "",
+ "len": 86.45,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100571",
+ "fp_ref_id": "562272c2f0819d44",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "TAPXbvrZRc5zfGQK-JHqnRIt34cJx5Sy3rIzEXn6mviGLVJfr-FXrzpND5MoiY31",
+ "title": "Chanter - Vadodara",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=562272c2f0819d44",
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "562272c2f0819d44",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCfBRIWChA1NjIyNzJjMmYwODE5ZDQ0EAAYAg%3D%3D&sigh=WJfC0cUvrreVuLkzCYxw1A",
+ "vid": "562272c2f0819d44",
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "mood": "Dark",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ]
+}

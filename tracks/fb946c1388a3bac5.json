@@ -1,0 +1,32 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "len": 178,
+ "mood": "Inspirational",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChBmYjk0NmMxMzg4YTNiYWM1EAAYAg%3D%3D&sigh=GiUN0g_z-Pt9z4FLffoHfA",
+ "genre": "Cinematic",
+ "streamid": "4RObkm_qe3jWvB5YQ-s5IKgQ6d_9JD0JnomH0a7OBz0KTxunz1X_Mm6QRy1QbGv9",
+ "downloadable": true,
+ "fp_ref_id": "fb946c1388a3bac5",
+ "vid": "fb946c1388a3bac5",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Organ",
+  "Strings"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fb946c1388a3bac5",
+ "category": "",
+ "reference_vid": "fb946c1388a3bac5",
+ "title": "Everything Is Fine",
+ "artist": "Sir Cubworth",
+ "track_url": ""
+}

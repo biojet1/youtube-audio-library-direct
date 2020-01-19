@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 48,
+ "favorite": false,
+ "mood": "Calm",
+ "display_category": "",
+ "fp_ref_id": "9f3a21674a8e74bc",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f3a21674a8e74bc",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "is_new_track": false,
+ "reference_vid": "9f3a21674a8e74bc",
+ "len": 190.083,
+ "display_mood": "Calm",
+ "streamid": "1qAMSNytIMFJmXYQpcQjG-x5DEUlevJGGq5vt-_mDB4H_Ix1Uux7EWQgWa1HVVYk",
+ "display_genre": "Dance & Electronic",
+ "title": "How it Begins",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100200",
+ "downloadable": true,
+ "license_type": 6,
+ "genre": "Dance & Electronic",
+ "vid": "9f3a21674a8e74bc",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChA5ZjNhMjE2NzRhOGU3NGJjEAAYAg%3D%3D&sigh=7y542Kz5PRECI6KeQbN1lg"
+}

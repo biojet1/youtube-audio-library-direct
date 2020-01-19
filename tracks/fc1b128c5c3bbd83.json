@@ -1,0 +1,33 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChBmYzFiMTI4YzVjM2JiZDgzEAAYAg%3D%3D&sigh=AMlEJRd54cRCyaZliBcxQQ",
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fc1b128c5c3bbd83",
+ "reference_vid": "fc1b128c5c3bbd83",
+ "popularity_percentile": 99,
+ "artist": "Riot",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc1b128c5c3bbd83",
+ "mood": "Happy",
+ "genre": "Country & Folk",
+ "streamid": "OIXxgSbCdJzYpbuWnfSP56vp_tpmBg8DoPRrEIkBzGWxT0Cq2xO_05pldF-FOZkh",
+ "title": "Safety Net",
+ "downloadable": true,
+ "category": "",
+ "len": 90.85,
+ "artist_url": "",
+ "display_genre": "Country & Folk",
+ "fp_ref_id": "fc1b128c5c3bbd83",
+ "album": "None"
+}

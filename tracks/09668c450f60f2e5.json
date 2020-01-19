@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "09668c450f60f2e5",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Public Memory",
+ "vid": "09668c450f60f2e5",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChAwOTY2OGM0NTBmNjBmMmU1EAAYAg%3D%3D&sigh=-1BylioYz2iTvahsOErs-g",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "display_mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "The Carrier",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09668c450f60f2e5",
+ "reference_vid": "09668c450f60f2e5",
+ "mood": "Calm",
+ "streamid": "-cV64h4x3vRMdIofeay9KtXEXkgtKLL-30ZAH2sVBkC2Auknh0wVIeyYiQPn8hax",
+ "track_url": "",
+ "album": "None",
+ "len": 142,
+ "instruments": [
+  "percussion",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic"
+}

@@ -1,0 +1,30 @@
+{
+ "len": 104.583,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4da8ef4919ad644c",
+ "instruments": [
+  "Drums",
+  "Strings"
+ ],
+ "display_mood": "Dramatic",
+ "streamid": "3VDoIPrNdeM01st4Ke9KUOkXsCJCUomy9a7_sQgfKieZUzf4KDEH1IN8LYaHR8Qh",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChA0ZGE4ZWY0OTE5YWQ2NDRjEAAYAg%3D%3D&sigh=ihkgso7SCcQFyJldaldzpA",
+ "title": "Machinations",
+ "vid": "4da8ef4919ad644c",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "popularity_percentile": 32,
+ "display_genre": "Classical",
+ "reference_vid": "4da8ef4919ad644c",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Classical",
+ "fp_ref_id": "4da8ef4919ad644c",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100510",
+ "album": "None"
+}

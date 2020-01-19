@@ -1,0 +1,32 @@
+{
+ "mood": "Bright",
+ "artist": "Verified Picasso",
+ "vid": "301d5f24ff31bc5b",
+ "display_category": "",
+ "streamid": "A44UctWfdYTI8FwDbDRVAJSU2wNdA8O1lo3Fd2Xgo9IQYbuDVpwOsokjFAM788sb",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=301d5f24ff31bc5b",
+ "fp_ref_id": "301d5f24ff31bc5b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCdCxIWChAzMDFkNWYyNGZmMzFiYzViEAAYAg%3D%3D&sigh=pjccToS4GSyIbWkXXfE0CQ",
+ "display_genre": "Dance & Electronic",
+ "len": 184,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "808"
+ ],
+ "reference_vid": "301d5f24ff31bc5b",
+ "title": "Asleep",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "license_type": 1,
+ "display_mood": "Bright",
+ "popularity_percentile": 99
+}

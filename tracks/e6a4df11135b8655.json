@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e6a4df11135b8655",
+ "category": "",
+ "title": "Bumper Tag",
+ "genre": "Jazz & Blues",
+ "favorite": false,
+ "reference_vid": "e6a4df11135b8655",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChBlNmE0ZGYxMTEzNWI4NjU1EAAYAg%3D%3D&sigh=18PP7SlfYDvbH0n_h0T-Qg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e6a4df11135b8655",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e6a4df11135b8655",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "John Deley",
+ "len": 172.216,
+ "display_mood": "Happy",
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "xxypL5TPRHz6Y7o8uz8lT4Nt9RQJBO1IngsUdx8WlAw6BxVjM2sWp0f3Cg6ipBKX"
+}

@@ -1,0 +1,33 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "title": "Stranger Things",
+ "album": "None",
+ "streamid": "WY_r98G-ISlx-t6N4EVviumlfmji0ybz-wI9r6DSXy_J1vz1BJkVKrA4mFadWXXD",
+ "display_mood": "Dramatic",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums",
+  "vocal chops",
+  "808"
+ ],
+ "reference_vid": "cc3043a20e8f5a31",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCptYdIghPgmOl8opbjZrcuA",
+ "artist_url": "https://www.youtube.com/channel/UCptYdIghPgmOl8opbjZrcuA",
+ "category": "",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "track_url": "",
+ "fp_ref_id": "cc3043a20e8f5a31",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChBjYzMwNDNhMjBlOGY1YTMxEAAYAg%3D%3D&sigh=UN1mHVOvQhclrN8Ec7S0QA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cc3043a20e8f5a31",
+ "artist": "Causmic",
+ "license_type": 1,
+ "len": 179,
+ "vid": "cc3043a20e8f5a31",
+ "downloadable": true
+}

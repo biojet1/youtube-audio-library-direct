@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Classical",
+ "streamid": "EOg86on6qbvfZ0bWQ0EEAitun7R972cijiQSUAcl4vXmGSxUu4b5LAra4s-7idzR",
+ "reference_vid": "ea969db0a1e59899",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100251",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ea969db0a1e59899",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIC-FRIWChBlYTk2OWRiMGExZTU5ODk5EAAYAg%3D%3D&sigh=WnjLy0ul8lgTWWHATIYErQ",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "title": "Dragon and Toast",
+ "album": "None",
+ "vid": "ea969db0a1e59899",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "favorite": false,
+ "len": 352.85,
+ "fp_ref_id": "ea969db0a1e59899",
+ "display_genre": "Classical"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 1,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "TTOMXoAQEKjBOFK_aldS3H-GSrdoBnY05_Qh9zLv7irrr9MP34lge7FXgDvSqFJG",
+ "len": 158.383,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab9b4adf5b2e4f98",
+ "category": "",
+ "is_new_track": false,
+ "vid": "ab9b4adf5b2e4f98",
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "ab9b4adf5b2e4f98",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChBhYjliNGFkZjViMmU0Zjk4EAAYAg%3D%3D&sigh=XXqIjMiDPhXMW3yFMq-Dhg",
+ "display_mood": "Bright",
+ "artist_url": "",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "",
+ "title": "Bluebird",
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "ab9b4adf5b2e4f98",
+ "mood": "Bright",
+ "artist": "E's Jammy Jams",
+ "favorite": false
+}

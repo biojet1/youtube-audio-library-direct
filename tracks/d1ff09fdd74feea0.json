@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Synth"
+ ],
+ "len": 437.65,
+ "fp_ref_id": "d1ff09fdd74feea0",
+ "streamid": "jica023L8WFrNd_kGmxupMyOsNUESKQV4wEgHC2geh2P7wOg75OhlXNy9HwMG0uJ",
+ "artist_url": "http://chriszabriskie.com/",
+ "category": "",
+ "genre": "Ambient",
+ "popularity_percentile": 64,
+ "vid": "d1ff09fdd74feea0",
+ "display_genre": "Ambient",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d1ff09fdd74feea0",
+ "album": "None",
+ "title": "I Am Running with Temporary Success from a Monstrous Vacuum",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIjWGhIWChBkMWZmMDlmZGQ3NGZlZWEwEAAYAg%3D%3D&sigh=pbsXxhcUPa8dTj5nx7ia6w",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "artist": "Chris Zabriskie",
+ "display_category": "",
+ "mood": "Calm",
+ "is_new_track": false,
+ "reference_vid": "d1ff09fdd74feea0",
+ "track_url": "http://chriszabriskie.com/honor/",
+ "license_type": 6
+}

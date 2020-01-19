@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Pop",
+ "mood": "Inspirational",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums"
+ ],
+ "display_mood": "Inspirational",
+ "fp_ref_id": "a35f1ae2bc0a9099",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBhMzVmMWFlMmJjMGE5MDk5EAAYAg%3D%3D&sigh=U52Vs3F2io4r7oN93UNoOA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "category": "",
+ "genre": "Pop",
+ "reference_vid": "a35f1ae2bc0a9099",
+ "downloadable": true,
+ "streamid": "sZfHfkl1RliRIDxIVN64hakw8HkkNstOmqiNVuBDeh-XN2ciVNDT4F_ZlFi09kAt",
+ "track_url": "",
+ "vid": "a35f1ae2bc0a9099",
+ "len": 150,
+ "license_type": 1,
+ "title": "Forward Push",
+ "is_new_track": false,
+ "artist": "Verified Picasso",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a35f1ae2bc0a9099",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

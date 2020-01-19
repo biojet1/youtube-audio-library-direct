@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "1769b9cd5ba9e50d",
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "1769b9cd5ba9e50d",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "display_genre": "Pop",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1769b9cd5ba9e50d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChAxNzY5YjljZDViYTllNTBkEAAYAg%3D%3D&sigh=qrbqVJgaVzpSLYcws0gigg",
+ "display_category": "",
+ "display_mood": "Bright",
+ "vid": "1769b9cd5ba9e50d",
+ "len": 116,
+ "mood": "Bright",
+ "streamid": "M7dGJhp-jTnigQPyuDGeBmmWBGCFxcY9yh1zwa2QCQNFGpid5A3BLXZkxwH6Gh3P",
+ "artist": "Patrick Patrikios",
+ "is_new_track": false,
+ "title": "No Favours",
+ "genre": "Pop",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "genre": "Jazz & Blues",
+ "track_url": "",
+ "is_new_track": false,
+ "artist": "Dan Lebowitz",
+ "title": "Finding Light",
+ "streamid": "vaRfg_pGcmPGPbPgufBGjjNAbKVn25kHqueCJqScrEJaKCEMdYbicDbhMUDzIMQJ",
+ "downloadable": true,
+ "album": "None",
+ "fp_ref_id": "efa0b570f7372796",
+ "len": 160.9,
+ "favorite": false,
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "display_mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=efa0b570f7372796",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "mood": "Funky",
+ "license_type": 1,
+ "display_genre": "Jazz & Blues",
+ "vid": "efa0b570f7372796",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChBlZmEwYjU3MGY3MzcyNzk2EAAYAg%3D%3D&sigh=HUdyDGVi-7W36uUgU-5YBA",
+ "reference_vid": "efa0b570f7372796",
+ "category": "",
+ "popularity_percentile": 99
+}

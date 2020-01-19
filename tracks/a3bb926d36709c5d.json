@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "title": "Gameboy",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Coyote Hearing",
+ "vid": "a3bb926d36709c5d",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "reference_vid": "a3bb926d36709c5d",
+ "track_url": "",
+ "streamid": "FsXaHz0sSXABSWgX1YmUCiGfYAfXT-VRZoXZSolgkntWfg86tnMGJVaaQIG7E748",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a3bb926d36709c5d",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChBhM2JiOTI2ZDM2NzA5YzVkEAAYAg%3D%3D&sigh=DiXm_-wiKRG80kFB4UjMkQ",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Strings"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "a3bb926d36709c5d",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 168.499,
+ "display_genre": "Cinematic"
+}

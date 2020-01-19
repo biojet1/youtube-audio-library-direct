@@ -1,0 +1,31 @@
+{
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "len": 113,
+ "display_category": "",
+ "reference_vid": "24c40c0c7a8a5175",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Francis Preve",
+ "fp_ref_id": "24c40c0c7a8a5175",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "streamid": "zwt5AvF9CAMmLFJceL6DsZ-tP0C1O83hSlU4ZxOKXRSmakzwruJrnfF5xtE6Uk2U",
+ "display_mood": "Funky",
+ "vid": "24c40c0c7a8a5175",
+ "track_url": "",
+ "instruments": [
+  "guitar",
+  "synth",
+  "drums"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChAyNGM0MGMwYzdhOGE1MTc1EAAYAg%3D%3D&sigh=gklwDoqJegS6HMGetd5TEA",
+ "category": "",
+ "title": "Diskofunque",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=24c40c0c7a8a5175"
+}

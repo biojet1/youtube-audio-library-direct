@@ -1,0 +1,33 @@
+{
+ "genre": "Jazz & Blues",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Josh Kirsch/Media Right Productions",
+ "fp_ref_id": "985fd9dc723f4247",
+ "display_mood": "Funky",
+ "display_genre": "Jazz & Blues",
+ "vid": "985fd9dc723f4247",
+ "mood": "Funky",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Trumpet",
+  "Synth"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChA5ODVmZDlkYzcyM2Y0MjQ3EAAYAg%3D%3D&sigh=7OTDyRrphvfjs2QPYEy3OA",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "1975",
+ "category": "",
+ "len": 115.65,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=985fd9dc723f4247",
+ "reference_vid": "985fd9dc723f4247",
+ "streamid": "l4cCXvLVpAn0Ah6Ht-nQy95HCNWvP4lBsam-m9vMvsRjaTRV_DbQ8x7sokYIfLPL"
+}

@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "mood": "Dark",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBiZjhjZDJjYTIzNmE5NTZhEAAYAg%3D%3D&sigh=ZJW4lSk-jcm1SWeH18xcOg",
+ "title": "Please Tell Me",
+ "vid": "bf8cd2ca236a956a",
+ "artist_url": "",
+ "streamid": "IUEl7Z9KdkwqzXP6TCK3v657RhHlJFrAIN3-dgu-Lw1jfF8XucJCowzdNRtXRN2O",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf8cd2ca236a956a",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "display_mood": "Dark",
+ "len": 129.483,
+ "genre": "Rock",
+ "fp_ref_id": "bf8cd2ca236a956a",
+ "track_url": "",
+ "album": "None",
+ "display_genre": "Rock",
+ "reference_vid": "bf8cd2ca236a956a",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 75
+}

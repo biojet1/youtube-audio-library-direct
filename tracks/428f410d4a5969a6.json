@@ -1,0 +1,31 @@
+{
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "len": 145.55,
+ "display_category": "",
+ "reference_vid": "428f410d4a5969a6",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "428f410d4a5969a6",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "srMomsVSOSugXKV5zLBCvCuw0ob-9na1etP9rmGinIlBqlP9ZY_HXYQaoqHeTqSf",
+ "display_mood": "Inspirational",
+ "vid": "428f410d4a5969a6",
+ "track_url": "",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA0MjhmNDEwZDRhNTk2OWE2EAAYAg%3D%3D&sigh=rdcoHAw5rrapacWBGr6-Cw",
+ "category": "",
+ "title": "Frequency",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=428f410d4a5969a6"
+}

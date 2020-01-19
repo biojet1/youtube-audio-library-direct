@@ -1,0 +1,29 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "vid": "99eeabfd699c7d07",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChA5OWVlYWJmZDY5OWM3ZDA3EAAYAg%3D%3D&sigh=ZjmsO1DvcxfccWyrwd70rQ",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "track_url": "",
+ "streamid": "srdSseokgMGgnO5d8Tmr7r4HBPT5A-nME6ZxJmKNm6P03d3RlvP2eaW0BUC30iGP",
+ "len": 120,
+ "genre": "Classical",
+ "artist": "Dan Bodan",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Bike Sharing to Paradise",
+ "instruments": [
+  "piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=99eeabfd699c7d07",
+ "reference_vid": "99eeabfd699c7d07",
+ "popularity_percentile": 99,
+ "fp_ref_id": "99eeabfd699c7d07",
+ "display_mood": "Bright"
+}

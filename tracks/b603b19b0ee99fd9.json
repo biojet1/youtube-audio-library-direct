@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "b603b19b0ee99fd9",
+ "mood": "Sad",
+ "reference_vid": "b603b19b0ee99fd9",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDrCxIWChBiNjAzYjE5YjBlZTk5ZmQ5EAAYAg%3D%3D&sigh=FFP1olGTOeKTZ-pYOWGgZg",
+ "len": 194.616,
+ "favorite": false,
+ "display_mood": "Sad",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b603b19b0ee99fd9",
+ "streamid": "1l7DqJt-K6JwcOJ_Iu0H2n7fKN7KQ7Jt4JgB3BRb8CqzrH3jLaWs0fDnDxcUzEiC",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b603b19b0ee99fd9",
+ "title": "Tucson",
+ "display_genre": "Country & Folk",
+ "artist": "Silent Partner",
+ "genre": "Country & Folk",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

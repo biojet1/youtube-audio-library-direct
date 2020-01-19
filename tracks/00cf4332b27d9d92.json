@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "00cf4332b27d9d92",
+ "mood": "Dramatic",
+ "title": "Destination Unknown",
+ "category": "",
+ "genre": "Cinematic",
+ "album": "None",
+ "len": 207,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjRDBIWChAwMGNmNDMzMmIyN2Q5ZDkyEAAYAg%3D%3D&sigh=hArTnlEeJBwFrCqsmTYwew",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=00cf4332b27d9d92",
+ "fp_ref_id": "00cf4332b27d9d92",
+ "artist": "Ugonna Onyekwe",
+ "display_mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "streamid": "kRtk3j-GD6qxcieSuN_4K2jfhTZEbnfmgdDWbcDPkkMj4IPx47aYDtCVwRi0erWV",
+ "artist_channel_url": "/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "display_category": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "strings",
+  "synth"
+ ],
+ "vid": "00cf4332b27d9d92"
+}

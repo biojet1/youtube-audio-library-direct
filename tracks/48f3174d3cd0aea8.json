@@ -1,0 +1,33 @@
+{
+ "artist": "Au.Ra",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48f3174d3cd0aea8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChA0OGYzMTc0ZDNjZDBhZWE4EAAYAg%3D%3D&sigh=EXA21V0sW0f7X-nOyuVaKQ",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "album": "None",
+ "track_url": "",
+ "len": 180,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "48f3174d3cd0aea8",
+ "streamid": "K6BuWT3zVc_Jdd4NgQ8bDEOlmJ8tw7DcBU_C8ClLVVHczhuH-80wMz8G0AealiMs",
+ "title": "Plato's Cave",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "mood": "Dark",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 99,
+ "reference_vid": "48f3174d3cd0aea8",
+ "instruments": [
+  "bass",
+  "drums",
+  "drum machine",
+  "percussion",
+  "synth"
+ ],
+ "fp_ref_id": "48f3174d3cd0aea8",
+ "license_type": 1
+}

@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "favorite": false,
+ "len": 88.666,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7611f4ef24592492",
+ "category": "",
+ "streamid": "MTAWi1v_zYVfXtirT0U91F2kWVTomLLL-0MQrC962OIiqj4Hix1G_KkSW5b_YQN4",
+ "fp_ref_id": "7611f4ef24592492",
+ "mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChA3NjExZjRlZjI0NTkyNDkyEAAYAg%3D%3D&sigh=G89dYZ7sA71yy6faYfp0vg",
+ "popularity_percentile": 0,
+ "reference_vid": "7611f4ef24592492",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Trumpet",
+  "Bass",
+  "Drums",
+  "Piano",
+  "Acoustic Guitar"
+ ],
+ "is_new_track": false,
+ "vid": "7611f4ef24592492",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "title": "Carnival De Brazil",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist": "Doug Maxwell"
+}

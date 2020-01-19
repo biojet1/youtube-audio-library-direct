@@ -1,0 +1,31 @@
+{
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChAwNWMxOTZiMTk4YzUwY2Y0EAAYAg%3D%3D&sigh=6SXatsGJTsojeOfEjR84LA",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "05c196b198c50cf4",
+ "reference_vid": "05c196b198c50cf4",
+ "popularity_percentile": 3,
+ "artist": "E's Jammy Jams",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05c196b198c50cf4",
+ "mood": "Romantic",
+ "genre": "Jazz & Blues",
+ "streamid": "n0EMj1zTLbLddZrOSbbwkr6s6sKUeUKBKDY5p7fM0ovMtmT0a0I3QM1gj409n9rL",
+ "title": "Nighttime Stroll",
+ "downloadable": true,
+ "category": "",
+ "len": 171.483,
+ "artist_url": "",
+ "display_genre": "Jazz & Blues",
+ "fp_ref_id": "05c196b198c50cf4",
+ "album": "None"
+}

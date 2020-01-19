@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Trumpet"
+ ],
+ "display_mood": "Sad",
+ "vid": "7de9092473ef3cf7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7de9092473ef3cf7",
+ "is_new_track": false,
+ "license_type": 1,
+ "mood": "Sad",
+ "display_genre": "Classical",
+ "fp_ref_id": "7de9092473ef3cf7",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 60.95,
+ "track_url": "",
+ "category": "",
+ "streamid": "a-S7VWRAKGlaYbgZ8Dvqd9zyoBGZynd8My6IZxBIj9iWHEzLyg5rAJd03tbWIXTc",
+ "title": "Taps Bugle Call",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODUAxIWChA3ZGU5MDkyNDczZWYzY2Y3EAAYAg%3D%3D&sigh=x3jPVRcUZ6PUE0_XKEgkbw",
+ "popularity_percentile": 50,
+ "reference_vid": "7de9092473ef3cf7",
+ "artist": "The U.S. Army Band",
+ "genre": "Classical"
+}

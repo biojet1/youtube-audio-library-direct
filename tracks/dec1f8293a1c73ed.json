@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "electric guitar"
+ ],
+ "album": "None",
+ "artist": "Gunnar Olsen",
+ "downloadable": true,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "len": 149.85,
+ "reference_vid": "dec1f8293a1c73ed",
+ "fp_ref_id": "dec1f8293a1c73ed",
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "dec1f8293a1c73ed",
+ "category": "",
+ "title": "Burner",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dec1f8293a1c73ed",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChBkZWMxZjgyOTNhMWM3M2VkEAAYAg%3D%3D&sigh=NMoPkvyRwG7qq8kAvwCT5w",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "fwZq2-7_iYXKcmfUgwBCCUXZALRSJQrAinCu3iqQnyWOnjwKIv7KRwAsng7Ps8Xz"
+}

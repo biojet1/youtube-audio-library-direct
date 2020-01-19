@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist": "Huma-Huma",
+ "is_new_track": false,
+ "fp_ref_id": "8ed07191b3b46c43",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "title": "Whiskey",
+ "vid": "8ed07191b3b46c43",
+ "mood": "Inspirational",
+ "display_genre": "Rock",
+ "len": 186.616,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChA4ZWQwNzE5MWIzYjQ2YzQzEAAYAg%3D%3D&sigh=cnhz2_oDIhSppik0_OOYRA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ed07191b3b46c43",
+ "display_category": "",
+ "category": "",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "UJH22mz-mZZFkNM-h1anW_sB5-zcUOa5e1sPqASrI4cuPTarR7Yfc0u4ruYafxHO",
+ "reference_vid": "8ed07191b3b46c43",
+ "instruments": [
+  "Electric Guitar",
+  "Organ",
+  "Bass",
+  "Drums"
+ ],
+ "popularity_percentile": 56,
+ "downloadable": true,
+ "genre": "Rock",
+ "artist_url": ""
+}

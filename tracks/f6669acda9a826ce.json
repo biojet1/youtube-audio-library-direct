@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "f6669acda9a826ce",
+ "instruments": [
+  "Strings",
+  "Synth"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Classical",
+ "category": "",
+ "artist": "Audionautix",
+ "display_category": "",
+ "streamid": "lVaTQvAbIlwbzfNbHcd_pgCD3SzxXlXojVI6TDcqpziTqPFBGQ2fPPn6SEbXsryq",
+ "license_type": 6,
+ "vid": "f6669acda9a826ce",
+ "popularity_percentile": 73,
+ "reference_vid": "f6669acda9a826ce",
+ "display_genre": "Classical",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 139.983,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChBmNjY2OWFjZGE5YTgyNmNlEAAYAg%3D%3D&sigh=EDSe9wC7UVvM52Q6kP0QKg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f6669acda9a826ce",
+ "title": "The Angels Weep"
+}

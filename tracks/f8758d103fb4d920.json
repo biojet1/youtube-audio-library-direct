@@ -1,0 +1,33 @@
+{
+ "mood": "Bright",
+ "reference_vid": "f8758d103fb4d920",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChBmODc1OGQxMDNmYjRkOTIwEAAYAg%3D%3D&sigh=A1uFAa7wphl2e6UtAa5btg",
+ "display_mood": "Bright",
+ "title": "Day Out on the Lawn",
+ "artist": "Midnight North",
+ "is_new_track": false,
+ "len": 136,
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "f8758d103fb4d920",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f8758d103fb4d920",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "artist_url": "https://www.youtube.com/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "license_type": 1,
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Bass",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "fp_ref_id": "f8758d103fb4d920",
+ "streamid": "b3BD4suIBIlB34ll3M3pdYEGRKVSPKTKxLd57kQz5P5p2Mp-g91I48qkCYuBsxXA"
+}

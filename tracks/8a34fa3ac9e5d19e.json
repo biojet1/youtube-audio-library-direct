@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "display_mood": "Dramatic",
+ "vid": "8a34fa3ac9e5d19e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a34fa3ac9e5d19e",
+ "is_new_track": false,
+ "license_type": 6,
+ "mood": "Dramatic",
+ "display_genre": "Ambient",
+ "fp_ref_id": "8a34fa3ac9e5d19e",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "len": 178.15,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100782",
+ "category": "",
+ "streamid": "WuoFX6cBgOTHb8XBDvmfCQ1BE_dNrIs9e90dnicYDToiKajADyJwcuMiKKoIpQjO",
+ "title": "Enter the Maze",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChA4YTM0ZmEzYWM5ZTVkMTllEAAYAg%3D%3D&sigh=r9OIFYQL-ChGj4p-IGQFUw",
+ "popularity_percentile": 50,
+ "reference_vid": "8a34fa3ac9e5d19e",
+ "artist": "Kevin MacLeod",
+ "genre": "Ambient"
+}

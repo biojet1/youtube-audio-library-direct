@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ce307a58574b67f9",
+ "fp_ref_id": "ce307a58574b67f9",
+ "len": 102.366,
+ "artist": "Text Me Records / Jorge Hernandez",
+ "mood": "Dark",
+ "reference_vid": "ce307a58574b67f9",
+ "vid": "ce307a58574b67f9",
+ "title": "Kill It",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Piano",
+  "Bass"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "streamid": "imcTeRyvR_VV--Xu6-_MGyWHlO10C4XxUFvCf5VGyQTM4V6KRUA7XJlqqTxc9u3j",
+ "display_genre": "Hip Hop & Rap",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBjZTMwN2E1ODU3NGI2N2Y5EAAYAg%3D%3D&sigh=Xrvk4XCkQoeNlJrHKZKCvA"
+}

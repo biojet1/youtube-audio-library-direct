@@ -1,0 +1,33 @@
+{
+ "mood": "Bright",
+ "artist": "Dyalla",
+ "vid": "259469617e45cd90",
+ "display_category": "",
+ "streamid": "kNKrcEC-y4gQduvtRbjv04-HIMIBzCaHA5G1FghfWKnJuA8mTwcca8Ff1wGtUDuO",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=259469617e45cd90",
+ "fp_ref_id": "259469617e45cd90",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChAyNTk0Njk2MTdlNDVjZDkwEAAYAg%3D%3D&sigh=OSxn24QavFUohVltGTZvFQ",
+ "display_genre": "Rock",
+ "len": 190,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "synth",
+  "drums",
+  "percussion"
+ ],
+ "reference_vid": "259469617e45cd90",
+ "title": "Cats and Gats",
+ "genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "license_type": 1,
+ "display_mood": "Bright",
+ "popularity_percentile": 99
+}

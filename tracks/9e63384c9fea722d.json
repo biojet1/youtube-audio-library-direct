@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9e63384c9fea722d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA5ZTYzMzg0YzlmZWE3MjJkEAAYAg%3D%3D&sigh=COhsA6PjFpnrbxUh81Xhuw",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9e63384c9fea722d",
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "display_genre": "Jazz & Blues",
+ "vid": "9e63384c9fea722d",
+ "downloadable": true,
+ "title": "Called Upon",
+ "reference_vid": "9e63384c9fea722d",
+ "artist_url": "",
+ "len": 146.583,
+ "artist": "Silent Partner",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "lPZzCP2NrSlOcD1h63x6_slmbhfNLhh58ISn-nd0Ymfv2KehbFf5P00wRo8EkdAV",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth",
+  "piano"
+ ],
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

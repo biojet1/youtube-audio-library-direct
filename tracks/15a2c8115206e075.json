@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 48,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "15a2c8115206e075",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=15a2c8115206e075",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "is_new_track": false,
+ "reference_vid": "15a2c8115206e075",
+ "len": 210.916,
+ "display_mood": "Funky",
+ "streamid": "2b8qwHLPm9Us-1aFmC8lqbyuXdOlexxt8JZYOgz9YQMMfqpQ9evAoh62CFwmQius",
+ "display_genre": "Country & Folk",
+ "title": "Lachaim",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100412",
+ "downloadable": true,
+ "license_type": 6,
+ "genre": "Country & Folk",
+ "vid": "15a2c8115206e075",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Acoustic Guitar",
+  "Trumpet"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChAxNWEyYzgxMTUyMDZlMDc1EAAYAg%3D%3D&sigh=EINgfsMDHEqUeKijjGjV8A"
+}

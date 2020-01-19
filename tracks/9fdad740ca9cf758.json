@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9fdad740ca9cf758",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCdCxIWChA5ZmRhZDc0MGNhOWNmNzU4EAAYAg%3D%3D&sigh=0f62VZ-CMzrn78-WZAiAUw",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9fdad740ca9cf758",
+ "mood": "Romantic",
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "display_genre": "Country & Folk",
+ "vid": "9fdad740ca9cf758",
+ "downloadable": true,
+ "title": "Lonesome Avenue",
+ "reference_vid": "9fdad740ca9cf758",
+ "artist_url": "",
+ "len": 184.05,
+ "artist": "The 126ers",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "wUudqUtKoWCJhv3BD41LAISYbBrUaN5hgC1KYEKgrVH2uhul2-CSbtRVi1urlt6h",
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "genre": "Country & Folk",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

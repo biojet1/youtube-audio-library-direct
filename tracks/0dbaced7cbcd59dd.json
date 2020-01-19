@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "vid": "0dbaced7cbcd59dd",
+ "album": "None",
+ "artist_channel_url": "/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist_url": "https://www.youtube.com/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist": "Nate Blaze",
+ "genre": "Cinematic",
+ "fp_ref_id": "0dbaced7cbcd59dd",
+ "streamid": "-8WNNHdWxLef0AZOT1Gt7dbaKf3q5ELV7I1glcwNTM__T4v64gpPhBOyJO2wIcF5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAwZGJhY2VkN2NiY2Q1OWRkEAAYAg%3D%3D&sigh=dtUeis1XUGNS4Pwn6Y10jQ",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "title": "First Time Experience",
+ "track_url": "",
+ "len": 122,
+ "popularity_percentile": 99,
+ "reference_vid": "0dbaced7cbcd59dd",
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0dbaced7cbcd59dd",
+ "instruments": [
+  "piano"
+ ],
+ "is_new_track": false
+}

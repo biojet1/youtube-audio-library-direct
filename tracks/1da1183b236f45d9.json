@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1da1183b236f45d9",
+ "fp_ref_id": "1da1183b236f45d9",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1da1183b236f45d9",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Organ"
+ ],
+ "len": 147.683,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChAxZGExMTgzYjIzNmY0NWQ5EAAYAg%3D%3D&sigh=XUd43DUOKHu8cBiTA1fEyQ",
+ "album": "None",
+ "title": "This Old Man (instrumental)",
+ "popularity_percentile": 12,
+ "streamid": "BcFYh_iYfrhGNPGobPCpm9vZ769YJWvcqg5xQjheayR2pNHc_XVPuiV6bRzKR_ue",
+ "mood": "Happy",
+ "genre": "Children's",
+ "category": "",
+ "favorite": false,
+ "vid": "1da1183b236f45d9",
+ "track_url": "",
+ "display_genre": "Children's",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "The Green Orbs"
+}

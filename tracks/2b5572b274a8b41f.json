@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 116,
+ "display_mood": "Romantic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "fp_ref_id": "2b5572b274a8b41f",
+ "reference_vid": "2b5572b274a8b41f",
+ "artist_channel_url": "/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "license_type": 1,
+ "streamid": "ydeRvANAXew6TRf3IeRzzwBCdIuP9Ddit1RQewo3fuG_YgU9XnqljspYGomCUr2k",
+ "vid": "2b5572b274a8b41f",
+ "mood": "Romantic",
+ "artist": "Hanu Dixit",
+ "display_genre": "Classical",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChAyYjU1NzJiMjc0YThiNDFmEAAYAg%3D%3D&sigh=J_Uf76YZRzb7thj2o-OXxg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2b5572b274a8b41f",
+ "category": "",
+ "title": "Acoustic Symphony",
+ "genre": "Classical",
+ "instruments": [
+  "drums",
+  "horn",
+  "acoustic guitar",
+  "piano",
+  "strings"
+ ]
+}

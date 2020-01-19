@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "ba6e7735e2b0643c",
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "ba6e7735e2b0643c",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "display_genre": "Pop",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ba6e7735e2b0643c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBiYTZlNzczNWUyYjA2NDNjEAAYAg%3D%3D&sigh=gHzvNyl4LcLl2ONWkPH3Ew",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "ba6e7735e2b0643c",
+ "len": 126,
+ "mood": "Dark",
+ "streamid": "ICRE24NvKJ03mqbO0pQkJdiw2ffP8eTFabxhYnC8BCNIk0bSWRtTlScju61zyZZL",
+ "artist": "Patrick Patrikios",
+ "is_new_track": false,
+ "title": "2 Hearts",
+ "genre": "Pop",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

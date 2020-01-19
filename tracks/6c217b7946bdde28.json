@@ -1,0 +1,33 @@
+{
+ "mood": "Romantic",
+ "reference_vid": "6c217b7946bdde28",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChA2YzIxN2I3OTQ2YmRkZTI4EAAYAg%3D%3D&sigh=N_ih1tgDiTtA-uRZ_kgetw",
+ "display_mood": "Romantic",
+ "title": "Mount Tam Two Step",
+ "artist": "Midnight North",
+ "is_new_track": false,
+ "len": 137,
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "6c217b7946bdde28",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6c217b7946bdde28",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "artist_url": "https://www.youtube.com/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "license_type": 1,
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Acoustic Guitar",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "fp_ref_id": "6c217b7946bdde28",
+ "streamid": "G50c_Zp3DoX_5A5wNsqR959c5RPJ13kQ2_e5pjAh9mpxrLCh6VJ1VGVVmcdwZohm"
+}

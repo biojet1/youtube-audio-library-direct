@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "acoustic guitar",
+  "synth",
+  "bass",
+  "electric guitar"
+ ],
+ "len": 174.966,
+ "fp_ref_id": "a01cfa2a300b79f6",
+ "streamid": "9HCc9mEfU3vz2-AHjky3f1GJoKDs4DQd7waF6ZiW7mlcIHqUOPihdvrZGX5rVlCi",
+ "artist_url": "",
+ "category": "",
+ "genre": "Pop",
+ "popularity_percentile": 63,
+ "vid": "a01cfa2a300b79f6",
+ "display_genre": "Pop",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a01cfa2a300b79f6",
+ "album": "None",
+ "title": "Bright Future",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBhMDFjZmEyYTMwMGI3OWY2EAAYAg%3D%3D&sigh=LwusVK6PYo4rsExI2r_dSQ",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "mood": "Inspirational",
+ "is_new_track": false,
+ "reference_vid": "a01cfa2a300b79f6",
+ "track_url": "",
+ "license_type": 0
+}

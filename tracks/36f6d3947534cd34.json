@@ -1,0 +1,32 @@
+{
+ "artist": "Media Right Productions",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=36f6d3947534cd34",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChAzNmY2ZDM5NDc1MzRjZDM0EAAYAg%3D%3D&sigh=GFevoU1t8Sj5bqFxEj90LQ",
+ "genre": "R&B & Soul",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "album": "None",
+ "track_url": "",
+ "len": 113.366,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "36f6d3947534cd34",
+ "streamid": "X4I5Le0Im0wtc9TKsTTkmf1C1yOsFgToLnpgGWuxKxwLurQ91iiDPdacAkKKVbDP",
+ "title": "Funk It Up Old School",
+ "artist_url": "",
+ "mood": "Funky",
+ "downloadable": true,
+ "display_genre": "R&B & Soul",
+ "popularity_percentile": 21,
+ "reference_vid": "36f6d3947534cd34",
+ "instruments": [
+  "Drums",
+  "bass",
+  "electric guitar",
+  "organ"
+ ],
+ "fp_ref_id": "36f6d3947534cd34",
+ "license_type": 0
+}

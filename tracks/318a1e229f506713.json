@@ -1,0 +1,31 @@
+{
+ "len": 61.45,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=318a1e229f506713",
+ "instruments": [
+  "Trumpet",
+  "Strings",
+  "Drums"
+ ],
+ "display_mood": "Dramatic",
+ "streamid": "uzsdsQqD4KVUdvcG86Dhtq9gnzfkpArjQoe18w5LknC8-HVPAKAS34HHBCtoO9jk",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChAzMThhMWUyMjlmNTA2NzEzEAAYAg%3D%3D&sigh=0PwDLET2_DsYCny-7NkjZQ",
+ "title": "Fanfare for Space",
+ "vid": "318a1e229f506713",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "popularity_percentile": 54,
+ "display_genre": "Cinematic",
+ "reference_vid": "318a1e229f506713",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Cinematic",
+ "fp_ref_id": "318a1e229f506713",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300026",
+ "album": "None"
+}

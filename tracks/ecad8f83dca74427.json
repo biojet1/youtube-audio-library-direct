@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "drum machine",
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "reference_vid": "ecad8f83dca74427",
+ "streamid": "UMP0Vc-71rXin1XlQpx_GQ8kdwEFlu7-eXcMQ-x1LirqIyQpYlNuNvWt50gGrBVy",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ecad8f83dca74427",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChBlY2FkOGY4M2RjYTc0NDI3EAAYAg%3D%3D&sigh=DD9f-1H5iSAl7kR08Pbfqw",
+ "len": 95,
+ "is_new_track": false,
+ "mood": "Dark",
+ "vid": "ecad8f83dca74427",
+ "title": "Mr. Cool Guy",
+ "display_mood": "Dark",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "favorite": false,
+ "fp_ref_id": "ecad8f83dca74427",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "artist": "Jeremy Korpas"
+}

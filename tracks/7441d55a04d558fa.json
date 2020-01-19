@@ -1,0 +1,32 @@
+{
+ "display_genre": "Country & Folk",
+ "vid": "7441d55a04d558fa",
+ "title": "Lone Trail",
+ "mood": "Inspirational",
+ "reference_vid": "7441d55a04d558fa",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 132.783,
+ "fp_ref_id": "7441d55a04d558fa",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "streamid": "JDwXQRJ3PuDNgFRisyrqbcG3_TjZOVmkSQYGfr3oSN2xsCoQAxlFW-eAmarNVtiQ",
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7441d55a04d558fa",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChA3NDQxZDU1YTA0ZDU1OGZhEAAYAg%3D%3D&sigh=npr3AY-b5PjAMdHmy07sqw",
+ "genre": "Country & Folk"
+}

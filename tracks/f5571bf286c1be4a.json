@@ -1,0 +1,32 @@
+{
+ "display_genre": "Holiday",
+ "license_type": 0,
+ "genre": "Holiday",
+ "artist_url": "",
+ "vid": "f5571bf286c1be4a",
+ "artist": "Jingle Punks",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f5571bf286c1be4a",
+ "artist_channel_url": null,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Strings",
+  "Piano"
+ ],
+ "album": "None",
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChBmNTU3MWJmMjg2YzFiZTRhEAAYAg%3D%3D&sigh=0BnhT4vFcRKo6-CA-8BXBg",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Inspirational",
+ "title": "Auld Lang Syne (Instrumental)",
+ "reference_vid": "f5571bf286c1be4a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f5571bf286c1be4a",
+ "track_url": "",
+ "len": 122.95,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "AIwPRSekHLNsiAovuhJL1_-X2TbtMXCNUIyzdGZY9SHuwKPveWGRC6TAVr8rFO1a"
+}

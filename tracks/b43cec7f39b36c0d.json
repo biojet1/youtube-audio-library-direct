@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "title": "Pink Flamenco",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Doug Maxwell",
+ "vid": "b43cec7f39b36c0d",
+ "mood": "Dramatic",
+ "genre": "Classical",
+ "reference_vid": "b43cec7f39b36c0d",
+ "track_url": "",
+ "streamid": "6M7CXKCtSqt-3-tgSKls66FPqYUb0-OLUVM9pJVo22_-aWpxATCUpqRY1Kb78KMr",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b43cec7f39b36c0d",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChBiNDNjZWM3ZjM5YjM2YzBkEAAYAg%3D%3D&sigh=1ubvJD7LAkmYz8lakoZpuA",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "b43cec7f39b36c0d",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 152.766,
+ "display_genre": "Classical"
+}

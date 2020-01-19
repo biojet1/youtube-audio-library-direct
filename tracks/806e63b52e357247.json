@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "806e63b52e357247",
+ "mood": "Dark",
+ "reference_vid": "806e63b52e357247",
+ "popularity_percentile": 72,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChA4MDZlNjNiNTJlMzU3MjQ3EAAYAg%3D%3D&sigh=c_6sNtkeJQD3OZsKZHDjIQ",
+ "len": 175.183,
+ "favorite": false,
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "806e63b52e357247",
+ "streamid": "0OfEMqH0quw5HiDGXJIIsoOHaKKaPGlq5jxfW3BwwF--hfWRsg-LUE2WaRFLkwqP",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=806e63b52e357247",
+ "title": "It Is Lost",
+ "display_genre": "Ambient",
+ "artist": "Kevin MacLeod",
+ "genre": "Ambient",
+ "downloadable": true,
+ "instruments": [
+  "Synth",
+  "Organ"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100190",
+ "is_new_track": false
+}

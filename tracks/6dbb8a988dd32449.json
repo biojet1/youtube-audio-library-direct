@@ -1,0 +1,33 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6dbb8a988dd32449",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChA2ZGJiOGE5ODhkZDMyNDQ5EAAYAg%3D%3D&sigh=gO7OiV-4sDjgg96cmtkqNw",
+ "vid": "6dbb8a988dd32449",
+ "title": "Beatles Unite",
+ "display_category": "",
+ "album": "None",
+ "favorite": false,
+ "streamid": "QokBDKiTQr1-H8sSj20zgRGLpw1wPlkq9nVE2966sJy2rG_uLPZkFJbjI3vviaFL",
+ "genre": "Dance & Electronic",
+ "len": 172,
+ "mood": "Funky",
+ "popularity_percentile": 0,
+ "fp_ref_id": "6dbb8a988dd32449",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "drums",
+  "bass",
+  "percussion",
+  "synth",
+  "keys"
+ ],
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCiHnYgtOn8u9YovYplMeXcw",
+ "artist_channel_url": "/channel/UCiHnYgtOn8u9YovYplMeXcw",
+ "category": "",
+ "artist": "Rachel K Collier",
+ "is_new_track": true,
+ "downloadable": true,
+ "reference_vid": "6dbb8a988dd32449",
+ "display_mood": "Funky"
+}

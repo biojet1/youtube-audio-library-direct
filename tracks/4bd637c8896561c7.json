@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "streamid": "CqcSATsIktL2RWHsaVcIWAvaDmB7MHJUwOJEtGfpScvJ0LM2Js0yp1WcmIC-9KmY",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "4bd637c8896561c7",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "category": "",
+ "popularity_percentile": 30,
+ "license_type": 0,
+ "fp_ref_id": "4bd637c8896561c7",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA0YmQ2MzdjODg5NjU2MWM3EAAYAg%3D%3D&sigh=dHpjYvnUYA6gfjQVSOXQdA",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4bd637c8896561c7",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "mood": "Funky",
+ "title": "Here We Go Again",
+ "len": 118.416,
+ "vid": "4bd637c8896561c7",
+ "track_url": ""
+}

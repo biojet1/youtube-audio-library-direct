@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Happy",
+ "display_category": "",
+ "fp_ref_id": "78efbd3986c7c350",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=78efbd3986c7c350",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "78efbd3986c7c350",
+ "len": 134.216,
+ "display_mood": "Happy",
+ "streamid": "2txyMNUBVeVaC6cIxksnLZ6x5XoN0104sqeIeOcJD0tDlsCqnRL3md65teJWkgT3",
+ "display_genre": "R&B & Soul",
+ "title": "Above and Beyond",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "R&B & Soul",
+ "vid": "78efbd3986c7c350",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA3OGVmYmQzOTg2YzdjMzUwEAAYAg%3D%3D&sigh=UnerBfQbD5niv04xaHMW_A"
+}

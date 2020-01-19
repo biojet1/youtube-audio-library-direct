@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "65baf52abd0e8d1c",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "len": 170,
+ "streamid": "F9p7ta0DDrP6vNM6CgGDWvIemDsyEHQei0cTgZX9cbefFrQEmm1rvBJLL7g7M7WC",
+ "license_type": 1,
+ "vid": "65baf52abd0e8d1c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChA2NWJhZjUyYWJkMGU4ZDFjEAAYAg%3D%3D&sigh=7W6xvHtB-ffkbQZjyZUghg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=65baf52abd0e8d1c",
+ "title": "Fused",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "display_category": "",
+ "fp_ref_id": "65baf52abd0e8d1c",
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw?internalcountrycode=US",
+ "instruments": [
+  "bass",
+  "drums",
+  "electric guitar",
+  "organ",
+  "synth"
+ ],
+ "artist": "RKVC",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Rock",
+ "category": ""
+}

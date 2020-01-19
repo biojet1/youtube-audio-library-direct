@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "favorite": false,
+ "streamid": "AVOh6as5pvvsTw6-TgSNETrJZa2zTQaJxFRUvJvb6dWKbP8eUNiJsOtytGW5pIWj",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=727ce111d3d1fd01",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNC-GhIWChA3MjdjZTExMWQzZDFmZDAxEAAYAg%3D%3D&sigh=MafU1_i7744MGCHtErd82g",
+ "vid": "727ce111d3d1fd01",
+ "display_category": "",
+ "title": "We Always Thought the Future Would Be Kind of Fun",
+ "album": "None",
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Chris Zabriskie",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "reference_vid": "727ce111d3d1fd01",
+ "len": 434.916,
+ "popularity_percentile": 51,
+ "genre": "Ambient",
+ "fp_ref_id": "727ce111d3d1fd01",
+ "track_url": "http://chriszabriskie.com/darkglow/",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "license_type": 6
+}

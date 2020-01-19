@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 111,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "fp_ref_id": "c27f62fda5b5b41c",
+ "reference_vid": "c27f62fda5b5b41c",
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "license_type": 1,
+ "streamid": "stAa6Kj0n4ZoKNws4Ruext18zJMEsW6AkKnny0R5KvKOeF0zQUo2p511yqyvAsMo",
+ "vid": "c27f62fda5b5b41c",
+ "mood": "Dramatic",
+ "artist": "Aaron Kenny",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChBjMjdmNjJmZGE1YjViNDFjEAAYAg%3D%3D&sigh=ZT5YdQjJn-kBWpne1NFW2A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c27f62fda5b5b41c",
+ "category": "",
+ "title": "Yonder Hill and Dale",
+ "genre": "Cinematic",
+ "instruments": [
+  "Strings",
+  "Horn",
+  "Drums"
+ ]
+}

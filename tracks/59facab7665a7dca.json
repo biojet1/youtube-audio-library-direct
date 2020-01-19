@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChA1OWZhY2FiNzY2NWE3ZGNhEAAYAg%3D%3D&sigh=brLd-vdnEZY8btqRKjS3ow",
+ "instruments": [
+  "piano",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "59facab7665a7dca",
+ "reference_vid": "59facab7665a7dca",
+ "popularity_percentile": 99,
+ "artist": "Drew Banga",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=59facab7665a7dca",
+ "mood": "Dramatic",
+ "genre": "Hip Hop & Rap",
+ "streamid": "ftcSlvBXN3VHbuYmUzyHwk_mlmgx64KQzpuQnDnjFNtjS6Gszx1xfwVwAfzypLDX",
+ "title": "Mr West",
+ "downloadable": true,
+ "category": "",
+ "len": 161,
+ "artist_url": "https://www.youtube.com/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "59facab7665a7dca",
+ "album": "None"
+}

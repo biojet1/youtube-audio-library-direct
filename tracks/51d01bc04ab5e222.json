@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "fp_ref_id": "51d01bc04ab5e222",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPioDxIWChA1MWQwMWJjMDRhYjVlMjIyEAAYAg%3D%3D&sigh=3ArKvMRf7uon3tR3_SwnRw",
+ "streamid": "nmVTty_3akUfPtpUiZP01w_GW-NxID9WLurhX0f24h_MdhyarJ9es5whFqDanpl1",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 251,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=51d01bc04ab5e222",
+ "favorite": false,
+ "title": "Electro Dollars",
+ "artist": "Rondo Brothers",
+ "genre": "Ambient",
+ "vid": "51d01bc04ab5e222",
+ "display_category": "",
+ "reference_vid": "51d01bc04ab5e222",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "display_mood": "Romantic",
+ "mood": "Romantic",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Ambient",
+ "is_new_track": false
+}

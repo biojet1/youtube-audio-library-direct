@@ -1,0 +1,32 @@
+{
+ "display_genre": "Ambient",
+ "vid": "73fbb362e8887e8a",
+ "title": "Present Standard",
+ "mood": "Calm",
+ "reference_vid": "73fbb362e8887e8a",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 134.916,
+ "fp_ref_id": "73fbb362e8887e8a",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "streamid": "dVr8lupbjoqPUyn8BlH9PK6QQPVQGPQRdPbBy6_ml4kJIdeBORDTlXVjPq3E70YJ",
+ "display_mood": "Calm",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73fbb362e8887e8a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA3M2ZiYjM2MmU4ODg3ZThhEAAYAg%3D%3D&sigh=904cNARfYqp2a_ZEppbQVw",
+ "genre": "Ambient"
+}

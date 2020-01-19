@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "7bb1159f9cfb8481",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Baroque Coffee House (Sting)",
+ "vid": "7bb1159f9cfb8481",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMA-EhYKEDdiYjExNTlmOWNmYjg0ODEQABgC&sigh=_11J95DJylqx_gGGImAYew",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7bb1159f9cfb8481",
+ "display_category": "",
+ "len": 8.116,
+ "album": "None",
+ "license_type": 0,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "vE-MlRtjGsf6d0Sac2JWxRhCmVz2X_SO3gf6cQA86XJwEJIqwIsdrUNj9oKM9887",
+ "reference_vid": "7bb1159f9cfb8481",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Bass"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "",
+ "genre": "Classical"
+}

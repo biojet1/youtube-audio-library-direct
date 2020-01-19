@@ -1,0 +1,29 @@
+{
+ "genre": "Dance & Electronic",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Twin Musicom",
+ "fp_ref_id": "c720983825f56658",
+ "display_mood": "Dramatic",
+ "display_genre": "Dance & Electronic",
+ "vid": "c720983825f56658",
+ "mood": "Dramatic",
+ "instruments": [
+  "Synth"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://www.twinmusicom.org/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBjNzIwOTgzODI1ZjU2NjU4EAAYAg%3D%3D&sigh=EvDRlwL5VFICoyY4n8C84g",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "8-Bit March",
+ "category": "",
+ "len": 131.983,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c720983825f56658",
+ "reference_vid": "c720983825f56658",
+ "streamid": "pmPAPzLmtsmtMuPK7UgADUCEhIIls4xPZ4BGE4mulxfoI1IJhBMenB7BrQJJPiRp"
+}

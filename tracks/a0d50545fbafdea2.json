@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Trumpet"
+ ],
+ "len": 128.216,
+ "fp_ref_id": "a0d50545fbafdea2",
+ "streamid": "fOARY7FRLo7GV9DyXHf4XpetfW5gXwO1-0Jyiun7b8GuSkBdcfmJYibDLyWuFD3D",
+ "artist_url": "",
+ "category": "",
+ "genre": "Classical",
+ "popularity_percentile": 64,
+ "vid": "a0d50545fbafdea2",
+ "display_genre": "Classical",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0d50545fbafdea2",
+ "album": "None",
+ "title": "With Shot and Shell",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBhMGQ1MDU0NWZiYWZkZWEyEAAYAg%3D%3D&sigh=p0smz4leRhcUDOYOtrf60w",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "artist": "United States Marine Band",
+ "display_category": "",
+ "mood": "Bright",
+ "is_new_track": false,
+ "reference_vid": "a0d50545fbafdea2",
+ "track_url": "",
+ "license_type": 1
+}

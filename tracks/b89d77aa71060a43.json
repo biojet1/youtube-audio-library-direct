@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "artist_url": "http://www.twinmusicom.org/",
+ "display_mood": "Calm",
+ "reference_vid": "b89d77aa71060a43",
+ "streamid": "WdTn6kRbi0sx16tWQRcimvWHSHSAMtblhZqznLWFingzva2w9yLa1u5xzKRIY_DB",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDZDBIWChBiODlkNzdhYTcxMDYwYTQzEAAYAg%3D%3D&sigh=5MZrPr94Iakwm0HB5aMAaA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b89d77aa71060a43",
+ "len": 208.316,
+ "genre": "Ambient",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_category": "",
+ "fp_ref_id": "b89d77aa71060a43",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Down With That",
+ "mood": "Calm",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Twin Musicom",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Ambient",
+ "track_url": "",
+ "vid": "b89d77aa71060a43"
+}

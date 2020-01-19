@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "display_mood": "Inspirational",
+ "vid": "d2f672a2d3217558",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2f672a2d3217558",
+ "is_new_track": false,
+ "license_type": 6,
+ "mood": "Inspirational",
+ "display_genre": "Pop",
+ "fp_ref_id": "d2f672a2d3217558",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "len": 107.75,
+ "track_url": "",
+ "category": "",
+ "streamid": "5Ga-V3VaFEpMbmnrbsJKVblVJoNfTgCxs-364k8pp8-5Uoy6h1aTUfM-1lc1eA8d",
+ "title": "In The Field",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChBkMmY2NzJhMmQzMjE3NTU4EAAYAg%3D%3D&sigh=Ey-Jnl7VAfsXnRvL9QOWlw",
+ "popularity_percentile": 50,
+ "reference_vid": "d2f672a2d3217558",
+ "artist": "Audionautix",
+ "genre": "Pop"
+}

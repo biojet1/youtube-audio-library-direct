@@ -1,0 +1,30 @@
+{
+ "streamid": "Sj5EBRz2yqyRFXSfpsgAWs_EJ5Ug4_Z5nd9t2LMcWqtk8C1TjUrr2SCJWuX5Qoxc",
+ "genre": "Classical",
+ "fp_ref_id": "8ba30393773a2b72",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ba30393773a2b72",
+ "favorite": false,
+ "reference_vid": "8ba30393773a2b72",
+ "vid": "8ba30393773a2b72",
+ "album": "None",
+ "display_mood": "Dark",
+ "display_category": "",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOChFBIWChA4YmEzMDM5Mzc3M2EyYjcyEAAYAg%3D%3D&sigh=YkQrd280POl82RONLmWbbA",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "instruments": [
+  "synth",
+  "strings"
+ ],
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "category": "",
+ "artist": "Dan Bodan",
+ "title": "Orison",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Classical",
+ "mood": "Dark",
+ "len": 332,
+ "popularity_percentile": 99
+}

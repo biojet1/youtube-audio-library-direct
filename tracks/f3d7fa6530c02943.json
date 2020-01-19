@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "license_type": 0,
+ "genre": "Rock",
+ "artist_url": "",
+ "vid": "f3d7fa6530c02943",
+ "artist": "Silent Partner",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f3d7fa6530c02943",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "album": "None",
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChBmM2Q3ZmE2NTMwYzAyOTQzEAAYAg%3D%3D&sigh=KWuUqL7jSUP3etmUFvq0Jg",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Happy",
+ "title": "Sugar Zone",
+ "reference_vid": "f3d7fa6530c02943",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f3d7fa6530c02943",
+ "track_url": "",
+ "len": 113.883,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "k8oP2FWZXoRP-LfWUIyg-ZekLolbxqcM0gohF76gK26f_KQ0ks3zHjTSggJkKZmu"
+}

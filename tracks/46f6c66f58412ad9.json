@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChA0NmY2YzY2ZjU4NDEyYWQ5EAAYAg%3D%3D&sigh=keiA8hxBWo2XlRnOHJ-yWg",
+ "display_genre": "Country & Folk",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "3pmkLlZiWnRyLd6yqBkwS-FNgn9WgN4CVi-QKCehXcaw8byZhRSx4jFREutT-nPE",
+ "artist": "Everet Almond",
+ "len": 120.716,
+ "genre": "Country & Folk",
+ "mood": "Happy",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "46f6c66f58412ad9",
+ "reference_vid": "46f6c66f58412ad9",
+ "popularity_percentile": 28,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=46f6c66f58412ad9",
+ "fp_ref_id": "46f6c66f58412ad9",
+ "display_mood": "Happy",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Oh, My Love",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

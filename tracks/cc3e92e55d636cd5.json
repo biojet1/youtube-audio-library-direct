@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "reference_vid": "cc3e92e55d636cd5",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "",
+ "display_mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cc3e92e55d636cd5",
+ "fp_ref_id": "cc3e92e55d636cd5",
+ "mood": "Calm",
+ "album": "None",
+ "instruments": [
+  "Organ",
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "len": 120.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBjYzNlOTJlNTVkNjM2Y2Q1EAAYAg%3D%3D&sigh=02BV-7btO0wfGh2srYM2Nw",
+ "streamid": "zNkgpC9NqV6aYsLTFvWZa6qQMdmTKH_VwBnmzhbQXrrO9GMMtAZJiEOLvoeRZWmU",
+ "artist": "JR Tundra",
+ "popularity_percentile": 79,
+ "title": "The Night Falling",
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "license_type": 0,
+ "vid": "cc3e92e55d636cd5",
+ "track_url": "",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "favorite": false
+}

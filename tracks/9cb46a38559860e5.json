@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9cb46a38559860e5",
+ "len": 56.25,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMC1AxIWChA5Y2I0NmEzODU1OTg2MGU1EAAYAg%3D%3D&sigh=afAWbtScUqpmugbm6ltecw",
+ "fp_ref_id": "9cb46a38559860e5",
+ "vid": "9cb46a38559860e5",
+ "title": "A Singular Perversion - Darkness",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100660",
+ "reference_vid": "9cb46a38559860e5",
+ "license_type": 6,
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "instruments": [
+  "Strings",
+  "Piano"
+ ],
+ "streamid": "m7qEGbHA9S5dn91iik9-aDK771nRDsO3uM8Sh38YTQfxDXrzORprsmq7zD1YnHNx",
+ "category": ""
+}

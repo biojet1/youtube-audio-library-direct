@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "b6b782e5e849b814",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6b782e5e849b814",
+ "display_mood": "Bright",
+ "fp_ref_id": "b6b782e5e849b814",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "title": "Marmoset",
+ "artist_channel_url": "/channel/UCvWuOz2bCBzZbrn2CTCyFHg",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChBiNmI3ODJlNWU4NDliODE0EAAYAg%3D%3D&sigh=cb-KkLfrllPq4bA3J9WSPQ",
+ "display_genre": "Pop",
+ "artist": "Text Me Records / GrandBankss",
+ "genre": "Pop",
+ "len": 212.7,
+ "streamid": "4z8sJwp7eGLMb6BlJd0gsNaQS0e5V7W6E6CFUuvZ-IcjCNls93aFGvXGD1Zdy8v-",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "b6b782e5e849b814",
+ "album": "None",
+ "mood": "Bright"
+}

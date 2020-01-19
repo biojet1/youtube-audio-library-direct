@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "artist": "Bad Snacks",
+ "artist_channel_url": "/channel/UCBCI_QCAMe1hx8UNyvJlM_Q",
+ "downloadable": true,
+ "fp_ref_id": "673f1ddbf0d95637",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChA2NzNmMWRkYmYwZDk1NjM3EAAYAg%3D%3D&sigh=YY0MSmQ3Qh1Mqn0HOOxjjg",
+ "favorite": false,
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "vid": "673f1ddbf0d95637",
+ "streamid": "yBXq_pNVYJHr4h5QjCoBYeCB_MvkYWNOQ6sa15kqNKX4s6-rdDJHgQGDb5XsBuyD",
+ "mood": "Angry",
+ "reference_vid": "673f1ddbf0d95637",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=673f1ddbf0d95637",
+ "title": "Frustrated",
+ "display_mood": "Angry",
+ "artist_url": "https://www.youtube.com/channel/UCBCI_QCAMe1hx8UNyvJlM_Q",
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "display_category": "",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums",
+  "electric piano",
+  "bells"
+ ],
+ "len": 128,
+ "album": "None",
+ "track_url": ""
+}

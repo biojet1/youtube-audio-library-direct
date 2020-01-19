@@ -1,0 +1,29 @@
+{
+ "streamid": "x1ib2dYjj7g7iDsbYjpDlL2frq_sWPQj9GwkKgvYIC_GPORgqM3rIIjbJEfZy_MF",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChBhMGI2NjkyY2VkOGVhNTU3EAAYAg%3D%3D&sigh=nGJmnm55gVrmTPzaMbRXzw",
+ "display_mood": "Sad",
+ "display_category": "",
+ "reference_vid": "a0b6692ced8ea557",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400008",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0b6692ced8ea557",
+ "downloadable": true,
+ "len": 158.083,
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "fp_ref_id": "a0b6692ced8ea557",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Colorless Aura",
+ "mood": "Sad",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "a0b6692ced8ea557",
+ "display_genre": "Pop"
+}

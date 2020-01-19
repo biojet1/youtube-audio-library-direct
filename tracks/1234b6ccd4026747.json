@@ -1,0 +1,33 @@
+{
+ "artist": "Magic In The Other",
+ "display_category": "",
+ "genre": "Country & Folk",
+ "vid": "1234b6ccd4026747",
+ "instruments": [
+  "piano",
+  "percussion",
+  "bass",
+  "ukelele",
+  "acoustic guitar"
+ ],
+ "reference_vid": "1234b6ccd4026747",
+ "artist_url": "https://www.youtube.com/channel/UC_v-LoMHkq9yiSv-OfsTeBQ",
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC_v-LoMHkq9yiSv-OfsTeBQ",
+ "fp_ref_id": "1234b6ccd4026747",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1234b6ccd4026747",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChAxMjM0YjZjY2Q0MDI2NzQ3EAAYAg%3D%3D&sigh=9HY0MRF9V-LqiJskmAh6DA",
+ "streamid": "itDu-sQs2pIIG4zeyOuz2i4GDIvFa0h9QUATp_9F5-z8oIKQw5QZMeR4hGzjwLbo",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 174,
+ "title": "Family Album",
+ "favorite": false
+}

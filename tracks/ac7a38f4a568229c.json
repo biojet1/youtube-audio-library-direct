@@ -1,0 +1,32 @@
+{
+ "reference_vid": "ac7a38f4a568229c",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "ac7a38f4a568229c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac7a38f4a568229c",
+ "mood": "Inspirational",
+ "artist": "Jingle Punks",
+ "vid": "ac7a38f4a568229c",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj7AxIWChBhYzdhMzhmNGE1NjgyMjljEAAYAg%3D%3D&sigh=8p0Rugi7i9k4b3y_KNRsFw",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 68,
+ "instruments": [
+  "Piano",
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "T_k6IJUo9NuaLU-9Unm4n5CZkJoX3A7TcRd4jhaqUkzEcDIZNhFTjPkSQRxWqCtE",
+ "len": 65.716,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "On the Bach",
+ "genre": "Cinematic",
+ "display_category": ""
+}

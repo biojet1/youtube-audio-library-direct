@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a6d1de8f73f3dad3",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a6d1de8f73f3dad3",
+ "fp_ref_id": "a6d1de8f73f3dad3",
+ "genre": "Hip Hop & Rap",
+ "album": "None",
+ "title": "Stay",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Synth",
+  "Bass"
+ ],
+ "track_url": "",
+ "display_mood": "Happy",
+ "streamid": "CsP7t5a3a63Rv6c2-thq2HRNk7PXpY6dC3yTRPib6SDTHsa0DNO6WCQsy7Rb5yBR",
+ "artist": "Otis McDonald",
+ "mood": "Happy",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a6d1de8f73f3dad3",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBhNmQxZGU4ZjczZjNkYWQzEAAYAg%3D%3D&sigh=yJCK0c1bMT7Af7gvc5c8cQ",
+ "display_category": "",
+ "len": 118.583,
+ "display_genre": "Hip Hop & Rap"
+}

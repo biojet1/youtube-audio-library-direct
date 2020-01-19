@@ -1,0 +1,33 @@
+{
+ "vid": "4e99fd186ef08365",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4e99fd186ef08365",
+ "len": 216,
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "display_mood": "Inspirational",
+ "reference_vid": "4e99fd186ef08365",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChA0ZTk5ZmQxODZlZjA4MzY1EAAYAg%3D%3D&sigh=bTrmfUvuUQaENRCwcZs2qA",
+ "display_genre": "Ambient",
+ "fp_ref_id": "4e99fd186ef08365",
+ "popularity_percentile": 99,
+ "title": "Lament (Golden Light)",
+ "genre": "Ambient",
+ "instruments": [
+  "piano",
+  "choir",
+  "drums",
+  "synth",
+  "strings"
+ ],
+ "artist": "Devon Church",
+ "streamid": "8fv0AnF2VIydlKJLtNiIV7cfYPc1y_Z3b4W9q_THmpXrIJHmRWDyy0TndQ2IYtjJ",
+ "mood": "Inspirational",
+ "license_type": 1
+}

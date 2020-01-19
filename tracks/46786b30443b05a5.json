@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "46786b30443b05a5",
+ "display_category": "",
+ "fp_ref_id": "46786b30443b05a5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=46786b30443b05a5",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 28,
+ "mood": "Bright",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChA0Njc4NmIzMDQ0M2IwNWE1EAAYAg%3D%3D&sigh=wPdhKHfDUxz6B5zqsT7pMA",
+ "streamid": "2HbiW4RkJE1Ul3spmv_dYzAbLzeRQUeB9hA7FzO3YDD__nmyeOTMPyFIedLeuBII",
+ "genre": "R&B & Soul",
+ "vid": "46786b30443b05a5",
+ "artist": "Silent Partner",
+ "display_genre": "R&B & Soul",
+ "title": "The Heist",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 158.683,
+ "display_mood": "Bright",
+ "downloadable": true
+}

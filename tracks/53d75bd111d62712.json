@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "favorite": false,
+ "reference_vid": "53d75bd111d62712",
+ "category": "",
+ "title": "Saga of Seven Bucks",
+ "display_genre": "Pop",
+ "instruments": [
+  "piano",
+  "bass",
+  "organ",
+  "synth",
+  "drums"
+ ],
+ "genre": "Pop",
+ "display_mood": "Dramatic",
+ "streamid": "PW6S-6v6g5ab4dhNcXkm8i6xn9Rysf4pgcFj1zp6TJP_gvpaECd82GzmQxSCLDT6",
+ "album": "None",
+ "len": 111,
+ "artist": "RKVC",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=53d75bd111d62712",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChA1M2Q3NWJkMTExZDYyNzEyEAAYAg%3D%3D&sigh=-2u0TIdzBJNP5RDbAcsAQw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "53d75bd111d62712",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "53d75bd111d62712",
+ "license_type": 1,
+ "track_url": ""
+}

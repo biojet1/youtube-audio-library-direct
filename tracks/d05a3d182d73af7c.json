@@ -1,0 +1,32 @@
+{
+ "len": 120,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBkMDVhM2QxODJkNzNhZjdjEAAYAg%3D%3D&sigh=5I0Q1R3gdTwbcyER_fjAxQ",
+ "reference_vid": "d05a3d182d73af7c",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "display_genre": "Rock",
+ "track_url": "",
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "synth",
+  "drums"
+ ],
+ "title": "Controlled Distress",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Biz Baz Studio",
+ "streamid": "561oShRJ_BqKzJMwDv453QWHc__nmc8beAD2ka1itG6b3-D9hwBbPZ5dGOfB5BK2",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d05a3d182d73af7c",
+ "fp_ref_id": "d05a3d182d73af7c",
+ "album": "None",
+ "vid": "d05a3d182d73af7c",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "favorite": false
+}

@@ -1,0 +1,31 @@
+{
+ "genre": "Country & Folk",
+ "display_category": "",
+ "len": 135.583,
+ "track_url": "",
+ "fp_ref_id": "afcb2558a7847817",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "TZAuFpou8OnbYXedf3CLyP_-qhEjW7LIte8e5Z8GCbbCp1xB13VVkpO6So_sCeUt",
+ "title": "Grace Behind the Curtain",
+ "artist": "Silent Partner",
+ "is_new_track": false,
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=afcb2558a7847817",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 69,
+ "category": "",
+ "reference_vid": "afcb2558a7847817",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBhZmNiMjU1OGE3ODQ3ODE3EAAYAg%3D%3D&sigh=8W3DC0C9VUzGoAJ06KHnPw",
+ "vid": "afcb2558a7847817",
+ "display_genre": "Country & Folk",
+ "license_type": 0,
+ "mood": "Bright",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

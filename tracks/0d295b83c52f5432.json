@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "0d295b83c52f5432",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d295b83c52f5432",
+ "popularity_percentile": 95,
+ "vid": "0d295b83c52f5432",
+ "streamid": "SVHb6FYoaw4BMa-MKPTQu3IulE6gErc7OnXQAdzQKaUZpRjY9L3CT-uWdiPf79Z7",
+ "artist": "Audionautix",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChAwZDI5NWI4M2M1MmY1NDMyEAAYAg%3D%3D&sigh=2Z_chV3sZW-aEU7EJkEg1Q",
+ "display_category": "",
+ "title": "Jumpin Boogie Woogie",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Bright",
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "0d295b83c52f5432",
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "len": 182.75,
+ "category": ""
+}

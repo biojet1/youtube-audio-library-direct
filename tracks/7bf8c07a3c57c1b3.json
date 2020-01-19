@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 97.183,
+ "fp_ref_id": "7bf8c07a3c57c1b3",
+ "artist_url": "",
+ "streamid": "pxydWQ3rg0SJhEuqZEXEHUqz0H54O5z2cd6fHSsg9Y0n5SinMePk767jHAEmwLy0",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "track_url": "",
+ "popularity_percentile": 49,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Happy",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7bf8c07a3c57c1b3",
+ "mood": "Happy",
+ "artist": "Silent Partner",
+ "display_genre": "Rock",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChA3YmY4YzA3YTNjNTdjMWIzEAAYAg%3D%3D&sigh=bHUyDfnARNN-jsoS0SIBWQ",
+ "title": "Straight Weather",
+ "reference_vid": "7bf8c07a3c57c1b3",
+ "vid": "7bf8c07a3c57c1b3"
+}

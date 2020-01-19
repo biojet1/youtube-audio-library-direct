@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChA2ZDY5MWI5ZjFmYzJmMTEwEAAYAg%3D%3D&sigh=Y7lcKCmf8M4jZrLdo2c3pQ",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "6d691b9f1fc2f110",
+ "downloadable": true,
+ "reference_vid": "6d691b9f1fc2f110",
+ "favorite": false,
+ "fp_ref_id": "6d691b9f1fc2f110",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6d691b9f1fc2f110",
+ "genre": "Reggae",
+ "streamid": "_JxoxZ8HjV40p9M1HTFT43JF04DSPO27OJxexNFFU2rh_rJFJtTGY2fJWZ_UmhqZ",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100315",
+ "mood": "Happy",
+ "len": 61.05,
+ "display_genre": "Reggae",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "B-Roll (ska) - Islandesque",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ]
+}

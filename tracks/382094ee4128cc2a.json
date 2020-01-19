@@ -1,0 +1,31 @@
+{
+ "streamid": "gYuFoCMMsma4SrXxcrbJyyYaO8KvlvDrpjaVxzPrlu9IjZS8yW_DWnV0oQQo3ogZ",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 40.216,
+ "track_url": "",
+ "mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=382094ee4128cc2a",
+ "display_category": "",
+ "reference_vid": "382094ee4128cc2a",
+ "title": "The Hunter",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMC4AhIWChAzODIwOTRlZTQxMjhjYzJhEAAYAg%3D%3D&sigh=w7AL6EgC9sDkJ3xaGdDcwg",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "category": "",
+ "display_mood": "Angry",
+ "favorite": false,
+ "fp_ref_id": "382094ee4128cc2a",
+ "artist": "Audionautix",
+ "vid": "382094ee4128cc2a",
+ "artist_url": "http://audionautix.com/",
+ "genre": "Rock",
+ "license_type": 6,
+ "display_genre": "Rock"
+}

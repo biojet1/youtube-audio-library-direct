@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChBiNGVlMTgyMmQyZDViZDk5EAAYAg%3D%3D&sigh=GhcEiWHlGLTPjpgVx1uv9A",
+ "display_category": "",
+ "display_mood": "Dark",
+ "album": "None",
+ "vid": "b4ee1822d2d5bd99",
+ "downloadable": true,
+ "reference_vid": "b4ee1822d2d5bd99",
+ "favorite": false,
+ "fp_ref_id": "b4ee1822d2d5bd99",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b4ee1822d2d5bd99",
+ "genre": "Ambient",
+ "streamid": "V9tPUBmOy5HLnnUQpdrxZk73-LhU5MLtfemP7KKVJ8fL5W4eX1T7cx4Z5_jsJrCO",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100267",
+ "mood": "Dark",
+ "len": 132.466,
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Darkening Developments",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Strings"
+ ]
+}

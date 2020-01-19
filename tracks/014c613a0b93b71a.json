@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChAwMTRjNjEzYTBiOTNiNzFhEAAYAg%3D%3D&sigh=tpbuJg2XY6JvpS5MukCrUw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=014c613a0b93b71a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100570",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "014c613a0b93b71a",
+ "fp_ref_id": "014c613a0b93b71a",
+ "category": "",
+ "title": "Killing Time",
+ "reference_vid": "014c613a0b93b71a",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Organ"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "ccPhz2hqhjX5Z23HTwEPC_QexmUdGatwn6Kxzx6uXubxwtNd78oxq80uhSsXSn9t",
+ "len": 204.083,
+ "license_type": 6,
+ "is_new_track": false
+}

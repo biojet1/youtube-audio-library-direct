@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChAwMDE2ZjJmODA1YWVmNzJiEAAYAg%3D%3D&sigh=H8LYz3oMLuEldS_SL4sCcQ",
+ "title": "Driven to Madness",
+ "favorite": false,
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "fp_ref_id": "0016f2f805aef72b",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "display_genre": "Rock",
+ "artist": "Ethan Meixsell",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Rock",
+ "popularity_percentile": 0,
+ "reference_vid": "0016f2f805aef72b",
+ "streamid": "6Kr2fWFcVUWfdWr053grUAWlreLCYAPS_qjK0d6YPPw0CahniLyxK3reQ_ba6GTv",
+ "artist_url": "",
+ "len": 127.716,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0016f2f805aef72b",
+ "vid": "0016f2f805aef72b",
+ "category": ""
+}

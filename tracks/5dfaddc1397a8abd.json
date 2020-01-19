@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "vid": "5dfaddc1397a8abd",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 0,
+ "display_category": "",
+ "fp_ref_id": "5dfaddc1397a8abd",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA1ZGZhZGRjMTM5N2E4YWJkEAAYAg%3D%3D&sigh=5e02g1ISJnAnRyosuGpMbQ",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  ""
+ ],
+ "title": "Travel Light",
+ "downloadable": true,
+ "streamid": "BHViC7PU5SrvwfgkVplr3omGgXXwZ818Lj0mtEHLQaDyBMhUJOirxdN0wdbF4dO_",
+ "genre": "Hip Hop & Rap",
+ "len": 100.383,
+ "artist": "RW Smith",
+ "display_mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5dfaddc1397a8abd",
+ "popularity_percentile": 37,
+ "reference_vid": "5dfaddc1397a8abd",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Happy"
+}

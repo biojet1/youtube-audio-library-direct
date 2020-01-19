@@ -1,0 +1,32 @@
+{
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "fp_ref_id": "3ce61f543c2339ee",
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "reference_vid": "3ce61f543c2339ee",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 120,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChAzY2U2MWY1NDNjMjMzOWVlEAAYAg%3D%3D&sigh=1jTqhSr0Kj1reImirL8T6A",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ce61f543c2339ee",
+ "instruments": [
+  "drums",
+  "bass",
+  "organ",
+  "synth"
+ ],
+ "title": "Pop Goes The Weasel",
+ "genre": "Children's",
+ "streamid": "Cs0HovmOzXbJhTxJdd6PdkwPiK1E7ads-9ITtCrxxWwzMAQD7D4EVDlKCgCzxyXG",
+ "vid": "3ce61f543c2339ee",
+ "display_genre": "Children's",
+ "mood": "Happy",
+ "license_type": 1,
+ "artist": "The Green Orbs"
+}

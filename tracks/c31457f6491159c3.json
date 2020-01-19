@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Bright",
+ "reference_vid": "c31457f6491159c3",
+ "streamid": "fkV-Ht14oUBd75Evsg7P1Nx4_9u5hX1UmbNbZvlWhi2GyAd3mtLgpjl9kcW1YHVm",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBjMzE0NTdmNjQ5MTE1OWMzEAAYAg%3D%3D&sigh=_xE9j7IROGYXQQffKz968A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c31457f6491159c3",
+ "len": 135.05,
+ "genre": "Cinematic",
+ "instruments": [
+  "Strings"
+ ],
+ "display_category": "",
+ "fp_ref_id": "c31457f6491159c3",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Hidden Agenda",
+ "mood": "Bright",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Cinematic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200102",
+ "vid": "c31457f6491159c3"
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 98,
+ "reference_vid": "fafb35a907cd6e73",
+ "display_genre": "Classical",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 140.033,
+ "streamid": "c-rfKImmmej-DrF51OwzJFcinRAaZKz5-NV8ZQgQXyTJZx7pGo1-S3RjnmS2gsS6",
+ "license_type": 0,
+ "vid": "fafb35a907cd6e73",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBmYWZiMzVhOTA3Y2Q2ZTczEAAYAg%3D%3D&sigh=U1bMx0N2Lrv-ljPVdWwh1Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fafb35a907cd6e73",
+ "title": "Les Toreadors from Carmen (by Bizet)",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "display_category": "",
+ "fp_ref_id": "fafb35a907cd6e73",
+ "artist_url": "",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "artist": "Bizet",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Classical",
+ "category": ""
+}

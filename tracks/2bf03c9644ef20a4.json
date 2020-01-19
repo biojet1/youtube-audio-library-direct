@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 214.05,
+ "reference_vid": "2bf03c9644ef20a4",
+ "display_genre": "Rock",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2bf03c9644ef20a4",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCHDRIWChAyYmYwM2M5NjQ0ZWYyMGE0EAAYAg%3D%3D&sigh=-79vGYs7NN-fl10qTZiGRA",
+ "display_mood": "Happy",
+ "fp_ref_id": "2bf03c9644ef20a4",
+ "track_url": "",
+ "genre": "Rock",
+ "vid": "2bf03c9644ef20a4",
+ "artist_channel_url": null,
+ "streamid": "-SLVjarFdPP-8US1XspBKOyty2Pi1mj9TWRJTu6MPqoIdrSIwwM_g4SyUGJOe1aG",
+ "license_type": 0,
+ "title": "The Place Inside",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "mood": "Happy"
+}

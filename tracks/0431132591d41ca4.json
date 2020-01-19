@@ -1,0 +1,31 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChAwNDMxMTMyNTkxZDQxY2E0EAAYAg%3D%3D&sigh=bUq99ZAsDZe5d2ISWlfCrw",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0431132591d41ca4",
+ "reference_vid": "0431132591d41ca4",
+ "popularity_percentile": 2,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0431132591d41ca4",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "streamid": "fa5uqQe788RN_AkiwYwoBzmJlCE9qUBGGAXFLgVRMa5CQ92IUg3I2vaBjcDtWo1E",
+ "title": "Stand Straight",
+ "downloadable": true,
+ "category": "",
+ "len": 173.266,
+ "artist_url": "",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "0431132591d41ca4",
+ "album": "None"
+}

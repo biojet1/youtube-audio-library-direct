@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1dc5c44a51b1f57a",
+ "track_url": "",
+ "fp_ref_id": "1dc5c44a51b1f57a",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Satie",
+ "instruments": [
+  "piano"
+ ],
+ "reference_vid": "1dc5c44a51b1f57a",
+ "display_mood": "Calm",
+ "len": 192.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChAxZGM1YzQ0YTUxYjFmNTdhEAAYAg%3D%3D&sigh=tJFy_RhKz1wEW1szYT7dog",
+ "popularity_percentile": 12,
+ "streamid": "XgXghYGj1W_Hsp4HUmgcmsJJXyQcxHnbTbFbFXhSX37jfh49wBzuoQsEsVzgF7k4",
+ "license_type": 0,
+ "display_genre": "Classical",
+ "category": "",
+ "title": "Gymnopedie no1",
+ "genre": "Classical",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1dc5c44a51b1f57a"
+}

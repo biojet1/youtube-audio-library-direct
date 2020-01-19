@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 1,
+ "vid": "10ca61d8cf76e690",
+ "fp_ref_id": "10ca61d8cf76e690",
+ "album": "None",
+ "streamid": "2uelRfnMts0y1xfdxHo3xzuuM_J04w9GPRilrFLf9QEcqJ83LRQ424NBrJ20xaBy",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "artist": "United States Marine Band",
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=10ca61d8cf76e690",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChAxMGNhNjFkOGNmNzZlNjkwEAAYAg%3D%3D&sigh=AdAAYSphYkS5J2MdeIThTA",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 145.916,
+ "reference_vid": "10ca61d8cf76e690",
+ "title": "Officer Of The Day March",
+ "favorite": false,
+ "track_url": ""
+}

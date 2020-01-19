@@ -1,0 +1,31 @@
+{
+ "title": "Rainy Day Games",
+ "is_new_track": false,
+ "artist": "The Green Orbs",
+ "streamid": "b7GMQBes9C8zm897SILqxtd4YUiMEst9Hg-RSJVMiEAxp6BG862bjqarfh7UPzPh",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Children's",
+ "vid": "320d978293af62d9",
+ "display_mood": "Happy",
+ "len": 123.316,
+ "display_genre": "Children's",
+ "downloadable": true,
+ "reference_vid": "320d978293af62d9",
+ "instruments": [
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "category": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=320d978293af62d9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChAzMjBkOTc4MjkzYWY2MmQ5EAAYAg%3D%3D&sigh=F9qAlSoajqDGwgVEgFzArQ",
+ "favorite": false,
+ "fp_ref_id": "320d978293af62d9",
+ "album": "None",
+ "popularity_percentile": 20,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

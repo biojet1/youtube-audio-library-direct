@@ -1,0 +1,32 @@
+{
+ "vid": "5aff49b6edffde31",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5aff49b6edffde31",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5aff49b6edffde31",
+ "favorite": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "track_url": "",
+ "title": "Thinkin' Back",
+ "genre": "Country & Folk",
+ "mood": "Funky",
+ "artist": "Huma-Huma",
+ "display_mood": "Funky",
+ "streamid": "9Hbit_UwkEIuA0ujF5qHUgyEb-9Xj7GcuuvimJb15r_5Jq9Xi0H4lUpaRhs-JFu5",
+ "display_category": "",
+ "len": 127.583,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChA1YWZmNDliNmVkZmZkZTMxEAAYAg%3D%3D&sigh=bMfUjQDS1T8tReyBCnB_Cg",
+ "reference_vid": "5aff49b6edffde31",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Country & Folk"
+}

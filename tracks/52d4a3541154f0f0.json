@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCnDRIWChA1MmQ0YTM1NDExNTRmMGYwEAAYAg%3D%3D&sigh=vmkc5e27hd0dKExZVbQO6w",
+ "display_category": "",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "vid": "52d4a3541154f0f0",
+ "downloadable": true,
+ "reference_vid": "52d4a3541154f0f0",
+ "favorite": false,
+ "fp_ref_id": "52d4a3541154f0f0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=52d4a3541154f0f0",
+ "genre": "Cinematic",
+ "streamid": "z8fnTKRhn0F4Zc0497vd-tNMmVRtMKgEkR99m6RXGMyvnm1o6PhakQg0TZKYd231",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100700",
+ "mood": "Inspirational",
+ "len": 218.65,
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "For Originz",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Strings"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "vid": "91624fdc22fc54ed",
+ "display_category": "",
+ "streamid": "4bWLOr9pN6hBVX3V9vgmX2afaeE-Aad37ykUbGpL9G_v3-kKX5KxJYj2EQ_MDPr5",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100174",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91624fdc22fc54ed",
+ "fp_ref_id": "91624fdc22fc54ed",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDADxIWChA5MTYyNGZkYzIyZmM1NGVkEAAYAg%3D%3D&sigh=a7y5I_lCz0iGjDgT1W4yhg",
+ "display_genre": "Jazz & Blues",
+ "len": 254.683,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Trumpet"
+ ],
+ "reference_vid": "91624fdc22fc54ed",
+ "title": "Long Stroll",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "display_mood": "Calm",
+ "popularity_percentile": 52
+}

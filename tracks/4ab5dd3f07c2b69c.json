@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "4ab5dd3f07c2b69c",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ab5dd3f07c2b69c",
+ "popularity_percentile": 95,
+ "vid": "4ab5dd3f07c2b69c",
+ "streamid": "mQVQ1jyFh2dxUjIuALt9aFJOsMoGVBJ9UhmwpDrVIX76rFWgnTGv4S-TwQRyRG0K",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLC3EhIWChA0YWI1ZGQzZjA3YzJiNjljEAAYAg%3D%3D&sigh=FvH9XK-bRXkwVAsNdyFkYQ",
+ "display_category": "",
+ "title": "Happy Bee",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Happy",
+ "display_genre": "Rock",
+ "reference_vid": "4ab5dd3f07c2b69c",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300014",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "len": 302.016,
+ "category": ""
+}

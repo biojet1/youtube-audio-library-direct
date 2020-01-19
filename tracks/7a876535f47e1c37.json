@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "title": "Feel The Funk",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Coyote Hearing",
+ "vid": "7a876535f47e1c37",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "reference_vid": "7a876535f47e1c37",
+ "track_url": "",
+ "streamid": "-qfBUAc2jlzpsNPwHSq74obm2kxX-X5S-Jiss2bjtI8xLHYh_g5QskCaisw1K7Nf",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a876535f47e1c37",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChA3YTg3NjUzNWY0N2UxYzM3EAAYAg%3D%3D&sigh=j_XQwqNrIy7rI7pBW7oxMA",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "7a876535f47e1c37",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 124.966,
+ "display_genre": "Dance & Electronic"
+}

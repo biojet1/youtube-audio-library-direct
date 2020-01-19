@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e9b8acb35cd6a2f1",
+ "category": "",
+ "title": "Green Leaf Stomp",
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "genre": "Country & Folk",
+ "display_mood": "Calm",
+ "streamid": "-0BWahYqWrrAqIUAlKyrxoGPI6osvCsqk5wxAP38PjK8Bo7qAbjGE8cjOc3XGU-J",
+ "album": "None",
+ "len": 75.383,
+ "artist": "Jingle Punks",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e9b8acb35cd6a2f1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjJBBIWChBlOWI4YWNiMzVjZDZhMmYxEAAYAg%3D%3D&sigh=Gro86E6QEBZszKKUOeSnDw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e9b8acb35cd6a2f1",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "e9b8acb35cd6a2f1",
+ "license_type": 0,
+ "track_url": ""
+}

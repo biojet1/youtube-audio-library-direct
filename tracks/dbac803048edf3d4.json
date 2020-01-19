@@ -1,0 +1,30 @@
+{
+ "artist": "Quincas Moreira",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dbac803048edf3d4",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIjcGBIWChBkYmFjODAzMDQ4ZWRmM2Q0EAAYAg%3D%3D&sigh=6sWkDxvCqzyxqIN0WvBn3w",
+ "genre": "Cinematic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "album": "None",
+ "track_url": "",
+ "len": 405,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "vid": "dbac803048edf3d4",
+ "streamid": "6AIaggPHcbEn1TnKnZKgBCIUfFFqze_yHMXXLZpeO2S8OuPdw48EvGrerHllTILZ",
+ "title": "Hostile Planet",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "mood": "Dark",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "reference_vid": "dbac803048edf3d4",
+ "instruments": [
+  "percussion",
+  "synth"
+ ],
+ "fp_ref_id": "dbac803048edf3d4",
+ "license_type": 1
+}

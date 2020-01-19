@@ -1,0 +1,29 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?collection=004&page=1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9fe06a2f01011614",
+ "downloadable": true,
+ "reference_vid": "9fe06a2f01011614",
+ "mood": "Bright",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "len": 244.05,
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDyDhIWChA5ZmUwNmEyZjAxMDExNjE0EAAYAg%3D%3D&sigh=tfzNpUacK_ab_yXelzwC6g",
+ "streamid": "7OhyxvUy1ocP3DiwmHvo6FOTe8PA2-wNt7aKnaFdvXDDapziOJTnFOESyVyIwcNc",
+ "genre": "Holiday",
+ "display_category": "",
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Holiday",
+ "vid": "9fe06a2f01011614",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 87,
+ "fp_ref_id": "9fe06a2f01011614",
+ "category": "",
+ "title": "Angels We Have Heard",
+ "album": "None"
+}

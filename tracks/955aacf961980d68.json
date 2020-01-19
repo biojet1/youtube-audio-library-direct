@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChA5NTVhYWNmOTYxOTgwZDY4EAAYAg%3D%3D&sigh=Zw-buMUKKCDg7NVksQmLpw",
+ "genre": "Holiday",
+ "streamid": "0XQcX73ErejFZQLcdwXU1ACGMv3DFVBu9-Dabot04k39MPTvoOW_6RiSLBg70ZkN",
+ "display_category": "",
+ "display_mood": "Bright",
+ "vid": "955aacf961980d68",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=955aacf961980d68",
+ "fp_ref_id": "955aacf961980d68",
+ "reference_vid": "955aacf961980d68",
+ "mood": "Bright",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Strings"
+ ],
+ "len": 114.383,
+ "popularity_percentile": 77,
+ "artist": "Audionautix",
+ "category": "",
+ "track_url": "",
+ "title": "I Saw Three Ships",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Holiday"
+}

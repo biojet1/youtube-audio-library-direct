@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 182.15,
+ "fp_ref_id": "7c29819f6559a1c7",
+ "artist_url": "",
+ "streamid": "wsVULVfNkoCdsO7JvUVax_XeUH_0gTQi_w1NqpU9OynVJodrUUXL593C_7HJJOUN",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "popularity_percentile": 49,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Angry",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c29819f6559a1c7",
+ "mood": "Angry",
+ "artist": "Topher Mohr and Alex Elena",
+ "display_genre": "Rock",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChA3YzI5ODE5ZjY1NTlhMWM3EAAYAg%3D%3D&sigh=3oapmwVLhMzDfes255CPRw",
+ "title": "Motocross",
+ "reference_vid": "7c29819f6559a1c7",
+ "vid": "7c29819f6559a1c7"
+}

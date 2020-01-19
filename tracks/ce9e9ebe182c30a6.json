@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 177.25,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChBjZTllOWViZTE4MmMzMGE2EAAYAg%3D%3D&sigh=5PNZ6MV3Kfj06fSq8SIPug",
+ "genre": "Alternative & Punk",
+ "streamid": "qiVSJ6dXF5M_SUa7_lWslYi_o8IO3XYLvcFw4Vcc0FuW66wsHMI10UvVBcSY6v2U",
+ "downloadable": true,
+ "fp_ref_id": "ce9e9ebe182c30a6",
+ "vid": "ce9e9ebe182c30a6",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Alternative & Punk",
+ "popularity_percentile": 60,
+ "artist_channel_url": null,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ce9e9ebe182c30a6",
+ "category": "",
+ "reference_vid": "ce9e9ebe182c30a6",
+ "title": "Radio Rock",
+ "artist": "Audionautix",
+ "track_url": ""
+}

@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "63b87efb412c44b7",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "title": "Batty McFaddin - Silent Film Light",
+ "vid": "63b87efb412c44b7",
+ "mood": "Dramatic",
+ "display_genre": "Classical",
+ "len": 200.583,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChA2M2I4N2VmYjQxMmM0NGI3EAAYAg%3D%3D&sigh=bsZWJ7jg6FpWsVg5ZpHWtQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=63b87efb412c44b7",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200003",
+ "streamid": "6ZnqSUuIO7isziI_wXXlBhmnnWFsjR96vZ7FjAiq_6vPWdsfMS1X0o-2_8Id7T9O",
+ "reference_vid": "63b87efb412c44b7",
+ "instruments": [
+  "Piano"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Classical",
+ "artist_url": "http://incompetech.com/"
+}

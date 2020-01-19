@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChAzZTJhMDU4ZmFmMmVkYmFkEAAYAg%3D%3D&sigh=V4MsIYlWIJF3mz3preY0QA",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Bass",
+  "Piano"
+ ],
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "3e2a058faf2edbad",
+ "reference_vid": "3e2a058faf2edbad",
+ "genre": "R&B & Soul",
+ "popularity_percentile": 24,
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "track_url": "",
+ "title": "Switch It Up",
+ "downloadable": true,
+ "category": "",
+ "streamid": "ITEzIXu0Zo6lsS-Wp7VAZoOV3TY3w6UQl2AnFFBiCtOahc3NeuENLujI0VCReLHw",
+ "fp_ref_id": "3e2a058faf2edbad",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3e2a058faf2edbad",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Funky",
+ "len": 91.4
+}

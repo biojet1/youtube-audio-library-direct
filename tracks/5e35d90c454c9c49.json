@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "5e35d90c454c9c49",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5e35d90c454c9c49",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChA1ZTM1ZDkwYzQ1NGM5YzQ5EAAYAg%3D%3D&sigh=vzWnH9PY1gECtOeFkKHU_A",
+ "is_new_track": false,
+ "reference_vid": "5e35d90c454c9c49",
+ "display_mood": "Bright",
+ "favorite": false,
+ "category": "",
+ "title": "City By Night",
+ "streamid": "fedkYmJEHDMdIgnz6lxL5_9ukDjEtKeLcS9_fk3PwtcXAk0UzqNvZTH8l9-amoWA",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "len": 176,
+ "album": "None",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "ELPHNT",
+ "instruments": [
+  "electric guitar",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "fp_ref_id": "5e35d90c454c9c49"
+}

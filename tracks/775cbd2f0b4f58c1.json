@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "album": "None",
+ "streamid": "pZ_u3ALGf1Cusl3Y3L34nz98lCiXddrHhewGb8itt-GGyuydp6Tmsev_b991jkbF",
+ "title": "Kaiser Friedrich",
+ "display_genre": "Classical",
+ "vid": "775cbd2f0b4f58c1",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "775cbd2f0b4f58c1",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 1,
+ "fp_ref_id": "775cbd2f0b4f58c1",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "United States Marine Band",
+ "len": 126.683,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA3NzVjYmQyZjBiNGY1OGMxEAAYAg%3D%3D&sigh=86V3h-rzO3WJTh1g3Qcb2w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=775cbd2f0b4f58c1"
+}

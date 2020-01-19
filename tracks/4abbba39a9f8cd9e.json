@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4abbba39a9f8cd9e",
+ "display_category": "",
+ "fp_ref_id": "4abbba39a9f8cd9e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4abbba39a9f8cd9e",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Dramatic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChA0YWJiYmEzOWE5ZjhjZDllEAAYAg%3D%3D&sigh=T9jCUMI1MyGrKKg_BlqGKw",
+ "streamid": "ZW5Yb0qjptvmN7J7cxcY3ViGDYk-wmP-3OjVmh6AvBwXHr41fi3df1MzD4pfH3lu",
+ "genre": "Dance & Electronic",
+ "vid": "4abbba39a9f8cd9e",
+ "artist": "Silent Partner",
+ "display_genre": "Dance & Electronic",
+ "title": "Big Cars",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 172.666,
+ "display_mood": "Dramatic",
+ "downloadable": true
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ca892c5dc612c24c",
+ "fp_ref_id": "ca892c5dc612c24c",
+ "len": 124.566,
+ "artist": "Text Me Records / Social Work",
+ "mood": "Dark",
+ "reference_vid": "ca892c5dc612c24c",
+ "vid": "ca892c5dc612c24c",
+ "title": "Sizzle",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Synths",
+  "Strings",
+  "Drums"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCOQyfUmWPaf5uA40I0Zrn2A",
+ "streamid": "Ps8eQNUeo5GdGBLMZOTGFBa2dvlF1XpTNZJAK8OC2XJ8i8THGHIb20zYR_DbE3Ft",
+ "display_genre": "Hip Hop & Rap",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChBjYTg5MmM1ZGM2MTJjMjRjEAAYAg%3D%3D&sigh=J2TD3Ky_vp2MLvAqkFUVzw"
+}

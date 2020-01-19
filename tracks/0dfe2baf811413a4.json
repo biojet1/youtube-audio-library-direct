@@ -1,0 +1,30 @@
+{
+ "display_mood": "Sad",
+ "genre": "Classical",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "1gwj33NbnmCqgHlEN848W7xxqfTEXZO1M75tFc6Vj-C65w8cl372qrH4HAbc4Fqt",
+ "title": "Journey in the New World",
+ "display_genre": "Classical",
+ "vid": "0dfe2baf811413a4",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://www.twinmusicom.org",
+ "reference_vid": "0dfe2baf811413a4",
+ "track_url": "http://www.twinmusicom.org/song/258/journey-in-the-new-world",
+ "is_new_track": false,
+ "mood": "Sad",
+ "license_type": 6,
+ "fp_ref_id": "0dfe2baf811413a4",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Twin Musicom",
+ "len": 144.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChAwZGZlMmJhZjgxMTQxM2E0EAAYAg%3D%3D&sigh=WnhAGqyiYME7FWK5ry0Qlw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0dfe2baf811413a4"
+}

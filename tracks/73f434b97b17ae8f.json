@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "streamid": "nU1u1j8G243OMuEIS7hGciUJ5XnQOxxJFTXgx50UbtSVvfuNvVeatfqvIHd0Dg2L",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73f434b97b17ae8f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChA3M2Y0MzRiOTdiMTdhZThmEAAYAg%3D%3D&sigh=bYOh92FyQ-xlbvOmaD6-7A",
+ "vid": "73f434b97b17ae8f",
+ "display_category": "",
+ "title": "River Meditation",
+ "album": "None",
+ "mood": "Bright",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Audionautix",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "reference_vid": "73f434b97b17ae8f",
+ "len": 167.083,
+ "genre": "Country & Folk",
+ "popularity_percentile": 33,
+ "fp_ref_id": "73f434b97b17ae8f",
+ "track_url": "",
+ "display_genre": "Country & Folk",
+ "license_type": 6,
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano",
+  "Bass",
+  "Drums"
+ ]
+}

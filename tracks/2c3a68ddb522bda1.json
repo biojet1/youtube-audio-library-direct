@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 121.683,
+ "reference_vid": "2c3a68ddb522bda1",
+ "display_genre": "Pop",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c3a68ddb522bda1",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAyYzNhNjhkZGI1MjJiZGExEAAYAg%3D%3D&sigh=SH59zV6IXwA7RWcj-Z6yQg",
+ "display_mood": "Happy",
+ "fp_ref_id": "2c3a68ddb522bda1",
+ "track_url": "",
+ "genre": "Pop",
+ "vid": "2c3a68ddb522bda1",
+ "artist_channel_url": null,
+ "streamid": "n57HdzuW4uaTb--t-9njA7mjUu8Lup-t-zxBp92GtmBx5VQFXWmIuWxT4pHJUhy2",
+ "license_type": 0,
+ "title": "Beach Front Property",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "mood": "Happy"
+}

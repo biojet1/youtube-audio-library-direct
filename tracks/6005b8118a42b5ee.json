@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "3r0wd4N7hGcP_xXTF-KOV1KW0AWVMzvX7Scimd3DrKjtkjZ-GiANRAG5aEgD0vwh",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChA2MDA1YjgxMThhNDJiNWVlEAAYAg%3D%3D&sigh=qY39kYDxM-k811w64KVkkQ",
+ "album": "None",
+ "artist": "Ethan Meixsell",
+ "mood": "Bright",
+ "len": 167.783,
+ "reference_vid": "6005b8118a42b5ee",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "vid": "6005b8118a42b5ee",
+ "title": "Takeoff",
+ "fp_ref_id": "6005b8118a42b5ee",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6005b8118a42b5ee",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Rock"
+}

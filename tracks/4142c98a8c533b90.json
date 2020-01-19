@@ -1,0 +1,32 @@
+{
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "len": 93.05,
+ "display_category": "",
+ "reference_vid": "4142c98a8c533b90",
+ "popularity_percentile": 25,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Jingle Punks",
+ "fp_ref_id": "4142c98a8c533b90",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "cP2Zj3Q99E8vxhdEuEohw3928-vhlGtg6zI6W4cp1Ori_96_qG2TsMajKn4EagAU",
+ "display_mood": "Happy",
+ "vid": "4142c98a8c533b90",
+ "track_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Organ"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChA0MTQyYzk4YThjNTMzYjkwEAAYAg%3D%3D&sigh=GfZNOlhSAk-UB5Mq1k_OOA",
+ "category": "",
+ "title": "Killing With Kindness",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4142c98a8c533b90"
+}

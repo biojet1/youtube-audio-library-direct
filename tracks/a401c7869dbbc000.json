@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Organs",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "Qtomjji1uUi0h2l05JIX95JXX8W9uGf1LBZXENkgt-XW3K_II2MmOcS90Eit6-Nx",
+ "len": 190.75,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a401c7869dbbc000",
+ "category": "",
+ "is_new_track": false,
+ "vid": "a401c7869dbbc000",
+ "display_genre": "Reggae",
+ "reference_vid": "a401c7869dbbc000",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChBhNDAxYzc4NjlkYmJjMDAwEAAYAg%3D%3D&sigh=BGfVgSKwPJMC77xkZDYBZQ",
+ "display_mood": "Bright",
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400001",
+ "title": "Gonna Start (Version 1)",
+ "genre": "Reggae",
+ "fp_ref_id": "a401c7869dbbc000",
+ "mood": "Bright",
+ "artist": "Kevin MacLeod",
+ "favorite": false
+}

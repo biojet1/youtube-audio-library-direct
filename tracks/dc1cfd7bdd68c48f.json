@@ -1,0 +1,31 @@
+{
+ "display_genre": "R&B & Soul",
+ "vid": "dc1cfd7bdd68c48f",
+ "title": "90 Seconds of Funk",
+ "mood": "Funky",
+ "reference_vid": "dc1cfd7bdd68c48f",
+ "popularity_percentile": 46,
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "len": 91.816,
+ "fp_ref_id": "dc1cfd7bdd68c48f",
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "streamid": "RWuEnPrlCypWVoh84nZgFUmoiq5GCytqjVt1Lq1ARsk7QH2JZPItKVp8Mz_aoLGF",
+ "display_mood": "Funky",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dc1cfd7bdd68c48f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChBkYzFjZmQ3YmRkNjhjNDhmEAAYAg%3D%3D&sigh=ExMq97sAfuk6nK2AWWkJTg",
+ "genre": "R&B & Soul"
+}

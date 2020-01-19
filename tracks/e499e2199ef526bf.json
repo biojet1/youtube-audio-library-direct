@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100634",
+ "downloadable": true,
+ "streamid": "Kjr9N6xcOK8X9dPGF-_gZkP3CNDdq39HMNrjMbS2xAymQM1YTzKePxwtJzpaMEFN",
+ "len": 283.483,
+ "category": "",
+ "license_type": 6,
+ "title": "Hypnothis",
+ "genre": "Ambient",
+ "display_category": "",
+ "vid": "e499e2199ef526bf",
+ "album": "None",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "display_genre": "Ambient",
+ "display_mood": "Calm",
+ "fp_ref_id": "e499e2199ef526bf",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e499e2199ef526bf",
+ "instruments": [
+  "Synth"
+ ],
+ "reference_vid": "e499e2199ef526bf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiiERIWChBlNDk5ZTIxOTllZjUyNmJmEAAYAg%3D%3D&sigh=iRDJ-hcAoyx-sx0ydGWM3w",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 56
+}

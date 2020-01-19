@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChA0MTdiYTVkZDg2MjA2ZmYyEAAYAg%3D%3D&sigh=6cDcIA04s-HQ7lMxmG8udw",
+ "instruments": [
+  "drums",
+  "bass",
+  "acoustic guitar",
+  "synth",
+  "piano"
+ ],
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "417ba5dd86206ff2",
+ "reference_vid": "417ba5dd86206ff2",
+ "genre": "Hip Hop & Rap",
+ "popularity_percentile": 25,
+ "display_genre": "Hip Hop & Rap",
+ "favorite": false,
+ "track_url": "",
+ "title": "Reclamation",
+ "downloadable": true,
+ "category": "",
+ "streamid": "8BO0AgHVsnLQXvReIYbHrjgaak9B-SFyts-plJDyekpE1c-Kw_P_2AMw__DkhTaZ",
+ "fp_ref_id": "417ba5dd86206ff2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=417ba5dd86206ff2",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Funky",
+ "len": 177.916
+}

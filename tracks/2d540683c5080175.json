@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "2d540683c5080175",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2d540683c5080175",
+ "fp_ref_id": "2d540683c5080175",
+ "genre": "Jazz & Blues",
+ "album": "None",
+ "title": "Totally Looped",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "track_url": "",
+ "display_mood": "Funky",
+ "streamid": "rH9vO_0KR2CTBUkp9DJ2w4ythYhFMHqEZZPDyDxJOcsE-Rq8aG2xaaLOVhg_ir78",
+ "artist": "Audionautix",
+ "mood": "Funky",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "2d540683c5080175",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAyZDU0MDY4M2M1MDgwMTc1EAAYAg%3D%3D&sigh=3JNoBPMhHDbRLUzs85B6oA",
+ "display_category": "",
+ "len": 122.983,
+ "display_genre": "Jazz & Blues"
+}

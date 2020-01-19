@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UC2lHxFyHL96NPhdU9XyXnPQ?internalcountrycode=US",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChA0OGE0OGNmYzdiZGJlNmQ4EAAYAg%3D%3D&sigh=cDT12-I6P5palqr7prviTQ",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "48a48cfc7bdbe6d8",
+ "downloadable": true,
+ "reference_vid": "48a48cfc7bdbe6d8",
+ "favorite": false,
+ "fp_ref_id": "48a48cfc7bdbe6d8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48a48cfc7bdbe6d8",
+ "genre": "Children's",
+ "streamid": "OjdKfoXYcuee0eCTMGV--eT4r0_myel539Qrk-hEigGsbr9LmSM0eG8IluSIgmWB",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Happy",
+ "len": 112,
+ "display_genre": "Children's",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "(I've Got A) Baby Sister",
+ "artist": "Reed Mathis",
+ "category": "",
+ "artist_channel_url": "/channel/UC2lHxFyHL96NPhdU9XyXnPQ",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar",
+  "bass",
+  "piano",
+  "electric piano"
+ ]
+}

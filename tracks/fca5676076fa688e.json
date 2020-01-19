@@ -1,0 +1,32 @@
+{
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChBmY2E1Njc2MDc2ZmE2ODhlEAAYAg%3D%3D&sigh=7CTDnJFkmvIPPt9zFmJJhw",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fca5676076fa688e",
+ "reference_vid": "fca5676076fa688e",
+ "popularity_percentile": 99,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fca5676076fa688e",
+ "mood": "Bright",
+ "genre": "Pop",
+ "streamid": "jwmXa7KbaWGEUrGZs_MdQbYKEGmaNxqCoNkvt6vq3CBgTUIFZtiXcIbYhyjCDFUC",
+ "title": "How it Began",
+ "downloadable": true,
+ "category": "",
+ "len": 182.416,
+ "artist_url": "",
+ "display_genre": "Pop",
+ "fp_ref_id": "fca5676076fa688e",
+ "album": "None"
+}

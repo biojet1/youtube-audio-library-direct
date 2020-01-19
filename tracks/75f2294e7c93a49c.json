@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=75f2294e7c93a49c",
+ "fp_ref_id": "75f2294e7c93a49c",
+ "len": 95.7,
+ "artist": "Text Me Records",
+ "mood": "Bright",
+ "reference_vid": "75f2294e7c93a49c",
+ "vid": "75f2294e7c93a49c",
+ "title": "Sunny Side",
+ "downloadable": true,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Guitar",
+  "Drums",
+  "Piano"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "streamid": "tk7dCCfTA4-mLTHBmFgtNPRaHHZeHrH7sNflFdEapJpQWtROCPJSjm47bTXDsk0f",
+ "display_genre": "R&B & Soul",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChA3NWYyMjk0ZTdjOTNhNDljEAAYAg%3D%3D&sigh=EFFmz6-WFiB2F0EnIjm0Hg"
+}

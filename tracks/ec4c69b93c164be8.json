@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCqjAXHR5DHTCahIHpg7vspg",
+ "artist_channel_url": "/channel/UCqjAXHR5DHTCahIHpg7vspg",
+ "favorite": false,
+ "reference_vid": "ec4c69b93c164be8",
+ "category": "",
+ "title": "Forthcoming Dance",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "genre": "Dance & Electronic",
+ "display_mood": "Dark",
+ "streamid": "wu481OlkKiIHrUDG6wwiYD7zhHboS2KKMbm-c9D71i-Km9xX1OsO4yix7fyPveX1",
+ "album": "None",
+ "len": 180,
+ "artist": "JAde Wii",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ec4c69b93c164be8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChBlYzRjNjliOTNjMTY0YmU4EAAYAg%3D%3D&sigh=9drDMcsRb_ANSdN_Nr-VnA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "ec4c69b93c164be8",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "ec4c69b93c164be8",
+ "license_type": 1,
+ "track_url": ""
+}

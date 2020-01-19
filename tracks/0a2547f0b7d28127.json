@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Synth"
+ ],
+ "len": 80.716,
+ "fp_ref_id": "0a2547f0b7d28127",
+ "streamid": "WjR5Mkhzk2BN6uOunXBZf1B2-cPUV1OGZRSMg7V3ndH-HQiLUtvqrWTqO582i7eS",
+ "artist_url": "http://audionautix.com/",
+ "category": "",
+ "genre": "Ambient",
+ "popularity_percentile": 64,
+ "vid": "0a2547f0b7d28127",
+ "display_genre": "Ambient",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a2547f0b7d28127",
+ "album": "None",
+ "title": "Beginning",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDxBBIWChAwYTI1NDdmMGI3ZDI4MTI3EAAYAg%3D%3D&sigh=9aCR2-apMk3N29di811mpw",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "artist": "Audionautix",
+ "display_category": "",
+ "mood": "Dark",
+ "is_new_track": false,
+ "reference_vid": "0a2547f0b7d28127",
+ "track_url": "",
+ "license_type": 6
+}

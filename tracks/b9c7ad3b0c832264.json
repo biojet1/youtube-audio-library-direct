@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Bright",
+ "genre": "Alternative & Punk",
+ "streamid": "cbwO0M6NiNPA91sQFix0L5nBJ1PC4qQ6geSwSwhIf1AXmkchKhLXJeddYw4WteCu",
+ "fp_ref_id": "b9c7ad3b0c832264",
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBiOWM3YWQzYjBjODMyMjY0EAAYAg%3D%3D&sigh=QmhAC0WGLHiARdoEib3XLw",
+ "mood": "Bright",
+ "vid": "b9c7ad3b0c832264",
+ "display_genre": "Alternative & Punk",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b9c7ad3b0c832264",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "b9c7ad3b0c832264",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 126.95,
+ "category": "",
+ "title": "Periscope"
+}

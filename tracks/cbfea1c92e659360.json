@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "cbfea1c92e659360",
+ "category": "",
+ "license_type": 6,
+ "title": "Alien Sunset",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "display_mood": "Dark",
+ "album": "None",
+ "streamid": "VtAevWxtxhd7C7IyUZoMh_k2i5Et7Q0Gp_CqfM1X93qRFnLsQ-zvfdUMRNe8P73V",
+ "len": 116.25,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cbfea1c92e659360",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBjYmZlYTFjOTJlNjU5MzYwEAAYAg%3D%3D&sigh=zZSYUFHVk1eZmZx4-zP2xQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "cbfea1c92e659360",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "cbfea1c92e659360",
+ "track_url": ""
+}

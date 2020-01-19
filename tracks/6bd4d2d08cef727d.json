@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 110,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "fp_ref_id": "6bd4d2d08cef727d",
+ "reference_vid": "6bd4d2d08cef727d",
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "license_type": 1,
+ "streamid": "yvimPJfnkS551EF5F7OFabIR6OGjaVWkhznQwOxTuXSPla3rgGMAw8G7OQROVY95",
+ "vid": "6bd4d2d08cef727d",
+ "mood": "Dramatic",
+ "artist": "The Whole Other",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA2YmQ0ZDJkMDhjZWY3MjdkEAAYAg%3D%3D&sigh=9AGouj4112eGVsoha9eKYw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6bd4d2d08cef727d",
+ "category": "",
+ "title": "A Guy Walks Into a Bar",
+ "genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Keyboards",
+  "Banjo"
+ ]
+}

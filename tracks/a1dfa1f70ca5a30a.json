@@ -1,0 +1,29 @@
+{
+ "streamid": "4Rx0wlwvMdwN9DVRVVFD5QwExblAMX-n1EjPp9KbwcNJS7dpLwF93pO6nSsgMQSH",
+ "genre": "Classical",
+ "fp_ref_id": "a1dfa1f70ca5a30a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a1dfa1f70ca5a30a",
+ "favorite": false,
+ "reference_vid": "a1dfa1f70ca5a30a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100192",
+ "album": "None",
+ "display_mood": "Bright",
+ "display_category": "",
+ "vid": "a1dfa1f70ca5a30a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChBhMWRmYTFmNzBjYTVhMzBhEAAYAg%3D%3D&sigh=DVbyybtCUG6TVZj2dlAsew",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "title": "Ishikari Lore",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 6,
+ "display_genre": "Classical",
+ "mood": "Bright",
+ "len": 164.083,
+ "popularity_percentile": 81
+}

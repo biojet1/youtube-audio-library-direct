@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "e537402953ce3cb3",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "The Tower of Light",
+ "vid": "e537402953ce3cb3",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChBlNTM3NDAyOTUzY2UzY2IzEAAYAg%3D%3D&sigh=RBHYMjBA3uicm_aNkI7CnQ",
+ "category": "",
+ "genre": "Cinematic",
+ "display_mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Flecks of Light",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e537402953ce3cb3",
+ "reference_vid": "e537402953ce3cb3",
+ "mood": "Calm",
+ "streamid": "zN-1jslwFma5V-Y5N7vYJLARa-BfnPPhu1plzKBeaRjriEWb-jWJzGwZ40IvpT0b",
+ "track_url": "",
+ "album": "None",
+ "len": 166,
+ "instruments": [
+  "synth",
+  "electric guitar"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Cinematic"
+}

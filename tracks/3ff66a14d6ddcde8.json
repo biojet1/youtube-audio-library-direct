@@ -1,0 +1,31 @@
+{
+ "genre": "Rock",
+ "display_category": "",
+ "len": 129.015,
+ "track_url": "",
+ "fp_ref_id": "3ff66a14d6ddcde8",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "qHIk2dXbPGcsytJVPqXQf-FPML8OT5HzBvh7NF76Wx5K-yXJZXw_kzbkGcEHd_iZ",
+ "title": "Bustin Loose (with lead)",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ff66a14d6ddcde8",
+ "display_mood": "Angry",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "3ff66a14d6ddcde8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChAzZmY2NmExNGQ2ZGRjZGU4EAAYAg%3D%3D&sigh=HX0mbykyxBCZkoY9ORBVBQ",
+ "vid": "3ff66a14d6ddcde8",
+ "display_genre": "Rock",
+ "license_type": 6,
+ "mood": "Angry",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

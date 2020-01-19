@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 9,
+ "license_type": 1,
+ "vid": "15188f874b11ef21",
+ "fp_ref_id": "15188f874b11ef21",
+ "album": "None",
+ "streamid": "WmqcbA6AQpbOam9Rp4RtvKNGwI4nfk2P4OTBCa4Tg5dN27Wh1i-DscdiZh1L3Q3v",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "artist": "United States Marine Band",
+ "display_mood": "Romantic",
+ "mood": "Romantic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=15188f874b11ef21",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiGEBIWChAxNTE4OGY4NzRiMTFlZjIxEAAYAg%3D%3D&sigh=m_2U9MtX6AJsDzQUgfJ7hg",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 263.016,
+ "reference_vid": "15188f874b11ef21",
+ "title": "Manila",
+ "favorite": false,
+ "track_url": ""
+}

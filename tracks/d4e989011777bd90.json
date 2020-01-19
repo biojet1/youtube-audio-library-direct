@@ -1,0 +1,30 @@
+{
+ "display_genre": "Holiday",
+ "streamid": "MuiLDsPlPlUWJ43TjajkGIAynTqKvB7HXH43TQfzsaCtH3KfmR2buC6G01qO62wh",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "d4e989011777bd90",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "d4e989011777bd90",
+ "genre": "Holiday",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBkNGU5ODkwMTE3NzdiZDkwEAAYAg%3D%3D&sigh=vqnZkreNG3ecFo7dJoTtCg",
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d4e989011777bd90",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "artist": "Audionautix",
+ "mood": "Calm",
+ "title": "Hark The Herald Angels Sing",
+ "len": 109.016,
+ "vid": "d4e989011777bd90",
+ "track_url": ""
+}

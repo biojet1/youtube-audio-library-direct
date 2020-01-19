@@ -1,0 +1,31 @@
+{
+ "display_genre": "Rock",
+ "license_type": 1,
+ "genre": "Rock",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "vid": "f985350fecd2c9e5",
+ "artist": "Dan Lebowitz",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f985350fecd2c9e5",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "album": "None",
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChBmOTg1MzUwZmVjZDJjOWU1EAAYAg%3D%3D&sigh=FmimLo4IRHiGueQ2Pbj8Mw",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Funky",
+ "title": "How We Like It",
+ "reference_vid": "f985350fecd2c9e5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f985350fecd2c9e5",
+ "track_url": "",
+ "len": 122,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "Uzxg4giXhiES_ir-QuId5s9zdaHD8gCVAR-K2r4K2DQHZYQeVbCxFz7EDtMZOQUE"
+}

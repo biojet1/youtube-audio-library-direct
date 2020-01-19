@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "910ca65653fce9da",
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "910ca65653fce9da",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "display_genre": "Pop",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=910ca65653fce9da",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChA5MTBjYTY1NjUzZmNlOWRhEAAYAg%3D%3D&sigh=UuCsKHvJjeCnBOw1QjpSkw",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "910ca65653fce9da",
+ "len": 172,
+ "mood": "Dark",
+ "streamid": "zafl_xwt73wY9jGygOTrhmB_vo4s2gSFrgA5W1AniuLCzaCCsWo9KA2wFXobEjPt",
+ "artist": "Patrick Patrikios",
+ "is_new_track": false,
+ "title": "One Life",
+ "genre": "Pop",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

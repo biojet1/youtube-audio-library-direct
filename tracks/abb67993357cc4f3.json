@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 48,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "abb67993357cc4f3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=abb67993357cc4f3",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "is_new_track": false,
+ "reference_vid": "abb67993357cc4f3",
+ "len": 213.483,
+ "display_mood": "Funky",
+ "streamid": "EO6bXtPbU9y4mR96_Hw6rsRkuQ-nJFv--WztEEVxHuFTP28X6rXynfrmz3tojj_k",
+ "display_genre": "R&B & Soul",
+ "title": "Cool Ride",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 6,
+ "genre": "R&B & Soul",
+ "vid": "abb67993357cc4f3",
+ "artist": "Audionautix",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChBhYmI2Nzk5MzM1N2NjNGYzEAAYAg%3D%3D&sigh=5Bmq09F5HfFC0l-lMHqrCQ"
+}

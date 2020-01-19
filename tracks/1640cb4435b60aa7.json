@@ -1,0 +1,31 @@
+{
+ "mood": "Happy",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChAxNjQwY2I0NDM1YjYwYWE3EAAYAg%3D%3D&sigh=8sSQTQ_KxSUkYATgggWatg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "category": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Guitar"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "1640cb4435b60aa7",
+ "is_new_track": false,
+ "len": 179,
+ "genre": "Rock",
+ "reference_vid": "1640cb4435b60aa7",
+ "downloadable": true,
+ "streamid": "by-Flq3V50x6VEQg9swz6N6cfX0hDg92yMCrABrZ2eGJfeZq1WX9i6eZYz4VlabY",
+ "track_url": "",
+ "vid": "1640cb4435b60aa7",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1640cb4435b60aa7",
+ "artist_url": "",
+ "license_type": 1,
+ "title": "Telepathic Drive",
+ "artist": "Unicorn Heads"
+}

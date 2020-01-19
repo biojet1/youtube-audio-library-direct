@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist": "U.S. Army Band",
+ "is_new_track": false,
+ "fp_ref_id": "91e0ad91126abc4b",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "title": "1812 Overture",
+ "vid": "91e0ad91126abc4b",
+ "mood": "Inspirational",
+ "display_genre": "Classical",
+ "len": 247.55,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiJDxIWChA5MWUwYWQ5MTEyNmFiYzRiEAAYAg%3D%3D&sigh=OFAXkarC6-JkWW7N0nrI5w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91e0ad91126abc4b",
+ "display_category": "",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "streamid": "eDbb421Kef8rzaNxQDtTyRViehETnyCX-tiNq9y862oCdMsXaYY1C0CCrWdBpqxB",
+ "reference_vid": "91e0ad91126abc4b",
+ "instruments": [
+  "Strings",
+  "Trumpet"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Classical",
+ "artist_url": ""
+}

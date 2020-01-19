@@ -1,0 +1,33 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "mood": "Dark",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChBiNzFjODAwZWMwNzVkNjUzEAAYAg%3D%3D&sigh=pwJX7pWh5sf_RjkJ8xa11Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b71c800ec075d653",
+ "track_url": "",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "b71c800ec075d653",
+ "fp_ref_id": "b71c800ec075d653",
+ "category": "",
+ "title": "Essence 2",
+ "reference_vid": "b71c800ec075d653",
+ "artist": "Audionautix",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Strings",
+  "Bass",
+  "Drum"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "pAKxYk_Cjc9dRC8xSDJQgFYd4-LEHs7-2iLcHQBXbdUXLV9DhAy2imKpc_BeQ-zh",
+ "len": 228.516,
+ "license_type": 6,
+ "is_new_track": false
+}

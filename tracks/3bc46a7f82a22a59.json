@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "reference_vid": "3bc46a7f82a22a59",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "eyixzR7TGELgihr7-74uDHxGpk8clEjicrYU2NdIbCMUn48_wQj5PKLNhXBU4_rR",
+ "display_mood": "Romantic",
+ "genre": "Classical",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Strings"
+ ],
+ "display_genre": "Classical",
+ "title": "Road to Moscow",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "3bc46a7f82a22a59",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi6BBIWChAzYmM0NmE3ZjgyYTIyYTU5EAAYAg%3D%3D&sigh=-DIkTzkHYwHgLoUrw-m01w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3bc46a7f82a22a59",
+ "artist": "Jingle Punks",
+ "len": 73.85,
+ "track_url": "",
+ "fp_ref_id": "3bc46a7f82a22a59",
+ "mood": "Romantic",
+ "is_new_track": false,
+ "popularity_percentile": 23,
+ "display_category": ""
+}

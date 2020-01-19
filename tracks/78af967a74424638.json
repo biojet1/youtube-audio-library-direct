@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "78af967a74424638",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=78af967a74424638",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "78af967a74424638",
+ "len": 214.416,
+ "display_mood": "Funky",
+ "streamid": "33FXGPQAF7VRdSKijOuA4BuQdWSUbjWGUR0gWY1Nm3e5tTqEQtuecFbuy9UfKkop",
+ "display_genre": "Rock",
+ "title": "Without A Sound",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Rock",
+ "vid": "78af967a74424638",
+ "artist": "Letter Box",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCHDRIWChA3OGFmOTY3YTc0NDI0NjM4EAAYAg%3D%3D&sigh=FTMh9AaBEmzK4pNVMawW1g"
+}

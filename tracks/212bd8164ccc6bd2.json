@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "reference_vid": "212bd8164ccc6bd2",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=212bd8164ccc6bd2",
+ "fp_ref_id": "212bd8164ccc6bd2",
+ "mood": "Calm",
+ "album": "None",
+ "instruments": [
+  "Piano"
+ ],
+ "len": 105.35,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChAyMTJiZDgxNjRjY2M2YmQyEAAYAg%3D%3D&sigh=W5_cWXUX94tZov2Q_5bAVQ",
+ "streamid": "gfya8zO86KQhG-f228Zw0liS8mBJMn1UOz3M82Sw11pmnMU9yxsba62OdyO1UkJL",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 80,
+ "title": "Awaiting Return - Atlantean Twilight",
+ "display_category": "",
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "vid": "212bd8164ccc6bd2",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100318",
+ "genre": "Ambient",
+ "category": "",
+ "favorite": false
+}

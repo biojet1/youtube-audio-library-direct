@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc5ac6ea844b192f",
+ "fp_ref_id": "fc5ac6ea844b192f",
+ "len": 145.966,
+ "artist": "Text Me Records / Social Work",
+ "mood": "Funky",
+ "reference_vid": "fc5ac6ea844b192f",
+ "vid": "fc5ac6ea844b192f",
+ "title": "SK",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Bass",
+  "Synths",
+  "Horns",
+  "Drums"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCOQyfUmWPaf5uA40I0Zrn2A",
+ "streamid": "zg7BIX5-15CwPKPu2Mgj5ZNWSFRyQVzm9UBx_fIOAKVEmAvglshPSq_A7Ytpy9V4",
+ "display_genre": "Hip Hop & Rap",
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChBmYzVhYzZlYTg0NGIxOTJmEAAYAg%3D%3D&sigh=FPhZhvztz2gV1UOQL-GsHw"
+}

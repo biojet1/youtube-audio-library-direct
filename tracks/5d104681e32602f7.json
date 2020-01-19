@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC2DRIWChA1ZDEwNDY4MWUzMjYwMmY3EAAYAg%3D%3D&sigh=_gbTzV2Jg2pQfpalkx_szg",
+ "genre": "Dance & Electronic",
+ "streamid": "AWyaVFplUpHIsMhv8CqSNUcBxr5kVDsVUcpD6ToXuPQCfwDF080VS-QMwEbA5NG9",
+ "artist_channel_url": "/channel/UC3nT15TAAdpinCHmknJL2gw",
+ "display_category": "",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5d104681e32602f7",
+ "track_url": "",
+ "reference_vid": "5d104681e32602f7",
+ "artist_url": "https://www.youtube.com/channel/UC3nT15TAAdpinCHmknJL2gw",
+ "license_type": 1,
+ "fp_ref_id": "5d104681e32602f7",
+ "mood": "Bright",
+ "instruments": [
+  "piano",
+  "electric guitar",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "favorite": false,
+ "len": 220,
+ "category": "",
+ "popularity_percentile": 99,
+ "artist": "R.LUM.R",
+ "album": "None",
+ "title": "Numbers",
+ "is_new_track": false,
+ "vid": "5d104681e32602f7",
+ "display_genre": "Dance & Electronic"
+}

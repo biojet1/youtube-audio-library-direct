@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "49818ae737f2fd4a",
+ "display_category": "",
+ "fp_ref_id": "49818ae737f2fd4a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=49818ae737f2fd4a",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Bright",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA0OTgxOGFlNzM3ZjJmZDRhEAAYAg%3D%3D&sigh=SiCN05jex7Eiej4TuxUJTA",
+ "streamid": "OIlD4IFVyyGTGrFjadtyzF4wxQZM8zGGtaKzdbzenm22fms_gMVbshqk9mEGg2uf",
+ "genre": "Pop",
+ "vid": "49818ae737f2fd4a",
+ "artist": "Silent Partner",
+ "display_genre": "Pop",
+ "title": "Weekend In The City",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 163.283,
+ "display_mood": "Bright",
+ "downloadable": true
+}

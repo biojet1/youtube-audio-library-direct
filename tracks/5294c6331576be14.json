@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "LhOpWreFIEUp9XfNjI9xDd10pHbPpq78g1t5btXr-nZLu4GMPBf1av59LgVgJWYe",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5294c6331576be14",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChA1Mjk0YzYzMzE1NzZiZTE0EAAYAg%3D%3D&sigh=g-ksZPzEZ4mUgo0h5VL2_g",
+ "vid": "5294c6331576be14",
+ "display_category": "",
+ "title": "Passed",
+ "album": "None",
+ "mood": "Sad",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Riot",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Sad",
+ "reference_vid": "5294c6331576be14",
+ "len": 181.283,
+ "genre": "Ambient",
+ "popularity_percentile": 33,
+ "fp_ref_id": "5294c6331576be14",
+ "track_url": "",
+ "display_genre": "Ambient",
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ]
+}

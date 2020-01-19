@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "b77f2635084689f3",
+ "category": "",
+ "license_type": 6,
+ "title": "Chee Zee Cave - Video Classica",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Trumpet"
+ ],
+ "display_mood": "Dramatic",
+ "album": "None",
+ "streamid": "G_-LXfxcQJNAfuADkFA0AcjFjHwQ_Yj-xOj3SwzW5pw691KCE7eookzPe4pKcLPz",
+ "len": 231.783,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b77f2635084689f3",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiMDhIWChBiNzdmMjYzNTA4NDY4OWYzEAAYAg%3D%3D&sigh=PWmFB8_mPYiLiIKPEHg8yg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "b77f2635084689f3",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "b77f2635084689f3",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100685"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Calm",
+ "genre": "Rock",
+ "streamid": "jNtHYGm0FGSwG4puwwss-iXZg2zk2EkSk7KYMs0EO3U332Wxf5_0gobfQvAnJJl9",
+ "fp_ref_id": "8a8f6b079e1e4cd1",
+ "artist": "Letter Box",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDZDBIWChA4YThmNmIwNzllMWU0Y2QxEAAYAg%3D%3D&sigh=SKZlbZOYs58omnYSjtKkyg",
+ "mood": "Calm",
+ "vid": "8a8f6b079e1e4cd1",
+ "display_genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a8f6b079e1e4cd1",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "8a8f6b079e1e4cd1",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 208.216,
+ "category": "",
+ "title": "Tell The Angels"
+}

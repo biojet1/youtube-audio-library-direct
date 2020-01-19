@@ -1,0 +1,31 @@
+{
+ "genre": "Country & Folk",
+ "display_category": "",
+ "len": 134.116,
+ "track_url": "",
+ "fp_ref_id": "8628510e49112536",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "ftv8rSt7ffVZU709r4UoUnEI-6_uTq1z2ARfEWIwEtABQR93JzjHyvzOdGvo_ECr",
+ "title": "Mountain Sun",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8628510e49112536",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "8628510e49112536",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA4NjI4NTEwZTQ5MTEyNTM2EAAYAg%3D%3D&sigh=4jCvQm4V7MasYBe2cAJ2eQ",
+ "vid": "8628510e49112536",
+ "display_genre": "Country & Folk",
+ "license_type": 6,
+ "mood": "Happy",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

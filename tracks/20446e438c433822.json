@@ -1,0 +1,33 @@
+{
+ "artist": "Au.Ra",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=20446e438c433822",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjwDBIWChAyMDQ0NmU0MzhjNDMzODIyEAAYAg%3D%3D&sigh=Pox9fMsiOfqFkKGzxfAbqQ",
+ "genre": "Rock",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Romantic",
+ "album": "None",
+ "track_url": "",
+ "len": 211,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "20446e438c433822",
+ "streamid": "eUeV6cxxrBYOGVkIqFdkAjYFRSQLy3GGNuZ0VOynxiypOZpZI7eZPpIpVKTXeIGN",
+ "title": "Role Player",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "mood": "Romantic",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "popularity_percentile": 99,
+ "reference_vid": "20446e438c433822",
+ "instruments": [
+  "electric guitar",
+  "keys",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "fp_ref_id": "20446e438c433822",
+ "license_type": 1
+}

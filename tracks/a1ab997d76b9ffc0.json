@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Trumpet"
+ ],
+ "len": 182.35,
+ "fp_ref_id": "a1ab997d76b9ffc0",
+ "streamid": "1m523aDdhXW9qBvM5TiGPVkX6Idxno0gNNAHQ0RHBKb8fPLCYhMPIlee_0-36ijH",
+ "artist_url": "",
+ "category": "",
+ "genre": "Classical",
+ "popularity_percentile": 64,
+ "vid": "a1ab997d76b9ffc0",
+ "display_genre": "Classical",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a1ab997d76b9ffc0",
+ "album": "None",
+ "title": "Semper Fidelis",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChBhMWFiOTk3ZDc2YjlmZmMwEAAYAg%3D%3D&sigh=mcV2XtJ409ByYxAFovin9w",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "artist": "The U.S. Marine Corps Band",
+ "display_category": "",
+ "mood": "Bright",
+ "is_new_track": false,
+ "reference_vid": "a1ab997d76b9ffc0",
+ "track_url": "",
+ "license_type": 1
+}

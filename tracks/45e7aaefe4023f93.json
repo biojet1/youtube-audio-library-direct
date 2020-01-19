@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChA0NWU3YWFlZmU0MDIzZjkzEAAYAg%3D%3D&sigh=6nSBDrz0jTed2NXfdAAWsg",
+ "display_genre": "R&B & Soul",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "LoWKhS_m6o1y_ySNiCG1PlDc9rnFPU1QPMScqC44hDxBMRqy1aP4w78AQ10qViJN",
+ "artist": "Riot",
+ "len": 158.55,
+ "genre": "R&B & Soul",
+ "mood": "Funky",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "45e7aaefe4023f93",
+ "reference_vid": "45e7aaefe4023f93",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=45e7aaefe4023f93",
+ "fp_ref_id": "45e7aaefe4023f93",
+ "display_mood": "Funky",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Temps",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ]
+}

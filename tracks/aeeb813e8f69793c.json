@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 224,
+ "display_mood": "Funky",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "fp_ref_id": "aeeb813e8f69793c",
+ "reference_vid": "aeeb813e8f69793c",
+ "artist_channel_url": "/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "license_type": 1,
+ "streamid": "eP1LcdBabY-dE4Za7bkzGCZKiogKaT0B0M-UWFc5h5hh-w7OcYAJl1nn3_yGhbJj",
+ "vid": "aeeb813e8f69793c",
+ "mood": "Funky",
+ "artist": "South London HiFi",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDWDRIWChBhZWViODEzZThmNjk3OTNjEAAYAg%3D%3D&sigh=mJXBe24Wu8WDQyjMayEJBw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aeeb813e8f69793c",
+ "category": "",
+ "title": "Some Other Place",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Bass",
+  "Synth",
+  "Drums"
+ ]
+}

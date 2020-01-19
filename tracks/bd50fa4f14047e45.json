@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "vid": "bd50fa4f14047e45",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bd50fa4f14047e45",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBiZDUwZmE0ZjE0MDQ3ZTQ1EAAYAg%3D%3D&sigh=mhD8wLiXW-g_6Ws3Yu9pAg",
+ "is_new_track": false,
+ "reference_vid": "bd50fa4f14047e45",
+ "display_mood": "Dark",
+ "favorite": false,
+ "category": "",
+ "title": "The Devil's Piano",
+ "streamid": "Lidw7HjNNgBamGLzQFWbUFxo1s7aEimsH6KSKQhl6cK83KU-tmhBbQaMaXa5Zv4o",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 165,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Audio Hertz",
+ "instruments": [
+  "drums",
+  "bass",
+  "808",
+  "piano",
+  "synth"
+ ],
+ "fp_ref_id": "bd50fa4f14047e45"
+}

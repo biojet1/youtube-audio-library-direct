@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Piano"
+ ],
+ "album": "None",
+ "artist": "Jingle Punks",
+ "downloadable": true,
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "len": 70.35,
+ "reference_vid": "e006000fe76c41db",
+ "fp_ref_id": "e006000fe76c41db",
+ "display_genre": "Jazz & Blues",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e006000fe76c41db",
+ "category": "",
+ "title": "You Make Me Feel Good",
+ "genre": "Jazz & Blues",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e006000fe76c41db",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCiBBIWChBlMDA2MDAwZmU3NmM0MWRiEAAYAg%3D%3D&sigh=lypfPazcUavZfwPePVPtOQ",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "R5eG6ELVeMKD2qgTjzqMWOLYjqLQx-FBzB2NvlflFnEhsgXXdA2UYyR29pgbH4eN"
+}

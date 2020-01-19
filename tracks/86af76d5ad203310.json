@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "display_genre": "Holiday",
+ "genre": "Holiday",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=86af76d5ad203310",
+ "artist_url": "http://incompetech.com/",
+ "downloadable": true,
+ "len": 247.483,
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiJDxIWChA4NmFmNzZkNWFkMjAzMzEwEAAYAg%3D%3D&sigh=7TI8SPz5kpl0VumgnGlJ4w",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100263",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "86af76d5ad203310",
+ "title": "Deck the Halls",
+ "vid": "86af76d5ad203310",
+ "display_mood": "Happy",
+ "reference_vid": "86af76d5ad203310",
+ "instruments": [
+  "Piano",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "streamid": "C33JUJTyaEjqUtYwoR1FFAQXL8wodiiqLDCbZk8ArlVMS27aKmQLCsEUuziP1HFu",
+ "category": ""
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=203ad8bde2083517",
+ "fp_ref_id": "203ad8bde2083517",
+ "len": 244.133,
+ "artist": "Text Me Records",
+ "mood": "Dramatic",
+ "reference_vid": "203ad8bde2083517",
+ "vid": "203ad8bde2083517",
+ "title": "Upside Down",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Drums"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "streamid": "xR46gvwRjnEafzP1zZZjkbYv1y4vEnZihH5-jbY5Ze6y7E2WF7GPgYLIpB2TH60E",
+ "display_genre": "Cinematic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDyDhIWChAyMDNhZDhiZGUyMDgzNTE3EAAYAg%3D%3D&sigh=L1oJgl9tPjB-O5RAIkYR1Q"
+}

@@ -1,0 +1,33 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBmODAxZDg5MzI1NmJhYjBiEAAYAg%3D%3D&sigh=lV_r5GDS_noextFtl43-1w",
+ "title": "Up Above",
+ "display_mood": "Bright",
+ "artist": "Letter Box",
+ "artist_channel_url": null,
+ "genre": "Alternative & Punk",
+ "vid": "f801d893256bab0b",
+ "popularity_percentile": 97,
+ "reference_vid": "f801d893256bab0b",
+ "favorite": false,
+ "mood": "Bright",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Alternative & Punk",
+ "category": "",
+ "fp_ref_id": "f801d893256bab0b",
+ "streamid": "BUhjcmovZDNCuWFhov9s5gSw9AhMZ2MHx6gxMgXlxzg7eyYejzlXNdP6aVmc7NKy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f801d893256bab0b",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 131.216
+}

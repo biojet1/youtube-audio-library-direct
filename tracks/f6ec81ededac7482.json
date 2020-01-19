@@ -1,0 +1,30 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBmNmVjODFlZGVkYWM3NDgyEAAYAg%3D%3D&sigh=fkdoNdfpEDoXoVavkor9mw",
+ "title": "By the Pool",
+ "display_mood": "Happy",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "genre": "Pop",
+ "vid": "f6ec81ededac7482",
+ "popularity_percentile": 97,
+ "reference_vid": "f6ec81ededac7482",
+ "favorite": false,
+ "mood": "Happy",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Pop",
+ "category": "",
+ "fp_ref_id": "f6ec81ededac7482",
+ "streamid": "TWlOv_77HphDYjMdpNDA04xqXraR10v0q4ClCwi_rA5ZIew-afWAop0bd7pHfLyb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f6ec81ededac7482",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 94.683
+}

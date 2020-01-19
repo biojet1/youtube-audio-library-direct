@@ -1,0 +1,32 @@
+{
+ "artist": "Audionautix",
+ "mood": "Bright",
+ "vid": "180a9e9f896462b9",
+ "streamid": "9PrjM3PN8RaIFa2isnzWD808zLQO5T3js82i5mySGijDTeCgxhbiITmlXnhnr89Z",
+ "display_category": "",
+ "track_url": "",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=180a9e9f896462b9",
+ "fp_ref_id": "180a9e9f896462b9",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjODRIWChAxODBhOWU5Zjg5NjQ2MmI5EAAYAg%3D%3D&sigh=mKqiX7y9ptMEvHBB4EGJgg",
+ "len": 223.283,
+ "display_genre": "Ambient",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Ambient",
+ "reference_vid": "180a9e9f896462b9",
+ "title": "Rubix Cube",
+ "instruments": [
+  "Sythn",
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "category": "",
+ "display_mood": "Bright",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 6
+}

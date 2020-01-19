@@ -1,0 +1,31 @@
+{
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=35e046945a923808",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChAzNWUwNDY5NDVhOTIzODA4EAAYAg%3D%3D&sigh=ec85ThGeGqwquxtjPfgk5w",
+ "genre": "Country & Folk",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Inspirational",
+ "album": "None",
+ "track_url": "",
+ "len": 160.783,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "35e046945a923808",
+ "streamid": "nDCCO5j_KSV9twXPHux9qNCbPgvtiDM7xH3GXq8lT-5r7cc7139s0npfIda-EJ5W",
+ "title": "Sawdust",
+ "artist_url": "",
+ "mood": "Inspirational",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "popularity_percentile": 21,
+ "reference_vid": "35e046945a923808",
+ "instruments": [
+  "drums",
+  "bass",
+  "acoustic guitar"
+ ],
+ "fp_ref_id": "35e046945a923808",
+ "license_type": 0
+}

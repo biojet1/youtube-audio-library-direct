@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "f14d7987947b5bd6",
+ "reference_vid": "f14d7987947b5bd6",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f14d7987947b5bd6",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "license_type": 1,
+ "streamid": "oC8lB83mQR_a0L1UibbJjp0UqJaLemrBJwI6t-U2F3X6dJTwcyGKeCSvO1-DbYzB",
+ "genre": "Cinematic",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "downloadable": true,
+ "vid": "f14d7987947b5bd6",
+ "len": 228,
+ "instruments": [
+  "piano",
+  "synth",
+  "strings",
+  "acoustic guitar",
+  "shaker"
+ ],
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "category": "",
+ "artist": "Jeremy Blake",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChBmMTRkNzk4Nzk0N2I1YmQ2EAAYAg%3D%3D&sigh=lRsy07k5m28jTpAWaC_Arw",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "title": "The Hardest Part",
+ "display_category": ""
+}

@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAyYmEwYzE1YzcyNWIxMjA5EAAYAg%3D%3D&sigh=0kyeXNlmifPQ8U_X8C-Z9Q",
+ "display_category": "",
+ "display_mood": "Bright",
+ "album": "None",
+ "vid": "2ba0c15c725b1209",
+ "downloadable": true,
+ "reference_vid": "2ba0c15c725b1209",
+ "favorite": false,
+ "fp_ref_id": "2ba0c15c725b1209",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ba0c15c725b1209",
+ "genre": "Jazz & Blues",
+ "streamid": "rluG-a45TITljOaciLftgKLhV_l9C2nExKoxq4URORLbEyR-L5o5WZkW9Ev0SQ1a",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Bright",
+ "len": 121,
+ "display_genre": "Jazz & Blues",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Bill Higley",
+ "artist": "Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "instruments": [
+  "acoustic guitar"
+ ]
+}

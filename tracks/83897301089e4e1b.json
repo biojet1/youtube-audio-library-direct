@@ -1,0 +1,33 @@
+{
+ "mood": "Funky",
+ "artist": "John Deley and the 41 Players",
+ "vid": "83897301089e4e1b",
+ "display_category": "",
+ "streamid": "cvsijKp3_4bX6bsIEwU6HwnbwlL8Kk0WoNmQPWVYyc6dTsLxuiBds8-kx0C5feEW",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=83897301089e4e1b",
+ "fp_ref_id": "83897301089e4e1b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA4Mzg5NzMwMTA4OWU0ZTFiEAAYAg%3D%3D&sigh=a3rnFzSmTAGsN7uc9OnYBA",
+ "display_genre": "R&B & Soul",
+ "len": 171.75,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Organ",
+  "Drums"
+ ],
+ "reference_vid": "83897301089e4e1b",
+ "title": "Cruise",
+ "genre": "R&B & Soul",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Funky",
+ "popularity_percentile": 52
+}

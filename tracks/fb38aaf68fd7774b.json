@@ -1,0 +1,30 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChBmYjM4YWFmNjhmZDc3NzRiEAAYAg%3D%3D&sigh=7LjU2KAyf9NuC1xOoh3joA",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fb38aaf68fd7774b",
+ "reference_vid": "fb38aaf68fd7774b",
+ "popularity_percentile": 99,
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fb38aaf68fd7774b",
+ "mood": "Inspirational",
+ "genre": "Holiday",
+ "streamid": "IJ7tIJG4sXVfNAoBX4urpa6_z2gmxfZIXIMIWc8atLC50OeQDJyxzg9bF9BKu36P",
+ "title": "Joy to the World (Instrumental)",
+ "downloadable": true,
+ "category": "",
+ "len": 146.45,
+ "artist_url": "",
+ "display_genre": "Holiday",
+ "fp_ref_id": "fb38aaf68fd7774b",
+ "album": "None"
+}

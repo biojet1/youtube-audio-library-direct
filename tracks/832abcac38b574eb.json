@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "artist": "The Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "title": "The Shepherd",
+ "album": "None",
+ "fp_ref_id": "832abcac38b574eb",
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChA4MzJhYmNhYzM4YjU3NGViEAAYAg%3D%3D&sigh=H3PSkxE6bY0wVe-dSD7x2w",
+ "genre": "R&B & Soul",
+ "vid": "832abcac38b574eb",
+ "streamid": "SpPyqhVcM_OgPEHe0usPvj1yYUNVjMy7s6Tx-ZNQunCmPxa_qzlkJAzyfvd6lFHl",
+ "display_category": "",
+ "display_mood": "Funky",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=832abcac38b574eb",
+ "reference_vid": "832abcac38b574eb",
+ "is_new_track": false,
+ "mood": "Funky",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "electric guitar",
+  "percussion"
+ ],
+ "len": 135
+}

@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "len": 191,
+ "vid": "d0e430e39abe1aa6",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "percussion",
+  "808",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "d0e430e39abe1aa6",
+ "album": "None",
+ "display_mood": "Bright",
+ "artist_channel_url": "/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChBkMGU0MzBlMzlhYmUxYWE2EAAYAg%3D%3D&sigh=j0Nr0r-UYAOrJPQINv8dDg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d0e430e39abe1aa6",
+ "mood": "Bright",
+ "genre": "Dance & Electronic",
+ "title": "Ghost Town",
+ "display_genre": "Dance & Electronic",
+ "artist": "Mike Relm",
+ "reference_vid": "d0e430e39abe1aa6",
+ "streamid": "aWUKyjGmN86gnxjJN8SWKrEy3LameuOB4gNLoW-uu6O-JpiVQic-gmLq5xp0QCZm"
+}

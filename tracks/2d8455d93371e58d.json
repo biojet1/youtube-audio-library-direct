@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200076",
+ "fp_ref_id": "2d8455d93371e58d",
+ "display_genre": "Pop",
+ "title": "Easy Lemon",
+ "downloadable": true,
+ "genre": "Pop",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "favorite": false,
+ "len": 126.383,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2d8455d93371e58d",
+ "category": "",
+ "streamid": "k33Yl3Q6hCthOEM-LPhM6D-W8FmP07x_4mvKlLGAhyIDpl33J53QFdnhbZjBEuWm",
+ "vid": "2d8455d93371e58d",
+ "mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChAyZDg0NTVkOTMzNzFlNThkEAAYAg%3D%3D&sigh=2Ii8gLhhT7bbcG4mr_uZOA",
+ "popularity_percentile": 37,
+ "reference_vid": "2d8455d93371e58d"
+}

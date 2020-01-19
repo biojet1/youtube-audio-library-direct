@@ -1,0 +1,29 @@
+{
+ "license_type": 6,
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e15beb6e14f00391",
+ "artist_url": "http://incompetech.com/",
+ "downloadable": true,
+ "len": 91.116,
+ "album": "None",
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChBlMTViZWI2ZTE0ZjAwMzkxEAAYAg%3D%3D&sigh=teh-2sUySoHGWMn6viyF8A",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "http://www.amazon.com/Agnus-Dei-X/dp/B00QGC7W3Y",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "e15beb6e14f00391",
+ "title": "Agnus Dei X - Bitter Suite",
+ "vid": "e15beb6e14f00391",
+ "display_mood": "Dramatic",
+ "reference_vid": "e15beb6e14f00391",
+ "instruments": [
+  "Organ"
+ ],
+ "is_new_track": false,
+ "streamid": "BhM5F5lTPo55559ELVpY7IuScbNSAE1H4smg5nUIX8RNxI4BlOyNSufTQDlUzTMM",
+ "category": ""
+}

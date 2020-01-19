@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 5,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChAwYTg3MzQyMWNhOTBiNDYzEAAYAg%3D%3D&sigh=lTnoJ7S4OIC6vFvzKsUnpA",
+ "display_category": "",
+ "reference_vid": "0a873421ca90b463",
+ "title": "On My Life",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a873421ca90b463",
+ "track_url": "",
+ "len": 169.65,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "lOA9Z07tlfYTek4X3iGpRj2HYt4PbbfbX1UzSLBLlUfLFMmeEtAYGDUQOOwe-VTi",
+ "favorite": false,
+ "display_genre": "Alternative & Punk",
+ "license_type": 0,
+ "mood": "Dark",
+ "genre": "Alternative & Punk",
+ "vid": "0a873421ca90b463",
+ "artist_url": "",
+ "artist": "Letter Box",
+ "category": "",
+ "fp_ref_id": "0a873421ca90b463",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "artist_channel_url": null
+}

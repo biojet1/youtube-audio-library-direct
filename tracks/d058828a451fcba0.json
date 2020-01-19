@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d058828a451fcba0",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Jingle Punks",
+ "len": 9.35,
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "XD09dSMhCGGhGXe1akB3IsACF41hGNtcmVIzeLRfLlHG5eL1kn9gnkJCUV65UiqU",
+ "category": "",
+ "title": "Blank Holes (Sting)",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "reference_vid": "d058828a451fcba0",
+ "genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKhGEhYKEGQwNTg4MjhhNDUxZmNiYTAQABgC&sigh=c23xlytPFsr5-eZBwDR3Vw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d058828a451fcba0",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "d058828a451fcba0"
+}

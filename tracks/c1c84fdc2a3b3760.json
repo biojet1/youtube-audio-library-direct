@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "fp_ref_id": "c1c84fdc2a3b3760",
+ "artist_channel_url": "/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "reference_vid": "c1c84fdc2a3b3760",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 105,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBjMWM4NGZkYzJhM2IzNzYwEAAYAg%3D%3D&sigh=tiFRC0JaApG8czHLaJ0v1Q",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c1c84fdc2a3b3760",
+ "instruments": [
+  "synth",
+  "808",
+  "drums"
+ ],
+ "title": "Post",
+ "genre": "Pop",
+ "streamid": "4A9TVQYF5Vqj8nmPKVeJTvwd2JDSfLl8S27b3gJHVuOYr9_aIrhXaKxq6TG-n09g",
+ "vid": "c1c84fdc2a3b3760",
+ "display_genre": "Pop",
+ "mood": "Happy",
+ "license_type": 1,
+ "artist": "Rick Steel"
+}

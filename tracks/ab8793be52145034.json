@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ab8793be52145034",
+ "album": "None",
+ "popularity_percentile": 67,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChBhYjg3OTNiZTUyMTQ1MDM0EAAYAg%3D%3D&sigh=PTFxSBn95Kojy9_aIELbAw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab8793be52145034",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "reference_vid": "ab8793be52145034",
+ "category": "",
+ "len": 212.616,
+ "vid": "ab8793be52145034",
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "mood": "Dark",
+ "license_type": 0,
+ "genre": "Dance & Electronic",
+ "title": "Dark Step",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "TGBrH2jIXw5353NyKFkI8ELkD3u_w1NhJ26wmIPRtfmmXn9Y76aNWdBCGjKfaaOz"
+}

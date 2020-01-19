@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChA1ZjY0Y2M0OWNlMTFmYmZlEAAYAg%3D%3D&sigh=QX8hFyItAA4k9xzPx25vHw",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "5f64cc49ce11fbfe",
+ "downloadable": true,
+ "reference_vid": "5f64cc49ce11fbfe",
+ "favorite": false,
+ "fp_ref_id": "5f64cc49ce11fbfe",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5f64cc49ce11fbfe",
+ "genre": "Classical",
+ "streamid": "cVo_EfU0Dko2rDweiskfl6sQaN8WjwfH0dQM2SkN1hNo9RzA3Tc0Rv6wzG8C632s",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 191.716,
+ "display_genre": "Classical",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Temptation March",
+ "artist": "Audionautix",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass"
+ ]
+}

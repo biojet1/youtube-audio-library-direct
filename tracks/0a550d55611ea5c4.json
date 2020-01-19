@@ -1,0 +1,32 @@
+{
+ "vid": "0a550d55611ea5c4",
+ "display_mood": "Angry",
+ "title": "Concrete",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChAwYTU1MGQ1NTYxMWVhNWM0EAAYAg%3D%3D&sigh=XpuAO8ULGJQpGJzZgcZaTA",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Angry",
+ "artist": "JHS Pedals",
+ "reference_vid": "0a550d55611ea5c4",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a550d55611ea5c4",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 99,
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": "/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "album": "None",
+ "streamid": "L2KE8gppHjKfpgCnRVPeZpRpmzQx2avofy5Y_Aqd4Z5YUaAuFLMk6G2PzM9UIXXJ",
+ "artist_url": "https://www.youtube.com/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "len": 97,
+ "fp_ref_id": "0a550d55611ea5c4",
+ "license_type": 1,
+ "is_new_track": false
+}

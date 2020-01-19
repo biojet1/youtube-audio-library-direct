@@ -1,0 +1,30 @@
+{
+ "mood": "Calm",
+ "title": "Little Drunk, Quiet Floats",
+ "album": "None",
+ "artist": "Puddle of Infinity",
+ "popularity_percentile": 7,
+ "category": "",
+ "display_genre": "Ambient",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "display_category": "",
+ "vid": "0e1fac4b7cbb8ce2",
+ "streamid": "aNot3beLihrnX0f1yA1xkYDKDJAG_yc72EwJF72eDYNVmHoovTrcq9vUqtylfPkZ",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAwZTFmYWM0YjdjYmI4Y2UyEAAYAg%3D%3D&sigh=cFFvr5QwBQHvnI4wit_VyA",
+ "fp_ref_id": "0e1fac4b7cbb8ce2",
+ "len": 183.016,
+ "favorite": false,
+ "instruments": [
+  "Electric Guitar",
+  "Synth"
+ ],
+ "artist_channel_url": null,
+ "license_type": 1,
+ "artist_url": "",
+ "reference_vid": "0e1fac4b7cbb8ce2",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0e1fac4b7cbb8ce2",
+ "downloadable": true
+}

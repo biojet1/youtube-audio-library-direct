@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dark",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "album": "None",
+ "streamid": "PUXUK_wHeSH-phghMKVplIEvEIySdlBTXZGqPlEnJi15pcW_9WNhxpys7kQpCwkh",
+ "title": "Serious Piano",
+ "display_genre": "Classical",
+ "vid": "1a372a4f27c28578",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "1a372a4f27c28578",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dark",
+ "license_type": 6,
+ "fp_ref_id": "1a372a4f27c28578",
+ "display_category": "",
+ "popularity_percentile": 74,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 18.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCMARIWChAxYTM3MmE0ZjI3YzI4NTc4EAAYAg%3D%3D&sigh=QJ1CSs3Os_bC-8GZyMiSoA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1a372a4f27c28578"
+}

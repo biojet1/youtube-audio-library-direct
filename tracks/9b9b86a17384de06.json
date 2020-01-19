@@ -1,0 +1,30 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9b9b86a17384de06",
+ "category": "",
+ "license_type": 0,
+ "title": "The Hero Steps Up",
+ "display_genre": "Hip Hop & Rap",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Dark",
+ "album": "None",
+ "streamid": "3Dk3isxi5dI6FGqPLA60MOwu6ADJO2oMtb-9S7kcJSsqvf3P-NPkmDbst0PCol3f",
+ "len": 145.65,
+ "artist": "Dougie Wood",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b9b86a17384de06",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA5YjliODZhMTczODRkZTA2EAAYAg%3D%3D&sigh=hVTlXMge1aDp1MmRlK-2BA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9b9b86a17384de06",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "9b9b86a17384de06",
+ "track_url": ""
+}

@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 48,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "54412183709563a5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=54412183709563a5",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "is_new_track": false,
+ "reference_vid": "54412183709563a5",
+ "len": 120.05,
+ "display_mood": "Funky",
+ "streamid": "cKTtRtKHGaA3Qu8bsNJz7Lu_gbDDGiAR1sP70R2wRtB554ObsN2AkfjqsImevWs9",
+ "display_genre": "Jazz & Blues",
+ "title": "Dirt Rhodes",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100542",
+ "downloadable": true,
+ "license_type": 6,
+ "genre": "Jazz & Blues",
+ "vid": "54412183709563a5",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChA1NDQxMjE4MzcwOTU2M2E1EAAYAg%3D%3D&sigh=_ua_dhtWUCPJtSs0dsGeEw"
+}

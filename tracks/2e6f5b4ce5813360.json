@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 67,
+ "downloadable": true,
+ "vid": "2e6f5b4ce5813360",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2e6f5b4ce5813360",
+ "fp_ref_id": "2e6f5b4ce5813360",
+ "genre": "Pop",
+ "album": "None",
+ "title": "Ligthning Bugs",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass",
+  "Acoustic Guitar"
+ ],
+ "track_url": "",
+ "display_mood": "Happy",
+ "streamid": "IjpnSto0DrbtGu2XNiz6Sd3iEYbJIO54Wrp939krDZ2xUNyDBzPvZPXtv_nJf-_7",
+ "artist": "Audionautix",
+ "mood": "Happy",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "2e6f5b4ce5813360",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChAyZTZmNWI0Y2U1ODEzMzYwEAAYAg%3D%3D&sigh=b9T5N4-8TgF0S0UpMriisg",
+ "display_category": "",
+ "len": 95.05,
+ "display_genre": "Pop"
+}

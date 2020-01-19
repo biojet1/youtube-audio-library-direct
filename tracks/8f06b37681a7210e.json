@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Funky",
+ "reference_vid": "8f06b37681a7210e",
+ "streamid": "fFQ1DdARVUtuwWrEISv1R81cssChlGwGwcdpH60bK8_e5EPpyOi1iV1JZ3RUPT1m",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChA4ZjA2YjM3NjgxYTcyMTBlEAAYAg%3D%3D&sigh=pa3ayViAG5y3Q8PrmtJQjA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8f06b37681a7210e",
+ "len": 176.15,
+ "genre": "Cinematic",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "8f06b37681a7210e",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Assasins",
+ "mood": "Funky",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "vid": "8f06b37681a7210e"
+}

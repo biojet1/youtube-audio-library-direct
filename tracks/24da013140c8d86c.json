@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Calm",
+ "genre": "Jazz & Blues",
+ "streamid": "hq2NxL_fQ-x_lDUf7KFnn6au6juw28NgzxKko_7AhalTQWvu9Kw80wW9T3Y0uiJ2",
+ "fp_ref_id": "24da013140c8d86c",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjBDBIWChAyNGRhMDEzMTQwYzhkODZjEAAYAg%3D%3D&sigh=kq0LLJ1i-s4VeLEK4eJBCw",
+ "mood": "Calm",
+ "vid": "24da013140c8d86c",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=24da013140c8d86c",
+ "instruments": [
+  "Synth",
+  "Piano"
+ ],
+ "album": "None",
+ "reference_vid": "24da013140c8d86c",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200054",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 205.783,
+ "category": "",
+ "title": "Groove Grove"
+}

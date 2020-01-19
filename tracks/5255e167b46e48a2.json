@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChA1MjU1ZTE2N2I0NmU0OGEyEAAYAg%3D%3D&sigh=uXnZl9tzw-KS4RmHTMTutQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5255e167b46e48a2",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100865",
+ "genre": "Pop",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "5255e167b46e48a2",
+ "fp_ref_id": "5255e167b46e48a2",
+ "category": "",
+ "title": "Lagoa v2",
+ "reference_vid": "5255e167b46e48a2",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Pop",
+ "instruments": [
+  "Drums"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "NLa0Y5Ra8XoSrVcSGmw5YeWfXDzoW6BD0jSI536qlT4cFCfYPf7cU5u2DJF8FOUq",
+ "len": 193.916,
+ "license_type": 6,
+ "is_new_track": false
+}

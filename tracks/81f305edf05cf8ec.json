@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "5SwbPdaJ9Z31TCUr73LHpH2fiDQaT1eopZnjKFnijWTRb_XTUtskFVeeZjExnjHN",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81f305edf05cf8ec",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKhGEhYKEDgxZjMwNWVkZjA1Y2Y4ZWMQABgC&sigh=sQGc5SsVMtUcC5Cjm3XZAw",
+ "vid": "81f305edf05cf8ec",
+ "display_category": "",
+ "title": "Granite (Sting)",
+ "album": "None",
+ "mood": "Angry",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Ethan Meixsell",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Angry",
+ "reference_vid": "81f305edf05cf8ec",
+ "len": 9.483,
+ "popularity_percentile": 51,
+ "genre": "Rock",
+ "fp_ref_id": "81f305edf05cf8ec",
+ "track_url": "",
+ "display_genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "license_type": 0
+}

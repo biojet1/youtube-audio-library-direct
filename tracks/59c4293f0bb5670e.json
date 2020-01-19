@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "len": 169,
+ "vid": "59c4293f0bb5670e",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "59c4293f0bb5670e",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChA1OWM0MjkzZjBiYjU2NzBlEAAYAg%3D%3D&sigh=j8YWlDvtV4WWCGMdyKZEYA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=59c4293f0bb5670e",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "title": "The Others Are Coming",
+ "display_genre": "Cinematic",
+ "artist": "Hainbach",
+ "reference_vid": "59c4293f0bb5670e",
+ "streamid": "J2qpGYj_L6WiCCeHV-65T5F-grYmDTYfAUKXvMmdmT3qXf_zCIddRJnhUEd-L65L"
+}

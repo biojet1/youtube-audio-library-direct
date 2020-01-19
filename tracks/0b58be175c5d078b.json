@@ -1,0 +1,30 @@
+{
+ "display_genre": "Ambient",
+ "streamid": "KuvEirihTue3FmlZ7M-QTx2BC4CrV5oSduy5Yith4N9eC9mN2guUIu6Y0wiuLIJ8",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "0b58be175c5d078b",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "0b58be175c5d078b",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChAwYjU4YmUxNzVjNWQwNzhiEAAYAg%3D%3D&sigh=jO4_syAEDVsl3UWYoEIrQQ",
+ "artist_url": "http://www.twinmusicom.org",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b58be175c5d078b",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "artist": "Twin Musicom",
+ "mood": "Dark",
+ "title": "Haunting Dreams",
+ "len": 168.016,
+ "vid": "0b58be175c5d078b",
+ "track_url": "http://www.twinmusicom.org/song/249/haunting-dreams"
+}

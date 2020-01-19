@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "reference_vid": "e22a365ec0b5844a",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e22a365ec0b5844a",
+ "fp_ref_id": "e22a365ec0b5844a",
+ "mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Trumpet"
+ ],
+ "len": 116.283,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBlMjJhMzY1ZWMwYjU4NDRhEAAYAg%3D%3D&sigh=3HC5bNvOu0zuQ6QC9fNbqg",
+ "streamid": "BX5xH6siQ2hW34s6mHQaJR5jQOdMJi1w392jvtTepLePxTFmjUQdZ0-hHbwd2sfE",
+ "artist": "Audionautix",
+ "popularity_percentile": 79,
+ "title": "Legends Of The River",
+ "display_category": "",
+ "display_genre": "Classical",
+ "license_type": 6,
+ "vid": "e22a365ec0b5844a",
+ "track_url": "",
+ "genre": "Classical",
+ "category": "",
+ "favorite": false
+}

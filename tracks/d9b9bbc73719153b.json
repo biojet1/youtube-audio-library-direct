@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d9b9bbc73719153b",
+ "popularity_percentile": 30,
+ "reference_vid": "d9b9bbc73719153b",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "ufdWok13II7VaGv7SbbJCwJ79RGJkDoF6AXaeIbKhaL_6EY1rktptgIJRN6IHmkC",
+ "genre": "Dance & Electronic",
+ "len": 71.083,
+ "artist": "Audionautix",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Quirky Jerk",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiqBBIWChBkOWI5YmJjNzM3MTkxNTNiEAAYAg%3D%3D&sigh=Q3hwUJ40HXgdi-JQRQDV9g",
+ "artist_url": "http://audionautix.com/",
+ "fp_ref_id": "d9b9bbc73719153b",
+ "track_url": "",
+ "mood": "Dark",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "d9b9bbc73719153b",
+ "is_new_track": false,
+ "favorite": false
+}

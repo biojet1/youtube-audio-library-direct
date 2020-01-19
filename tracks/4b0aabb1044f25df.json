@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b0aabb1044f25df",
+ "popularity_percentile": 30,
+ "reference_vid": "4b0aabb1044f25df",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "odRi1oWbomRPiE7pZr0kaaUD5mzc4P6ZBJ8csYyY1NAMfXAUmP7yyv5EfjgxwO79",
+ "genre": "R&B & Soul",
+ "len": 174.783,
+ "artist": "Vibe Tracks",
+ "display_mood": "Calm",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Strings",
+  "Synth"
+ ],
+ "title": "Heart Break",
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChA0YjBhYWJiMTA0NGYyNWRmEAAYAg%3D%3D&sigh=iBLrEwgreGMPFJy416_TZg",
+ "artist_url": "",
+ "fp_ref_id": "4b0aabb1044f25df",
+ "track_url": "",
+ "mood": "Calm",
+ "license_type": 0,
+ "display_category": "",
+ "album": "None",
+ "vid": "4b0aabb1044f25df",
+ "is_new_track": false,
+ "favorite": false
+}

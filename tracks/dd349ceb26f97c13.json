@@ -1,0 +1,31 @@
+{
+ "len": 115,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBkZDM0OWNlYjI2Zjk3YzEzEAAYAg%3D%3D&sigh=SkoYWlvFtj1_CBcjvt5-7A",
+ "reference_vid": "dd349ceb26f97c13",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "display_genre": "Rock",
+ "track_url": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "title": "March On",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Dan Lebowitz",
+ "streamid": "ScUNLUnpJVLS4cZ6Hotz6AXNHVVe7pzn0qs-_6nEtfc3ybC7DnmRV_teX-xOypOU",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dd349ceb26f97c13",
+ "fp_ref_id": "dd349ceb26f97c13",
+ "album": "None",
+ "vid": "dd349ceb26f97c13",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "favorite": false
+}

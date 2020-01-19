@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8d6ffec11f2860f8",
+ "fp_ref_id": "8d6ffec11f2860f8",
+ "len": 225.2,
+ "artist": "Text Me Records / Grandbankss",
+ "mood": "Funky",
+ "reference_vid": "8d6ffec11f2860f8",
+ "vid": "8d6ffec11f2860f8",
+ "title": "Realism",
+ "downloadable": true,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Electric Guitar",
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCvWuOz2bCBzZbrn2CTCyFHg",
+ "streamid": "UY08DUMkolao9mqdOw4EC2WRNy2ryhq10oaa9ks3Vwv_M5cvdrVyRftIw8mFvTU_",
+ "display_genre": "R&B & Soul",
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjdDRIWChA4ZDZmZmVjMTFmMjg2MGY4EAAYAg%3D%3D&sigh=TwH45k4PCxmefvBFxcOFBA"
+}

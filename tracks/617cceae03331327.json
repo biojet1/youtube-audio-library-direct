@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "617cceae03331327",
+ "artist_url": "https://www.youtube.com/channel/UCcuSK-fPeRI-JJ2mfyGYMjw",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "617cceae03331327",
+ "instruments": [
+  "piano",
+  "bass",
+  "drums",
+  "mallets",
+  "synth"
+ ],
+ "display_genre": "Ambient",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=617cceae03331327",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChA2MTdjY2VhZTAzMzMxMzI3EAAYAg%3D%3D&sigh=BuHKkTHSEsBhy9RBT-UiyA",
+ "display_category": "",
+ "display_mood": "Inspirational",
+ "vid": "617cceae03331327",
+ "len": 213,
+ "mood": "Inspirational",
+ "streamid": "VVsVz6Ru_VqdP-DOGmTVyUyhNvf1nCZnXvDkqiEicEUJgmvPnwp0y2CUCbSOTjIi",
+ "artist": "pATCHES",
+ "is_new_track": false,
+ "title": "Look Around a Bit",
+ "genre": "Ambient",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCcuSK-fPeRI-JJ2mfyGYMjw"
+}

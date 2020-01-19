@@ -1,0 +1,31 @@
+{
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "favorite": false,
+ "fp_ref_id": "2709d4f58c6db5be",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "streamid": "P4zrTcG1LZioWoY6hT-94wLwclCWHt95Jv49Yb4Xu6bavP7_MXE2WFkBY_uJxGpZ",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2709d4f58c6db5be",
+ "album": "None",
+ "mood": "Bright",
+ "downloadable": true,
+ "artist": "Riot",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 131.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAyNzA5ZDRmNThjNmRiNWJlEAAYAg%3D%3D&sigh=-3uFbcZhS4ga6qeFxo9b7w",
+ "reference_vid": "2709d4f58c6db5be",
+ "popularity_percentile": 15,
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "display_category": "",
+ "track_url": "",
+ "title": "Soho",
+ "category": "",
+ "vid": "2709d4f58c6db5be"
+}

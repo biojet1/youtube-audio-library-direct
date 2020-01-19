@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChA2YmNiNWQ0MTJkZTY1ZWI2EAAYAg%3D%3D&sigh=cLGKFhqzBaZaFhuSjOiENQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6bcb5d412de65eb6",
+ "track_url": "",
+ "genre": "Country & Folk",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6bcb5d412de65eb6",
+ "fp_ref_id": "6bcb5d412de65eb6",
+ "category": "",
+ "title": "Going, Going, Gone",
+ "reference_vid": "6bcb5d412de65eb6",
+ "artist": "The 126ers",
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "yBKkA1JPOsVmX97XS4NDwpH6c_L1uXKRLr8CE-6MlGYPKwnJvZNThwleDOGG5eqJ",
+ "len": 129.85,
+ "license_type": 0,
+ "is_new_track": false
+}

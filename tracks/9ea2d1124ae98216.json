@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9ea2d1124ae98216",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA5ZWEyZDExMjRhZTk4MjE2EAAYAg%3D%3D&sigh=9meTn1fQ8QxcjpRqIKdyGg",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9ea2d1124ae98216",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "vid": "9ea2d1124ae98216",
+ "downloadable": true,
+ "title": "Rollin Back",
+ "reference_vid": "9ea2d1124ae98216",
+ "artist_url": "",
+ "len": 106.783,
+ "artist": "MK2",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "HrEar4RVJtQeiYwmUKZ15W_pknbgYV5NGOSv2cNg7O2imSSQyRYd_a_N7ruhwusa",
+ "album": "None",
+ "instruments": [
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

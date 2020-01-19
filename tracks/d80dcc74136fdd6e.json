@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "d80dcc74136fdd6e",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "title": "Bass Walker - Film Noir",
+ "vid": "d80dcc74136fdd6e",
+ "mood": "Funky",
+ "display_genre": "Jazz & Blues",
+ "len": 161.55,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChBkODBkY2M3NDEzNmZkZDZlEAAYAg%3D%3D&sigh=km96pkl4a1YOvhbhraCkCA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d80dcc74136fdd6e",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200071",
+ "streamid": "oDKsOrFzD8AgMS1_4CQhc327Bb-wLQPMTQnRWGe4l6VoYrl1AW16B7ZyOl8Pp1Ol",
+ "reference_vid": "d80dcc74136fdd6e",
+ "instruments": [
+  "Bass"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist_url": "http://incompetech.com/"
+}

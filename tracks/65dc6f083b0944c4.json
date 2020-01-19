@@ -1,0 +1,31 @@
+{
+ "vid": "65dc6f083b0944c4",
+ "display_mood": "Calm",
+ "title": "Touchpoint",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjRERIWChA2NWRjNmYwODNiMDk0NGM0EAAYAg%3D%3D&sigh=J5PiLFiFlSybZLLZUvto4Q",
+ "display_genre": "Ambient",
+ "mood": "Calm",
+ "artist": "Audionautix",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=65dc6f083b0944c4",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "",
+ "popularity_percentile": 61,
+ "genre": "Ambient",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "reference_vid": "65dc6f083b0944c4",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "-THuPVfoo7EPnpC5ZtONT0hWZ98i4WYcJbXS0ogoxNkUroW786NsYMu1feM5mLI3",
+ "artist_url": "http://audionautix.com/",
+ "len": 289.483,
+ "fp_ref_id": "65dc6f083b0944c4",
+ "license_type": 6,
+ "is_new_track": false
+}

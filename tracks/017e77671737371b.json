@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChAwMTdlNzc2NzE3MzczNzFiEAAYAg%3D%3D&sigh=I4zOn6DAJJq--aoO7XUKKw",
+ "title": "Roger That",
+ "favorite": false,
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "fp_ref_id": "017e77671737371b",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "track_url": "",
+ "display_genre": "Alternative & Punk",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Alternative & Punk",
+ "popularity_percentile": 1,
+ "reference_vid": "017e77671737371b",
+ "streamid": "MoLqHOEPQFlfzscofe-QOCprqnRFnRZP1M5syNGDaglRWjYqIsSuWceqaZ7DgfNu",
+ "artist_url": "",
+ "len": 132.15,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=017e77671737371b",
+ "vid": "017e77671737371b",
+ "category": ""
+}

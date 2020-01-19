@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChA5YzJlYmZmODFmZTU5ZTc5EAAYAg%3D%3D&sigh=BQg_QZ8IW6C-dtoYkb5p3A",
+ "display_category": "",
+ "display_mood": "Sad",
+ "album": "None",
+ "vid": "9c2ebff81fe59e79",
+ "downloadable": true,
+ "reference_vid": "9c2ebff81fe59e79",
+ "favorite": false,
+ "fp_ref_id": "9c2ebff81fe59e79",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9c2ebff81fe59e79",
+ "genre": "Cinematic",
+ "streamid": "UKtgtuD1nEesjuJl42PkwmUWuL0geiUoopgltkKB7ZScruC_FM8H6WXcjsH5EVNO",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100876",
+ "mood": "Sad",
+ "len": 144.25,
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Death of Kings 2",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Trumpet",
+  "Drums",
+  "Strings"
+ ]
+}

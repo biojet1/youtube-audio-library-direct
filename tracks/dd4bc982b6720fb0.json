@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "0RbiQHKz2akbHPRaQHC0uACppEZL3Ew8NozNiuWxgH3auu3W4xoW5nr0wsBvg1CH",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dd4bc982b6720fb0",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChBkZDRiYzk4MmI2NzIwZmIwEAAYAg%3D%3D&sigh=-EX3LODGEfNHrtsRkz8d4A",
+ "vid": "dd4bc982b6720fb0",
+ "display_category": "",
+ "title": "Full On",
+ "album": "None",
+ "mood": "Dramatic",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "dd4bc982b6720fb0",
+ "len": 155.683,
+ "genre": "Cinematic",
+ "popularity_percentile": 33,
+ "fp_ref_id": "dd4bc982b6720fb0",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300005",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "instruments": [
+  "Bass",
+  "Strings"
+ ]
+}

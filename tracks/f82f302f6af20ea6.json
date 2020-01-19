@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 98,
+ "reference_vid": "f82f302f6af20ea6",
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 140.616,
+ "streamid": "OuvsME2T7vuioXQKGaSxvrXCo1BxvJQON0myKXW2P3psYsUG07B-UMM89IpKJ80L",
+ "license_type": 0,
+ "vid": "f82f302f6af20ea6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBmODJmMzAyZjZhZjIwZWE2EAAYAg%3D%3D&sigh=WmChjkCOUqyblERMQ_Z0hA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f82f302f6af20ea6",
+ "title": "Witchy Britches",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "display_category": "",
+ "fp_ref_id": "f82f302f6af20ea6",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "artist": "RW Smith",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Dance & Electronic",
+ "category": ""
+}

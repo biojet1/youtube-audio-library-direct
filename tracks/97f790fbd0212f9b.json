@@ -1,0 +1,30 @@
+{
+ "mood": "Inspirational",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChA5N2Y3OTBmYmQwMjEyZjliEAAYAg%3D%3D&sigh=5JwzNTEaz7xN-7EAJ2YnCg",
+ "display_mood": "Inspirational",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=97f790fbd0212f9b",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Chasms",
+ "title": "Wandering Gaze",
+ "reference_vid": "97f790fbd0212f9b",
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "97f790fbd0212f9b",
+ "vid": "97f790fbd0212f9b",
+ "category": "",
+ "streamid": "rwXJcmJ3y1sIPY7QQcN00VQxlvjywngfbCUq7ezlV-PSuttHcquLoBig6iMuTaMc",
+ "popularity_percentile": 99,
+ "len": 154,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

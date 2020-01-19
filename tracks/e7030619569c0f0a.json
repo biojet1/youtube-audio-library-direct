@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e7030619569c0f0a",
+ "category": "",
+ "title": "All Aboard",
+ "genre": "R&B & Soul",
+ "favorite": false,
+ "reference_vid": "e7030619569c0f0a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBlNzAzMDYxOTU2OWMwZjBhEAAYAg%3D%3D&sigh=oyRDOmEJSZiJMY8PVVAemg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e7030619569c0f0a",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e7030619569c0f0a",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Silent Partner",
+ "len": 109.183,
+ "display_mood": "Funky",
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "n5hGxIhvbUBVjgB5z8UcJNmwgS35XoCgumpAIb9syTRViPIpyQFuA-EzgtRhjS7O"
+}

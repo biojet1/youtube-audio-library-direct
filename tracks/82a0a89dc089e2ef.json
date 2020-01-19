@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "FCqmvfYPp36_O9UEA0lpiA8mPesJQvq1TtuEFXIQRf8JAMLpUK9-R4sVy-c8NOwb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=82a0a89dc089e2ef",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChA4MmEwYTg5ZGMwODllMmVmEAAYAg%3D%3D&sigh=rN7acGpGSmRjWD5Y8D8eJw",
+ "vid": "82a0a89dc089e2ef",
+ "display_category": "",
+ "title": "Some Obsession",
+ "album": "None",
+ "mood": "Sad",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Sad",
+ "reference_vid": "82a0a89dc089e2ef",
+ "len": 169.95,
+ "popularity_percentile": 51,
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "82a0a89dc089e2ef",
+ "track_url": "",
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "license_type": 0
+}

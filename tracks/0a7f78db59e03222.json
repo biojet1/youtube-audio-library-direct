@@ -1,0 +1,30 @@
+{
+ "display_genre": "Children's",
+ "instruments": [
+  "Strings",
+  "Piano"
+ ],
+ "artist": "Wayne Jones",
+ "reference_vid": "0a7f78db59e03222",
+ "genre": "Children's",
+ "streamid": "fLrDtdErKnJf2D4nvOQl3v163ZBNwt3uVruFTNx7VKpVdHG0ICsGik3R8O_1axA-",
+ "len": 100.133,
+ "display_category": "",
+ "fp_ref_id": "0a7f78db59e03222",
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChAwYTdmNzhkYjU5ZTAzMjIyEAAYAg%3D%3D&sigh=uOuIKa6NwVjO0ZY-XIKJlQ",
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "vid": "0a7f78db59e03222",
+ "display_mood": "Happy",
+ "favorite": false,
+ "mood": "Happy",
+ "downloadable": true,
+ "album": "None",
+ "title": "Toy Piano",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a7f78db59e03222",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "track_url": "",
+ "popularity_percentile": 99,
+ "category": ""
+}

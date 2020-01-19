@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "genre": "Cinematic",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "title": "Big Screen",
+ "streamid": "IB8tyw1R1aZQt84hGhtfN4PPInyH8koBAA-_xTWJ4bOvpcy6C2Jgp6WGN-4w2nsY",
+ "downloadable": true,
+ "album": "None",
+ "len": 112.183,
+ "fp_ref_id": "176a24e9279ee2aa",
+ "vid": "176a24e9279ee2aa",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=176a24e9279ee2aa",
+ "instruments": [
+  "bass",
+  "piano",
+  "strings"
+ ],
+ "license_type": 0,
+ "mood": "Inspirational",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "reference_vid": "176a24e9279ee2aa",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAxNzZhMjRlOTI3OWVlMmFhEAAYAg%3D%3D&sigh=DTw4dBcFeJ-q4dt3geyZWg",
+ "category": "",
+ "popularity_percentile": 10
+}

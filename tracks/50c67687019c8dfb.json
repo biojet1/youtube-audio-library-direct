@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCdCxIWChA1MGM2NzY4NzAxOWM4ZGZiEAAYAg%3D%3D&sigh=5F-8Whde6icmFC2Q_G-Hgw",
+ "display_category": "",
+ "display_mood": "Funky",
+ "album": "None",
+ "vid": "50c67687019c8dfb",
+ "downloadable": true,
+ "reference_vid": "50c67687019c8dfb",
+ "favorite": false,
+ "fp_ref_id": "50c67687019c8dfb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=50c67687019c8dfb",
+ "genre": "Jazz & Blues",
+ "streamid": "RUQbDZB99vUCJtihaUjla5LUTl0KbhUc0-Czm3XBJaGRIC24s14RyqXY5LtmuM47",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Funky",
+ "len": 184,
+ "display_genre": "Jazz & Blues",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Tacklebox Blues",
+ "artist": "Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "instruments": [
+  "acoustic guitar"
+ ]
+}

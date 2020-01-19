@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "vid": "ac56f6b4271e72a7",
+ "album": "None",
+ "artist_channel_url": "/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist_url": "https://www.youtube.com/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist": "Nate Blaze",
+ "genre": "Cinematic",
+ "fp_ref_id": "ac56f6b4271e72a7",
+ "streamid": "FUqdZDSbpVYSGk_Ux2FXeeZxpEfOAfe7Oi3r8bOwftJ66W0g-r0rjnfve5_Qy3L8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBhYzU2ZjZiNDI3MWU3MmE3EAAYAg%3D%3D&sigh=yPfS4j3ZjB9nZNN2s3C3ag",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "title": "Growing Up",
+ "track_url": "",
+ "len": 144,
+ "popularity_percentile": 99,
+ "reference_vid": "ac56f6b4271e72a7",
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac56f6b4271e72a7",
+ "instruments": [
+  "piano"
+ ],
+ "is_new_track": false
+}

@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "reference_vid": "b91cb64acd0483b0",
+ "mood": "Inspirational",
+ "display_category": "",
+ "len": 136,
+ "category": "",
+ "instruments": [
+  "organ",
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "genre": "Rock",
+ "track_url": "",
+ "streamid": "z03m-UwuUuNur7Gf6dH4hB7knXTNBJHL3zaEBxkhIw3fhmyYWEHs455enOF0zi8m",
+ "vid": "b91cb64acd0483b0",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b91cb64acd0483b0",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "fp_ref_id": "b91cb64acd0483b0",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "title": "Jaguar",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChBiOTFjYjY0YWNkMDQ4M2IwEAAYAg%3D%3D&sigh=bHi6xnGG4m3b1K0LIEnwXA",
+ "popularity_percentile": 99,
+ "artist": "Quincas Moreira"
+}

@@ -1,0 +1,29 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "aca4cb986c4b6f76",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj6DhIWChBhY2E0Y2I5ODZjNGI2Zjc2EAAYAg%3D%3D&sigh=WEUQ5f1DcQewMbMrd5sf1Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aca4cb986c4b6f76",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "reference_vid": "aca4cb986c4b6f76",
+ "category": "",
+ "len": 245.916,
+ "vid": "aca4cb986c4b6f76",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "mood": "Bright",
+ "license_type": 1,
+ "genre": "Classical",
+ "title": "Staunch and True",
+ "is_new_track": false,
+ "artist": "United States Marine Band",
+ "streamid": "yZJFmpL1egJu1s_aDRURuZoMKfQNqYnNcIBJC2_NYvNd-6ogDz0R_W-KAtuzlncW"
+}

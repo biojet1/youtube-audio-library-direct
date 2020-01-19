@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "522fbb643bbae5a3",
+ "downloadable": true,
+ "fp_ref_id": "522fbb643bbae5a3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=522fbb643bbae5a3",
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "display_mood": "Dark",
+ "streamid": "edCUSbVa-YpRtvpo5YOlmK3LGM8xzHciV-H0WPkxgUvxXREn-PoCxJQpuQRPg8jz",
+ "mood": "Dark",
+ "title": "Dark Hallway",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/?keywords=Hallway&Search=Search",
+ "favorite": false,
+ "display_genre": "Classical",
+ "reference_vid": "522fbb643bbae5a3",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "len": 46.95,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDnAhIWChA1MjJmYmI2NDNiYmFlNWEzEAAYAg%3D%3D&sigh=Wjt5BjRbeWUmM8j1zJR8Hw"
+}

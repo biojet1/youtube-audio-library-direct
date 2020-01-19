@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "adfc9ec0502fabb4",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEGFkZmM5ZWMwNTAyZmFiYjQQABgC&sigh=5ScRyTKB2v6IAXlMBboOXg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=adfc9ec0502fabb4",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Reggae",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "adfc9ec0502fabb4",
+ "category": "",
+ "len": 5.333,
+ "vid": "adfc9ec0502fabb4",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "mood": "Happy",
+ "license_type": 0,
+ "genre": "Reggae",
+ "title": "Riddim Road (Sting)",
+ "is_new_track": false,
+ "artist": "Jingle Punks",
+ "streamid": "poqjV5r-xFzyPLlhyNHl9tlfJr7KN44m2GjkgiM3nJGEi2xZssnJFGnQ1--Ju3sl"
+}

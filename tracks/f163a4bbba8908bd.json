@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 39,
+ "streamid": "OZHBL9WBm27Ugt9Azcc7E4IrbDhzmmJ5TPtNoA4tprSH63IhyYf_W5ze8EX60izb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChBmMTYzYTRiYmJhODkwOGJkEAAYAg%3D%3D&sigh=zzyUo4VTU_7wvimr0gIE9Q",
+ "album": "None",
+ "artist": "Twin Musicom",
+ "mood": "Funky",
+ "len": 141.483,
+ "reference_vid": "f163a4bbba8908bd",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "vid": "f163a4bbba8908bd",
+ "title": "64 Sundays",
+ "fp_ref_id": "f163a4bbba8908bd",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f163a4bbba8908bd",
+ "is_new_track": false,
+ "artist_url": "http://www.twinmusicom.org/",
+ "license_type": 6,
+ "display_genre": "Jazz & Blues"
+}

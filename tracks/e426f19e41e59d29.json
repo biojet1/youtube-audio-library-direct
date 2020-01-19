@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "fp_ref_id": "e426f19e41e59d29",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Adventure Meme",
+ "vid": "e426f19e41e59d29",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChBlNDI2ZjE5ZTQxZTU5ZDI5EAAYAg%3D%3D&sigh=HtudV-H2q8IItS6gJxaaOg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e426f19e41e59d29",
+ "display_category": "",
+ "len": 101.116,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400057",
+ "downloadable": true,
+ "streamid": "aVBjUe_WHyhqRoBViVA0n_FXS-EWf5oYgnu0ts_QRz1NgH4HLpqjqIN80Th2ZAwJ",
+ "reference_vid": "e426f19e41e59d29",
+ "instruments": [
+  "Synth"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Dance & Electronic"
+}

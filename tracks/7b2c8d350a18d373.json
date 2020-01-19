@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 36,
+ "is_new_track": false,
+ "vid": "7b2c8d350a18d373",
+ "downloadable": true,
+ "fp_ref_id": "7b2c8d350a18d373",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7b2c8d350a18d373",
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "display_mood": "Funky",
+ "streamid": "5NxZ3Q573QTR-jqldFx7hYo4VT3TYSbl225cilyRzoTzxq42rYAnb4GY6mOezHM-",
+ "mood": "Funky",
+ "title": "Bass Vibes - Rollin at 5",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100462",
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "7b2c8d350a18d373",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "len": 169.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChA3YjJjOGQzNTBhMThkMzczEAAYAg%3D%3D&sigh=tMoKn1UrjFq_p-ehgUcNIg"
+}

@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "mood": "Bright",
+ "artist": "Silent Partner",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=723c30bf2256c7d6",
+ "len": 168.933,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA3MjNjMzBiZjIyNTZjN2Q2EAAYAg%3D%3D&sigh=CdFup8AlanT8Ak8PqLMz3g",
+ "fp_ref_id": "723c30bf2256c7d6",
+ "vid": "723c30bf2256c7d6",
+ "title": "Cloud Patterns",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "723c30bf2256c7d6",
+ "license_type": 0,
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "streamid": "VgqyPFG9rDzLaicqkIKFT9bUrLg2QBE1TdCd3FiUW7iDRUtDxUSdIM_lmokV0X1g",
+ "category": ""
+}

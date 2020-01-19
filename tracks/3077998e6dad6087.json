@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "3077998e6dad6087",
+ "downloadable": true,
+ "fp_ref_id": "3077998e6dad6087",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3077998e6dad6087",
+ "album": "None",
+ "artist": "Audionautix",
+ "display_mood": "Happy",
+ "streamid": "aBF-wSM5sTTmyPCyk3BTBEQ9J53XRq28mS8iXVBftNY6OOOH1eVAisJjNz5_VbF7",
+ "mood": "Happy",
+ "title": "Yeah Yeah",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Rock",
+ "reference_vid": "3077998e6dad6087",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "len": 138.616,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChAzMDc3OTk4ZTZkYWQ2MDg3EAAYAg%3D%3D&sigh=chMLrCQzzH6gpMayulz_Kw"
+}

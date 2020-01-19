@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "vid": "6d79c8a33d69e999",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChA2ZDc5YzhhMzNkNjllOTk5EAAYAg%3D%3D&sigh=D77g6XyJ8lnApSDMbveaFg",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "streamid": "LOfYSyArREl6JqHMa5XXnhmWuvcWH3UFIGzRYQM81SZCPC0e8YK4ivFdtnRkoEv_",
+ "len": 187,
+ "genre": "Dance & Electronic",
+ "artist": "Coyote Hearing",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "We Dance",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6d79c8a33d69e999",
+ "reference_vid": "6d79c8a33d69e999",
+ "popularity_percentile": 99,
+ "fp_ref_id": "6d79c8a33d69e999",
+ "display_mood": "Funky"
+}

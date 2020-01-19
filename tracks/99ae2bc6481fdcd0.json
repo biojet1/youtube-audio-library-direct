@@ -1,0 +1,32 @@
+{
+ "genre": "R&B & Soul",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Jingle Punks",
+ "fp_ref_id": "99ae2bc6481fdcd0",
+ "display_mood": "Funky",
+ "display_genre": "R&B & Soul",
+ "vid": "99ae2bc6481fdcd0",
+ "mood": "Funky",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDk5YWUyYmM2NDgxZmRjZDAQABgC&sigh=I3_eg5lzn5HgvtpAYhOSUQ",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Alive and Well (Sting)",
+ "category": "",
+ "len": 7.383,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=99ae2bc6481fdcd0",
+ "reference_vid": "99ae2bc6481fdcd0",
+ "streamid": "tBKrcRD680mkMdfu_Vh4X1VL2ZZ65rEXgvprwwDZoalgZKD6Qo7CWEh_XFvjRy59"
+}

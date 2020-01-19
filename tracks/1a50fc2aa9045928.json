@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "genre": "Pop",
+ "track_url": "",
+ "is_new_track": false,
+ "artist": "VYEN",
+ "title": "Road Home",
+ "streamid": "RfWAeFIId8Y1kIDnHUDiZeS7E9kIOWzb4lhotVk9Xva0jICOlsUa2wM8zyDI4lbg",
+ "downloadable": true,
+ "album": "None",
+ "fp_ref_id": "1a50fc2aa9045928",
+ "len": 92,
+ "favorite": false,
+ "artist_channel_url": "/channel/UC_PXVKkmQdeK4tQwl5SD9PQ",
+ "display_mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1a50fc2aa9045928",
+ "artist_url": "https://www.youtube.com/channel/UC_PXVKkmQdeK4tQwl5SD9PQ",
+ "instruments": [
+  "acoustic guitar",
+  "drums",
+  "synth"
+ ],
+ "mood": "Calm",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "vid": "1a50fc2aa9045928",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChAxYTUwZmMyYWE5MDQ1OTI4EAAYAg%3D%3D&sigh=hiknmtLrqmwxu4EwQNrJ8g",
+ "reference_vid": "1a50fc2aa9045928",
+ "category": "",
+ "popularity_percentile": 99
+}

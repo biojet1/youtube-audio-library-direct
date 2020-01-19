@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 0,
+ "vid": "109c08e073353ef6",
+ "fp_ref_id": "109c08e073353ef6",
+ "album": "None",
+ "streamid": "FYHRFKs7BDU4vMGr-2VUB9B7KwvOOugOhLauatjNn4VFU-bTVUZxQfTwTcKpV0XZ",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "artist": "Topher Mohr and Alex Elena",
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=109c08e073353ef6",
+ "downloadable": true,
+ "display_genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjECxIWChAxMDljMDhlMDczMzUzZWY2EAAYAg%3D%3D&sigh=A8NfoLMi94_KIhdqKyIh-Q",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 189.35,
+ "reference_vid": "109c08e073353ef6",
+ "title": "Nadia's Theme",
+ "favorite": false,
+ "track_url": ""
+}

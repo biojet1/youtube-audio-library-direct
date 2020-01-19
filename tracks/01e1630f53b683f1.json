@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "len": 80.25,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100482",
+ "is_new_track": false,
+ "category": "",
+ "reference_vid": "01e1630f53b683f1",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDxBBIWChAwMWUxNjMwZjUzYjY4M2YxEAAYAg%3D%3D&sigh=IuXaKJve7EwM-e3hnHyX9w",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=01e1630f53b683f1",
+ "streamid": "ZB81SJMMYO66VPdHU7hDrtOjbMECMKWXM1dcaXeP0E1efDxTb_RpCYmZPVS6kw0s",
+ "title": "Happy Alley",
+ "display_genre": "Pop",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "vid": "01e1630f53b683f1",
+ "artist_url": "http://incompetech.com/",
+ "genre": "Pop",
+ "popularity_percentile": 40,
+ "fp_ref_id": "01e1630f53b683f1",
+ "display_category": "",
+ "favorite": false
+}

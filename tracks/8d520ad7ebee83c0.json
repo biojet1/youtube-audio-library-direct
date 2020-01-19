@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Romantic",
+ "genre": "Rock",
+ "streamid": "B6aDscPNbTQVLi1vps9njgl4cwSwkKot7AgmqgRnRe0ImkYBef7T2AfYsWL2LNJI",
+ "fp_ref_id": "8d520ad7ebee83c0",
+ "artist": "The 126ers",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChA4ZDUyMGFkN2ViZWU4M2MwEAAYAg%3D%3D&sigh=5Wgn5YQJyCDSGPRNGJ2MoQ",
+ "mood": "Romantic",
+ "vid": "8d520ad7ebee83c0",
+ "display_genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8d520ad7ebee83c0",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "reference_vid": "8d520ad7ebee83c0",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 144.05,
+ "category": "",
+ "title": "Summer Nights"
+}

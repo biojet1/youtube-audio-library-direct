@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "vid": "82f1e009a28ff5fa",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=82f1e009a28ff5fa",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD7CxIWChA4MmYxZTAwOWEyOGZmNWZhEAAYAg%3D%3D&sigh=GMWMXopgvdXwTLcTPJtH4A",
+ "is_new_track": false,
+ "reference_vid": "82f1e009a28ff5fa",
+ "display_mood": "Bright",
+ "favorite": false,
+ "category": "",
+ "title": "Melting Sands",
+ "streamid": "EW15Q7klo0FWnTDnZ3kCt00fgzO4FVy8OIYWo719XXR-mEwGGovOlQZxW_z56vRr",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "len": 196,
+ "album": "None",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "ELPHNT",
+ "instruments": [
+  "drums",
+  "synth",
+  "strings",
+  "electric guitar",
+  "bass"
+ ],
+ "fp_ref_id": "82f1e009a28ff5fa"
+}

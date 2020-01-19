@@ -1,0 +1,30 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBjMjhiNDcwYzNiZmVmN2VlEAAYAg%3D%3D&sigh=1XdsG0BklcyuOb9yQdjyeg",
+ "genre": "Dance & Electronic",
+ "streamid": "RjDExWlI_9tcdPCShgmIRoVTKxpWc7JPVyK90Z_1gHBviiFQDNnso5Ev5WnrgOWe",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "vid": "c28b470c3bfef7ee",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c28b470c3bfef7ee",
+ "fp_ref_id": "c28b470c3bfef7ee",
+ "reference_vid": "c28b470c3bfef7ee",
+ "mood": "Dramatic",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Strings"
+ ],
+ "len": 105.583,
+ "popularity_percentile": 77,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100814",
+ "title": "Cupids Revenge - Ethereal",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Dance & Electronic"
+}

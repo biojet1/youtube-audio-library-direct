@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://www.twinmusicom.org/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIB9EhYKEGJjOWU2OGI4OThhNDliNDEQABgC&sigh=GJi4Ow3z6idUxKEUJIaBQQ",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "bc9e68b898a49b41",
+ "downloadable": true,
+ "reference_vid": "bc9e68b898a49b41",
+ "favorite": false,
+ "fp_ref_id": "bc9e68b898a49b41",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bc9e68b898a49b41",
+ "genre": "Cinematic",
+ "streamid": "umREyDp92zwqKe-4D-OWyaJAi3sJ0N6-vz-tDqYi5djmehq01LrCNycuaevkgxQ-",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 16.015,
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Operating System (Sting)",
+ "artist": "Twin Musicom",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth"
+ ]
+}

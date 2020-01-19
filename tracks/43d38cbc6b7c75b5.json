@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDQzZDM4Y2JjNmI3Yzc1YjUQABgC&sigh=MPBgK7bJhSabK6wj_8BsEA",
+ "display_genre": "Classical",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "XMq5fxj2hauXN9cOBiReN2AAlJVJZ0W3bQecEm4jUkRjo4JfRrQChNuzMAIuQrem",
+ "artist": "Jingle Punks",
+ "len": 6.25,
+ "genre": "Classical",
+ "mood": "Inspirational",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "43d38cbc6b7c75b5",
+ "reference_vid": "43d38cbc6b7c75b5",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=43d38cbc6b7c75b5",
+ "fp_ref_id": "43d38cbc6b7c75b5",
+ "display_mood": "Inspirational",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Official National Anthem (Sting)",
+ "instruments": [
+  "Trumpet",
+  "Strings",
+  "Drums"
+ ]
+}

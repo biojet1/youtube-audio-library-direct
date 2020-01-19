@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDlDRIWChBjMDkwNzNjYTM4ZTgxZWYzEAAYAg%3D%3D&sigh=AVmzRuEQ9gzqWhBUKkFUng",
+ "display_category": "",
+ "display_mood": "Romantic",
+ "album": "None",
+ "vid": "c09073ca38e81ef3",
+ "downloadable": true,
+ "reference_vid": "c09073ca38e81ef3",
+ "favorite": false,
+ "fp_ref_id": "c09073ca38e81ef3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c09073ca38e81ef3",
+ "genre": "Jazz & Blues",
+ "streamid": "e4kQq_L-wiD2sHxSOcEsCzPAxFbOt2kpmuEkcrJhh2LydsHY4T4y4fp4UlLt9Pil",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Romantic",
+ "len": 226.816,
+ "display_genre": "Jazz & Blues",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Together With You",
+ "artist": "JR Tundra",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Piano"
+ ]
+}

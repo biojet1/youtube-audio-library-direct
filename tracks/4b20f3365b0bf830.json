@@ -1,0 +1,33 @@
+{
+ "display_genre": "Ambient",
+ "streamid": "8SSfP01k6isjdIhjJTBDhYCbe8O0JuWjtLISpwNao-2BcgZ_n6yqC0I91wVYW9nK",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "4b20f3365b0bf830",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "piano",
+  "synth"
+ ],
+ "category": "",
+ "popularity_percentile": 30,
+ "license_type": 0,
+ "fp_ref_id": "4b20f3365b0bf830",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMiyERIWChA0YjIwZjMzNjViMGJmODMwEAAYAg%3D%3D&sigh=sp1aG_33aJ4CYVy5lQchbw",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b20f3365b0bf830",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "artist": "Silent Partner",
+ "mood": "Dramatic",
+ "title": "Get Back Up",
+ "len": 285.516,
+ "vid": "4b20f3365b0bf830",
+ "track_url": ""
+}

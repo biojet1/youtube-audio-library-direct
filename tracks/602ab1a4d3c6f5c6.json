@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "602ab1a4d3c6f5c6",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=602ab1a4d3c6f5c6",
+ "popularity_percentile": 95,
+ "vid": "602ab1a4d3c6f5c6",
+ "streamid": "66jR7s5w6KISVtIkkrlTScHjVmYnAnTWP9M2z31tNsI6ll-ZMhDGpth2-4h_G-DR",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjeEhIWChA2MDJhYjFhNGQzYzZmNWM2EAAYAg%3D%3D&sigh=QRaB2EBXTPjeo9xWosuQhQ",
+ "display_category": "",
+ "title": "Airport Lounge - Disco Ultralounge",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Calm",
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "602ab1a4d3c6f5c6",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "len": 307.683,
+ "category": ""
+}

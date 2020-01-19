@@ -1,0 +1,32 @@
+{
+ "len": 110,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChBkYjExN2NmMmJhZTEwZjQ1EAAYAg%3D%3D&sigh=i6b0aNvyDtCOmmpXVwQBCA",
+ "reference_vid": "db117cf2bae10f45",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "display_genre": "Rock",
+ "track_url": "",
+ "instruments": [
+  "strings",
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "title": "Punk In Donuts",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Hanu Dixit",
+ "streamid": "kGTUzV1Mxg8-xIzPwfPvZEO6lRf01RFICdW__LcuVKFt8cVq-3hd-BHBdKmpiFau",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db117cf2bae10f45",
+ "fp_ref_id": "db117cf2bae10f45",
+ "album": "None",
+ "vid": "db117cf2bae10f45",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "favorite": false
+}

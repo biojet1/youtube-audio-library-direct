@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "47bd93e5de89387e",
+ "display_genre": "Cinematic",
+ "artist": "Audionautix",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJh1EhYKEDQ3YmQ5M2U1ZGU4OTM4N2UQABgC&sigh=DdtFu8VF6J-rbB4_zTkIUg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=47bd93e5de89387e",
+ "len": 15.05,
+ "mood": "Dramatic",
+ "title": "News Theme 2",
+ "vid": "47bd93e5de89387e",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Cinematic",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Trumpet"
+ ],
+ "popularity_percentile": 83,
+ "reference_vid": "47bd93e5de89387e",
+ "streamid": "H3a2BtYpzrSbvmRgMmUtvP68sVB69r5Hx-acNMrgeLRvoyZV5aqfWRuGjprPySC4"
+}

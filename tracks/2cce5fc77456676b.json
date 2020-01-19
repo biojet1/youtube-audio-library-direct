@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 72,
+ "reference_vid": "2cce5fc77456676b",
+ "display_genre": "Pop",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2cce5fc77456676b",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCyBBIWChAyY2NlNWZjNzc0NTY2NzZiEAAYAg%3D%3D&sigh=bULRsRMyY5DWxeRNxzvITA",
+ "display_mood": "Bright",
+ "fp_ref_id": "2cce5fc77456676b",
+ "track_url": "",
+ "genre": "Pop",
+ "vid": "2cce5fc77456676b",
+ "artist_channel_url": null,
+ "streamid": "_nNn4IeADX9MWot2nUAJ5UseGL2PQvEEUR0eMAuvowvvZeaGH6huLAzo-5PXG_RP",
+ "license_type": 0,
+ "title": "Energized",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Jingle Punks",
+ "mood": "Bright"
+}

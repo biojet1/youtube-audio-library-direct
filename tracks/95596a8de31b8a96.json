@@ -1,0 +1,33 @@
+{
+ "streamid": "oHsiA32L0QoBzbyzSb23Z5oGXtAo8gnYo_Z4RqPuGWJfICP2TSJ7aC1bR_vcnoHI",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChA5NTU5NmE4ZGUzMWI4YTk2EAAYAg%3D%3D&sigh=ETT0i17JjWbt9CmEg_T5vg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95596a8de31b8a96",
+ "favorite": false,
+ "genre": "Cinematic",
+ "title": "80's Vampire Car Chase",
+ "mood": "Bright",
+ "category": "",
+ "vid": "95596a8de31b8a96",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "95596a8de31b8a96",
+ "len": 128,
+ "display_mood": "Bright",
+ "artist": "Sir Cubworth",
+ "downloadable": true,
+ "fp_ref_id": "95596a8de31b8a96",
+ "album": "None",
+ "instruments": [
+  "piano",
+  "synth",
+  "drums",
+  "acoustic guitar",
+  "strings"
+ ]
+}

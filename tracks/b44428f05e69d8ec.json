@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "b44428f05e69d8ec",
+ "display_genre": "Children's",
+ "favorite": false,
+ "artist_channel_url": "/channel/UC2lHxFyHL96NPhdU9XyXnPQ",
+ "len": 139,
+ "streamid": "DUeFf-FSONTQMD6v5volKJZYTGJQHynFABRNIjTZLwffehdgayAsK3Jszi0r-9ge",
+ "license_type": 1,
+ "vid": "b44428f05e69d8ec",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChBiNDQ0MjhmMDVlNjlkOGVjEAAYAg%3D%3D&sigh=zaWclM_6w8GqTtHuCQBSsQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b44428f05e69d8ec",
+ "title": "Birthday Cake",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "display_category": "",
+ "fp_ref_id": "b44428f05e69d8ec",
+ "artist_url": "https://www.youtube.com/channel/UC2lHxFyHL96NPhdU9XyXnPQ?internalcountrycode=US",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar",
+  "bass",
+  "piano",
+  "electric piano"
+ ],
+ "artist": "Reed Mathis",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Children's",
+ "category": ""
+}

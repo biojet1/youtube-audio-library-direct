@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Calm",
+ "title": "Bethlehem - Christmas",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=221b10c0e53fb804",
+ "reference_vid": "221b10c0e53fb804",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100307",
+ "album": "None",
+ "len": 106.516,
+ "instruments": [
+  "Piano"
+ ],
+ "display_category": "",
+ "display_genre": "Holiday",
+ "streamid": "wwcS2EXX_hDvVh__f7WyuRlbjapI7eRP8LUpCz7rbT6dwDtwg1h6lCNFRDjn4n4h",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "221b10c0e53fb804",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "221b10c0e53fb804",
+ "category": "",
+ "genre": "Holiday",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChAyMjFiMTBjMGU1M2ZiODA0EAAYAg%3D%3D&sigh=MfNSVb6QEqBZFq1001J9BA"
+}

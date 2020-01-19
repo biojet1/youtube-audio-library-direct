@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Funky",
+ "genre": "R&B & Soul",
+ "streamid": "iJorklUeG8JQyMvzVTsJOAzYMgNypsmYKn3E7xuH3hzQNVHOVLI59B7IOJggSgif",
+ "fp_ref_id": "8baec6a0f28010f1",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA4YmFlYzZhMGYyODAxMGYxEAAYAg%3D%3D&sigh=kxg99nopbb15CNumCl1WRA",
+ "mood": "Funky",
+ "vid": "8baec6a0f28010f1",
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8baec6a0f28010f1",
+ "instruments": [
+  "drums"
+ ],
+ "album": "None",
+ "reference_vid": "8baec6a0f28010f1",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 116.583,
+ "category": "",
+ "title": "Tribal Song"
+}

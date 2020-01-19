@@ -1,0 +1,31 @@
+{
+ "title": "Green Daze",
+ "artist": "Audionautix",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi3BRIWChA3NjJjNzFhOWM5MjYwMmM5EAAYAg%3D%3D&sigh=8k081q2OFvve7k7rcW_hhQ",
+ "artist_url": "http://audionautix.com/",
+ "vid": "762c71a9c92602c9",
+ "mood": "Angry",
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 89.583,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=762c71a9c92602c9",
+ "display_mood": "Angry",
+ "streamid": "viL_ABCVOwoblNsaNvRTy8IYFE9Q7rlqv494DBUQg1aj5spruP75sv0lWEUPOOPs",
+ "artist_channel_url": null,
+ "fp_ref_id": "762c71a9c92602c9",
+ "genre": "Rock",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 59,
+ "display_genre": "Rock",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "762c71a9c92602c9"
+}

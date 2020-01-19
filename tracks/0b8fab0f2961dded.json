@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100666",
+ "artist_channel_url": null,
+ "len": 102.916,
+ "mood": "Dark",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b8fab0f2961dded",
+ "title": "Epilog - Ghostpocalypse",
+ "streamid": "piaojtOgU6WvLIGyCxrDCmjI86cFOUQEivKgRb_Q6G5rTtvIvuzIVo7j1ve9jyiF",
+ "genre": "Ambient",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChAwYjhmYWIwZjI5NjFkZGVkEAAYAg%3D%3D&sigh=5f2fC7-QIivo7aNO5WHZIg",
+ "license_type": 6,
+ "fp_ref_id": "0b8fab0f2961dded",
+ "display_mood": "Dark",
+ "vid": "0b8fab0f2961dded",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Piano"
+ ],
+ "display_genre": "Ambient",
+ "favorite": false,
+ "reference_vid": "0b8fab0f2961dded"
+}

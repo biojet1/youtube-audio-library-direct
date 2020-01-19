@@ -1,0 +1,31 @@
+{
+ "mood": "Romantic",
+ "reference_vid": "716baf9262af94bd",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChA3MTZiYWY5MjYyYWY5NGJkEAAYAg%3D%3D&sigh=B160DT2Y9fWUb1PhJBuJDw",
+ "display_mood": "Romantic",
+ "title": "Trieste",
+ "artist": "Josh Lippi & The Overtimers",
+ "is_new_track": false,
+ "len": 96,
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "716baf9262af94bd",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=716baf9262af94bd",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "license_type": 1,
+ "instruments": [
+  "strings",
+  "acoustic guitar",
+  "bass"
+ ],
+ "fp_ref_id": "716baf9262af94bd",
+ "streamid": "KaKPut_se2MhSv0rucWzSV_bPYNRoiaiJpsguEht5PsZcYbh2uUWY1kD1Au0Mj0C"
+}

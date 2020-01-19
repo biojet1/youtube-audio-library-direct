@@ -1,0 +1,31 @@
+{
+ "genre": "Pop",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Audionautix",
+ "fp_ref_id": "3b2bc5522031f3fd",
+ "display_mood": "Inspirational",
+ "display_genre": "Pop",
+ "vid": "3b2bc5522031f3fd",
+ "mood": "Inspirational",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChAzYjJiYzU1MjIwMzFmM2ZkEAAYAg%3D%3D&sigh=tJe6-Xk47xn4Qtvs0L5Fww",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Big Car Theft",
+ "category": "",
+ "len": 163.916,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b2bc5522031f3fd",
+ "reference_vid": "3b2bc5522031f3fd",
+ "streamid": "w0MkTgL2qMGF_gsvERIy8HwTUuWAm-yZMuh-6Wnd2zyvNzNZdKaALJSUkao6rj_G"
+}

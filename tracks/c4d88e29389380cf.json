@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c4d88e29389380cf",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "category": "",
+ "title": "Apollo The Wicked",
+ "track_url": "",
+ "vid": "c4d88e29389380cf",
+ "mood": "Dark",
+ "is_new_track": false,
+ "len": 284,
+ "instruments": [
+  "drum machine",
+  "bass",
+  "drums",
+  "percussion",
+  "synth"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "gNtOWoB2vlq_EVu0O-Y4MihARQIuTOQxisvZ9M_DkxCk2DZ3DmiYQiuCDd6-1KeH",
+ "display_genre": "Dance & Electronic",
+ "artist": "Jeremy Korpas",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "reference_vid": "c4d88e29389380cf",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCqERIWChBjNGQ4OGUyOTM4OTM4MGNmEAAYAg%3D%3D&sigh=3hXVoh-3vkViOQm8zFpw2Q",
+ "fp_ref_id": "c4d88e29389380cf",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "license_type": 1
+}

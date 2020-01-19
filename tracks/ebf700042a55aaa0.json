@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "ebf700042a55aaa0",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ebf700042a55aaa0",
+ "popularity_percentile": 95,
+ "vid": "ebf700042a55aaa0",
+ "streamid": "K_R1CM3QqQkf_nAIVYzcWjRxMf5FAj8erIOdqjmxnCFNfNJehQL2GMRYaFH-JtC6",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiIBRIWChBlYmY3MDAwNDJhNTVhYWEwEAAYAg%3D%3D&sigh=Vn9qx2-r6E5xxA5A7PFVHA",
+ "display_category": "",
+ "title": "Guess Who",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "reference_vid": "ebf700042a55aaa0",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100214",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Piano"
+ ],
+ "len": 83.45,
+ "category": ""
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "artist_url": "",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "a76269e08bbbb175",
+ "display_category": "",
+ "fp_ref_id": "a76269e08bbbb175",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a76269e08bbbb175",
+ "artist_channel_url": "/channel/UCej6bRv8lR48AEbQvdb_9Cg",
+ "downloadable": true,
+ "display_genre": "Hip Hop & Rap",
+ "title": "Rest",
+ "favorite": false,
+ "license_type": 1,
+ "len": 192,
+ "display_mood": "Dramatic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Guitar",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChBhNzYyNjllMDhiYmJiMTc1EAAYAg%3D%3D&sigh=1yqz2eTg7ih2Vv_moG3pWw",
+ "streamid": "ZZTxngVIw5vgxm4Fw3XMe5SfUUrSq2_THKj252nMPGgp9Iw3v2CKu16m11x0IyU6",
+ "genre": "Hip Hop & Rap",
+ "vid": "a76269e08bbbb175",
+ "artist": "Otis McDonald"
+}

@@ -1,0 +1,30 @@
+{
+ "genre": "Jazz & Blues",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Jingle Punks",
+ "fp_ref_id": "9858db3bfe5ac375",
+ "display_mood": "Happy",
+ "display_genre": "Jazz & Blues",
+ "vid": "9858db3bfe5ac375",
+ "mood": "Happy",
+ "instruments": [
+  "Drums",
+  "Trumpet"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiYBRIWChA5ODU4ZGIzYmZlNWFjMzc1EAAYAg%3D%3D&sigh=Qqo0TejTjxeAKG77-80aYA",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Skip With My Creole Band",
+ "category": "",
+ "len": 85.15,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9858db3bfe5ac375",
+ "reference_vid": "9858db3bfe5ac375",
+ "streamid": "PwI-8EOByoqcahlWNmFsDiLNrwgdtW0TfbMS4TFZRlOxQK8wgBB5OyU8qv3M1DpI"
+}

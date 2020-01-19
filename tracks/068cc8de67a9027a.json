@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCnDRIWChAwNjhjYzhkZTY3YTkwMjdhEAAYAg%3D%3D&sigh=7aiihtb2yj_hihrvreqngA",
+ "display_category": "",
+ "reference_vid": "068cc8de67a9027a",
+ "title": "Back Streets of Seoul",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=068cc8de67a9027a",
+ "track_url": "",
+ "len": 218.183,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "OCsmBLAEdqiiyX8Xc3fQCL26FTA5qECVVrtTyIpTqoo3_C2SIyrqG8_eJd3fQ5zx",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "license_type": 1,
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "vid": "068cc8de67a9027a",
+ "artist_url": "",
+ "artist": "MK2",
+ "category": "",
+ "fp_ref_id": "068cc8de67a9027a",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "artist_channel_url": null
+}

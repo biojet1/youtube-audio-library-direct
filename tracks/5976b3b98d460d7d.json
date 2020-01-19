@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "rKst1vNLBIrEPlW2_crVBW0RJu7iI0uRwDaeHD3_xtbmJCEwKZeWK21QQsWtjrtS",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5976b3b98d460d7d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChA1OTc2YjNiOThkNDYwZDdkEAAYAg%3D%3D&sigh=_zQSn2Io5pxzlize_L2dKA",
+ "vid": "5976b3b98d460d7d",
+ "display_category": "",
+ "title": "Faster Does It",
+ "album": "None",
+ "mood": "Dark",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "reference_vid": "5976b3b98d460d7d",
+ "len": 181.85,
+ "popularity_percentile": 51,
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "5976b3b98d460d7d",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100794",
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "license_type": 6
+}

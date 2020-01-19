@@ -1,0 +1,29 @@
+{
+ "vid": "6c57b7b30d34c5e7",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "6c57b7b30d34c5e7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6c57b7b30d34c5e7",
+ "favorite": false,
+ "instruments": [
+  "Strings"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100232",
+ "title": "FairyTale Waltz",
+ "genre": "Children's",
+ "mood": "Sad",
+ "artist": "Kevin MacLeod",
+ "display_mood": "Sad",
+ "streamid": "rVJNTn7tTXQkJ3sRbYw1sxVCIoT1Aw4aUM4mW77_3MHfeJjKjP91-30cTeqaYurk",
+ "display_category": "",
+ "len": 99.25,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChA2YzU3YjdiMzBkMzRjNWU3EAAYAg%3D%3D&sigh=a4mtC2fKAU6fFooZ9pPg-Q",
+ "reference_vid": "6c57b7b30d34c5e7",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Children's"
+}

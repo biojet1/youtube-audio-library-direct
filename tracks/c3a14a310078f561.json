@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c3a14a310078f561",
+ "downloadable": true,
+ "reference_vid": "c3a14a310078f561",
+ "mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "license_type": 1,
+ "len": 176,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChBjM2ExNGEzMTAwNzhmNTYxEAAYAg%3D%3D&sigh=m1kmzK9jv2UDsuvNvvW4KA",
+ "streamid": "le4yCOrN51XP0CoAhIRKpcJwUf2yycralKBguXxByiMOsqebGwFnMoHBBvK8AJob",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "display_genre": "Dance & Electronic",
+ "vid": "c3a14a310078f561",
+ "artist": "The Whole Other",
+ "popularity_percentile": 99,
+ "fp_ref_id": "c3a14a310078f561",
+ "category": "",
+ "title": "Renegade Jubilee",
+ "album": "None"
+}

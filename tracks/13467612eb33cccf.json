@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 0,
+ "vid": "13467612eb33cccf",
+ "fp_ref_id": "13467612eb33cccf",
+ "album": "None",
+ "streamid": "hgG448tKINvdQt0jrt0GlQ6o64KEkWdDZOx6C1p49SmSdTD82f2irrcq_eXIU9OK",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Cinematic",
+ "instruments": [
+  "Electric Guitar",
+  "Synth",
+  "Strings",
+  "Bass"
+ ],
+ "artist": "Puddle of Infinity",
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=13467612eb33cccf",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChAxMzQ2NzYxMmViMzNjY2NmEAAYAg%3D%3D&sigh=Yt5Q_O_BnHqRQjJCvfz4FQ",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 182.05,
+ "reference_vid": "13467612eb33cccf",
+ "title": "Grandpa",
+ "favorite": false,
+ "track_url": ""
+}

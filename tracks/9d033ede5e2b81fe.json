@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "mood": "Sad",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNj6ExIWChA5ZDAzM2VkZTVlMmI4MWZlEAAYAg%3D%3D&sigh=iAHc6Amc3r0uRHRtD-Tphg",
+ "title": "Namaste",
+ "vid": "9d033ede5e2b81fe",
+ "artist_url": "http://audionautix.com/",
+ "streamid": "evW_FRK-HU8HlOlNIzy3OS1-qpfWOA3uprCjBDBAlJaTnLNoZebUhe6xW3W9eXs1",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9d033ede5e2b81fe",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Strings"
+ ],
+ "display_mood": "Sad",
+ "len": 327.883,
+ "genre": "Ambient",
+ "fp_ref_id": "9d033ede5e2b81fe",
+ "track_url": "",
+ "album": "None",
+ "display_genre": "Ambient",
+ "reference_vid": "9d033ede5e2b81fe",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 76
+}

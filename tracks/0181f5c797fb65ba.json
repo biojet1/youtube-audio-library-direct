@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0181f5c797fb65ba",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChAwMTgxZjVjNzk3ZmI2NWJhEAAYAg%3D%3D&sigh=UkbwTL9VJDTnx-g4RCUJdA",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "0181f5c797fb65ba",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "vid": "0181f5c797fb65ba",
+ "downloadable": true,
+ "title": "Sk8tboard",
+ "reference_vid": "0181f5c797fb65ba",
+ "artist_url": "http://audionautix.com/",
+ "len": 126.15,
+ "artist": "Audionautix",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "dBePYfZnq2IEE6nf1xvJaynHTG9jrm5mVWQcezlz4K_rBrARlJkgX9ewYUNtCW7A",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Trumpet"
+ ],
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

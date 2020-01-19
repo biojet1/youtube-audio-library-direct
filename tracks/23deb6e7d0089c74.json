@@ -1,0 +1,31 @@
+{
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "favorite": false,
+ "fp_ref_id": "23deb6e7d0089c74",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "streamid": "5cQewH5DZF1FTy3RZ7ksB3kIC9EBaa0xTNy3wXjEljHAdJqP9Y52slhXH7j_16nV",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=23deb6e7d0089c74",
+ "album": "None",
+ "mood": "Funky",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 109.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChAyM2RlYjZlN2QwMDg5Yzc0EAAYAg%3D%3D&sigh=Fg7fUpOxSMIWWvTxmmNLPg",
+ "reference_vid": "23deb6e7d0089c74",
+ "popularity_percentile": 14,
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "display_category": "",
+ "track_url": "",
+ "title": "Rank and File",
+ "category": "",
+ "vid": "23deb6e7d0089c74"
+}

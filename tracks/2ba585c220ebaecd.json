@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 984.016,
+ "reference_vid": "2ba585c220ebaecd",
+ "display_genre": "Classical",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ba585c220ebaecd",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCHPBIWChAyYmE1ODVjMjIwZWJhZWNkEAAYAg%3D%3D&sigh=45ILO_iEjsLupoUfL84VeA",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "2ba585c220ebaecd",
+ "track_url": "",
+ "genre": "Classical",
+ "vid": "2ba585c220ebaecd",
+ "artist_channel_url": null,
+ "streamid": "7Q9CwWZHs9QE3mipX0zmZyJ9HlKCznqlXvhnrTPDXBnZOqQw9fa5G2NHVlZQtlf6",
+ "license_type": 0,
+ "title": "1812 Overture (by Tchaikosvky)",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Tchaikovsky",
+ "mood": "Dramatic"
+}

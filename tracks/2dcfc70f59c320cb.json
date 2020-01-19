@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Angry",
+ "reference_vid": "2dcfc70f59c320cb",
+ "streamid": "h-1xOYtiKvI93o4MNyRcmbiKXs16K_iGaUpDq0t5uCvhA6Up-4-TcErziYMr-hcz",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChAyZGNmYzcwZjU5YzMyMGNiEAAYAg%3D%3D&sigh=oqhFbfFbCBkYu1uzeArk_Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2dcfc70f59c320cb",
+ "len": 107.45,
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "2dcfc70f59c320cb",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Rocker",
+ "mood": "Angry",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Rock",
+ "track_url": "",
+ "vid": "2dcfc70f59c320cb"
+}

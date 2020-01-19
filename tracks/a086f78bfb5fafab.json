@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "vid": "a086f78bfb5fafab",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a086f78bfb5fafab",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChBhMDg2Zjc4YmZiNWZhZmFiEAAYAg%3D%3D&sigh=bOe7vuXA3pB_036pu116-A",
+ "is_new_track": false,
+ "reference_vid": "a086f78bfb5fafab",
+ "display_mood": "Funky",
+ "favorite": false,
+ "category": "",
+ "title": "Skyline",
+ "streamid": "2fWT6L0XSC6-_muGf9gs9xgZkLT_PGQxKEW49dKna6kNFsrzcEBEdTopdDEBz12-",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Pop",
+ "len": 192.666,
+ "album": "None",
+ "genre": "Pop",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Text Me Records",
+ "instruments": [
+  "Synth",
+  "Guitar",
+  "Rhodes",
+  "Bass",
+  "Drums"
+ ],
+ "fp_ref_id": "a086f78bfb5fafab"
+}

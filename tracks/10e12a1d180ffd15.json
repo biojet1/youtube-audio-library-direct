@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 0,
+ "vid": "10e12a1d180ffd15",
+ "fp_ref_id": "10e12a1d180ffd15",
+ "album": "None",
+ "streamid": "52-NrWk8w_TsD0oSTPxKw6sb62ZlNvw4wasdZsDhUmHxYghH_Vyok8G1WCrbNgqz",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Organ",
+  "Bass"
+ ],
+ "artist": "Jingle Punks",
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=10e12a1d180ffd15",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDEwZTEyYTFkMTgwZmZkMTUQABgC&sigh=_qROaPx3iq_-3Nyy6SDkOw",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 6.15,
+ "reference_vid": "10e12a1d180ffd15",
+ "title": "Above it All (Sting)",
+ "favorite": false,
+ "track_url": ""
+}

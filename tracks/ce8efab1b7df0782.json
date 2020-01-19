@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChBjZThlZmFiMWI3ZGYwNzgyEAAYAg%3D%3D&sigh=JUOoFU3-KAGWttlgZY3M5A",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "reference_vid": "ce8efab1b7df0782",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ce8efab1b7df0782",
+ "genre": "Hip Hop & Rap",
+ "artist_url": "https://www.youtube.com/channel/UC3-oWoJR-ofzb13SNr4dEag",
+ "len": 101,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "c1twKUqnxw5RhifjM9EMmrGeM2KNfVu9t7e7P_e9-2W6GVBp_lTVbjS6lIICRs9S",
+ "display_mood": "Happy",
+ "display_genre": "Hip Hop & Rap",
+ "mood": "Happy",
+ "title": "Never Sunny In Philadelphia",
+ "license_type": 1,
+ "track_url": "",
+ "vid": "ce8efab1b7df0782",
+ "artist": "Single Friend",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "ce8efab1b7df0782",
+ "artist_channel_url": "/channel/UC3-oWoJR-ofzb13SNr4dEag",
+ "instruments": [
+  "electric piano",
+  "drums",
+  "synth",
+  "bass",
+  "keys"
+ ],
+ "album": "None"
+}

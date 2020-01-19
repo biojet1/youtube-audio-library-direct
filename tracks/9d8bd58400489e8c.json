@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9d8bd58400489e8c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChA5ZDhiZDU4NDAwNDg5ZThjEAAYAg%3D%3D&sigh=eKoHQ7y-G7Hb1irtY3cyIQ",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9d8bd58400489e8c",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "display_genre": "Country & Folk",
+ "vid": "9d8bd58400489e8c",
+ "downloadable": true,
+ "title": "Secrets Secrets",
+ "reference_vid": "9d8bd58400489e8c",
+ "artist_url": "",
+ "len": 154.95,
+ "artist": "Silent Partner",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "6wFFNELle9dkqySZ7CmOR4jT409z2_lhYrBTCT_QhQ2DVQrYr4iLc3U_DfnXFXtR",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "acoustic guitar",
+  "bass",
+  "organ"
+ ],
+ "genre": "Country & Folk",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

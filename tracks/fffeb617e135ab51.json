@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "fffeb617e135ab51",
+ "artist_url": "https://www.youtube.com/channel/UCcuSK-fPeRI-JJ2mfyGYMjw",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "fffeb617e135ab51",
+ "instruments": [
+  "piano",
+  "mallets",
+  "synth",
+  "strings"
+ ],
+ "display_genre": "Ambient",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fffeb617e135ab51",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi-DRIWChBmZmZlYjYxN2UxMzVhYjUxEAAYAg%3D%3D&sigh=kGZyfF_7rq_AQzNZZNCcxA",
+ "display_category": "",
+ "display_mood": "Sad",
+ "vid": "fffeb617e135ab51",
+ "len": 221,
+ "mood": "Sad",
+ "streamid": "i1y7r-iLJrk1i5L-N5AkeTGQ2hKZDjwjqI1qEvl9ctTdlCc1IWxFSAjpGx06rlok",
+ "artist": "pATCHES",
+ "is_new_track": false,
+ "title": "It Doesn\u2019t Need To Be More Than That",
+ "genre": "Ambient",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCcuSK-fPeRI-JJ2mfyGYMjw"
+}

@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 159,
+ "display_mood": "Calm",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "ee7ac10ca155f726",
+ "reference_vid": "ee7ac10ca155f726",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "license_type": 1,
+ "streamid": "Jyqax2_9VHvWW5CaDWDOGMmBWUuEWFk8cHAq0Fg3nyAcAJBvm665KuoBuwzkK2EH",
+ "vid": "ee7ac10ca155f726",
+ "mood": "Calm",
+ "artist": "Dan Lebowitz",
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChBlZTdhYzEwY2ExNTVmNzI2EAAYAg%3D%3D&sigh=ytwg-fE42BKZCWZjOebBGQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ee7ac10ca155f726",
+ "category": "",
+ "title": "The Opening",
+ "genre": "Country & Folk",
+ "instruments": [
+  "slide guitar",
+  "electric guitar",
+  "strings",
+  "acoustic guitar"
+ ]
+}

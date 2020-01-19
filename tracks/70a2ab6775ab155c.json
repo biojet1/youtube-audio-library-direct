@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Country & Folk",
+ "genre": "Country & Folk",
+ "mood": "Romantic",
+ "artist": "Silent Partner",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=70a2ab6775ab155c",
+ "len": 146.45,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA3MGEyYWI2Nzc1YWIxNTVjEAAYAg%3D%3D&sigh=ZnBx-JWMtZQz32M7Uv-CdA",
+ "fp_ref_id": "70a2ab6775ab155c",
+ "vid": "70a2ab6775ab155c",
+ "title": "The Engagement",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "70a2ab6775ab155c",
+ "license_type": 0,
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "streamid": "lgqY6VQiAC4NfRCm0p6jPfoP1_oYli0Pv6SGUvr1sCiY5OTCl9U3kvPLhqBFoFKz",
+ "category": ""
+}

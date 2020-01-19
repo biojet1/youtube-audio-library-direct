@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ff9ca2b21eda2bc",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "category": "",
+ "title": "Your Suggestions",
+ "track_url": "",
+ "vid": "3ff9ca2b21eda2bc",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "len": 365,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "strings",
+  "keys"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "36gn7BrDRPIfn0co4j9o7tVxcXrSCdnnRNSqCh54FuOTR79WmmihnbBNwEcxyAAo",
+ "display_genre": "Cinematic",
+ "artist": "Unicorn Heads",
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "reference_vid": "3ff9ca2b21eda2bc",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMijFhIWChAzZmY5Y2EyYjIxZWRhMmJjEAAYAg%3D%3D&sigh=BnSSug3PHp9T9FUVW0BCzA",
+ "fp_ref_id": "3ff9ca2b21eda2bc",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "license_type": 1
+}

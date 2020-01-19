@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 98,
+ "reference_vid": "f881a7f05d969bf8",
+ "display_genre": "Hip Hop & Rap",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 96.016,
+ "streamid": "3eBmRr0eN8-21f8HCAqWUqbWe8Bg9sgsUu5oQOV0ywIRb5c1hmvmhQjqOEhU-uo1",
+ "license_type": 0,
+ "vid": "f881a7f05d969bf8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChBmODgxYTdmMDVkOTY5YmY4EAAYAg%3D%3D&sigh=NfJz9m2K6_D_3kmT_ik5Rw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f881a7f05d969bf8",
+ "title": "Mean Streetz",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "display_category": "",
+ "fp_ref_id": "f881a7f05d969bf8",
+ "artist_url": "",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "artist": "MK2",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Hip Hop & Rap",
+ "category": ""
+}

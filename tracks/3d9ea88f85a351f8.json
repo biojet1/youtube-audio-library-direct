@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 145,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "3d9ea88f85a351f8",
+ "mood": "Calm",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "Mariposa",
+ "display_mood": "Calm",
+ "instruments": [
+  "woodwinds",
+  "piano",
+  "strings",
+  "synth"
+ ],
+ "streamid": "H7cDul8mhqxN51sjPEeN9Jq5DXeyHuW-mplvbvEI96ql-IxEzXkWZctFugb3dfRr",
+ "reference_vid": "3d9ea88f85a351f8",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3d9ea88f85a351f8",
+ "fp_ref_id": "3d9ea88f85a351f8",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChAzZDllYTg4Zjg1YTM1MWY4EAAYAg%3D%3D&sigh=N07JMC7bFPGjsEqJc6ANQQ"
+}

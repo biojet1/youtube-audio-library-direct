@@ -1,0 +1,29 @@
+{
+ "reference_vid": "a8ffdac602d874e7",
+ "popularity_percentile": 78,
+ "display_genre": "Pop",
+ "license_type": 6,
+ "fp_ref_id": "a8ffdac602d874e7",
+ "instruments": [
+  "Piano"
+ ],
+ "title": "Bright Wish",
+ "downloadable": true,
+ "mood": "Bright",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 40.883,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "streamid": "YEkdYrhon3orT6r5MUZFmPm5up4ZfttHwKJsbb4lUf3hTYHlZpfw3xmQIuQ0g1W1",
+ "vid": "a8ffdac602d874e7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMC4AhIWChBhOGZmZGFjNjAyZDg3NGU3EAAYAg%3D%3D&sigh=rfXNEeQBtagkR3J9Bzv-xA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a8ffdac602d874e7",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100377",
+ "album": "None",
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Pop"
+}

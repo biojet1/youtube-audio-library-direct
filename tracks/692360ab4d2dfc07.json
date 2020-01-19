@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "692360ab4d2dfc07",
+ "display_genre": "Pop",
+ "artist": "Audionautix",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChA2OTIzNjBhYjRkMmRmYzA3EAAYAg%3D%3D&sigh=Bn-dqLS5Dbr1RH6O7ExNqA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=692360ab4d2dfc07",
+ "len": 206.716,
+ "mood": "Dark",
+ "title": "Macaroon 5",
+ "vid": "692360ab4d2dfc07",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Pop",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "692360ab4d2dfc07",
+ "streamid": "iqYDq0k51ppNuYIzb-v_1M39jZQJfHuhq32Vf8wNiVNN8qDI0FPfGxhvzF4_nT7K"
+}

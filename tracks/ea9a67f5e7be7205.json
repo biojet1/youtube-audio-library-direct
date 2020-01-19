@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Dark",
+ "title": "Real Bad Girl",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ea9a67f5e7be7205",
+ "reference_vid": "ea9a67f5e7be7205",
+ "mood": "Dark",
+ "artist": "Audionautix",
+ "track_url": "",
+ "album": "None",
+ "len": 122.95,
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "display_category": "",
+ "display_genre": "Alternative & Punk",
+ "streamid": "c3FE4vNvsyTzUicaybnGAEWmx2MIb889x0VTyF5Fe8f95th0gcNccXIUnd-R9CWZ",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "ea9a67f5e7be7205",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "ea9a67f5e7be7205",
+ "category": "",
+ "genre": "Alternative & Punk",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChBlYTlhNjdmNWU3YmU3MjA1EAAYAg%3D%3D&sigh=hkFlB5n9tRPIgBPvTedOhg"
+}

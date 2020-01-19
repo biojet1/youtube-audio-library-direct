@@ -1,0 +1,32 @@
+{
+ "len": 14.583,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4fbc9534c93b6d28",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "display_mood": "Bright",
+ "streamid": "OJGnqpIovyen6fGPX6z_ugTBLAlhbZwfC2fY-MuFp4SC-rwb3sZtcpEVnnmmX5Tc",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCLBtEhYKEDRmYmM5NTM0YzkzYjZkMjgQABgC&sigh=Ae2tQxOaMpynpvNKJQLH7A",
+ "title": "A Long Cold (Sting)",
+ "vid": "4fbc9534c93b6d28",
+ "artist_url": "",
+ "license_type": 0,
+ "mood": "Bright",
+ "artist": "Riot",
+ "favorite": false,
+ "popularity_percentile": 32,
+ "display_genre": "Pop",
+ "reference_vid": "4fbc9534c93b6d28",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Pop",
+ "fp_ref_id": "4fbc9534c93b6d28",
+ "track_url": "",
+ "album": "None"
+}

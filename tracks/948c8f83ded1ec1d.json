@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "len": 118.316,
+ "mood": "Dramatic",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA5NDhjOGY4M2RlZDFlYzFkEAAYAg%3D%3D&sigh=K-KFBmSmbGh-SMqHxh_j8g",
+ "genre": "Classical",
+ "streamid": "__XAkh0WIdMZQuq658X0DsxPglU47HOLJGQ_RIZ0aBXnNhb8pI-_y_6NLKfaklgA",
+ "downloadable": true,
+ "fp_ref_id": "948c8f83ded1ec1d",
+ "vid": "948c8f83ded1ec1d",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Classical",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=948c8f83ded1ec1d",
+ "category": "",
+ "reference_vid": "948c8f83ded1ec1d",
+ "title": "Ich Grolle Nicht",
+ "artist": "Ron Meixsell and Wahneta Meixsell",
+ "track_url": ""
+}

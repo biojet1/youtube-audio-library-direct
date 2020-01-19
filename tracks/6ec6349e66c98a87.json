@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 173,
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "6ec6349e66c98a87",
+ "mood": "Dark",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "For We Are Many",
+ "display_mood": "Dark",
+ "instruments": [
+  "synth",
+  "piano",
+  "bass"
+ ],
+ "streamid": "IeSwpcYE4gi5-djDKWH5DOQ-yY49oR9mQ8gITfEfnhHliIWOx4qs3hX06JnEwoCe",
+ "reference_vid": "6ec6349e66c98a87",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6ec6349e66c98a87",
+ "fp_ref_id": "6ec6349e66c98a87",
+ "artist": "Cooper Cannell",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChA2ZWM2MzQ5ZTY2Yzk4YTg3EAAYAg%3D%3D&sigh=YbWx8iesr0FGRzRvSip52w"
+}

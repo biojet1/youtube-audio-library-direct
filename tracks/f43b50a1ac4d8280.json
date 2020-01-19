@@ -1,0 +1,33 @@
+{
+ "len": 151,
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "KGuXddeCUqFH2WRU-OpjS37Cm3tW6e1Tap4tnQd-RY85IkavtSfw87hBaGdsOI9D",
+ "genre": "Pop",
+ "vid": "f43b50a1ac4d8280",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f43b50a1ac4d8280",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "artist_channel_url": "/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "title": "Licorice Song",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "f43b50a1ac4d8280",
+ "mood": "Happy",
+ "album": "None",
+ "reference_vid": "f43b50a1ac4d8280",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChBmNDNiNTBhMWFjNGQ4MjgwEAAYAg%3D%3D&sigh=6_6UXyrI9c37R8uvK89xLw",
+ "display_genre": "Pop",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Endless Love"
+}

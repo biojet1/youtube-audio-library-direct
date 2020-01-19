@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "3QF3YonRp1V8idXGQSeatk9EGgp59yJACuIo_Xfnc3EpqP8fUEwx6RL0rMoBQcti",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f9df1ad5a1eb80d7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChBmOWRmMWFkNWExZWI4MGQ3EAAYAg%3D%3D&sigh=WZEcQBkgTS4URSJn_LGVsw",
+ "vid": "f9df1ad5a1eb80d7",
+ "display_category": "",
+ "title": "Folk Round",
+ "album": "None",
+ "mood": "Bright",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "reference_vid": "f9df1ad5a1eb80d7",
+ "len": 183.75,
+ "popularity_percentile": 52,
+ "genre": "Country & Folk",
+ "fp_ref_id": "f9df1ad5a1eb80d7",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100357",
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "license_type": 6
+}

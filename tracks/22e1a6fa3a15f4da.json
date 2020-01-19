@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "22e1a6fa3a15f4da",
+ "track_url": "",
+ "fp_ref_id": "22e1a6fa3a15f4da",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Romantic",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "22e1a6fa3a15f4da",
+ "display_mood": "Romantic",
+ "len": 106.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChAyMmUxYTZmYTNhMTVmNGRhEAAYAg%3D%3D&sigh=K8qXx7tO58mcfQKfIpfjiw",
+ "popularity_percentile": 13,
+ "streamid": "j7jQGMoKg1WcJrRJiTaJ_LY6P_Klwm1bAKkGMHifhr2Uu5QmxSCUYo7YU29DEyzx",
+ "license_type": 0,
+ "display_genre": "Jazz & Blues",
+ "category": "",
+ "title": "Jazz Piano Bar",
+ "genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22e1a6fa3a15f4da"
+}

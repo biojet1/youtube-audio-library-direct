@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA0MTNkMjM2ZDdmZGM2ZTQ0EAAYAg%3D%3D&sigh=zglPNDYChi5Ht9T-5zwsnA",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "display_mood": "Dramatic",
+ "artist": "Riot",
+ "artist_channel_url": null,
+ "vid": "413d236d7fdc6e44",
+ "reference_vid": "413d236d7fdc6e44",
+ "genre": "Pop",
+ "popularity_percentile": 25,
+ "display_genre": "Pop",
+ "favorite": false,
+ "track_url": "",
+ "title": "HTML",
+ "downloadable": true,
+ "category": "",
+ "streamid": "O4tUHLGAlfkrcnd9eG4ivL5R7cVSb4pmcDs8ovjzE8AwusCQZjaXUT_jauEAuvVU",
+ "fp_ref_id": "413d236d7fdc6e44",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=413d236d7fdc6e44",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Dramatic",
+ "len": 151.85
+}

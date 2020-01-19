@@ -1,0 +1,29 @@
+{
+ "genre": "Cinematic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100826",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "51407df74598650d",
+ "display_mood": "Happy",
+ "display_genre": "Cinematic",
+ "vid": "51407df74598650d",
+ "mood": "Happy",
+ "instruments": [
+  "Drums"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChA1MTQwN2RmNzQ1OTg2NTBkEAAYAg%3D%3D&sigh=vChTCuzQFT8B_toYnmf15Q",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Gaslamp Funworks",
+ "category": "",
+ "len": 148.683,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=51407df74598650d",
+ "reference_vid": "51407df74598650d",
+ "streamid": "W86COqaVX3BZdgARI_hVILMx7hhqSOZ4K-My4ZRH2C7eDcu4kzXPRUCJQKsJAdDd"
+}

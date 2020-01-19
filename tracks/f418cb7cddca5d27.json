@@ -1,0 +1,32 @@
+{
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBmNDE4Y2I3Y2RkY2E1ZDI3EAAYAg%3D%3D&sigh=lsX1mamXKRwW0nUkIXJL9Q",
+ "instruments": [
+  "bass",
+  "strings",
+  "drums",
+  "synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "f418cb7cddca5d27",
+ "reference_vid": "f418cb7cddca5d27",
+ "popularity_percentile": 99,
+ "artist": "Spazz Cardigan",
+ "artist_channel_url": "/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f418cb7cddca5d27",
+ "mood": "Bright",
+ "genre": "Cinematic",
+ "streamid": "UzSxAhfohoONjqqnbUnd4SaOUh4XXpyeVfc0adB_0yjI_5beJHMYtWkuWEwUD9jl",
+ "title": "The Schooner The Better",
+ "downloadable": true,
+ "category": "",
+ "len": 116,
+ "artist_url": "https://www.youtube.com/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "f418cb7cddca5d27",
+ "album": "None"
+}

@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 92.35,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA2NGFiY2U1NGY1NWEyM2FkEAAYAg%3D%3D&sigh=Pp1VL5s81szyMNKPiyPwDw",
+ "genre": "Classical",
+ "streamid": "WlzHWO0dRl928uvnd0YuPAKp5eB2fkAG22h6_D9unLhtSTLfCIRxqq6eBrU9JAMU",
+ "downloadable": true,
+ "fp_ref_id": "64abce54f55a23ad",
+ "vid": "64abce54f55a23ad",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Classical",
+ "popularity_percentile": 60,
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=64abce54f55a23ad",
+ "category": "",
+ "reference_vid": "64abce54f55a23ad",
+ "title": "Renaissance",
+ "artist": "Audionautix",
+ "track_url": ""
+}

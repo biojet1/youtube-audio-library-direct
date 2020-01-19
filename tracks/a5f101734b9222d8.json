@@ -1,0 +1,32 @@
+{
+ "vid": "a5f101734b9222d8",
+ "mood": "Romantic",
+ "artist": "Text Me Records",
+ "track_url": "",
+ "display_category": "",
+ "streamid": "yUYEgKviWzEBCJPPMd2UlsfmDt0R4acD8V_ayJgx1bDG2bCd9S2SmUzXomj2l5aj",
+ "favorite": false,
+ "fp_ref_id": "a5f101734b9222d8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a5f101734b9222d8",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChBhNWYxMDE3MzRiOTIyMmQ4EAAYAg%3D%3D&sigh=LEyBVcTJeNKJB_IrUtuUxw",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "len": 96,
+ "is_new_track": false,
+ "license_type": 1,
+ "album": "None",
+ "category": "",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Quica",
+  "Guitar"
+ ],
+ "title": "Where Am I",
+ "reference_vid": "a5f101734b9222d8",
+ "genre": "Jazz & Blues",
+ "display_mood": "Romantic",
+ "popularity_percentile": 99
+}

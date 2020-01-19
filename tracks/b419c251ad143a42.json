@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "title": "You're not that Funky",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Otis McDonald",
+ "vid": "b419c251ad143a42",
+ "mood": "Funky",
+ "genre": "Jazz & Blues",
+ "reference_vid": "b419c251ad143a42",
+ "track_url": "",
+ "streamid": "lOcdjwZCO-UNFetxAPQDkcsRQTSwCamVx4XBu0bQQ5_1ST6prnV_SaePvq-OoJ8d",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b419c251ad143a42",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChBiNDE5YzI1MWFkMTQzYTQyEAAYAg%3D%3D&sigh=R1M1WWrTaIsvDTnHIrlxVQ",
+ "instruments": [
+  "Synth"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "b419c251ad143a42",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 146.033,
+ "display_genre": "Jazz & Blues"
+}

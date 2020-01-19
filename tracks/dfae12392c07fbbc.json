@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Drums"
+ ],
+ "album": "None",
+ "artist": "Jingle Punks",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "len": 70.516,
+ "reference_vid": "dfae12392c07fbbc",
+ "fp_ref_id": "dfae12392c07fbbc",
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "dfae12392c07fbbc",
+ "category": "",
+ "title": "All This Down Time",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dfae12392c07fbbc",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCiBBIWChBkZmFlMTIzOTJjMDdmYmJjEAAYAg%3D%3D&sigh=ntsBPyi4r5EbM3VZrV-m0w",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "bapo6F0M487mo4GlUJ8f1ixWtwU6On6i4loPfQ71X_SGzQcBsewdzy26GEMKgD_o"
+}

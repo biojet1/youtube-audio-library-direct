@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "vTGuGz1LhtQNh75XL2X7CXcIiY3Js2oITfoXedMADZOFZs0sH99LYspXX9JRUpJ1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f2939c7640689613",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDZDBIWChBmMjkzOWM3NjQwNjg5NjEzEAAYAg%3D%3D&sigh=visWzYcH0sq0sr-MGPeEnA",
+ "vid": "f2939c7640689613",
+ "display_category": "",
+ "title": "Living Voyage",
+ "album": "None",
+ "mood": "Dark",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "reference_vid": "f2939c7640689613",
+ "len": 208.616,
+ "popularity_percentile": 52,
+ "genre": "Ambient",
+ "fp_ref_id": "f2939c7640689613",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100594",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Strings"
+ ],
+ "license_type": 6
+}

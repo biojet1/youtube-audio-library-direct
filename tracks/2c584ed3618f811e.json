@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 176.583,
+ "reference_vid": "2c584ed3618f811e",
+ "display_genre": "Rock",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c584ed3618f811e",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChAyYzU4NGVkMzYxOGY4MTFlEAAYAg%3D%3D&sigh=4zoCheCJsaMJ9GNx19W7NQ",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "2c584ed3618f811e",
+ "track_url": "",
+ "genre": "Rock",
+ "vid": "2c584ed3618f811e",
+ "artist_channel_url": null,
+ "streamid": "NCT1wRkB11c68dSbsMyVLz3pD003WxbGhe2VaeyLvf6s5wlFrvRqcffJ7UVuVSgs",
+ "license_type": 0,
+ "title": "So Bueno",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "The 126ers",
+ "mood": "Inspirational"
+}

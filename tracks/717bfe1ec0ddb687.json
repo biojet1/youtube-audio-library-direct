@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "jnlfWE4ltIdV1kFVSriqeLVSHJJjAq2A3lVk_kzAkLN8G-2B3wQQoBF-ROolq7s_",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=717bfe1ec0ddb687",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChA3MTdiZmUxZWMwZGRiNjg3EAAYAg%3D%3D&sigh=KWo313IUnsSW_CcVno-whg",
+ "vid": "717bfe1ec0ddb687",
+ "display_category": "",
+ "title": "Just As Soon",
+ "album": "None",
+ "mood": "Calm",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "reference_vid": "717bfe1ec0ddb687",
+ "len": 228.116,
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 33,
+ "fp_ref_id": "717bfe1ec0ddb687",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100185",
+ "display_genre": "Jazz & Blues",
+ "license_type": 6,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

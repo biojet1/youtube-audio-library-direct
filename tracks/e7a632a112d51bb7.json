@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 100,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "fp_ref_id": "e7a632a112d51bb7",
+ "reference_vid": "e7a632a112d51bb7",
+ "artist_channel_url": "/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "license_type": 1,
+ "streamid": "Oq8kop2r_z1qB_C9mxat8HP2Te_gu3EZsIKgEvD0W1Vc4nbIsNyXXwM2TsSbgmuN",
+ "vid": "e7a632a112d51bb7",
+ "mood": "Dramatic",
+ "artist": "Hanu Dixit",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChBlN2E2MzJhMTEyZDUxYmI3EAAYAg%3D%3D&sigh=trDPb7nK0F15p5r60YWr9A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e7a632a112d51bb7",
+ "category": "",
+ "title": "Impala Returns",
+ "genre": "Rock",
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "strings",
+  "drums"
+ ]
+}

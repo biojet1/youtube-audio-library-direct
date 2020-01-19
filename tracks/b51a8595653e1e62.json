@@ -1,0 +1,31 @@
+{
+ "genre": "Pop",
+ "display_category": "",
+ "len": 144.916,
+ "track_url": "",
+ "fp_ref_id": "b51a8595653e1e62",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "-F_9hSW5DgyzHAuh6GoDdARLGlIEY0obsjjzxrLsCSrdz1ZjuA-5g20LlYJtd98d",
+ "title": "Maybe This Time",
+ "artist": "JR Tundra",
+ "is_new_track": false,
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b51a8595653e1e62",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "b51a8595653e1e62",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBiNTFhODU5NTY1M2UxZTYyEAAYAg%3D%3D&sigh=RjVtWV2xVNrX3x7DZIMUNQ",
+ "vid": "b51a8595653e1e62",
+ "display_genre": "Pop",
+ "license_type": 0,
+ "mood": "Bright",
+ "instruments": [
+  "Piano",
+  "Acoustic Guitar",
+  "Strings"
+ ]
+}

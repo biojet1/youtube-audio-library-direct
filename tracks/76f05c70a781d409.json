@@ -1,0 +1,32 @@
+{
+ "len": 264,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "track_url": "",
+ "category": "",
+ "mood": "Bright",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=76f05c70a781d409",
+ "title": "No Clarity",
+ "streamid": "4giLfgWbSqiEahxtznHlCjIH48wTlbUcTtX3nnpO2dD1FWiUSBzPzZ2mOsQ820BX",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCOEBIWChA3NmYwNWM3MGE3ODFkNDA5EAAYAg%3D%3D&sigh=FlcyXoifiIGBgSVHLAl4oA",
+ "license_type": 1,
+ "fp_ref_id": "76f05c70a781d409",
+ "display_mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "vid": "76f05c70a781d409",
+ "artist": "Stayloose",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "76f05c70a781d409"
+}

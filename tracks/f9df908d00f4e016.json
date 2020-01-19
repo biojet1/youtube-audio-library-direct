@@ -1,0 +1,32 @@
+{
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 0,
+ "reference_vid": "f9df908d00f4e016",
+ "instruments": [
+  "percussion",
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "display_category": "",
+ "fp_ref_id": "f9df908d00f4e016",
+ "license_type": 1,
+ "title": "Landing",
+ "mood": "Calm",
+ "downloadable": true,
+ "len": 138,
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "f9df908d00f4e016",
+ "streamid": "0WbK7WfTD9fBdPJshGt5SyH92slO0LhdNXNe9Z-Wv1BG5BiCyrtujwIEQoWgS_g9",
+ "artist": "Public Memory",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f9df908d00f4e016",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChBmOWRmOTA4ZDAwZjRlMDE2EAAYAg%3D%3D&sigh=okwsbfWE-APhKSjrDXHzGg",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "album": "None",
+ "track_url": ""
+}

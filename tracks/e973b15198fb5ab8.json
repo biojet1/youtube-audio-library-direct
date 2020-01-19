@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "e973b15198fb5ab8",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Country & Folk",
+ "category": "",
+ "artist": "Audionautix",
+ "display_category": "",
+ "streamid": "0XmDLzE69NlJBbRfmAFUFmWgsmsGzXjhgVZB9hjVAK5pYXqj8VnBPJP1weVGmCWl",
+ "license_type": 6,
+ "vid": "e973b15198fb5ab8",
+ "popularity_percentile": 74,
+ "reference_vid": "e973b15198fb5ab8",
+ "display_genre": "Country & Folk",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 131.716,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBlOTczYjE1MTk4ZmI1YWI4EAAYAg%3D%3D&sigh=M_doDK2WVtNW8cD9Vw6zmQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e973b15198fb5ab8",
+ "title": "Greek Dance"
+}

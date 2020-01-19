@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Coyote Hearing",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "downloadable": true,
+ "fp_ref_id": "fd91d421c2672c0d",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChBmZDkxZDQyMWMyNjcyYzBkEAAYAg%3D%3D&sigh=b8GPyOTKWkq9_gN3TSm__Q",
+ "favorite": false,
+ "genre": "Cinematic",
+ "category": "",
+ "vid": "fd91d421c2672c0d",
+ "streamid": "GEcgP34t8ucruDhNJP4wUHrSl1UWsQY9TEYNMFHLQhyTM-cgMTAz1zWpNS9aSA2P",
+ "mood": "Angry",
+ "reference_vid": "fd91d421c2672c0d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fd91d421c2672c0d",
+ "title": "Kill Kill Kill",
+ "display_mood": "Angry",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums",
+  "bells"
+ ],
+ "len": 92,
+ "album": "None",
+ "track_url": ""
+}

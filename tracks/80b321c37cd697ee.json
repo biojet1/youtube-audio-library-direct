@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "80b321c37cd697ee",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Ashley Shadow",
+ "vid": "80b321c37cd697ee",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChA4MGIzMjFjMzdjZDY5N2VlEAAYAg%3D%3D&sigh=AnXP8gQvLdnOzw_tbCAh8w",
+ "category": "",
+ "genre": "Ambient",
+ "display_mood": "Romantic",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Solar Power",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=80b321c37cd697ee",
+ "reference_vid": "80b321c37cd697ee",
+ "mood": "Romantic",
+ "streamid": "JlkNO-52ZzZgp9MfS3Z4v5U5mEJ5OMRnw7HGvf6BiKWM5zLZRwT8QoKdaHZRkGxa",
+ "track_url": "",
+ "album": "None",
+ "len": 113,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Ambient"
+}

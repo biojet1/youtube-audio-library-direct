@@ -1,0 +1,33 @@
+{
+ "display_category": "",
+ "genre": "Hip Hop & Rap",
+ "is_new_track": false,
+ "artist": "MK2",
+ "title": "Funk Down",
+ "streamid": "Rt5yy1fxsJ8kUzVYrFEPjHEfMIPESZ8TwbHBwX0trF_eWwOOhfTJ3xXuzZS5jDHq",
+ "downloadable": true,
+ "album": "None",
+ "len": 121.016,
+ "fp_ref_id": "16077d7004de23dc",
+ "vid": "16077d7004de23dc",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=16077d7004de23dc",
+ "instruments": [
+  "Electric Guitar",
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "license_type": 0,
+ "mood": "Dark",
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "reference_vid": "16077d7004de23dc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAxNjA3N2Q3MDA0ZGUyM2RjEAAYAg%3D%3D&sigh=q_RrrThy4GLihSd2lJLJjA",
+ "category": "",
+ "popularity_percentile": 9
+}

@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 11.55,
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=902ac9c81e53fcbb",
+ "title": "Big Horns Intro 2",
+ "streamid": "2gTiaP4x1_RY__tmNjiTvLCB-ZxdFYhr-u-kqv8fnjNdeCKEZT5AT72PFBuT4as1",
+ "genre": "Cinematic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPhVEhYKEDkwMmFjOWM4MWU1M2ZjYmIQABgC&sigh=kj5oewbMw721OOmI6k4NxA",
+ "license_type": 6,
+ "fp_ref_id": "902ac9c81e53fcbb",
+ "display_mood": "Dramatic",
+ "vid": "902ac9c81e53fcbb",
+ "artist_url": "http://audionautix.com/",
+ "artist": "Audionautix",
+ "instruments": [
+  "Strings"
+ ],
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "reference_vid": "902ac9c81e53fcbb"
+}

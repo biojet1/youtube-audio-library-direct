@@ -1,0 +1,33 @@
+{
+ "mood": "Funky",
+ "artist_channel_url": "/channel/UCPSf3-VnJZ73eoUECetfO5Q",
+ "artist_url": "https://www.youtube.com/channel/UCPSf3-VnJZ73eoUECetfO5Q",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjIDxIWChA3YjM1NzRhMjY3ZTI4MDczEAAYAg%3D%3D&sigh=VXE_rbJEBYf9JaWnPwkM8g",
+ "display_mood": "Funky",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7b3574a267e28073",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Slynk & Kermode",
+ "title": "Heel Flip",
+ "reference_vid": "7b3574a267e28073",
+ "instruments": [
+  "synth",
+  "drums",
+  "percussion",
+  "bass",
+  "electric guitar"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "7b3574a267e28073",
+ "vid": "7b3574a267e28073",
+ "category": "",
+ "streamid": "s6ph2SLh-PVStHhJTDoCJyqTqu-FHwUr-mR83XORPT481RhDEXKbMtRaD7_Z396x",
+ "popularity_percentile": 99,
+ "len": 255.333,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

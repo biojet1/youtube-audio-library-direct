@@ -1,0 +1,29 @@
+{
+ "mood": "Calm",
+ "artist": "Chris Zabriskie",
+ "vid": "63272c11c5681ace",
+ "display_category": "",
+ "streamid": "Z1WRFBr4VyAZAaUoPyHG2bZZa7F6UBWL6cjF-422GMLu-vippNuxRj5O462vyGl5",
+ "track_url": "http://chriszabriskie.com/vendaface/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=63272c11c5681ace",
+ "fp_ref_id": "63272c11c5681ace",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjpOBIWChA2MzI3MmMxMWM1NjgxYWNlEAAYAg%3D%3D&sigh=pt1KBtD5J6tcUCmAWJ9HSg",
+ "display_genre": "Ambient",
+ "len": 931.75,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Synth"
+ ],
+ "reference_vid": "63272c11c5681ace",
+ "title": "The Life and Death of a Certain K. Zabriskie, Patriarch",
+ "genre": "Ambient",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://chriszabriskie.com/",
+ "license_type": 6,
+ "display_mood": "Calm",
+ "popularity_percentile": 52
+}

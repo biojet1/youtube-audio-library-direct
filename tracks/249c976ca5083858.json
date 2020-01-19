@@ -1,0 +1,31 @@
+{
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "favorite": false,
+ "fp_ref_id": "249c976ca5083858",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "streamid": "ZUXK-bv9BAd47hsyHryVqn-bhvhlphCGYFnQntLHdv8Q4df9yEQoFw_Ri4kWs8e7",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=249c976ca5083858",
+ "album": "None",
+ "mood": "Bright",
+ "downloadable": true,
+ "artist": "Bird Creek",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 103.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChAyNDljOTc2Y2E1MDgzODU4EAAYAg%3D%3D&sigh=iJIIFC2x4iFCJZuVh48P3g",
+ "reference_vid": "249c976ca5083858",
+ "popularity_percentile": 14,
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "display_category": "",
+ "track_url": "",
+ "title": "Gemini Robot",
+ "category": "",
+ "vid": "249c976ca5083858"
+}

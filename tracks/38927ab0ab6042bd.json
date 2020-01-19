@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "38927ab0ab6042bd",
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Ambient",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "NK-W0jcqGTOL2hLx6wXbX10K9He7zhdy3A-m5mssEWNIEj1h9EEwmvcvjLUja83d",
+ "license_type": 6,
+ "vid": "38927ab0ab6042bd",
+ "popularity_percentile": 74,
+ "reference_vid": "38927ab0ab6042bd",
+ "display_genre": "Ambient",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 405.05,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100719",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIjcGBIWChAzODkyN2FiMGFiNjA0MmJkEAAYAg%3D%3D&sigh=0vDuPrrreD1XRgxL4HKkHg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=38927ab0ab6042bd",
+ "title": "Eastminster"
+}

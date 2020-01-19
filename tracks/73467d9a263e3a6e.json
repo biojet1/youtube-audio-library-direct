@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Bass",
+  "Piano",
+  "Synth"
+ ],
+ "album": "None",
+ "streamid": "BEcMWweMB_v8QPg-IoKspRJ4mGRKVJmtEOpAYG-P2RykylFBI1OV2HfTbFPlGTjq",
+ "title": "Don't Stop",
+ "display_genre": "Dance & Electronic",
+ "vid": "73467d9a263e3a6e",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "73467d9a263e3a6e",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 6,
+ "fp_ref_id": "73467d9a263e3a6e",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 363.05,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiTFhIWChA3MzQ2N2Q5YTI2M2UzYTZlEAAYAg%3D%3D&sigh=qSD9RtfNlPTOTweo7wB9Gw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73467d9a263e3a6e"
+}

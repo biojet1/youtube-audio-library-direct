@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChA0NGUxNDY2YWMxYzY0ZmViEAAYAg%3D%3D&sigh=0XimJ7JBAFLLXAv-YFktmw",
+ "display_genre": "Children's",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "sGY5zhGWau3USmoiPD0M6TdduMjEC4_eiFKbcOQ46Pwzig66_lCPFLaUI8O5p8sE",
+ "artist": "The Green Orbs",
+ "len": 174.483,
+ "genre": "Children's",
+ "mood": "Happy",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "44e1466ac1c64feb",
+ "reference_vid": "44e1466ac1c64feb",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=44e1466ac1c64feb",
+ "fp_ref_id": "44e1466ac1c64feb",
+ "display_mood": "Happy",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Bubble Bath",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Piano"
+ ]
+}

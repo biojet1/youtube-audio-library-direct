@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA0MDVlMDhiYTI2ZTk4NzczEAAYAg%3D%3D&sigh=vaNCKfl0Px0ZIDBI94qWPQ",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "display_mood": "Happy",
+ "artist": "Riot",
+ "artist_channel_url": null,
+ "vid": "405e08ba26e98773",
+ "reference_vid": "405e08ba26e98773",
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 25,
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "track_url": "",
+ "title": "Whisper",
+ "downloadable": true,
+ "category": "",
+ "streamid": "1FipJ-GH4VXHZOFkA3sqifM2KvrwybIOXxMeaZKQ3byjyyNW5k6alVnvR_4JQmVR",
+ "fp_ref_id": "405e08ba26e98773",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=405e08ba26e98773",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Happy",
+ "len": 164.183
+}

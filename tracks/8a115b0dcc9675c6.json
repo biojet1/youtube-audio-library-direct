@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a115b0dcc9675c6",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "category": "",
+ "title": "A Great Darkness Approaches, Can You Feel It?",
+ "track_url": "",
+ "vid": "8a115b0dcc9675c6",
+ "mood": "Dark",
+ "is_new_track": false,
+ "len": 139,
+ "instruments": [
+  "synth",
+  "piano"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "YGtlEY4ehB8hsq7j1ZS36FkTaXqxHwLkTdp1bGj0cN0MqMhEr1K8_vtWnRQRw42_",
+ "display_genre": "Cinematic",
+ "artist": "ELPHNT",
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "reference_vid": "8a115b0dcc9675c6",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA4YTExNWIwZGNjOTY3NWM2EAAYAg%3D%3D&sigh=BKH524eO2yDtF8Qh2bAyiw",
+ "fp_ref_id": "8a115b0dcc9675c6",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "license_type": 1
+}

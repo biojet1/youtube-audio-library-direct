@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=17cea64c47443cea",
+ "category": "",
+ "title": "Cool Intro - Stings",
+ "genre": "Rock",
+ "favorite": false,
+ "reference_vid": "17cea64c47443cea",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOiEARIWChAxN2NlYTY0YzQ3NDQzY2VhEAAYAg%3D%3D&sigh=ViLBjnKQFVsSE6xlPaecGA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "17cea64c47443cea",
+ "license_type": 6,
+ "popularity_percentile": 92,
+ "vid": "17cea64c47443cea",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Kevin MacLeod",
+ "len": 17.05,
+ "display_mood": "Funky",
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100504",
+ "streamid": "h4tDZ4AImckZQu7n50Q31DJEP9wZgE_k3PfzjGjoG8RX-fu-hJMlgiKWD63Hp3_M"
+}

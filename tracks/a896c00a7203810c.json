@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "a896c00a7203810c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a896c00a7203810c",
+ "display_mood": "Dark",
+ "fp_ref_id": "a896c00a7203810c",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Rollin",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBhODk2YzAwYTcyMDM4MTBjEAAYAg%3D%3D&sigh=KnyHkYHoflmabfi7hl9mLA",
+ "display_genre": "Pop",
+ "artist": "Text Me Records / Leviathe",
+ "genre": "Pop",
+ "len": 115.899,
+ "streamid": "8bVkTZfy3V6tFpr0D_avhJIEpbnB09SVCugRA9V_AfK11WcWcUUQF9ThoDaKFTWV",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "a896c00a7203810c",
+ "album": "None",
+ "mood": "Dark"
+}

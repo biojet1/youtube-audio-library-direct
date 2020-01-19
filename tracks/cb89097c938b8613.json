@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "cb89097c938b8613",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDQDxIWChBjYjg5MDk3YzkzOGI4NjEzEAAYAg%3D%3D&sigh=GeOlArmKnQ_Scn3ZLUyf-A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cb89097c938b8613",
+ "artist": "Andrew Langdon",
+ "len": 256,
+ "streamid": "mnfWPLThH0NqiMBp02vIf6NS70Y_b23lIjWrMac1o8sMXRJIdqVHtT4rdmYCWcGk",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "piano"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "title": "Light-Gazing",
+ "vid": "cb89097c938b8613",
+ "reference_vid": "cb89097c938b8613",
+ "artist_channel_url": "/channel/UCQdkiVaW24oJIwne-UP3DBg",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCQdkiVaW24oJIwne-UP3DBg"
+}

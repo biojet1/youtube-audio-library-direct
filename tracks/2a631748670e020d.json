@@ -1,0 +1,30 @@
+{
+ "display_mood": "Funky",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "lbPnExSqqPpjru1R_cseMqBnXU4iRHBOuDYKAQWVJOS0e4HRtiPn7xxrUNKkkXy0",
+ "title": "Zap Dance",
+ "display_genre": "Dance & Electronic",
+ "vid": "2a631748670e020d",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "2a631748670e020d",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Funky",
+ "license_type": 6,
+ "fp_ref_id": "2a631748670e020d",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 30.216,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDqARIWChAyYTYzMTc0ODY3MGUwMjBkEAAYAg%3D%3D&sigh=MXDyUnM21XHebeBVHHyZjA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2a631748670e020d"
+}

@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "license_type": 1,
+ "genre": "Rock",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "vid": "2033c7024517af3a",
+ "artist": "Dan Lebowitz",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "2033c7024517af3a",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "instruments": [
+  "bass",
+  "acoustic guitar",
+  "drums",
+  "electric guitar"
+ ],
+ "album": "None",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChAyMDMzYzcwMjQ1MTdhZjNhEAAYAg%3D%3D&sigh=y6wgP7N_me6iQ2OvKGaCtw",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Dramatic",
+ "title": "Search and Rescue",
+ "reference_vid": "2033c7024517af3a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2033c7024517af3a",
+ "track_url": "",
+ "len": 120,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "tHHhTwuP-Bn9YbHknkgqvjZytj5InDsGJ2MNE5J-VSktLAaW8GLgQjHDc50R-Xy2"
+}

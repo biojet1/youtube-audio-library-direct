@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "reference_vid": "b787fba6e0fa5901",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "TrackTribe",
+ "category": "",
+ "artist_channel_url": "/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "artist_url": "https://www.youtube.com/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "drums",
+  "bass",
+  "organ",
+  "keys"
+ ],
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "fp_ref_id": "b787fba6e0fa5901",
+ "mood": "Funky",
+ "popularity_percentile": 0,
+ "len": 94,
+ "license_type": 1,
+ "streamid": "0bDnQ2vmU5fH0Fm_TRF1bOVYsf71VnbbGCM81T053pCObxJT18ri-sQnNQ0t8Oo7",
+ "favorite": false,
+ "album": "None",
+ "display_category": "",
+ "title": "Drag Race",
+ "vid": "b787fba6e0fa5901",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBiNzg3ZmJhNmUwZmE1OTAxEAAYAg%3D%3D&sigh=TAnmTRuCbYrn2NoDPqPqcA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b787fba6e0fa5901"
+}

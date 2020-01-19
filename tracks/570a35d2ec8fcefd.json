@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Hip Hop & Rap",
+ "streamid": "cwIQ4v9ZkpCRn5DbLzH-sXaoBcGEoQ3whAlwSN2F9J2kjPqAL-D4rcmAuMmhAPJj",
+ "reference_vid": "570a35d2ec8fcefd",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=570a35d2ec8fcefd",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Silent Partner",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChA1NzBhMzVkMmVjOGZjZWZkEAAYAg%3D%3D&sigh=9LG61Dak-doeqCb9tBfpTA",
+ "mood": "Angry",
+ "display_mood": "Angry",
+ "display_category": "",
+ "title": "Going Up",
+ "album": "None",
+ "vid": "570a35d2ec8fcefd",
+ "downloadable": true,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "favorite": false,
+ "len": 200.533,
+ "fp_ref_id": "570a35d2ec8fcefd",
+ "display_genre": "Hip Hop & Rap"
+}

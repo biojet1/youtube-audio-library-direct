@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "TgKrGzpulX0QKvKa85zonzyfAXe1H1_SSQa3eLItsuEB0BeEYcVieGFpH-n7zycp",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA2MTRjNzBhN2YxMmRjNjVhEAAYAg%3D%3D&sigh=HJ4e_N1bEAbIWyTETVht0A",
+ "album": "None",
+ "artist": "Silent Partner",
+ "mood": "Dark",
+ "len": 163.383,
+ "reference_vid": "614c70a7f12dc65a",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "vid": "614c70a7f12dc65a",
+ "title": "Riding",
+ "fp_ref_id": "614c70a7f12dc65a",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Piano",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=614c70a7f12dc65a",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap"
+}

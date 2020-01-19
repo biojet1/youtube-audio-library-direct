@@ -1,0 +1,32 @@
+{
+ "mood": "Happy",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChA0MTE0OGQ1MTgyNjJjOWVjEAAYAg%3D%3D&sigh=oyu2ApqllL1hXevU15EUNQ",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "category": "",
+ "instruments": [
+  "Keyboards",
+  "Bass",
+  "Drums",
+  "Guitar"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "41148d518262c9ec",
+ "is_new_track": false,
+ "len": 143,
+ "genre": "Pop",
+ "reference_vid": "41148d518262c9ec",
+ "downloadable": true,
+ "streamid": "RdyJ26v-SPBhpK5oUuluIZRqmk4Pa9BH_lhf0kfyJnwZtTKTr2WWuzyPJ8EmD1lb",
+ "track_url": "",
+ "vid": "41148d518262c9ec",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41148d518262c9ec",
+ "artist_url": "",
+ "license_type": 1,
+ "title": "Jupiters Smile",
+ "artist": "The 126ers"
+}

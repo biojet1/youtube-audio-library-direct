@@ -1,0 +1,31 @@
+{
+ "reference_vid": "c9e0f67341400449",
+ "popularity_percentile": 78,
+ "display_genre": "R&B & Soul",
+ "license_type": 1,
+ "fp_ref_id": "c9e0f67341400449",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "title": "O. Sky",
+ "downloadable": true,
+ "mood": "Calm",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 102.75,
+ "artist_url": "",
+ "display_category": "",
+ "streamid": "YLpqB8BSaaAcmEMNEb__lJ3rjBfFXNoTBqu-bzyn-CX7LnVIyOHIWlkFfVXRuU1g",
+ "vid": "c9e0f67341400449",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBjOWUwZjY3MzQxNDAwNDQ5EAAYAg%3D%3D&sigh=YuIED9McxN8jKAbHX9I_2A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c9e0f67341400449",
+ "artist": "Otis McDonald",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "category": "",
+ "genre": "R&B & Soul"
+}

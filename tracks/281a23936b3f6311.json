@@ -1,0 +1,29 @@
+{
+ "track_url": "",
+ "artist_url": "http://audionautix.com/",
+ "fp_ref_id": "281a23936b3f6311",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChAyODFhMjM5MzZiM2Y2MzExEAAYAg%3D%3D&sigh=W3nlP17em4kbJZax4ne_Xg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=281a23936b3f6311",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Ambient",
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "281a23936b3f6311",
+ "category": "",
+ "len": 125.05,
+ "vid": "281a23936b3f6311",
+ "display_mood": "Inspirational",
+ "artist_channel_url": null,
+ "mood": "Inspirational",
+ "license_type": 6,
+ "genre": "Ambient",
+ "title": "Sunday's Child",
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "streamid": "te_XKD5ul1v75OE2D70dv9dsYrk8qQr8H2PwfNk6HkBPOZy1U99_jm6A1p3TqIeo"
+}

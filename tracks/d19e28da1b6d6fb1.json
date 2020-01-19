@@ -1,0 +1,30 @@
+{
+ "display_mood": "Inspirational",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChBkMTllMjhkYTFiNmQ2ZmIxEAAYAg%3D%3D&sigh=AbZCig2l0e9TWqiub8ZOaA",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "d19e28da1b6d6fb1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d19e28da1b6d6fb1",
+ "streamid": "PYlaCJO48M0M13tv_cyvZNYf6dJ16JIvnpAgu1tkxoQq0p5O_PF0eLgZLSdDRSvz",
+ "genre": "Dance & Electronic",
+ "track_url": "",
+ "reference_vid": "d19e28da1b6d6fb1",
+ "vid": "d19e28da1b6d6fb1",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Dance & Electronic",
+ "mood": "Inspirational",
+ "len": 173,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "title": "Arpeggisynth",
+ "artist": "Geographer"
+}

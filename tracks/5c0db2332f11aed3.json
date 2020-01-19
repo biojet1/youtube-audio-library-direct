@@ -1,0 +1,33 @@
+{
+ "vid": "5c0db2332f11aed3",
+ "downloadable": true,
+ "genre": "Rock",
+ "streamid": "pD2tr0LfW8Qyi8F4Wp-BSCceS4v5DF7WVqCiIrm-XgX9IRbxdXnHuJlJmAEFWrtq",
+ "favorite": false,
+ "fp_ref_id": "5c0db2332f11aed3",
+ "len": 177,
+ "mood": "Dark",
+ "display_category": "",
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChA1YzBkYjIzMzJmMTFhZWQzEAAYAg%3D%3D&sigh=gTgUsck3IhhVnkaL220I6g",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "reference_vid": "5c0db2332f11aed3",
+ "title": "Doom is Mood Backwards",
+ "artist": "The Whole Other",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "instruments": [
+  "bass",
+  "drums",
+  "mellotron",
+  "keys",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5c0db2332f11aed3",
+ "category": "",
+ "display_genre": "Rock",
+ "popularity_percentile": 99,
+ "album": "None",
+ "license_type": 1
+}

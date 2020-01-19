@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Classical",
+ "instruments": [
+  "Strings"
+ ],
+ "album": "None",
+ "streamid": "wpQn-_4m6qU12X_IDIS87BqPSxgixpxD5oMqiLroCm-aYLmTX_6gwUwgilv2GHUI",
+ "title": "30 Second Classical",
+ "display_genre": "Classical",
+ "vid": "d0edb0fec759c631",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "d0edb0fec759c631",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 6,
+ "fp_ref_id": "d0edb0fec759c631",
+ "display_category": "",
+ "popularity_percentile": 74,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 35.733,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiRAhIWChBkMGVkYjBmZWM3NTljNjMxEAAYAg%3D%3D&sigh=5HNsIRQoPS1iMAk216VLaA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d0edb0fec759c631"
+}

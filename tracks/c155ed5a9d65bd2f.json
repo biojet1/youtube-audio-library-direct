@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChBjMTU1ZWQ1YTlkNjViZDJmEAAYAg%3D%3D&sigh=O0rrs02P7jMgeF3Tw5uOxQ",
+ "display_category": "",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "vid": "c155ed5a9d65bd2f",
+ "downloadable": true,
+ "reference_vid": "c155ed5a9d65bd2f",
+ "favorite": false,
+ "fp_ref_id": "c155ed5a9d65bd2f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c155ed5a9d65bd2f",
+ "genre": "Dance & Electronic",
+ "streamid": "VzHTDxu2LNgSQH-mg9v6rPIIwbyJpU3ZYoOL2ZeKQgSTJLyKEnkXSxcgBmCq1miG",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Inspirational",
+ "len": 142.55,
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Sad Past",
+ "artist": "Silent Partner",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ]
+}

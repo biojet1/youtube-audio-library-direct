@@ -1,0 +1,32 @@
+{
+ "display_genre": "Jazz & Blues",
+ "license_type": 1,
+ "genre": "Jazz & Blues",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "vid": "6f66336c58389d6b",
+ "artist": "Dan Lebowitz",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "6f66336c58389d6b",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "instruments": [
+  "bass",
+  "acoustic guitar",
+  "drums",
+  "electric guitar"
+ ],
+ "album": "None",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA2ZjY2MzM2YzU4Mzg5ZDZiEAAYAg%3D%3D&sigh=cCSJ1w1h26f-WLCxINWugw",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Bright",
+ "title": "Tiptoe Out the Back",
+ "reference_vid": "6f66336c58389d6b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6f66336c58389d6b",
+ "track_url": "",
+ "len": 164,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "HhMFyeX4EiBm6R-TwtX7GRc4YY0bB2pzIIuj3QF-vM1KlkDDn5S6mNmgJ-OaHhfM"
+}

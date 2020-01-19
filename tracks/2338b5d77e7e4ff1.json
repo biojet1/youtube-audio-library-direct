@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "2338b5d77e7e4ff1",
+ "track_url": "",
+ "fp_ref_id": "2338b5d77e7e4ff1",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Jingle Punks",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "reference_vid": "2338b5d77e7e4ff1",
+ "display_mood": "Funky",
+ "len": 9.15,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKhGEhYKEDIzMzhiNWQ3N2U3ZTRmZjEQABgC&sigh=MFXcffo0BgcpUUgX2DDQXQ",
+ "popularity_percentile": 13,
+ "streamid": "e1t-xYmHEJxgd-DgJ62oD-S-mvBwL9srymW_h-IrAL3iHjTWQp1Ibjxo8uvfjhWX",
+ "license_type": 0,
+ "display_genre": "Reggae",
+ "category": "",
+ "title": "Pumping Irie (Sting)",
+ "genre": "Reggae",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2338b5d77e7e4ff1"
+}

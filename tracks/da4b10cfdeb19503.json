@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=da4b10cfdeb19503",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "x_A3WBlZiRc0eGmN5fROI6HI0d8luuWvyt9mQmjl5iG3PKLxZz1rKM70yiiO58wo",
+ "genre": "Classical",
+ "vid": "da4b10cfdeb19503",
+ "reference_vid": "da4b10cfdeb19503",
+ "fp_ref_id": "da4b10cfdeb19503",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChBkYTRiMTBjZmRlYjE5NTAzEAAYAg%3D%3D&sigh=6ZBIVlZ_RIVoEqSRyYGUnQ",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "piano",
+  "clarinet",
+  "flute",
+  "bassoon"
+ ],
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "artist": "Dan Bodan",
+ "title": "The Two Seasons",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Classical",
+ "len": 117,
+ "mood": "Calm"
+}

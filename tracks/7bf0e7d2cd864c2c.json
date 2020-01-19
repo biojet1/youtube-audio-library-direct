@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Hip Hop & Rap",
+ "category": "",
+ "fp_ref_id": "7bf0e7d2cd864c2c",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Yessum (Sting)",
+ "vid": "7bf0e7d2cd864c2c",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDdiZjBlN2QyY2Q4NjRjMmMQABgC&sigh=CwzlfIxGI13xN8SgXWCe5A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7bf0e7d2cd864c2c",
+ "display_category": "",
+ "len": 6.016,
+ "album": "None",
+ "license_type": 0,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "AnR31ETpokYeWmPWb7j54RCb5k5lfRn7o6BVCCucBU5VXNztMmewC7iI0bCfvhm8",
+ "reference_vid": "7bf0e7d2cd864c2c",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "",
+ "genre": "Hip Hop & Rap"
+}

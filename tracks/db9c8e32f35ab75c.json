@@ -1,0 +1,31 @@
+{
+ "reference_vid": "db9c8e32f35ab75c",
+ "popularity_percentile": 78,
+ "display_genre": "Alternative & Punk",
+ "license_type": 6,
+ "fp_ref_id": "db9c8e32f35ab75c",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Whats It To Ya Punk",
+ "downloadable": true,
+ "mood": "Happy",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 121.75,
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "streamid": "gJnp4strNzG5bb409foxdjH7IWWvxKmI4vSlXnhWYhLqI48X6m-a6wSoQJIKUrR3",
+ "vid": "db9c8e32f35ab75c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChBkYjljOGUzMmYzNWFiNzVjEAAYAg%3D%3D&sigh=6FyE_SePYQc5D2Ahf3JjoA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db9c8e32f35ab75c",
+ "artist": "Audionautix",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Alternative & Punk"
+}

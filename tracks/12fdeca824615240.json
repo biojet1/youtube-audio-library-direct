@@ -1,0 +1,32 @@
+{
+ "vid": "12fdeca824615240",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=12fdeca824615240",
+ "len": 222,
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "display_mood": "Dark",
+ "reference_vid": "12fdeca824615240",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChAxMmZkZWNhODI0NjE1MjQwEAAYAg%3D%3D&sigh=vOnnfrLha09jx9GR-PDW2A",
+ "display_genre": "Alternative & Punk",
+ "fp_ref_id": "12fdeca824615240",
+ "popularity_percentile": 99,
+ "title": "Love On File",
+ "genre": "Alternative & Punk",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "electric guitar"
+ ],
+ "artist": "Freedom Trail Studio",
+ "streamid": "gTVPACW4s2U1019RZfO95rzb3GkBtiH4McO7FzgPAh6jsow7xEqiR7gtxVD0MyYM",
+ "mood": "Dark",
+ "license_type": 1
+}

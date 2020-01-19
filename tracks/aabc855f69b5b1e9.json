@@ -1,0 +1,32 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100590",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 59.216,
+ "category": "",
+ "title": "Fast Talkin",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aabc855f69b5b1e9",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Strings",
+  "Trumpet"
+ ],
+ "album": "None",
+ "reference_vid": "aabc855f69b5b1e9",
+ "fp_ref_id": "aabc855f69b5b1e9",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjMAxIWChBhYWJjODU1ZjY5YjViMWU5EAAYAg%3D%3D&sigh=NgVuh4XEZDtxbXfd06Va4A",
+ "license_type": 6,
+ "mood": "Dark",
+ "vid": "aabc855f69b5b1e9",
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "popularity_percentile": 71,
+ "display_mood": "Dark",
+ "streamid": "YJum2Ugn0KaRgYKrcuFYyb2oVKupN3BqqWyb4ZsrF7L3Ym4sawYZp8qZpPQUm_6d"
+}

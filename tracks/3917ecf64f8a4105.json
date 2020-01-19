@@ -1,0 +1,33 @@
+{
+ "mood": "Romantic",
+ "artist": "Dan Bodan",
+ "vid": "3917ecf64f8a4105",
+ "display_category": "",
+ "streamid": "Yeqv3hkcLAxmR2HcMj4VdP_dc4yFGlfwV-VxQE06wMJ7cEBT1FE6mEGZD-Xe8yFu",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3917ecf64f8a4105",
+ "fp_ref_id": "3917ecf64f8a4105",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDrCxIWChAzOTE3ZWNmNjRmOGE0MTA1EAAYAg%3D%3D&sigh=LxYFfZn2S2ve7kwOswQI7w",
+ "display_genre": "Jazz & Blues",
+ "len": 194,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "piano",
+  "percussion",
+  "synth",
+  "vocal chops",
+  "theremin"
+ ],
+ "reference_vid": "3917ecf64f8a4105",
+ "title": "13 Cocktails",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "license_type": 1,
+ "display_mood": "Romantic",
+ "popularity_percentile": 99
+}

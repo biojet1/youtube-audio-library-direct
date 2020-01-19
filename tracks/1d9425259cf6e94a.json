@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "1d9425259cf6e94a",
+ "is_new_track": false,
+ "mood": "Happy",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChAxZDk0MjUyNTljZjZlOTRhEAAYAg%3D%3D&sigh=FJmTMjJY9hZbh24LTQBPyw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1d9425259cf6e94a",
+ "artist": "Verified Picasso",
+ "len": 106,
+ "streamid": "zhh44S8yH08--zQGSJVSDQB8Q1f6M806Lp4axpKzhjCwy1VEsTh7h0BvMay2BG5T",
+ "album": "None",
+ "display_mood": "Happy",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "title": "Drunken Countess",
+ "vid": "1d9425259cf6e94a",
+ "reference_vid": "1d9425259cf6e94a",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

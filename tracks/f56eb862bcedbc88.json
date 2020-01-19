@@ -1,0 +1,29 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBmNTZlYjg2MmJjZWRiYzg4EAAYAg%3D%3D&sigh=mMURfVKJcGRKtewyWoWzwA",
+ "popularity_percentile": 77,
+ "display_category": "",
+ "reference_vid": "f56eb862bcedbc88",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f56eb862bcedbc88",
+ "genre": "Classical",
+ "artist_url": "http://incompetech.com/",
+ "len": 165.066,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "pxxiIZFzrzkBbcJxTSUHGDqqkHLh4XlVD-wOv8xMDnxbYJQt_UdJqZUA60awDZEh",
+ "display_mood": "Calm",
+ "display_genre": "Classical",
+ "mood": "Calm",
+ "title": "Evening Fall Piano",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100235",
+ "vid": "f56eb862bcedbc88",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f56eb862bcedbc88",
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano"
+ ],
+ "album": "None"
+}

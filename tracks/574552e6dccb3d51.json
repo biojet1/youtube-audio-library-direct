@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "574552e6dccb3d51",
+ "downloadable": true,
+ "fp_ref_id": "574552e6dccb3d51",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=574552e6dccb3d51",
+ "album": "None",
+ "artist": "Topher Mohr and Alex Elena",
+ "display_mood": "Funky",
+ "streamid": "WxrZ3TLdfkj_qIKUIIKAC5EFb9rVbMlY-JR_Sq-NkZ_DWS9EvJIkJSqnRjZds3qb",
+ "mood": "Funky",
+ "title": "Kula",
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "R&B & Soul",
+ "reference_vid": "574552e6dccb3d51",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 219.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiuDRIWChA1NzQ1NTJlNmRjY2IzZDUxEAAYAg%3D%3D&sigh=57Ym605WoRIyRM1rBVbAhw"
+}

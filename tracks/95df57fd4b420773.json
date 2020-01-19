@@ -1,0 +1,31 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "len": 140.816,
+ "mood": "Calm",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChA5NWRmNTdmZDRiNDIwNzczEAAYAg%3D%3D&sigh=p-jma2MSbKUp8z6fAPExmA",
+ "genre": "Pop",
+ "streamid": "IDLNn2qgbRxHiJuABlic-JMJfMYBbZdCaK3KL9D8cJMeYHR4WIp7ItJ1_F5pwGPX",
+ "downloadable": true,
+ "fp_ref_id": "95df57fd4b420773",
+ "vid": "95df57fd4b420773",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Pop",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95df57fd4b420773",
+ "category": "",
+ "reference_vid": "95df57fd4b420773",
+ "title": "I Wear Headphones",
+ "artist": "Silent Partner",
+ "track_url": ""
+}

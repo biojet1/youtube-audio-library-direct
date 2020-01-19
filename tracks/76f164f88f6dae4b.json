@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChA3NmYxNjRmODhmNmRhZTRiEAAYAg%3D%3D&sigh=9YfkOfQ3yuxsQFy0Tcsayg",
+ "title": "Cortosis - Scoring Action",
+ "vid": "76f164f88f6dae4b",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "RK78OMbpIriadU_DDWmfRSZkUJbj74v3jYYypbVdSsT41sLDTuYYBdH1uSk9L04n",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=76f164f88f6dae4b",
+ "instruments": [
+  "Trumpet",
+  "Bass",
+  "Drums"
+ ],
+ "display_mood": "Dramatic",
+ "len": 153.15,
+ "genre": "Cinematic",
+ "fp_ref_id": "76f164f88f6dae4b",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100815",
+ "album": "None",
+ "display_genre": "Cinematic",
+ "reference_vid": "76f164f88f6dae4b",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 76
+}

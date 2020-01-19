@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 0,
+ "vid": "0ecb294d80afd39e",
+ "fp_ref_id": "0ecb294d80afd39e",
+ "album": "None",
+ "streamid": "DA5KnepBSsgNcN3lBiNpZ-M2x-N0qVhCA-Yx3M8adgZFIXGOUN0de7SU3UwqnDCJ",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Ambient",
+ "instruments": [
+  "Drums",
+  "Flute"
+ ],
+ "artist": "Jingle Punks",
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0ecb294d80afd39e",
+ "downloadable": true,
+ "display_genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMA-EhYKEDBlY2IyOTRkODBhZmQzOWUQABgC&sigh=kVPYg5e-XtkhGIPe1UN7Qw",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 8.15,
+ "reference_vid": "0ecb294d80afd39e",
+ "title": "Garden Walk (Sting)",
+ "favorite": false,
+ "track_url": ""
+}

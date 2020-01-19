@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Density & Time",
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "downloadable": true,
+ "fp_ref_id": "87b251410c1cfe3d",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA4N2IyNTE0MTBjMWNmZTNkEAAYAg%3D%3D&sigh=0AwHFhgDEy4rdKxybx772w",
+ "favorite": false,
+ "genre": "Pop",
+ "category": "",
+ "vid": "87b251410c1cfe3d",
+ "streamid": "-KZdhYTtxUZ0p81E--sNRdMMpnX6ef2enDSwUoLnx2Jb3wGKUqOw4tE7PrYVgae0",
+ "mood": "Funky",
+ "reference_vid": "87b251410c1cfe3d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=87b251410c1cfe3d",
+ "title": "YACHT",
+ "display_mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "display_category": "",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Flute",
+  "Analog Polyphonic Synthesizer"
+ ],
+ "len": 126,
+ "album": "None",
+ "track_url": ""
+}

@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "acoustic guitar",
+  "strings",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cf91735f9b06e69d",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Silent Partner",
+ "len": 150.25,
+ "display_category": "",
+ "display_genre": "Ambient",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "ptsjmhSlp1yIlvxUyysROlyQIE8RS_3aA6jCKVhcBXm-mxmaow5yntJnd8Vlk7H0",
+ "category": "",
+ "title": "Calm",
+ "display_mood": "Calm",
+ "favorite": false,
+ "reference_vid": "cf91735f9b06e69d",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBjZjkxNzM1ZjliMDZlNjlkEAAYAg%3D%3D&sigh=4DlC1TQQhDSYA5HEyqBhwA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "cf91735f9b06e69d",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "cf91735f9b06e69d"
+}

@@ -1,0 +1,32 @@
+{
+ "vid": "88e64ee4953652d1",
+ "downloadable": true,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "len": 64.05,
+ "artist_channel_url": null,
+ "fp_ref_id": "88e64ee4953652d1",
+ "display_genre": "Rock",
+ "artist": "Jingle Punks",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID0AxIWChA4OGU2NGVlNDk1MzY1MmQxEAAYAg%3D%3D&sigh=fzSJTjT_fmnpiTWjvQTgog",
+ "display_mood": "Angry",
+ "display_category": "",
+ "title": "Fiend",
+ "album": "None",
+ "reference_vid": "88e64ee4953652d1",
+ "mood": "Angry",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=88e64ee4953652d1",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_url": "",
+ "popularity_percentile": 54,
+ "genre": "Rock",
+ "streamid": "_vlDDQBKGOQ0o5cJ85mcQA-1YML3-c1bAmacvqEZUB1tC-qjvdFOd8zemaP2lbOd"
+}

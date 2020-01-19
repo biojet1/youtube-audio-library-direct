@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "1d3dea4bef909676",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1d3dea4bef909676",
+ "fp_ref_id": "1d3dea4bef909676",
+ "genre": "Classical",
+ "album": "None",
+ "title": "Divertimento K131",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100533",
+ "display_mood": "Bright",
+ "streamid": "THvluR45BndKRJzlsT9PErCfHx_rszJx7obMNoCgT5xj6LvbiXLCsaEYTExDSv3x",
+ "artist": "Kevin MacLeod",
+ "mood": "Bright",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "1d3dea4bef909676",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAxZDNkZWE0YmVmOTA5Njc2EAAYAg%3D%3D&sigh=Gw-dMXjorck6yVRgZ0Bsug",
+ "display_category": "",
+ "len": 122.433,
+ "display_genre": "Classical"
+}

@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChA0NTYyMjk1MzA0NTRhZmZkEAAYAg%3D%3D&sigh=rWYtTEC1XyIPUjkLhkRTQQ",
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "vJW-ukP8j33yaZXdAMWHqWU2EwE7CEj1QmxJTthihC-L9PvQ_ouymtnMieQ_2EV7",
+ "artist": "Silent Partner",
+ "len": 121.116,
+ "genre": "Rock",
+ "mood": "Angry",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "456229530454affd",
+ "reference_vid": "456229530454affd",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=456229530454affd",
+ "fp_ref_id": "456229530454affd",
+ "display_mood": "Angry",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Drop and Roll",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "vid": "faa4478025adf97a",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjwDBIWChBmYWE0NDc4MDI1YWRmOTdhEAAYAg%3D%3D&sigh=C8Jw0SeAPRbfPqB_ZFf-6w",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "artist_channel_url": "/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "track_url": "",
+ "streamid": "gIm6dtQAKO_3w2ZO4gyxqV7y9uR4kx5GtmA1N0dFh-Nkyubzholy3NbAtSLA_NzC",
+ "len": 211,
+ "genre": "Dance & Electronic",
+ "artist": "Andrew Huang",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Drum & Bass",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=faa4478025adf97a",
+ "reference_vid": "faa4478025adf97a",
+ "popularity_percentile": 99,
+ "fp_ref_id": "faa4478025adf97a",
+ "display_mood": "Funky"
+}

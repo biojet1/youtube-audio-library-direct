@@ -1,0 +1,32 @@
+{
+ "mood": "Inspirational",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChA0NzQ4NDk5MWI0YWZlMjExEAAYAg%3D%3D&sigh=MLXQU4O8vcwynkPeFCLeAA",
+ "display_mood": "Inspirational",
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=47484991b4afe211",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Dan Lebowitz",
+ "title": "In the Distance",
+ "reference_vid": "47484991b4afe211",
+ "instruments": [
+  "drums",
+  "acoustic guitar",
+  "bass",
+  "electric guitar"
+ ],
+ "display_genre": "Rock",
+ "fp_ref_id": "47484991b4afe211",
+ "vid": "47484991b4afe211",
+ "category": "",
+ "streamid": "4ljDxNDiuT5y5RPEL_Kq-BelNMgT1pt6yVdjQIsSFzL82BHWyoCM1R-7L9-L_idA",
+ "popularity_percentile": 99,
+ "len": 159.666,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

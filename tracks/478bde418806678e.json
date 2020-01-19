@@ -1,0 +1,32 @@
+{
+ "mood": "Calm",
+ "reference_vid": "478bde418806678e",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjECxIWChA0NzhiZGU0MTg4MDY2NzhlEAAYAg%3D%3D&sigh=Ucma653aI1efzKiGk4HAoQ",
+ "display_mood": "Calm",
+ "title": "Water Lillies",
+ "artist": "Density & Time",
+ "is_new_track": false,
+ "len": 189,
+ "genre": "Ambient",
+ "display_genre": "Ambient",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "478bde418806678e",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=478bde418806678e",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "license_type": 1,
+ "instruments": [
+  "modular synth",
+  "Electric Guitar",
+  "drums",
+  "analog bass synth"
+ ],
+ "fp_ref_id": "478bde418806678e",
+ "streamid": "qOJTLXfEDlvD0izRmPOulFRRJOZ7QcSB2M3Ew5ngUHSnNjMmpQ8RNpLMJDf1KhjU"
+}

@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "len": 103.983,
+ "mood": "Dramatic",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA5NDc5MmM4ZmM0YTI5ZmYxEAAYAg%3D%3D&sigh=wf2R8y-zlYyp08sOxxNMFA",
+ "genre": "Cinematic",
+ "streamid": "pD1ulv2L2R3eNN-fR_eGP7jueMbUTC2OiHFFf0DcMiT1D2TCi6w87QBhU5WJoICs",
+ "downloadable": true,
+ "fp_ref_id": "94792c8fc4a29ff1",
+ "vid": "94792c8fc4a29ff1",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass",
+  "Trumpet"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=94792c8fc4a29ff1",
+ "category": "",
+ "reference_vid": "94792c8fc4a29ff1",
+ "title": "Pedro Versus the World",
+ "artist": "Jingle Punks",
+ "track_url": ""
+}

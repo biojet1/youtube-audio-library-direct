@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 111.2,
+ "category": "",
+ "title": "Right Place, Right Time",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b46005dffe0f2af4",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "album": "None",
+ "reference_vid": "b46005dffe0f2af4",
+ "fp_ref_id": "b46005dffe0f2af4",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChBiNDYwMDVkZmZlMGYyYWY0EAAYAg%3D%3D&sigh=J08dNJAlYfV5hs34rHvoKQ",
+ "license_type": 0,
+ "mood": "Funky",
+ "vid": "b46005dffe0f2af4",
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 70,
+ "display_mood": "Funky",
+ "streamid": "D2N7SGK4cF0kyKfu0cUFrwkAoD5gQqdz81RM5dgmD0_J38s-8yZALyDYSCDNEGPF"
+}

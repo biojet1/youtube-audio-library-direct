@@ -1,0 +1,30 @@
+{
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=64e18500a4c49409",
+ "artist_url": "",
+ "downloadable": true,
+ "len": 8.15,
+ "album": "None",
+ "mood": "Dark",
+ "artist": "Jingle Punks",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMA-EhYKEDY0ZTE4NTAwYTRjNDk0MDkQABgC&sigh=fHCEewZWZrIxgqs8XtDt3g",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "64e18500a4c49409",
+ "title": "Foreign Land (Sting)",
+ "vid": "64e18500a4c49409",
+ "display_mood": "Dark",
+ "reference_vid": "64e18500a4c49409",
+ "instruments": [
+  "Drums",
+  "Strings"
+ ],
+ "is_new_track": false,
+ "streamid": "9VNxu2Gilu_hc7OEwikj569PnzN056wkZr86zHUve5WHesMgV8vlODUaIe5MgLL7",
+ "category": ""
+}

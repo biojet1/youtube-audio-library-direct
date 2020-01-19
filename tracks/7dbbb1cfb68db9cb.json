@@ -1,0 +1,31 @@
+{
+ "display_genre": "Children's",
+ "streamid": "g-EQ0q8m2SHdtc8uOU1I8soR5tYvqiiwYnDd3Zh2j7PnNFuNrKA4iKyAa6FtAK_2",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "7dbbb1cfb68db9cb",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "7dbbb1cfb68db9cb",
+ "genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChA3ZGJiYjFjZmI2OGRiOWNiEAAYAg%3D%3D&sigh=TcxppMPpcGHpP8qlOOpdqA",
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7dbbb1cfb68db9cb",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Audionautix",
+ "mood": "Happy",
+ "title": "Busybody",
+ "len": 88.983,
+ "vid": "7dbbb1cfb68db9cb",
+ "track_url": ""
+}

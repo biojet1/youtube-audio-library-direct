@@ -1,0 +1,31 @@
+{
+ "display_genre": "Pop",
+ "vid": "d8001054a1d5843e",
+ "is_new_track": false,
+ "category": "",
+ "len": 175,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8001054a1d5843e",
+ "streamid": "RJWgRO7Drhuf3_0fmy2gmnl-HNQ7EHQK5dnmDOj1Ds1NYjH12D8DF6b8OdnGc5hC",
+ "reference_vid": "d8001054a1d5843e",
+ "downloadable": true,
+ "track_url": "",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "license_type": 1,
+ "display_mood": "Happy",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "favorite": false,
+ "mood": "Happy",
+ "artist": "Coyote Hearing",
+ "fp_ref_id": "d8001054a1d5843e",
+ "title": "Nobody Calls It San Fran",
+ "genre": "Pop",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChBkODAwMTA1NGExZDU4NDNlEAAYAg%3D%3D&sigh=PTgu10L1DvrLPHk5d03FRg"
+}

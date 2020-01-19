@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "vid": "ca263e1b705d8bde",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "ca263e1b705d8bde",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100303",
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIjWGhIWChBjYTI2M2UxYjcwNWQ4YmRlEAAYAg%3D%3D&sigh=NwDbFIMYzhyU6I0bKlvwRQ",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Strings"
+ ],
+ "title": "Brandenburg Concerto No4-1 BWV1049 - Classical Whimsical",
+ "downloadable": true,
+ "streamid": "_DT9x_qHXKjLxkpMeH3fct20RVSubxiaCQUroaUADZHtgOQs2k7SAmQfi3e1HaLN",
+ "genre": "Classical",
+ "len": 437.6,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ca263e1b705d8bde",
+ "popularity_percentile": 38,
+ "reference_vid": "ca263e1b705d8bde",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Happy"
+}

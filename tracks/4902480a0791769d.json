@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4902480a0791769d",
+ "display_category": "",
+ "fp_ref_id": "4902480a0791769d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4902480a0791769d",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Bright",
+ "instruments": [
+  "Synth",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChA0OTAyNDgwYTA3OTE3NjlkEAAYAg%3D%3D&sigh=WtDK56DSaKy2M9Fwd7qaXQ",
+ "streamid": "e3mmfZx9Ya5l1LL4TYDBIUMYjzF4dnwSXnhUxRkvLuLXeVICjDdJz5j5vIVEJ83m",
+ "genre": "Ambient",
+ "vid": "4902480a0791769d",
+ "artist": "Bird Creek",
+ "display_genre": "Ambient",
+ "title": "Night Vision",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 111.016,
+ "display_mood": "Bright",
+ "downloadable": true
+}

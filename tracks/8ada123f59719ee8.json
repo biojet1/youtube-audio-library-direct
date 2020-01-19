@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "vid": "8ada123f59719ee8",
+ "album": "None",
+ "artist_channel_url": "/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist_url": "https://www.youtube.com/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist": "Nate Blaze",
+ "genre": "Ambient",
+ "fp_ref_id": "8ada123f59719ee8",
+ "streamid": "abrEi-zF5QLmzF89g8XjpO4to1MPTFLTd_G-q1TdHJdG40YkJwQmSpsHZyLxXHjx",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChA4YWRhMTIzZjU5NzE5ZWU4EAAYAg%3D%3D&sigh=0dBJyDWR4trciOQsL-yGdQ",
+ "display_category": "",
+ "display_genre": "Ambient",
+ "category": "",
+ "downloadable": true,
+ "title": "Bright Morning",
+ "track_url": "",
+ "len": 104,
+ "popularity_percentile": 99,
+ "reference_vid": "8ada123f59719ee8",
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ada123f59719ee8",
+ "instruments": [
+  "piano"
+ ],
+ "is_new_track": false
+}

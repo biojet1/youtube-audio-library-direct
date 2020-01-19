@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "80b08b6482778710",
+ "display_genre": "Dance & Electronic",
+ "artist": "Twin Musicom",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChA4MGIwOGI2NDgyNzc4NzEwEAAYAg%3D%3D&sigh=PAiHf9KdqT31iFSNrNg13A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=80b08b6482778710",
+ "len": 154.433,
+ "mood": "Dark",
+ "title": "Big Bird's Disease",
+ "vid": "80b08b6482778710",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 6,
+ "artist_url": "http://www.twinmusicom.org/",
+ "genre": "Dance & Electronic",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "80b08b6482778710",
+ "streamid": "AKsrkusUDTnqPIgjK2ZnK2cjNNt8yVnYPq6PJ9LFKsTd0WoAFkN6nDTKNR6YswLp"
+}

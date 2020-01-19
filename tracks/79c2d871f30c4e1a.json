@@ -1,0 +1,32 @@
+{
+ "display_genre": "Cinematic",
+ "streamid": "MVhME2FhrZx28l5FzLa5NBgm8TosMsss3adSTQQS_x5cFvjyDreMqA2e6z5y2MbW",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "79c2d871f30c4e1a",
+ "instruments": [
+  "Piano",
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "79c2d871f30c4e1a",
+ "genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDZDBIWChA3OWMyZDg3MWYzMGM0ZTFhEAAYAg%3D%3D&sigh=l3BMxjmg91OU_KEk11ZDSQ",
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=79c2d871f30c4e1a",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "mood": "Dramatic",
+ "title": "Anamalie",
+ "len": 208.283,
+ "vid": "79c2d871f30c4e1a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500007"
+}

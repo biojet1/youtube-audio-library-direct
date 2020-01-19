@@ -1,0 +1,29 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100160",
+ "mood": "Happy",
+ "len": 90.983,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "_s1ZAgeeLzvzs2Wc9L7EJRt9Vy601TW3-4bImlHnBCbL6GCZfmY-M9AmPWakKW4r",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChAwMzJhNmVlZDEzNDNhYmRhEAAYAg%3D%3D&sigh=v3GQsK49pD_pK3UuNlaNaw",
+ "reference_vid": "032a6eed1343abda",
+ "title": "Midday Dance",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=032a6eed1343abda",
+ "vid": "032a6eed1343abda",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "032a6eed1343abda",
+ "display_mood": "Happy",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Piano"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Classical",
+ "license_type": 6,
+ "genre": "Classical"
+}

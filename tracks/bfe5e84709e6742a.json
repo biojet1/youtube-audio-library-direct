@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCR8WNU7NJOQYJMfQgBAUSqg",
+ "len": 226,
+ "vid": "bfe5e84709e6742a",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "bfe5e84709e6742a",
+ "album": "None",
+ "display_mood": "Bright",
+ "artist_channel_url": "/channel/UCR8WNU7NJOQYJMfQgBAUSqg",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDlDRIWChBiZmU1ZTg0NzA5ZTY3NDJhEAAYAg%3D%3D&sigh=3tkSTwaiUMe2PeZF7b7tGA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bfe5e84709e6742a",
+ "mood": "Bright",
+ "genre": "R&B & Soul",
+ "title": "Moonquake",
+ "display_genre": "R&B & Soul",
+ "artist": "Nana Kwabena",
+ "reference_vid": "bfe5e84709e6742a",
+ "streamid": "zHqKwk9fIPPr4t-tlZZDPQI-KS6DHlvw-nuv8ET21n_MZSI8_2756OVjU3eHKwzm"
+}

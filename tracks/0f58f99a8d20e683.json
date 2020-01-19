@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "reference_vid": "0f58f99a8d20e683",
+ "mood": "Inspirational",
+ "display_category": "",
+ "len": 276.7,
+ "category": "",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Piano"
+ ],
+ "genre": "Pop",
+ "track_url": "",
+ "streamid": "_JaUqR7IuCjEp-hNmFhwZC_GkxC6H-jxNCLa16q_HhjAvvuFc5VMGFf8p3q2U16g",
+ "vid": "0f58f99a8d20e683",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0f58f99a8d20e683",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCi0uheSErbivC3_662UqL-w",
+ "fp_ref_id": "0f58f99a8d20e683",
+ "artist_channel_url": "/channel/UCi0uheSErbivC3_662UqL-w",
+ "title": "Streamline",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDsEBIWChAwZjU4Zjk5YThkMjBlNjgzEAAYAg%3D%3D&sigh=O65k2S_AgejoluzXGJMh3w",
+ "popularity_percentile": 99,
+ "artist": "Eveningland"
+}

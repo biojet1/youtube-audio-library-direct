@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "84b6bf342a3d5725",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "84b6bf342a3d5725",
+ "title": "Alaska Sky",
+ "mood": "Bright",
+ "len": 126,
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "artist": "Patrick Patrikios",
+ "fp_ref_id": "84b6bf342a3d5725",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "license_type": 1,
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "electric guitar"
+ ],
+ "streamid": "k6MenZ2n1aEZvkMjZHVo_jX1qvlwTTdrRIwugGhzo1-jdzMtxrst-gBjT4z5RgCT",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=84b6bf342a3d5725",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA4NGI2YmYzNDJhM2Q1NzI1EAAYAg%3D%3D&sigh=xdiM7HZ9K8KjTtOIdjMkLA"
+}

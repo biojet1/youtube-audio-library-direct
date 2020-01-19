@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "favorite": false,
+ "fp_ref_id": "263e63564b8745b8",
+ "instruments": [
+  "Trumpet"
+ ],
+ "streamid": "3fD1PHQHbtnHs_G0wJNauT1c3T0yR2L8teaHuzBm7bP0hc-fjikKUWiXDfuNU7Ij",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=263e63564b8745b8",
+ "album": "None",
+ "mood": "Inspirational",
+ "downloadable": true,
+ "artist": "The U.S. Army Band",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 64.65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID0AxIWChAyNjNlNjM1NjRiODc0NWI4EAAYAg%3D%3D&sigh=XsEUgk1n-i7S0KklmmquBQ",
+ "reference_vid": "263e63564b8745b8",
+ "popularity_percentile": 15,
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "track_url": "",
+ "title": "Auld Lang Syne",
+ "category": "",
+ "vid": "263e63564b8745b8"
+}

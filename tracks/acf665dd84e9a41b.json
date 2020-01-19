@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "acf665dd84e9a41b",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChBhY2Y2NjVkZDg0ZTlhNDFiEAAYAg%3D%3D&sigh=NbNBUPpxA-B-wjFznE0uDA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=acf665dd84e9a41b",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Pop",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "strings"
+ ],
+ "reference_vid": "acf665dd84e9a41b",
+ "category": "",
+ "len": 90.533,
+ "vid": "acf665dd84e9a41b",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "mood": "Happy",
+ "license_type": 0,
+ "genre": "Pop",
+ "title": "Someone Your Own Size",
+ "is_new_track": false,
+ "artist": "RW Smith",
+ "streamid": "EbMiGjMPGh8kq6XmyMuk-2iZnnCokxMg6aWyITqjO2w9q1BEGHKIzEjBYkZPObJ7"
+}

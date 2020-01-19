@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "7a558e11945c0422",
+ "reference_vid": "7a558e11945c0422",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a558e11945c0422",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "rhN8I-LIduTn_9cR94do2SvPrLP_Ti1gDSp8sdji--X6SELqNnRtNMn3hGyPu2iH",
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 48,
+ "mood": "Calm",
+ "downloadable": true,
+ "vid": "7a558e11945c0422",
+ "len": 88.583,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChA3YTU1OGUxMTk0NWMwNDIyEAAYAg%3D%3D&sigh=tOJvpY5jvdyf2cH40z7BEw",
+ "display_mood": "Calm",
+ "album": "None",
+ "title": "Cafe Con Leche",
+ "display_category": ""
+}

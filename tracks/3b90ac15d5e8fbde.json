@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "reference_vid": "3b90ac15d5e8fbde",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "LIzJiwgEepPCuhL1Dv0o0Rtlsz6T7gfqcSHCB3NMbLxPf7iq89Dsvy4fdynHE-zV",
+ "display_mood": "Dramatic",
+ "genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "display_genre": "Cinematic",
+ "title": "Mumbai Effect (Sting)",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "3b90ac15d5e8fbde",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDNiOTBhYzE1ZDVlOGZiZGUQABgC&sigh=YLXILLBg4A9_U7dhOtcttA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b90ac15d5e8fbde",
+ "artist": "Jingle Punks",
+ "len": 4.416,
+ "track_url": "",
+ "fp_ref_id": "3b90ac15d5e8fbde",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "popularity_percentile": 23,
+ "display_category": ""
+}

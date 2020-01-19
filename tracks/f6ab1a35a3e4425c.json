@@ -1,0 +1,29 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f6ab1a35a3e4425c",
+ "category": "",
+ "title": "Prelude No. 8",
+ "genre": "Classical",
+ "favorite": false,
+ "reference_vid": "f6ab1a35a3e4425c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBmNmFiMWEzNWEzZTQ0MjVjEAAYAg%3D%3D&sigh=tmrnMpAHVBzBHHK8pYOZrw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "f6ab1a35a3e4425c",
+ "license_type": 6,
+ "popularity_percentile": 92,
+ "vid": "f6ab1a35a3e4425c",
+ "instruments": [
+  "Piano"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Chris Zabriskie",
+ "len": 102.416,
+ "display_mood": "Calm",
+ "display_category": "",
+ "display_genre": "Classical",
+ "artist_url": "http://chriszabriskie.com/",
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "streamid": "pfDS4J6Bk8Ukx5APFTZopMRwMRkNI1NthCfZHu_oY7ZkJCOPRI1v9cznr-VY0eLM"
+}

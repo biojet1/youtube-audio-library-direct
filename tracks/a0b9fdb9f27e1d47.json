@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "a0b9fdb9f27e1d47",
+ "downloadable": true,
+ "fp_ref_id": "a0b9fdb9f27e1d47",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0b9fdb9f27e1d47",
+ "album": "None",
+ "artist": "Twin Musicom",
+ "display_mood": "Bright",
+ "streamid": "aL9sSTFTyfwkNXkKKt10B2PhVoT7oJ_mUy-Mn9AYlnKg3-T-E2sWeftnDmLwfniZ",
+ "mood": "Bright",
+ "title": "Odd News",
+ "genre": "Classical",
+ "instruments": [
+  "Piano",
+  "Drums"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Classical",
+ "reference_vid": "a0b9fdb9f27e1d47",
+ "category": "",
+ "artist_url": "http://www.twinmusicom.org/",
+ "display_category": "",
+ "len": 59.483,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjMAxIWChBhMGI5ZmRiOWYyN2UxZDQ3EAAYAg%3D%3D&sigh=49_jgzdAMClJEGOu9WfNlg"
+}

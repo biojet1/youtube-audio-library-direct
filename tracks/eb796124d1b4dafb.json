@@ -1,0 +1,31 @@
+{
+ "artist": "Silent Partner",
+ "display_category": "",
+ "genre": "Country & Folk",
+ "vid": "eb796124d1b4dafb",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "reference_vid": "eb796124d1b4dafb",
+ "artist_url": "",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "album": "None",
+ "category": "",
+ "license_type": 0,
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "eb796124d1b4dafb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=eb796124d1b4dafb",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBlYjc5NjEyNGQxYjRkYWZiEAAYAg%3D%3D&sigh=PvOUkZrZcwqIpbRhwq6W_g",
+ "streamid": "OPq16b6Ud577eLUs0Gky-ZsZXF5IcpWJhDI_aCKMPwb4aASmCxwC0YS57_JVMeq7",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 126.316,
+ "title": "Light The Torch",
+ "favorite": false
+}

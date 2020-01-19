@@ -1,0 +1,32 @@
+{
+ "len": 228,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "track_url": "",
+ "category": "",
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fbc8742e64821b4a",
+ "title": "Freeze Frame",
+ "streamid": "Mg-vcxZw2rtzaraFUHYKjIUsLtye_FZoT7fOUo9eUQkgj7NoGloSvHAXXaKoAlBw",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChBmYmM4NzQyZTY0ODIxYjRhEAAYAg%3D%3D&sigh=MBC6Ik6YbMy7ETO0uZU-fQ",
+ "license_type": 1,
+ "fp_ref_id": "fbc8742e64821b4a",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "vid": "fbc8742e64821b4a",
+ "artist": "Stayloose",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "fbc8742e64821b4a"
+}

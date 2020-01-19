@@ -1,0 +1,31 @@
+{
+ "artist": "Audionautix",
+ "mood": "Bright",
+ "vid": "14b95fec41334033",
+ "streamid": "AXzvF30PYr2p51tWi5SirwM61MxCz42CtAt1ko6XmdMNdVhczHNKI3I__J6tox9x",
+ "display_category": "",
+ "track_url": "",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14b95fec41334033",
+ "fp_ref_id": "14b95fec41334033",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChAxNGI5NWZlYzQxMzM0MDMzEAAYAg%3D%3D&sigh=ouMCyTCj5k9x5bUDPuI3_g",
+ "len": 142.95,
+ "display_genre": "R&B & Soul",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "R&B & Soul",
+ "reference_vid": "14b95fec41334033",
+ "title": "Closer To Jazz",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "category": "",
+ "display_mood": "Bright",
+ "popularity_percentile": 95,
+ "downloadable": true,
+ "license_type": 6
+}

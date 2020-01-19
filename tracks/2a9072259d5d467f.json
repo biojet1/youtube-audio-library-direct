@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 109.916,
+ "reference_vid": "2a9072259d5d467f",
+ "display_genre": "Jazz & Blues",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2a9072259d5d467f",
+ "instruments": [
+  "Bass",
+  "Acoustic Guitar",
+  "Drums",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChAyYTkwNzIyNTlkNWQ0NjdmEAAYAg%3D%3D&sigh=uiBXo0FqNV9lzkHnMgzGOg",
+ "display_mood": "Romantic",
+ "fp_ref_id": "2a9072259d5d467f",
+ "track_url": "",
+ "genre": "Jazz & Blues",
+ "vid": "2a9072259d5d467f",
+ "artist_channel_url": null,
+ "streamid": "rDrfKVcntmpQVRsj77217qye8XgjEoMpHXflqi40zmRbNb3mChjIa9H6_extTDiA",
+ "license_type": 0,
+ "title": "Cuban Sandwich",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Doug Maxwell/Media Right Productions",
+ "mood": "Romantic"
+}

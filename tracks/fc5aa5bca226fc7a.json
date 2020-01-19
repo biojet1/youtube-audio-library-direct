@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Angry",
+ "reference_vid": "fc5aa5bca226fc7a",
+ "streamid": "wefAK6YNnfGQbtmzUwsBTGXXj_lg6tFvH2147fzAoeZkVoCOEo9b7e-TY7_v49Vo",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPilEBIWChBmYzVhYTViY2EyMjZmYzdhEAAYAg%3D%3D&sigh=Eo4NreFZM4gl1Fhag3qfQg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc5aa5bca226fc7a",
+ "len": 267.35,
+ "genre": "Rock",
+ "instruments": [
+  "Drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "fc5aa5bca226fc7a",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Birch Run - Primal Drive",
+ "mood": "Angry",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Rock",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100600",
+ "vid": "fc5aa5bca226fc7a"
+}

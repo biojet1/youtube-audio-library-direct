@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBmNjUyNTE1OGI3ODcxYTQ0EAAYAg%3D%3D&sigh=cU69nLtmP0LiN5i3yIRZ9Q",
+ "title": "Sophomore Makeout",
+ "display_mood": "Happy",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "genre": "Pop",
+ "vid": "f6525158b7871a44",
+ "popularity_percentile": 97,
+ "reference_vid": "f6525158b7871a44",
+ "favorite": false,
+ "mood": "Happy",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Pop",
+ "category": "",
+ "fp_ref_id": "f6525158b7871a44",
+ "streamid": "XOFCyQyodHkLBUlQ3CmaJ3hcxryoT6CMR5Ip0ZF-oWmr8Lv_KoZDZftSsOY_Y3Ml",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f6525158b7871a44",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 108.916
+}

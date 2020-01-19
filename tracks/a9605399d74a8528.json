@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a9605399d74a8528",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a9605399d74a8528",
+ "fp_ref_id": "a9605399d74a8528",
+ "genre": "Holiday",
+ "album": "None",
+ "title": "Up on the Housetop (Instrumental)",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "track_url": "",
+ "display_mood": "Inspirational",
+ "streamid": "-sTqb_KJgEqi8CWvALJ6F0_LF6EHbcBJL87qvqACSMxnWE9cium8HYaB7vCl5-0q",
+ "artist": "E's Jammy Jams",
+ "mood": "Inspirational",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a9605399d74a8528",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChBhOTYwNTM5OWQ3NGE4NTI4EAAYAg%3D%3D&sigh=w_eIsICABfwGUBWfNs240w",
+ "display_category": "",
+ "len": 92.316,
+ "display_genre": "Holiday"
+}

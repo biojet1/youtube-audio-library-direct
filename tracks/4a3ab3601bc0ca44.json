@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Romantic",
+ "favorite": false,
+ "len": 94.033,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4a3ab3601bc0ca44",
+ "category": "",
+ "streamid": "t3jDnMnbQdGDL6S_sT1R2faAx0OC9FBT-6XgegNPQ_1lf4-Uw3x-sdEM6875JLAY",
+ "fp_ref_id": "4a3ab3601bc0ca44",
+ "mood": "Romantic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChA0YTNhYjM2MDFiYzBjYTQ0EAAYAg%3D%3D&sigh=OGorh0RKUDFNdLAIxegjZg",
+ "popularity_percentile": 0,
+ "reference_vid": "4a3ab3601bc0ca44",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "is_new_track": false,
+ "vid": "4a3ab3601bc0ca44",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "title": "Mi Borinquen",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist": "Doug Maxwell/Jimmy Fontanez"
+}

@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 18,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 5.15,
+ "reference_vid": "2e4a66f17beb18e3",
+ "display_genre": "Cinematic",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2e4a66f17beb18e3",
+ "instruments": [
+  "Drums",
+  "Strings"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDJlNGE2NmYxN2JlYjE4ZTMQABgC&sigh=96HyTYl8n1LOS1hjyTSIuw",
+ "display_mood": "Dark",
+ "fp_ref_id": "2e4a66f17beb18e3",
+ "track_url": "",
+ "genre": "Cinematic",
+ "vid": "2e4a66f17beb18e3",
+ "artist_channel_url": null,
+ "streamid": "nHA1xRuJVJj81EMxGlIETU4etsi1AXfBkgdECUSOsVtFoZGFL5b6zXyKkXAOiZp1",
+ "license_type": 0,
+ "title": "Casbah Towers (Sting)",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Jingle Punks",
+ "mood": "Dark"
+}

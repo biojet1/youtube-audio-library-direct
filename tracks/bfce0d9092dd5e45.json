@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "bfce0d9092dd5e45",
+ "category": "",
+ "title": "Lazy Day",
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "genre": "Country & Folk",
+ "display_mood": "Bright",
+ "streamid": "jmQN4bgdZbPHEyLWcoOiIh4bt7FrQceli4NPkGuzlTFHN71RLYfzcYyteDycnWC0",
+ "album": "None",
+ "len": 133.883,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bfce0d9092dd5e45",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBiZmNlMGQ5MDkyZGQ1ZTQ1EAAYAg%3D%3D&sigh=EK0Owm0F-bHd12Ub1l1H3w",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "bfce0d9092dd5e45",
+ "is_new_track": false,
+ "mood": "Bright",
+ "fp_ref_id": "bfce0d9092dd5e45",
+ "license_type": 6,
+ "track_url": ""
+}

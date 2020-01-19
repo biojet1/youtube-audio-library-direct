@@ -1,0 +1,31 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "vid": "f44ba48e9c93f27b",
+ "artist": "Otis McDonald",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f44ba48e9c93f27b",
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "album": "None",
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBmNDRiYTQ4ZTljOTNmMjdiEAAYAg%3D%3D&sigh=5VLYwHLE-gRSH7zfXrD72g",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Funky",
+ "title": "Not For Nothing",
+ "reference_vid": "f44ba48e9c93f27b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f44ba48e9c93f27b",
+ "track_url": "",
+ "len": 118.25,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "kM1qg6pwea6lWfqo1UFKt_xRbr45AbCk5i9brnejFQgLdl0JneEiJQZ-aFLW8bKR"
+}

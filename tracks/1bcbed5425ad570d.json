@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1bcbed5425ad570d",
+ "fp_ref_id": "1bcbed5425ad570d",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1bcbed5425ad570d",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "len": 196.05,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD7CxIWChAxYmNiZWQ1NDI1YWQ1NzBkEAAYAg%3D%3D&sigh=3nZuKUtEQiMoq9gJ6r7q_A",
+ "album": "None",
+ "title": "How About It",
+ "popularity_percentile": 11,
+ "streamid": "APman8GpFxY-iI4_8AY96uLK0v3OGILlf-QbU6XY-8Ff6GPJrAmkcqDEDVNC8FXY",
+ "mood": "Happy",
+ "genre": "Pop",
+ "category": "",
+ "favorite": false,
+ "vid": "1bcbed5425ad570d",
+ "track_url": "",
+ "display_genre": "Pop",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Topher Mohr and Alex Elena"
+}

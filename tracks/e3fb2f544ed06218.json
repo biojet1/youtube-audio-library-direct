@@ -1,0 +1,30 @@
+{
+ "mood": "Dark",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChBlM2ZiMmY1NDRlZDA2MjE4EAAYAg%3D%3D&sigh=Rj-JDrLpzK_I3h4Y1u2pbg",
+ "display_mood": "Dark",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e3fb2f544ed06218",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Houses of Heaven",
+ "title": "A Chase",
+ "reference_vid": "e3fb2f544ed06218",
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "e3fb2f544ed06218",
+ "vid": "e3fb2f544ed06218",
+ "category": "",
+ "streamid": "9A7ooKFrlzj6lLD6140cYXqy63SPpv5PgGTb8lXUXy6YxmT6zNunTpraAr357NVb",
+ "popularity_percentile": 99,
+ "len": 166,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

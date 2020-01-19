@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Synth"
+ ],
+ "album": "None",
+ "artist": "Jingle Punks",
+ "downloadable": true,
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "len": 67.683,
+ "reference_vid": "df0e80874c295fc3",
+ "fp_ref_id": "df0e80874c295fc3",
+ "display_genre": "R&B & Soul",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "df0e80874c295fc3",
+ "category": "",
+ "title": "Everythings Nice",
+ "genre": "R&B & Soul",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=df0e80874c295fc3",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiLBBIWChBkZjBlODA4NzRjMjk1ZmMzEAAYAg%3D%3D&sigh=EudIeZm0xonduqnNT5RLwA",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "ZvWHvJMdS4zZBIMaGUHNmexBwt3oIHh4pOu8OXBHPZaSjMqeDdpRstw7PmX4MOe1"
+}

@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "46fdc0b0922810f3",
+ "display_category": "",
+ "fp_ref_id": "46fdc0b0922810f3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=46fdc0b0922810f3",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 28,
+ "mood": "Inspirational",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Bass",
+  "Ogan"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChA0NmZkYzBiMDkyMjgxMGYzEAAYAg%3D%3D&sigh=9TabOsGQ18Zx5VUL4zKimw",
+ "streamid": "Qyy7eoq1-eWqP7z__xJiVRD1AekQga8K75szXddKbPiam_P-ZvCBlk__KWiGhKg_",
+ "genre": "Holiday",
+ "vid": "46fdc0b0922810f3",
+ "artist": "Jingle Punks",
+ "display_genre": "Holiday",
+ "title": "Jingle Bells (Instrumental)",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 144.583,
+ "display_mood": "Inspirational",
+ "downloadable": true
+}

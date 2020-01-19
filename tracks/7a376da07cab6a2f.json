@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "7a376da07cab6a2f",
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "7a376da07cab6a2f",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano",
+  "electric guitar"
+ ],
+ "display_genre": "Pop",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a376da07cab6a2f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA3YTM3NmRhMDdjYWI2YTJmEAAYAg%3D%3D&sigh=Q316Fc3h7pA4GYcIFKCXMw",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "vid": "7a376da07cab6a2f",
+ "len": 164,
+ "mood": "Dramatic",
+ "streamid": "kKLRC1kB3fTG_Txv8YVv2PMHDT1UAI-8rkE4LV1Tj9cfh_bZPtv64k9QVX7odFO0",
+ "artist": "Patrick Patrikios",
+ "is_new_track": false,
+ "title": "Jukebox",
+ "genre": "Pop",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

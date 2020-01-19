@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Classical",
+ "streamid": "aoGv-9YuDOcKB34ixtHVw6t_owQrJ03y6y--LlXxeUyy8G7YBKwRR0vvenoV2sdI",
+ "reference_vid": "faffc5e310ee619f",
+ "track_url": "http://www.twinmusicom.org/song/277/dial-m",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=faffc5e310ee619f",
+ "artist_channel_url": null,
+ "artist_url": "http://www.twinmusicom.org",
+ "license_type": 6,
+ "artist": "Twin Musicom",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChBmYWZmYzVlMzEwZWU2MTlmEAAYAg%3D%3D&sigh=xW8HJL5cHFs4lwmVTiuLMA",
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "display_category": "",
+ "title": "Dial M",
+ "album": "None",
+ "vid": "faffc5e310ee619f",
+ "downloadable": true,
+ "instruments": [
+  "Organ"
+ ],
+ "favorite": false,
+ "len": 161.05,
+ "fp_ref_id": "faffc5e310ee619f",
+ "display_genre": "Classical"
+}

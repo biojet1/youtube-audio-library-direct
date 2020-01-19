@@ -1,0 +1,31 @@
+{
+ "streamid": "SlD3u1aTAlR5CwB9CuwAUuA6XQeVIxPSHE77dyLUcgSGL_r99ZvNzlzUOF0YmhnW",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 207.383,
+ "track_url": "",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ea668cee714dd2db",
+ "display_category": "",
+ "reference_vid": "ea668cee714dd2db",
+ "title": "Nice And Easy",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjRDBIWChBlYTY2OGNlZTcxNGRkMmRiEAAYAg%3D%3D&sigh=6VdiBP85eUUU30a-oB70hg",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "category": "",
+ "display_mood": "Calm",
+ "favorite": false,
+ "fp_ref_id": "ea668cee714dd2db",
+ "artist": "Audionautix",
+ "vid": "ea668cee714dd2db",
+ "artist_url": "http://audionautix.com/",
+ "genre": "Pop",
+ "license_type": 6,
+ "display_genre": "Pop"
+}

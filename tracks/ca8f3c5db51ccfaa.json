@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "fp_ref_id": "ca8f3c5db51ccfaa",
+ "artist_channel_url": "/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "reference_vid": "ca8f3c5db51ccfaa",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 112,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChBjYThmM2M1ZGI1MWNjZmFhEAAYAg%3D%3D&sigh=dU5U_EYPC0Qgk0h61zSqpw",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ca8f3c5db51ccfaa",
+ "instruments": [
+  "808",
+  "drums",
+  "synth",
+  "vocal chops"
+ ],
+ "title": "Power",
+ "genre": "Hip Hop & Rap",
+ "streamid": "32js-Eaa1Cjr4i492QE4z8sNBzsP0ovItsEllKbj11z_6xJafawLOaznqS9Vx-_g",
+ "vid": "ca8f3c5db51ccfaa",
+ "display_genre": "Hip Hop & Rap",
+ "mood": "Funky",
+ "license_type": 1,
+ "artist": "Rick Steel"
+}

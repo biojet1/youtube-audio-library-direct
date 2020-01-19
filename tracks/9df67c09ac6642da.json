@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9df67c09ac6642da",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA5ZGY2N2MwOWFjNjY0MmRhEAAYAg%3D%3D&sigh=EH0McMv3_1ihMrRv0dR4ZQ",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9df67c09ac6642da",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_genre": "Pop",
+ "vid": "9df67c09ac6642da",
+ "downloadable": true,
+ "title": "Street Lamp",
+ "reference_vid": "9df67c09ac6642da",
+ "artist_url": "",
+ "len": 164.35,
+ "artist": "Silent Partner",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "5wDPyE3MAl5LKnWEqzS5Au8gsiFliF8IOj8dkg5SsAEA-8DKvmNlahPg1WrVQGNY",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "genre": "Pop",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

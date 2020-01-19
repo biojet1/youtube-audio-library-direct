@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "741650dd8b2ce8ef",
+ "display_genre": "Classical",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKicDhIWChA3NDE2NTBkZDhiMmNlOGVmEAAYAg%3D%3D&sigh=oAxbK3PEzMlk-O1ZKz46Uw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=741650dd8b2ce8ef",
+ "len": 233.316,
+ "mood": "Bright",
+ "title": "Hyperfun",
+ "vid": "741650dd8b2ce8ef",
+ "category": "",
+ "downloadable": true,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400038",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Classical",
+ "display_mood": "Bright",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Drums"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "741650dd8b2ce8ef",
+ "streamid": "OmtyWFMgzQNMwLJz-LzukSIBXIrcgV0q9JObOS5HqNjF4Mgz5RaKgSqRBJhXECOJ"
+}

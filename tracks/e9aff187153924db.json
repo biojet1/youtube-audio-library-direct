@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e9aff187153924db",
+ "category": "",
+ "title": "In Albany New York",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Acoustic Guitar",
+  "Organ",
+  "Strings",
+  "Synth"
+ ],
+ "genre": "Ambient",
+ "display_mood": "Calm",
+ "streamid": "3koqPTeMG5n5JjXnSw_4mlMol2TyrgubJ-GCsLZPoTOhxuaOSTec6-ivDVzpTZ5j",
+ "album": "None",
+ "len": 133.816,
+ "artist": "The 126ers",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e9aff187153924db",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBlOWFmZjE4NzE1MzkyNGRiEAAYAg%3D%3D&sigh=uG_Un9fh4BcGYUM5iGmG9Q",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e9aff187153924db",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "e9aff187153924db",
+ "license_type": 0,
+ "track_url": ""
+}

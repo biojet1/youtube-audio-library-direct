@@ -1,0 +1,31 @@
+{
+ "mood": "Angry",
+ "artist": "John Deley and the 41 Players",
+ "vid": "8521efd5436c2168",
+ "display_category": "",
+ "streamid": "oa8ENougUptWEyciolwIac_xDWk1Nv5IE07Wgvi3oLytV5Yx0qliYHmLmDMgv3Yd",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8521efd5436c2168",
+ "fp_ref_id": "8521efd5436c2168",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChA4NTIxZWZkNTQzNmMyMTY4EAAYAg%3D%3D&sigh=BW6lzT-CMCTVkX3drryjxQ",
+ "display_genre": "Rock",
+ "len": 183.65,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "8521efd5436c2168",
+ "title": "Thud",
+ "genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Angry",
+ "popularity_percentile": 52
+}

@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "artist": "The 126ers",
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "downloadable": true,
+ "fp_ref_id": "849e40d5bdce82ba",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChA4NDllNDBkNWJkY2U4MmJhEAAYAg%3D%3D&sigh=6ti9LVpnVH8ZrN7rEPNCiw",
+ "favorite": false,
+ "genre": "Pop",
+ "category": "",
+ "vid": "849e40d5bdce82ba",
+ "streamid": "QabAdZqAhh883P9BmJpRKDuwZLfQx84Eh1E9dl8qv4tWAp96396C5c96fXnOo6HY",
+ "mood": "Calm",
+ "reference_vid": "849e40d5bdce82ba",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=849e40d5bdce82ba",
+ "title": "Back In The City",
+ "display_mood": "Calm",
+ "artist_url": "",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "display_category": "",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Keyboards",
+  "Guitar",
+  "Piano"
+ ],
+ "len": 165,
+ "album": "None",
+ "track_url": ""
+}

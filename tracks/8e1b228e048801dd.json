@@ -1,0 +1,29 @@
+{
+ "track_url": "",
+ "vid": "8e1b228e048801dd",
+ "streamid": "b87fNbJj21jZS6J6yjBCvb1jNZw437nQFuJ4OJBM6GvkWcAx81LV2Uph5CQN-bgc",
+ "title": "Kallimachou",
+ "category": "",
+ "len": 108,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChA4ZTFiMjI4ZTA0ODgwMWRkEAAYAg%3D%3D&sigh=OZ3ncYv-0WBnQ_hdpsOt7A",
+ "artist": "Dan Bodan",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "reference_vid": "8e1b228e048801dd",
+ "display_mood": "Dramatic",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8e1b228e048801dd",
+ "instruments": [
+  "synth"
+ ],
+ "genre": "Classical",
+ "display_genre": "Classical",
+ "fp_ref_id": "8e1b228e048801dd",
+ "favorite": false,
+ "mood": "Dramatic"
+}

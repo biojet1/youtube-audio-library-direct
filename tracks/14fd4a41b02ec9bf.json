@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "mood": "Dark",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCcARIWChAxNGZkNGE0MWIwMmVjOWJmEAAYAg%3D%3D&sigh=GSDcAd23yZsCfi-Z27nXOw",
+ "title": "Eyes Gone Wrong",
+ "vid": "14fd4a41b02ec9bf",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "2aRXVRfGWt2YuvnrjBCIFN5gNOWz4OsNGx0L5oNxzvJtBTGStdj25dMbp7Ma4TBT",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14fd4a41b02ec9bf",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Dark",
+ "len": 20.05,
+ "genre": "Cinematic",
+ "fp_ref_id": "14fd4a41b02ec9bf",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100362",
+ "album": "None",
+ "display_genre": "Cinematic",
+ "reference_vid": "14fd4a41b02ec9bf",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 76
+}

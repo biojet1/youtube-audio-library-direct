@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCdUFOWuiZxD9RYnYSq1Xm0Q",
+ "len": 177,
+ "vid": "05a17e6bb926de7f",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "synth",
+  "808",
+  "flute",
+  "drums",
+  "bass"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "05a17e6bb926de7f",
+ "album": "None",
+ "display_mood": "Dark",
+ "artist_channel_url": "/channel/UCdUFOWuiZxD9RYnYSq1Xm0Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChAwNWExN2U2YmI5MjZkZTdmEAAYAg%3D%3D&sigh=yCXLZBhOjlgARBO201br1Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05a17e6bb926de7f",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "title": "Jetsons",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Cxdy",
+ "reference_vid": "05a17e6bb926de7f",
+ "streamid": "Yf7elfIKfoD7dE791gl1iJlbYZ9mfU7O5lk8Bntyy9x__OJXh00JEFSt-4-P-Q5j"
+}

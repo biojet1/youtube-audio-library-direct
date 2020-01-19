@@ -1,0 +1,32 @@
+{
+ "display_mood": "Happy",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "album": "None",
+ "streamid": "RFn88_GYXwreAPrN28T3pOFfaCUnwDWcpb3xdBuu--moHAsVCa6OL2Iz8a_C5OhD",
+ "title": "Grange Party",
+ "display_genre": "Country & Folk",
+ "vid": "76923eb303d53f85",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "76923eb303d53f85",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 0,
+ "fp_ref_id": "76923eb303d53f85",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Huma-Huma",
+ "len": 105.45,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChA3NjkyM2ViMzAzZDUzZjg1EAAYAg%3D%3D&sigh=-yq1nnMf-KXBYxmemC9MgQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=76923eb303d53f85"
+}

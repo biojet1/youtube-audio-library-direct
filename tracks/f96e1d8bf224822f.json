@@ -1,0 +1,30 @@
+{
+ "reference_vid": "f96e1d8bf224822f",
+ "display_mood": "Calm",
+ "fp_ref_id": "f96e1d8bf224822f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f96e1d8bf224822f",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "vid": "f96e1d8bf224822f",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBmOTZlMWQ4YmYyMjQ4MjJmEAAYAg%3D%3D&sigh=Rylcl_T62g0KYqbfPI9jQw",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "downloadable": true,
+ "streamid": "P6oOShqJ_BrGRbe9tgxx8Pk6c2SYrNfjd2JqtTjT-b3zKJF2XEhiYtvxN9Cz69A2",
+ "len": 118.083,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100481",
+ "album": "None",
+ "license_type": 6,
+ "title": "Dissappointment",
+ "genre": "Cinematic",
+ "display_category": ""
+}

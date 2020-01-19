@@ -1,0 +1,32 @@
+{
+ "mood": "Bright",
+ "artist": "John Deley and the 41 Players",
+ "vid": "82e3b98291280303",
+ "display_category": "",
+ "streamid": "Wc3hNbfts27EmDkuKm2_uT6uGDbce4Xf-OHnighAw6nyvs4-pudxGJ_sr2JZ3NLw",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=82e3b98291280303",
+ "fp_ref_id": "82e3b98291280303",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMhlEhYKEDgyZTNiOTgyOTEyODAzMDMQABgC&sigh=XheAEqOYzdsEMubarlZUoQ",
+ "display_genre": "Jazz & Blues",
+ "len": 13.583,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "reference_vid": "82e3b98291280303",
+ "title": "Dixie Outlandish (Sting)",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Bright",
+ "popularity_percentile": 52
+}

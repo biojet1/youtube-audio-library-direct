@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 5,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAwYjY5OGMyYmMyYWEwYzY2EAAYAg%3D%3D&sigh=ybhHo6Kkjg_f8F0fOLRv5A",
+ "display_category": "",
+ "reference_vid": "0b698c2bc2aa0c66",
+ "title": "East",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b698c2bc2aa0c66",
+ "track_url": "",
+ "len": 122.116,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "6mX_echw9s8bO4tXmOlABoq9bwU6INU9vhmZCRUSuZU7tnvMLq3JPm4FAzxcEQId",
+ "favorite": false,
+ "display_genre": "Alternative & Punk",
+ "license_type": 0,
+ "mood": "Dark",
+ "genre": "Alternative & Punk",
+ "vid": "0b698c2bc2aa0c66",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "category": "",
+ "fp_ref_id": "0b698c2bc2aa0c66",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "artist_channel_url": null
+}

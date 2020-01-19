@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 5,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAwYTE4OWI0MzMxYmZhYTYwEAAYAg%3D%3D&sigh=kSEO4gE18EYuLwKV0bWnDQ",
+ "display_category": "",
+ "reference_vid": "0a189b4331bfaa60",
+ "title": "Moon Landings",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a189b4331bfaa60",
+ "track_url": "",
+ "len": 131.25,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "XftMxrAePa4Hy4FaqSJWBcGbybDYJJzeJ9RaSVFVI6AM1-RIEiznwQtp2371sps0",
+ "favorite": false,
+ "display_genre": "Rock",
+ "license_type": 0,
+ "mood": "Dramatic",
+ "genre": "Rock",
+ "vid": "0a189b4331bfaa60",
+ "artist_url": "",
+ "artist": "ALBIS",
+ "category": "",
+ "fp_ref_id": "0a189b4331bfaa60",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "artist_channel_url": null
+}

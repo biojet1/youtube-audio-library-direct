@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=618227ab3e23ac73",
+ "category": "",
+ "title": "Look Busy",
+ "genre": "Jazz & Blues",
+ "favorite": false,
+ "reference_vid": "618227ab3e23ac73",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChA2MTgyMjdhYjNlMjNhYzczEAAYAg%3D%3D&sigh=YyK1ngdongYOkXb3OaxJcA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "618227ab3e23ac73",
+ "license_type": 6,
+ "popularity_percentile": 91,
+ "vid": "618227ab3e23ac73",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Trumpet"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Kevin MacLeod",
+ "len": 107.383,
+ "display_mood": "Bright",
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100172",
+ "streamid": "CK-xhvYGy0A_uqBHv-nTc2S-ZuVGgud1uxlBpmcCtMGnGSi4il19jDRZBBPJWI-9"
+}

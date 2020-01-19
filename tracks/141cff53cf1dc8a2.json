@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 37.883,
+ "fp_ref_id": "141cff53cf1dc8a2",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "dHAJyvzfXdJivPemjKxO9CbGIJyRi_0KeRJQeERGPpiLVRjTdEx6DIf9cQzBjMwq",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Cinematic",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100770",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Calm",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=141cff53cf1dc8a2",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIihAhIWChAxNDFjZmY1M2NmMWRjOGEyEAAYAg%3D%3D&sigh=8vkmTxW9KgRbtvqPRj3uHw",
+ "title": "At The Shore - The Dark Contenent",
+ "reference_vid": "141cff53cf1dc8a2",
+ "vid": "141cff53cf1dc8a2"
+}

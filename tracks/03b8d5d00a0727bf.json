@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "genre": "Rock",
+ "track_url": "",
+ "is_new_track": false,
+ "artist": "Dan Lebowitz",
+ "title": "Torrance Sunset",
+ "streamid": "I31a0pBjHC17LKmRVKQzQP6I48n41VdDQZsrqYh2KcmT7-VJBqwtdAvBFdsKrbm2",
+ "downloadable": true,
+ "album": "None",
+ "fp_ref_id": "03b8d5d00a0727bf",
+ "len": 169.733,
+ "favorite": false,
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "display_mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=03b8d5d00a0727bf",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "mood": "Funky",
+ "license_type": 1,
+ "display_genre": "Rock",
+ "vid": "03b8d5d00a0727bf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChAwM2I4ZDVkMDBhMDcyN2JmEAAYAg%3D%3D&sigh=oL3zFUAhDVAplqDNrqGAZQ",
+ "reference_vid": "03b8d5d00a0727bf",
+ "category": "",
+ "popularity_percentile": 99
+}

@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChA0ZTllOTNjNmVlMWE0NmI5EAAYAg%3D%3D&sigh=8Dtr6ixP7Fk8lidi36jKcg",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "display_genre": "Jazz & Blues",
+ "mood": "Funky",
+ "reference_vid": "4e9e93c6ee1a46b9",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4e9e93c6ee1a46b9",
+ "favorite": false,
+ "popularity_percentile": 31,
+ "artist_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano",
+  "Trumpet"
+ ],
+ "license_type": 0,
+ "fp_ref_id": "4e9e93c6ee1a46b9",
+ "title": "Game Show",
+ "len": 107.716,
+ "streamid": "kExqqiTPUZsBUHEmbDJQxJkDwuUE_r0qEp0J67MwKWaw5fIQ0F4YQsuWARj53Z9I",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "vid": "4e9e93c6ee1a46b9"
+}

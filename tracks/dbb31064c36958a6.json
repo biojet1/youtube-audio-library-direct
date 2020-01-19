@@ -1,0 +1,31 @@
+{
+ "title": "Four on the Dancefloor",
+ "favorite": false,
+ "len": 125.35,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChBkYmIzMTA2NGMzNjk1OGE2EAAYAg%3D%3D&sigh=UOOd0vHHeHO17HmjFFz9rw",
+ "fp_ref_id": "dbb31064c36958a6",
+ "artist_channel_url": null,
+ "display_genre": "Dance & Electronic",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "reference_vid": "dbb31064c36958a6",
+ "display_category": "",
+ "vid": "dbb31064c36958a6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dbb31064c36958a6",
+ "streamid": "sEuDkrM1qhfP4XkS6v9xH5fbbDfVQNGbQthXZrtP0oKvlUlAngf9_VXVEUkropV-",
+ "artist": "JR Tundra"
+}

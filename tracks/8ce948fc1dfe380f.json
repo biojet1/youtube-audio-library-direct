@@ -1,0 +1,29 @@
+{
+ "streamid": "jIj1V26LGlB8y0RPbUsEsARQXP1FEzjWaxQ7rjDhNUfDHDQcxRK6FKAEYuGAFB9i",
+ "genre": "Classical",
+ "fp_ref_id": "8ce948fc1dfe380f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ce948fc1dfe380f",
+ "favorite": false,
+ "reference_vid": "8ce948fc1dfe380f",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Dark",
+ "display_category": "",
+ "vid": "8ce948fc1dfe380f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChA4Y2U5NDhmYzFkZmUzODBmEAAYAg%3D%3D&sigh=kYvSYmkf4HiURwjCfppj4g",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Audionautix",
+ "title": "Quiet",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 6,
+ "display_genre": "Classical",
+ "mood": "Dark",
+ "len": 94.416,
+ "popularity_percentile": 81
+}

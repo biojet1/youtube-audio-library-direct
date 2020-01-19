@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 113,
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "8e9a4a3f567dac70",
+ "reference_vid": "8e9a4a3f567dac70",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "license_type": 1,
+ "streamid": "V4FBwT4eApI0rgEsz7bEDjpvQKha0K7pe_QQWd9_YOkscKUWO4f4KThOvJHzrdFP",
+ "vid": "8e9a4a3f567dac70",
+ "mood": "Bright",
+ "artist": "Dan Lebowitz",
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChA4ZTlhNGEzZjU2N2RhYzcwEAAYAg%3D%3D&sigh=c6G4nSaPps0kEuccegNRnQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8e9a4a3f567dac70",
+ "category": "",
+ "title": "5-O-July",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Percussion"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "title": "Sunburned Salvation",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "The 129ers",
+ "vid": "8bccd0ec41cfe7ab",
+ "mood": "Inspirational",
+ "genre": "Cinematic",
+ "reference_vid": "8bccd0ec41cfe7ab",
+ "track_url": "",
+ "streamid": "nRtUCNJNsHMWJJyn1xEt5D7DDoIJLaWYUSxHcjobQ2ZToWdTi6OifHr4SJQQJXWH",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8bccd0ec41cfe7ab",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChA4YmNjZDBlYzQxY2ZlN2FiEAAYAg%3D%3D&sigh=T0v3RjdxH5fBPPlE6yc_xA",
+ "instruments": [
+  "Synth",
+  "Guitar",
+  "Bass"
+ ],
+ "display_mood": "Inspirational",
+ "fp_ref_id": "8bccd0ec41cfe7ab",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 159.866,
+ "display_genre": "Cinematic"
+}

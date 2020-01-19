@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 138.816,
+ "mood": "Funky",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=31270563fde1c64e",
+ "title": "Digital Voyage",
+ "streamid": "gQO-qJxfrA-qVQw2VlbCLl1By-nSf_gRVFSCE_xuc6c2d_fs3jqci5P37ku3Hckk",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChAzMTI3MDU2M2ZkZTFjNjRlEAAYAg%3D%3D&sigh=pd_5a1rZUgNxqcvzslVKDA",
+ "license_type": 6,
+ "fp_ref_id": "31270563fde1c64e",
+ "display_mood": "Funky",
+ "vid": "31270563fde1c64e",
+ "artist_url": "http://www.twinmusicom.org/",
+ "artist": "Twin Musicom",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "31270563fde1c64e"
+}

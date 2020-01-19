@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "b8c98f33c0762017",
+ "mood": "Inspirational",
+ "title": "Redwood",
+ "category": "",
+ "genre": "Rock",
+ "album": "None",
+ "len": 128,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBiOGM5OGYzM2MwNzYyMDE3EAAYAg%3D%3D&sigh=DbUE_HDEQes7WjWySn-_9A",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b8c98f33c0762017",
+ "fp_ref_id": "b8c98f33c0762017",
+ "artist": "Quincas Moreira",
+ "display_mood": "Inspirational",
+ "display_genre": "Rock",
+ "streamid": "ZkrUEtjqxkt-BijZfdhSo-RsyWT1XOwmM6uXB-KlIeo1taaIGQr3ZwfGQ2WxbRM2",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "display_category": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "synth",
+  "strings"
+ ],
+ "vid": "b8c98f33c0762017"
+}

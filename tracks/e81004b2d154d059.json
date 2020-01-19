@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCAAi5wqJHz73Xid1IjVgW7A",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "e81004b2d154d059",
+ "mood": "Dark",
+ "title": "Versace Beat",
+ "category": "",
+ "genre": "Hip Hop & Rap",
+ "album": "None",
+ "len": 111,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChBlODEwMDRiMmQxNTRkMDU5EAAYAg%3D%3D&sigh=KBuOP205I8gTG4inQlqz8A",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e81004b2d154d059",
+ "fp_ref_id": "e81004b2d154d059",
+ "artist": "Yung Logos",
+ "display_mood": "Dark",
+ "display_genre": "Hip Hop & Rap",
+ "streamid": "F7Vu365QXRn20T65oep0mHDNhjLVjgQMCLS6rI7nUSFqj4xyWzpMcyvrpmZ37vPU",
+ "artist_channel_url": "/channel/UCAAi5wqJHz73Xid1IjVgW7A",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "synth bass",
+  "keys",
+  "flute"
+ ],
+ "vid": "e81004b2d154d059"
+}

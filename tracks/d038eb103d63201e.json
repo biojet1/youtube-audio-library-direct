@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ Piano",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d038eb103d63201e",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "John Deley and the 41 Players",
+ "len": 202.516,
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "6NQ2f6Eko7W4xcSEKmqp36FMDMIKIAXIBAscncoa5Lz-vEtXr4rlv4m60KtDpaP4",
+ "category": "",
+ "title": "Your Precious Love",
+ "display_mood": "Funky",
+ "favorite": false,
+ "reference_vid": "d038eb103d63201e",
+ "genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCqDBIWChBkMDM4ZWIxMDNkNjMyMDFlEAAYAg%3D%3D&sigh=7ne9pda9wuvcTI0vzsFHag",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d038eb103d63201e",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "d038eb103d63201e"
+}

@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Angry",
+ "genre": "Rock",
+ "streamid": "IPjhkjUqEhSGr6Ir4a5v4h21xWXRebIIn2iZyEMxdJFEfCG1yg8zN-atbNdDFhnp",
+ "fp_ref_id": "f953de4d735c8378",
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBmOTUzZGU0ZDczNWM4Mzc4EAAYAg%3D%3D&sigh=enYAGluNu-nXDifLIZiyKw",
+ "mood": "Angry",
+ "vid": "f953de4d735c8378",
+ "display_genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f953de4d735c8378",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Synth",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "f953de4d735c8378",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 140.216,
+ "category": "",
+ "title": "Fight Scene"
+}

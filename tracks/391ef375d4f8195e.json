@@ -1,0 +1,32 @@
+{
+ "artist": "Vibe Tracks",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=391ef375d4f8195e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCqDBIWChAzOTFlZjM3NWQ0ZjgxOTVlEAAYAg%3D%3D&sigh=JZb3VLXyxKtbg1j9Y5ZKTg",
+ "genre": "Pop",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "album": "None",
+ "track_url": "",
+ "len": 202.416,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "391ef375d4f8195e",
+ "streamid": "qYabIZ6aax1vuWiuTnBp39mZE3ptZFvYkWGFeIoOewUG0e9c4aVubV5aD9_S8ARg",
+ "title": "Greedy",
+ "artist_url": "",
+ "mood": "Bright",
+ "downloadable": true,
+ "display_genre": "Pop",
+ "popularity_percentile": 22,
+ "reference_vid": "391ef375d4f8195e",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "fp_ref_id": "391ef375d4f8195e",
+ "license_type": 1
+}

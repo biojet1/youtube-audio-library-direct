@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "vid": "db82e11cda78f6bc",
+ "album": "None",
+ "artist_channel_url": "/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist_url": "https://www.youtube.com/channel/UCKgGBUFCIZjmC-Lqy8kmJ5w",
+ "artist": "Nate Blaze",
+ "genre": "Ambient",
+ "fp_ref_id": "db82e11cda78f6bc",
+ "streamid": "Awa40WcD5wICEXBK-0Lksirefhew9ZIXgFvFjMy5j4om0IZ3M6SSDQ_6TlKb36jG",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChBkYjgyZTExY2RhNzhmNmJjEAAYAg%3D%3D&sigh=5hQhNCPK1lHCnx3kOWiTgA",
+ "display_category": "",
+ "display_genre": "Ambient",
+ "category": "",
+ "downloadable": true,
+ "title": "Quiet Nights",
+ "track_url": "",
+ "len": 125,
+ "popularity_percentile": 99,
+ "reference_vid": "db82e11cda78f6bc",
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db82e11cda78f6bc",
+ "instruments": [
+  "piano"
+ ],
+ "is_new_track": false
+}

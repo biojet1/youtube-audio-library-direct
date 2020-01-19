@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 190.983,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "2lHmTshtKNLk2kONCRiUoRHwxT-wHAogVAWTtuzDEJLos09Mk3JOMWuwf5rnkga0",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChBlNDlkODFkY2E5M2ZiZGEwEAAYAg%3D%3D&sigh=cPRjAWWDJ4kJLRoSJTUdng",
+ "reference_vid": "e49d81dca93fbda0",
+ "title": "Beer Belly Blues",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e49d81dca93fbda0",
+ "vid": "e49d81dca93fbda0",
+ "artist_url": "",
+ "artist": "John Deley",
+ "fp_ref_id": "e49d81dca93fbda0",
+ "display_mood": "Dramatic",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "license_type": 0,
+ "genre": "Jazz & Blues"
+}

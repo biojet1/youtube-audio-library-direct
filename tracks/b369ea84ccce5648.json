@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 194.4,
+ "category": "",
+ "title": "Hollywood High",
+ "display_genre": "Pop",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b369ea84ccce5648",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "album": "None",
+ "reference_vid": "b369ea84ccce5648",
+ "fp_ref_id": "b369ea84ccce5648",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDrCxIWChBiMzY5ZWE4NGNjY2U1NjQ4EAAYAg%3D%3D&sigh=IZfdtpXPI1jgq97W8y-utg",
+ "license_type": 0,
+ "mood": "Romantic",
+ "vid": "b369ea84ccce5648",
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 70,
+ "display_mood": "Romantic",
+ "streamid": "Gxgcu_7a-3NpUIsoU8mYqkqOr2Cuhqoxl6MPorvq1puD2jWwedAXRxSg3WpCxhOP"
+}

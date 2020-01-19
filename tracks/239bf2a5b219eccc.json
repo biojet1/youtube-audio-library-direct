@@ -1,0 +1,30 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "239bf2a5b219eccc",
+ "mood": "Bright",
+ "title": "Front Porch Blues",
+ "category": "",
+ "genre": "Jazz & Blues",
+ "album": "None",
+ "len": 156,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChAyMzliZjJhNWIyMTllY2NjEAAYAg%3D%3D&sigh=Xg6sUJxB_g2o36rcp1EAFA",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=239bf2a5b219eccc",
+ "fp_ref_id": "239bf2a5b219eccc",
+ "artist": "Chris Haugen",
+ "display_mood": "Bright",
+ "display_genre": "Jazz & Blues",
+ "streamid": "tQAJ2JZZSdgdRWqvYZlSWW9UEiHm6e4A2uMj4jcYj-rzVKBYh0XNtM_XQtA-KRKe",
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "display_category": "",
+ "instruments": [
+  "Slide guitar",
+  "acoustic guitar"
+ ],
+ "vid": "239bf2a5b219eccc"
+}

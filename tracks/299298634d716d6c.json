@@ -1,0 +1,33 @@
+{
+ "len": 122,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "track_url": "",
+ "category": "",
+ "mood": "Funky",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=299298634d716d6c",
+ "title": "Wutif",
+ "streamid": "WQuPrPRJ1GH8Xyt4dkuK49GGlFG-K5rvbKRrbA2MsNh2EIievZIYiczSP_hKrWab",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAyOTkyOTg2MzRkNzE2ZDZjEAAYAg%3D%3D&sigh=91YxBLJzdZalOqh2ReHwxA",
+ "license_type": 1,
+ "fp_ref_id": "299298634d716d6c",
+ "display_mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "vid": "299298634d716d6c",
+ "artist": "Lauren Duski",
+ "instruments": [
+  "synth",
+  "horns",
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "299298634d716d6c"
+}

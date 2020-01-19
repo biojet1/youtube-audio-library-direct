@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "artist": "Gunnar Olsen",
+ "is_new_track": false,
+ "fp_ref_id": "6e8dd9d0f282d471",
+ "artist_channel_url": null,
+ "len": 145.983,
+ "downloadable": true,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA2ZThkZDlkMGYyODJkNDcxEAAYAg%3D%3D&sigh=fV10cAKvf0V9k_rElZG5wQ",
+ "display_genre": "Hip Hop & Rap",
+ "genre": "Hip Hop & Rap",
+ "vid": "6e8dd9d0f282d471",
+ "display_category": "",
+ "reference_vid": "6e8dd9d0f282d471",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6e8dd9d0f282d471",
+ "album": "None",
+ "track_url": "",
+ "streamid": "dDRx1itFis10Aky99VqIb_TNgDouvqNXSlrqSfhSizfOVtEgUEBuYSGTV5456AyB",
+ "mood": "Dark",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "title": "Hands Way Up",
+ "popularity_percentile": 43,
+ "category": ""
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "hgXl7sboNIB_qOBNODPC-5phpY8w90xHLJAwQJvBjIhwstmBYZIoQo4SX6PhwOdU",
+ "len": 163.983,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab6123392f92cd12",
+ "category": "",
+ "is_new_track": false,
+ "vid": "ab6123392f92cd12",
+ "display_genre": "Rock",
+ "reference_vid": "ab6123392f92cd12",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChBhYjYxMjMzOTJmOTJjZDEyEAAYAg%3D%3D&sigh=zztES5KDLcXoll3vHU3-CA",
+ "display_mood": "Dramatic",
+ "artist_url": "",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "",
+ "title": "Big Sky",
+ "genre": "Rock",
+ "fp_ref_id": "ab6123392f92cd12",
+ "mood": "Dramatic",
+ "artist": "Silent Partner",
+ "favorite": false
+}

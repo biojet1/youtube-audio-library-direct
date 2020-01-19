@@ -1,0 +1,32 @@
+{
+ "vid": "505c61a3b7b61a51",
+ "mood": "Happy",
+ "artist": "Text Me Records / Leviathe",
+ "track_url": "",
+ "display_category": "",
+ "streamid": "hPUV8spt2p9wn1DAfOtUbYseUeP1uul4EnhuK7QjavrUOoK4pbOahdZbtmp5-edY",
+ "favorite": false,
+ "fp_ref_id": "505c61a3b7b61a51",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=505c61a3b7b61a51",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChA1MDVjNjFhM2I3YjYxYTUxEAAYAg%3D%3D&sigh=y3Q94BekhuH490DmxeM15w",
+ "downloadable": true,
+ "display_genre": "Pop",
+ "len": 104.733,
+ "is_new_track": false,
+ "license_type": 1,
+ "album": "None",
+ "category": "",
+ "artist_url": "",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Synth",
+  "Drums"
+ ],
+ "title": "Yelli",
+ "reference_vid": "505c61a3b7b61a51",
+ "genre": "Pop",
+ "display_mood": "Happy",
+ "popularity_percentile": 99
+}

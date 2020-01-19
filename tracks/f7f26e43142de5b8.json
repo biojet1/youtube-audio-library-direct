@@ -1,0 +1,30 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi7DhIWChBmN2YyNmU0MzE0MmRlNWI4EAAYAg%3D%3D&sigh=9ij-LmEVs-M3Qa4AHgHB4Q",
+ "title": "Never Sleep",
+ "display_mood": "Dark",
+ "artist": "Gunnar Olsen",
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "vid": "f7f26e43142de5b8",
+ "popularity_percentile": 97,
+ "reference_vid": "f7f26e43142de5b8",
+ "favorite": false,
+ "mood": "Dark",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "fp_ref_id": "f7f26e43142de5b8",
+ "streamid": "gFLSyX7sd6tsE_RocjwOizVwB1FUjSf0myL01JINOKUMwGPsOPAImkhTQFz27nue",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f7f26e43142de5b8",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 237.45
+}

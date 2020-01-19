@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "ba204a166a8f16eb",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Ambient",
+ "category": "",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "streamid": "VVlCofkGmu1mfJy133fLW1QNP8Sk7nXY2mdZ2DI2vmO5AE_DtlkM3qFI9uDN0zmA",
+ "license_type": 0,
+ "vid": "ba204a166a8f16eb",
+ "popularity_percentile": 72,
+ "reference_vid": "ba204a166a8f16eb",
+ "display_genre": "Ambient",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 116.033,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBiYTIwNGExNjZhOGYxNmViEAAYAg%3D%3D&sigh=is2_k7C5OEIwwdzCrVwdOA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ba204a166a8f16eb",
+ "title": "Monitors"
+}

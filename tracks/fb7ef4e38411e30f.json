@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "vid": "fb7ef4e38411e30f",
+ "display_category": "",
+ "streamid": "8Avs19TqRNhcB5oP6UfM6SxPKHcnb3n0Q0bIzwTpYHAn1bZwrs_TaPvMx3PJeCB5",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100406",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fb7ef4e38411e30f",
+ "fp_ref_id": "fb7ef4e38411e30f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIihAhIWChBmYjdlZjRlMzg0MTFlMzBmEAAYAg%3D%3D&sigh=nf_R60G1dIX3IjYsQc-N4g",
+ "display_genre": "Cinematic",
+ "len": 37.516,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Trumpets"
+ ],
+ "reference_vid": "fb7ef4e38411e30f",
+ "title": "Epic Unease",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 52
+}

@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCfBRIWChA4OTJiMmM4MzY0NjcxNTAxEAAYAg%3D%3D&sigh=4GuqMDqAp-xwMtINyDjMrQ",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Endless Love",
+ "display_genre": "Rock",
+ "mood": "Happy",
+ "reference_vid": "892b2c8364671501",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=892b2c8364671501",
+ "favorite": false,
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "artist_channel_url": "/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "category": "",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "892b2c8364671501",
+ "title": "Tape Deck",
+ "len": 86,
+ "streamid": "YHEcCvlVo_8EXfcs2sWMZln1-tGZhmBbrLNLdQ4Zs7hOTApGpJipxW6leXEKqPNx",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Rock",
+ "vid": "892b2c8364671501"
+}

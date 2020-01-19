@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "title": "It was a great Summer",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Otis McDonald",
+ "vid": "150a098163e1db49",
+ "mood": "Inspirational",
+ "genre": "Cinematic",
+ "reference_vid": "150a098163e1db49",
+ "track_url": "",
+ "streamid": "tdKr1NzB9zRZKxo0lN2p31OOX2CemgvR8EjlsVWHFYlt-DE4IcBY4C9L2RrcgErl",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=150a098163e1db49",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChAxNTBhMDk4MTYzZTFkYjQ5EAAYAg%3D%3D&sigh=U3Iwwe0FrjBXZT98TRBrvg",
+ "instruments": [
+  "Synth",
+  "Bass"
+ ],
+ "display_mood": "Inspirational",
+ "fp_ref_id": "150a098163e1db49",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 149.133,
+ "display_genre": "Cinematic"
+}

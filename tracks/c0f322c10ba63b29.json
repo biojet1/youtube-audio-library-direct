@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChBjMGYzMjJjMTBiYTYzYjI5EAAYAg%3D%3D&sigh=RCHRC5Zsd-iqB-pc94kBDw",
+ "display_category": "",
+ "display_mood": "Dark",
+ "album": "None",
+ "vid": "c0f322c10ba63b29",
+ "downloadable": true,
+ "reference_vid": "c0f322c10ba63b29",
+ "favorite": false,
+ "fp_ref_id": "c0f322c10ba63b29",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c0f322c10ba63b29",
+ "genre": "Rock",
+ "streamid": "_r56tzg5-iDlaVoMKMDBXai8PDtjDMJor8gxMNIZQblyQ4K8zvkjyOA62CaSolHM",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Dark",
+ "len": 193.616,
+ "display_genre": "Rock",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Hey Sailor",
+ "artist": "Letter Box",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ]
+}

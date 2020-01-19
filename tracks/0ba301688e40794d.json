@@ -1,0 +1,32 @@
+{
+ "reference_vid": "0ba301688e40794d",
+ "popularity_percentile": 78,
+ "display_genre": "Rock",
+ "license_type": 6,
+ "fp_ref_id": "0ba301688e40794d",
+ "instruments": [
+  "Electric Guitar",
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Spots Action",
+ "downloadable": true,
+ "mood": "Dark",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 114.483,
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "streamid": "F0ZIFn5t2bxq8KaVWjdkRx2moOczJeMw6UxdQgQfHS3v1SuVXHj7jzUrY1zRDYWR",
+ "vid": "0ba301688e40794d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChAwYmEzMDE2ODhlNDA3OTRkEAAYAg%3D%3D&sigh=1sqTbZNGwvJ2pcDYmb2vdQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0ba301688e40794d",
+ "artist": "Audionautix",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Rock"
+}

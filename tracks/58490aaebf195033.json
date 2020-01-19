@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjsAxIWChA1ODQ5MGFhZWJmMTk1MDMzEAAYAg%3D%3D&sigh=dd0BZBYGXfsKvyMP1hxeRA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=58490aaebf195033",
+ "track_url": "",
+ "genre": "Rock",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "58490aaebf195033",
+ "fp_ref_id": "58490aaebf195033",
+ "category": "",
+ "title": "TV Drama Version 1",
+ "reference_vid": "58490aaebf195033",
+ "artist": "Audionautix",
+ "display_genre": "Rock",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "GWeU2gnXBwE8pOBis8RTnCs4SgYEX3luHRCk8azxmVNho_nGVy77MXlP2nLqAEIp",
+ "len": 63.983,
+ "license_type": 6,
+ "is_new_track": false
+}

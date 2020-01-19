@@ -1,0 +1,31 @@
+{
+ "streamid": "KTOqabkvKJAVQ2pnXD85-rGkH5SPQyJictYjFXDAjHzkicGQZK9sSFsYIJ6TFRjt",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 127.866,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100813",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3c81742f9620d8c6",
+ "display_category": "",
+ "reference_vid": "3c81742f9620d8c6",
+ "title": "Gloom Horizon",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChAzYzgxNzQyZjk2MjBkOGM2EAAYAg%3D%3D&sigh=-vXoTIxrrFir0GjEWvnx5g",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Bass",
+  "Strings",
+  "Drums"
+ ],
+ "category": "",
+ "display_mood": "Dark",
+ "favorite": false,
+ "fp_ref_id": "3c81742f9620d8c6",
+ "artist": "Kevin MacLeod",
+ "vid": "3c81742f9620d8c6",
+ "artist_url": "http://incompetech.com/",
+ "genre": "Cinematic",
+ "license_type": 6,
+ "display_genre": "Cinematic"
+}

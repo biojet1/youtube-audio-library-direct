@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 9,
+ "license_type": 1,
+ "vid": "14c363704697d79b",
+ "fp_ref_id": "14c363704697d79b",
+ "album": "None",
+ "streamid": "0ORARsWGMWei7bOV5eLTrqg5spxN89tDhuEkBPBpDyACmGkNbuB-dWvmQESTSRK_",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "artist": "E's Jammy Jams",
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14c363704697d79b",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChAxNGMzNjM3MDQ2OTdkNzliEAAYAg%3D%3D&sigh=IzhbpGnZ1BXdTcxODPRVJQ",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 200.25,
+ "reference_vid": "14c363704697d79b",
+ "title": "Book Bag",
+ "favorite": false,
+ "track_url": ""
+}

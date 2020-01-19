@@ -1,0 +1,31 @@
+{
+ "display_genre": "Jazz & Blues",
+ "vid": "7432f4b9b0e69dd7",
+ "title": "Fortunate Son",
+ "mood": "Bright",
+ "reference_vid": "7432f4b9b0e69dd7",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 97.283,
+ "fp_ref_id": "7432f4b9b0e69dd7",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "streamid": "Kb-PeMRlxm8FzCvC5jX2KlO1Gy4yyxSM2oA0iXOB7t__SRhanl8sOGWZO2sJdN4M",
+ "display_mood": "Bright",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7432f4b9b0e69dd7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChA3NDMyZjRiOWIwZTY5ZGQ3EAAYAg%3D%3D&sigh=squdIe9_tYlqNZosiO83ew",
+ "genre": "Jazz & Blues"
+}

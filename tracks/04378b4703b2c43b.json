@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNinBRIWChAwNDM3OGI0NzAzYjJjNDNiEAAYAg%3D%3D&sigh=cX4i0zL0040XLY-dFPJcBA",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "04378b4703b2c43b",
+ "reference_vid": "04378b4703b2c43b",
+ "popularity_percentile": 2,
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04378b4703b2c43b",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "streamid": "fB28JdMc31DIYDznQgNRRunO1fNoGJKCljnmaxoiaZWu9gAONulN_ZQjX4FFw9kk",
+ "title": "The Driving Force",
+ "downloadable": true,
+ "category": "",
+ "len": 87.316,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "04378b4703b2c43b",
+ "album": "None"
+}

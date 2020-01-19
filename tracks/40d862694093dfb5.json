@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "40d862694093dfb5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40d862694093dfb5",
+ "display_mood": "Bright",
+ "fp_ref_id": "40d862694093dfb5",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Guitars",
+  "Synths"
+ ],
+ "title": "Slim To None",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA0MGQ4NjI2OTQwOTNkZmI1EAAYAg%3D%3D&sigh=Ja-4MD46NTYcDTUMFhwwDQ",
+ "display_genre": "Cinematic",
+ "artist": "Text Me Records / Jordan Blackmon",
+ "genre": "Cinematic",
+ "len": 109.333,
+ "streamid": "yFQXN6fWU_01U6jwohyXcNo9b7rRyF_SiHXmNWXEuXfCyhEroVnQ4WBBuwenfVpB",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "40d862694093dfb5",
+ "album": "None",
+ "mood": "Bright"
+}

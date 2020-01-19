@@ -1,0 +1,31 @@
+{
+ "genre": "Cinematic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100727",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "5e456b5023ea9f26",
+ "display_mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "vid": "5e456b5023ea9f26",
+ "mood": "Dramatic",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Bass"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiqBBIWChA1ZTQ1NmI1MDIzZWE5ZjI2EAAYAg%3D%3D&sigh=PQk1-J6lGrEdgo2XCQdNyQ",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Evil March",
+ "category": "",
+ "len": 71.016,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5e456b5023ea9f26",
+ "reference_vid": "5e456b5023ea9f26",
+ "streamid": "tRyZKHH-jLEB4lZKTxSv6PPtcAqnQ587ZQDcoU4GOq-W3UujjMuNRxlBkQa1r5re"
+}

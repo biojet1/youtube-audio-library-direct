@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChAzZDEzNjAyY2JiMTVmYjg5EAAYAg%3D%3D&sigh=O0chCK_Jps6mkjYnK_1-qA",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass"
+ ],
+ "display_mood": "Dark",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "vid": "3d13602cbb15fb89",
+ "reference_vid": "3d13602cbb15fb89",
+ "genre": "Cinematic",
+ "popularity_percentile": 24,
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "track_url": "",
+ "title": "Into the Depths",
+ "downloadable": true,
+ "category": "",
+ "streamid": "jSn9SGedIec-L8JXjVpu1cKr7Pht5QjIMYIFLDwZw3zpG2n8MToCHsz6Kf3LRpWq",
+ "fp_ref_id": "3d13602cbb15fb89",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3d13602cbb15fb89",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Dark",
+ "len": 100.183
+}

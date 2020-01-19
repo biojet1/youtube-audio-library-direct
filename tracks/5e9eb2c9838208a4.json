@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist_channel_url": "/channel/UC1zIiKvJIi7aYl2N68pWF8g",
+ "artist_url": "https://www.youtube.com/channel/UC1zIiKvJIi7aYl2N68pWF8g",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChA1ZTllYjJjOTgzODIwOGE0EAAYAg%3D%3D&sigh=fIYU_oqrj1qkjA50MNufQg",
+ "display_mood": "Dramatic",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5e9eb2c9838208a4",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "DivKid",
+ "title": "Arp Ascent",
+ "reference_vid": "5e9eb2c9838208a4",
+ "instruments": [
+  "drums",
+  "synth",
+  "drum machine"
+ ],
+ "display_genre": "Cinematic",
+ "fp_ref_id": "5e9eb2c9838208a4",
+ "vid": "5e9eb2c9838208a4",
+ "category": "",
+ "streamid": "kY0_OlqkJ0_MSal4st9kPrBSPbVtIvBEmZ3ETXHX9dNAKJgH3sF1_-aYyqdx_Wq-",
+ "popularity_percentile": 99,
+ "len": 173.5,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

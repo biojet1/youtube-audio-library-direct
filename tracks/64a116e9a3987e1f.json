@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "display_genre": "Holiday",
+ "genre": "Holiday",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=64a116e9a3987e1f",
+ "artist_url": "",
+ "downloadable": true,
+ "len": 123.983,
+ "album": "None",
+ "mood": "Inspirational",
+ "artist": "E's Jammy Jams",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA2NGExMTZlOWEzOTg3ZTFmEAAYAg%3D%3D&sigh=BuFjdx7FzwakEjaWDD_42Q",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "64a116e9a3987e1f",
+ "title": "Silent Night  (Instrumental Jazz)",
+ "vid": "64a116e9a3987e1f",
+ "display_mood": "Inspirational",
+ "reference_vid": "64a116e9a3987e1f",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "is_new_track": false,
+ "streamid": "1D4Z2jKuTCsjZeRy3MEF9wFVYdaW2wwuk32ocq0D1RLxdZYUfzdQmiDo6xddEMlx",
+ "category": ""
+}

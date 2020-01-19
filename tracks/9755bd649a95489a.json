@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "len": 109.133,
+ "mood": "Dramatic",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA5NzU1YmQ2NDlhOTU0ODlhEAAYAg%3D%3D&sigh=SSYGCj5prglVviBxd1hkCQ",
+ "genre": "Cinematic",
+ "streamid": "w0v3w_I9o0EnItS0gP4zN87ALixcbLLb21S-TrTsVhHY9Ql1dGA2mGycGjiEJYuB",
+ "downloadable": true,
+ "fp_ref_id": "9755bd649a95489a",
+ "vid": "9755bd649a95489a",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "strings",
+  "acoustic guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9755bd649a95489a",
+ "category": "",
+ "reference_vid": "9755bd649a95489a",
+ "title": "The Poisoned Princess",
+ "artist": "Media Right Productions",
+ "track_url": ""
+}

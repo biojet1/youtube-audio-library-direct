@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "fp_ref_id": "d950ccf991091c15",
+ "artist_channel_url": "/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "reference_vid": "d950ccf991091c15",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 115,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBkOTUwY2NmOTkxMDkxYzE1EAAYAg%3D%3D&sigh=YeBtrcBM5cll1jQXDDnbHw",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d950ccf991091c15",
+ "instruments": [
+  "808",
+  "vocal chops",
+  "synth",
+  "drums"
+ ],
+ "title": "Rule",
+ "genre": "R&B & Soul",
+ "streamid": "TpemwbQJqi5TpKJDD6XuTjm3VLi7fcZUL0RJDejRygQtgR7lTdo6HGiLVT6ycroR",
+ "vid": "d950ccf991091c15",
+ "display_genre": "R&B & Soul",
+ "mood": "Dramatic",
+ "license_type": 1,
+ "artist": "Rick Steel"
+}

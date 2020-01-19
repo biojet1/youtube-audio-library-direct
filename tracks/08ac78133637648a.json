@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAwOGFjNzgxMzM2Mzc2NDhhEAAYAg%3D%3D&sigh=3eA9nluwl0e6zoWJdNaYtA",
+ "display_category": "",
+ "reference_vid": "08ac78133637648a",
+ "title": "Payday",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=08ac78133637648a",
+ "track_url": "",
+ "len": 131.05,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "VsVHlaQhcU7CUTGrwdkCkCVj912yBJUde33-39t5SgbBC9XA1Y8QOqH6U4wrvXfj",
+ "favorite": false,
+ "display_genre": "Pop",
+ "license_type": 0,
+ "mood": "Happy",
+ "genre": "Pop",
+ "vid": "08ac78133637648a",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "category": "",
+ "fp_ref_id": "08ac78133637648a",
+ "display_mood": "Happy",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "artist_channel_url": null
+}

@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "a9069f71d0d62821",
+ "display_genre": "Dance & Electronic",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDkAxIWChBhOTA2OWY3MWQwZDYyODIxEAAYAg%3D%3D&sigh=R0K3c6-ig5RTAqkGOjp5eA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a9069f71d0d62821",
+ "len": 62.666,
+ "mood": "Funky",
+ "title": "Kick Shock",
+ "vid": "a9069f71d0d62821",
+ "category": "",
+ "downloadable": true,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100523",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Dance & Electronic",
+ "display_mood": "Funky",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "popularity_percentile": 83,
+ "reference_vid": "a9069f71d0d62821",
+ "streamid": "-doJ0y4H-rmTCzq4VnopEb5MhsQK3GOj0JMuMl4CwUWx-XLwktI28yc1YilPTdK3"
+}

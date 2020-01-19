@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "233497561a109350",
+ "track_url": "",
+ "fp_ref_id": "233497561a109350",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "United States Marine Band",
+ "instruments": [
+  "Trumpet"
+ ],
+ "reference_vid": "233497561a109350",
+ "display_mood": "Bright",
+ "len": 130.216,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAyMzM0OTc1NjFhMTA5MzUwEAAYAg%3D%3D&sigh=MoAnpYwSiSk-YAeN09gmNw",
+ "popularity_percentile": 13,
+ "streamid": "AqKW_Z6AmRdapsgSK8r35zdjd-pUcSVIjHahD890iAQ1_iWnTxkCQFw8EZxxQhT9",
+ "license_type": 1,
+ "display_genre": "Classical",
+ "category": "",
+ "title": "The Coquette",
+ "genre": "Classical",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=233497561a109350"
+}

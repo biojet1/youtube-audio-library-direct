@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e9bd514ff4895d3a",
+ "category": "",
+ "title": "Believer",
+ "display_genre": "Pop",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano",
+  "Acoustic Guitar"
+ ],
+ "genre": "Pop",
+ "display_mood": "Inspirational",
+ "streamid": "srSl7kmIoXMcKqt9odOzqgl86IRM4mjrfjW3Orcxfh-_r9HqteAbxxnN-SoCGl1i",
+ "album": "None",
+ "len": 246.9,
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e9bd514ff4895d3a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCBDxIWChBlOWJkNTE0ZmY0ODk1ZDNhEAAYAg%3D%3D&sigh=7jM0vuXpx2CfnjVF6FCKBQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e9bd514ff4895d3a",
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "fp_ref_id": "e9bd514ff4895d3a",
+ "license_type": 0,
+ "track_url": ""
+}

@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100248",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "BhT2TKXGOrCNMS0ZtZ3pjBsERVwW2BRuLBKeOfwJD4I3TLSS6vo3KLdl62EnNWuy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChAyYTUwYTNjY2NkMTg0YTg2EAAYAg%3D%3D&sigh=EQ-JnDS6OCbEKaBTvhPBzg",
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "mood": "Sad",
+ "len": 97.916,
+ "reference_vid": "2a50a3cccd184a86",
+ "downloadable": true,
+ "display_mood": "Sad",
+ "vid": "2a50a3cccd184a86",
+ "title": "Earnest",
+ "fp_ref_id": "2a50a3cccd184a86",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2a50a3cccd184a86",
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "display_genre": "Classical"
+}

@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "EEJw703BUwoUSjHWJX5mFwv47c-khDvHGcUCSD05HHPBPW0pQqxwaUeG4fI8ULLF",
+ "len": 314.883,
+ "category": "",
+ "license_type": 0,
+ "title": "Busy Beat",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "vid": "8ed9b01812028193",
+ "album": "None",
+ "mood": "Angry",
+ "artist": "Silent Partner",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "display_mood": "Angry",
+ "fp_ref_id": "8ed9b01812028193",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ed9b01812028193",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "8ed9b01812028193",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCVExIWChA4ZWQ5YjAxODEyMDI4MTkzEAAYAg%3D%3D&sigh=myjYL-hw0IGGemNHtnj_vA",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

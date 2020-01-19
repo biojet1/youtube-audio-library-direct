@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "title": "Ride of the Valkyries (by Wagner)",
+ "album": "None",
+ "artist": "Wagner",
+ "popularity_percentile": 5,
+ "category": "",
+ "display_genre": "Classical",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "vid": "0b35380d5f49deb7",
+ "streamid": "qIbgYERMQxkYN2gSjQTyH4KTetDRK7dM3mKOndV57QKAP-HVCDKzc95odK8MDjJ4",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCCFBIWChAwYjM1MzgwZDVmNDlkZWI3EAAYAg%3D%3D&sigh=pbc-YPyY0ZCut5WTn1GkDw",
+ "fp_ref_id": "0b35380d5f49deb7",
+ "len": 328.05,
+ "favorite": false,
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0b35380d5f49deb7",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b35380d5f49deb7",
+ "downloadable": true
+}

@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "5929201bec8b0af6",
+ "downloadable": true,
+ "fp_ref_id": "5929201bec8b0af6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5929201bec8b0af6",
+ "album": "None",
+ "artist": "Jingle Punks",
+ "display_mood": "Funky",
+ "streamid": "FX0a7xmXGVcmemL5gVz3Mij_DExUsZhOBgv74vZUpQOqjK7Av761CHO_hO_Ah4JQ",
+ "mood": "Funky",
+ "title": "Roots",
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "R&B & Soul",
+ "reference_vid": "5929201bec8b0af6",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 62.783,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDkAxIWChA1OTI5MjAxYmVjOGIwYWY2EAAYAg%3D%3D&sigh=RFSIvr1jPGLzDfHVFM38Zg"
+}

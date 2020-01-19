@@ -1,0 +1,30 @@
+{
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "len": 686.483,
+ "mood": "Sad",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://chriszabriskie.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDvKRIWChBjNjg3ZjFlOTUwYzdlOGE3EAAYAg%3D%3D&sigh=dWewqGOoFwXUoWGpOYfjqA",
+ "genre": "Ambient",
+ "streamid": "CQ973o8jdkjSvkX7splhNX-Jfeu3b1M-8SEoYgDyAoGoOQsmwxcKwVs07fodn3fU",
+ "downloadable": true,
+ "fp_ref_id": "c687f1e950c7e8a7",
+ "vid": "c687f1e950c7e8a7",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Ambient",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c687f1e950c7e8a7",
+ "category": "",
+ "reference_vid": "c687f1e950c7e8a7",
+ "title": "I Am a Man Who Will Fight for Your Honor",
+ "artist": "Chris Zabriskie",
+ "track_url": "http://chriszabriskie.com/honor/"
+}

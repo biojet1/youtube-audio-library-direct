@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 91,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "fp_ref_id": "9fb0b620e0e288c4",
+ "reference_vid": "9fb0b620e0e288c4",
+ "artist_channel_url": "/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "license_type": 1,
+ "streamid": "yHEPGrGvORjuDD5p9zdi6hZU3PdG9NPXH21xM9VZu7ApcriaXWr_C94QtBuE9vYJ",
+ "vid": "9fb0b620e0e288c4",
+ "mood": "Inspirational",
+ "artist": "Doug Maxwell",
+ "display_genre": "Classical",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChA5ZmIwYjYyMGUwZTI4OGM0EAAYAg%3D%3D&sigh=hqlC5WkO3RuZIEVqoVJe0w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9fb0b620e0e288c4",
+ "category": "",
+ "title": "Lost In Prayer",
+ "genre": "Classical",
+ "instruments": [
+  "male choir",
+  "harp",
+  "female choir",
+  "pipe organ"
+ ]
+}

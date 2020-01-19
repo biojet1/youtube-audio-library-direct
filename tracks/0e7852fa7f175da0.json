@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Ugonna Onyekwe",
+ "artist_channel_url": "/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "downloadable": true,
+ "fp_ref_id": "0e7852fa7f175da0",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChAwZTc4NTJmYTdmMTc1ZGEwEAAYAg%3D%3D&sigh=8pg2pdbH56HZAHGwqGaSgw",
+ "favorite": false,
+ "genre": "Cinematic",
+ "category": "",
+ "vid": "0e7852fa7f175da0",
+ "streamid": "EQaqO3YmIyPGBZb221MVacaEnMw18Zr75yeiF1lAi94UmKBRNq19ZcBhDKff25jk",
+ "mood": "Dramatic",
+ "reference_vid": "0e7852fa7f175da0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0e7852fa7f175da0",
+ "title": "The Heartache",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "instruments": [
+  "strings",
+  "synth",
+  "drums",
+  "piano"
+ ],
+ "len": 155,
+ "album": "None",
+ "track_url": ""
+}

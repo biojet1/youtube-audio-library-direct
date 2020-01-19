@@ -1,0 +1,31 @@
+{
+ "genre": "Pop",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Audionautix",
+ "fp_ref_id": "ea87e52f878f8ede",
+ "display_mood": "Bright",
+ "display_genre": "Pop",
+ "vid": "ea87e52f878f8ede",
+ "mood": "Bright",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjwDBIWChBlYTg3ZTUyZjg3OGY4ZWRlEAAYAg%3D%3D&sigh=GCix6vnPXl4899fV_jxKQA",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Wheels",
+ "category": "",
+ "len": 211.116,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ea87e52f878f8ede",
+ "reference_vid": "ea87e52f878f8ede",
+ "streamid": "zmx_qXfJ2kR5mxVv-4_CftNwlbum18ny1rA6jvmAFviYyYrL6qhmLQ4pxWptU4gV"
+}

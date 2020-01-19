@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChAxZjFmOGU3MGQyOTRiZjcxEAAYAg%3D%3D&sigh=3SKcVCN7u5HFUaAlKv_qJQ",
+ "popularity_percentile": 77,
+ "display_category": "",
+ "reference_vid": "1f1f8e70d294bf71",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1f1f8e70d294bf71",
+ "genre": "Pop",
+ "artist_url": "http://audionautix.com/",
+ "len": 148.95,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "0lXcwvsqMev3GYAa1_MTy91R1wDsnGKvbXCMi9b5XgYF8LOJMI1nHDSYED8IcR3B",
+ "display_mood": "Bright",
+ "display_genre": "Pop",
+ "mood": "Bright",
+ "title": "Summer Sidewalk",
+ "license_type": 6,
+ "track_url": "",
+ "vid": "1f1f8e70d294bf71",
+ "artist": "Audionautix",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "1f1f8e70d294bf71",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "album": "None"
+}

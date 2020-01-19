@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "streamid": "Cus05txqcgKzrVwYlYuyzlZqy1ZJS4zkgXTce08HjeAjpPPNUU1qJ598nFZUcVyB",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=924aa07e2ce427a3",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChA5MjRhYTA3ZTJjZTQyN2EzEAAYAg%3D%3D&sigh=m8rHmAIxhFNYYzVDFIPS6g",
+ "vid": "924aa07e2ce427a3",
+ "display_category": "",
+ "title": "Pop Metal",
+ "album": "None",
+ "mood": "Bright",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Audionautix",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "reference_vid": "924aa07e2ce427a3",
+ "len": 127.316,
+ "popularity_percentile": 51,
+ "genre": "Rock",
+ "fp_ref_id": "924aa07e2ce427a3",
+ "track_url": "",
+ "display_genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Acoustic Guitar"
+ ],
+ "license_type": 6
+}

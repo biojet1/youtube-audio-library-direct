@@ -1,0 +1,32 @@
+{
+ "title": "Silver Lakes",
+ "favorite": false,
+ "len": 160.916,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChBkYjc4NmQ4M2I1YTY0NzhmEAAYAg%3D%3D&sigh=BD3lZUBCckIYYKnad3voow",
+ "fp_ref_id": "db786d83b5a6478f",
+ "artist_channel_url": null,
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "genre": "Country & Folk",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "mood": "Romantic",
+ "display_mood": "Romantic",
+ "artist_url": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Piano",
+  "Synth"
+ ],
+ "reference_vid": "db786d83b5a6478f",
+ "display_category": "",
+ "vid": "db786d83b5a6478f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db786d83b5a6478f",
+ "streamid": "QxN8kNoDEEkAzvoJmgairk7Tz-xb0r7TRYJTyov-QhpUt8cn9QH9nsjWVCAk1rCG",
+ "artist": "Wes Hutchinson"
+}

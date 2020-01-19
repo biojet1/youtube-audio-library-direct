@@ -1,0 +1,31 @@
+{
+ "reference_vid": "04a1142dd26c933c",
+ "popularity_percentile": 78,
+ "display_genre": "Pop",
+ "license_type": 6,
+ "fp_ref_id": "04a1142dd26c933c",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Drums"
+ ],
+ "title": "Bumbly March - Music to Delight",
+ "downloadable": true,
+ "mood": "Happy",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 58.45,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "streamid": "NeIBTOnv8Xd3CvOcExp30cOw9BtWHrDsAhEupKv0yLRHCVi5UD54RLVEz8s__5vv",
+ "vid": "04a1142dd26c933c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDFAxIWChAwNGExMTQyZGQyNmM5MzNjEAAYAg%3D%3D&sigh=vD8aii0SQrx8t-ctEIquGw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04a1142dd26c933c",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100425",
+ "album": "None",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Pop"
+}

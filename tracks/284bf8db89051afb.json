@@ -1,0 +1,32 @@
+{
+ "display_genre": "Children's",
+ "genre": "Children's",
+ "favorite": false,
+ "fp_ref_id": "284bf8db89051afb",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Organ"
+ ],
+ "streamid": "agPizE3nhQOv9VT9nRQkfqL-p_05GxuBMZoZ-cLr1NW6SsCMTUrF2KrY8wDS5zBi",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=284bf8db89051afb",
+ "album": "None",
+ "mood": "Happy",
+ "downloadable": true,
+ "artist": "The Green Orbs",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 107.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChAyODRiZjhkYjg5MDUxYWZiEAAYAg%3D%3D&sigh=rlqRgg1jYGa_ftlfv-V6Hg",
+ "reference_vid": "284bf8db89051afb",
+ "popularity_percentile": 15,
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "display_category": "",
+ "track_url": "",
+ "title": "The Muffin Man (Instrumental)",
+ "category": "",
+ "vid": "284bf8db89051afb"
+}

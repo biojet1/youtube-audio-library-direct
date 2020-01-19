@@ -1,0 +1,33 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "len": 117.183,
+ "mood": "Dramatic",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChA5NWJkMzFkYzA5MTQ0ODZjEAAYAg%3D%3D&sigh=uBbCayr6cF_1gM5DrGJVZw",
+ "genre": "Pop",
+ "streamid": "al8XOLm4LMSOdoFgfPloWlQ1Yqe6f6KexrEAW9EjB5CojfkxExYWKGGpA73bY-Oy",
+ "downloadable": true,
+ "fp_ref_id": "95bd31dc0914486c",
+ "vid": "95bd31dc0914486c",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Pop",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "piano",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95bd31dc0914486c",
+ "category": "",
+ "reference_vid": "95bd31dc0914486c",
+ "title": "Rustled Feathers",
+ "artist": "Silent Partner",
+ "track_url": ""
+}

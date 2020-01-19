@@ -1,0 +1,29 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "bc86555a798d380b",
+ "mood": "Dark",
+ "title": "Spirit of the Dead",
+ "category": "",
+ "genre": "Ambient",
+ "album": "None",
+ "len": 169,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChBiYzg2NTU1YTc5OGQzODBiEAAYAg%3D%3D&sigh=-zN018lrvxvBOD6xs2OWLQ",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bc86555a798d380b",
+ "fp_ref_id": "bc86555a798d380b",
+ "artist": "Aakash Gandhi",
+ "display_mood": "Dark",
+ "display_genre": "Ambient",
+ "streamid": "HaBV28dgLawV17Um0SZVFaGvyLgd0WZ-KYfTCWhnpCG_tGk2lkoAt4vFGFHfLDLe",
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "display_category": "",
+ "instruments": [
+  "piano"
+ ],
+ "vid": "bc86555a798d380b"
+}

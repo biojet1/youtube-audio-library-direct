@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "len": 106.283,
+ "fp_ref_id": "a0c87126940467e4",
+ "streamid": "9I9Y2oe7XxFgyItTjOjTOufHyglSvL5EEwvphENtihgX9DVa7nS4e0KVmCVNu1No",
+ "artist_url": "",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 63,
+ "vid": "a0c87126940467e4",
+ "display_genre": "Dance & Electronic",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0c87126940467e4",
+ "album": "None",
+ "title": "Zen Valley",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBhMGM4NzEyNjk0MDQ2N2U0EAAYAg%3D%3D&sigh=cKkc4RObsFGrApZ3zRWaSw",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "artist": "Josh Kirsch/Media Right Productions",
+ "display_category": "",
+ "mood": "Inspirational",
+ "is_new_track": false,
+ "reference_vid": "a0c87126940467e4",
+ "track_url": "",
+ "license_type": 0
+}

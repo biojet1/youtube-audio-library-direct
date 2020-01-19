@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChA0ZDc1MWVjNjNhODJkMzk3EAAYAg%3D%3D&sigh=lYzbrxF6GdKAY-UBirlabQ",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "artist": "Bird Creek",
+ "display_genre": "Dance & Electronic",
+ "mood": "Dark",
+ "reference_vid": "4d751ec63a82d397",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4d751ec63a82d397",
+ "favorite": false,
+ "popularity_percentile": 31,
+ "artist_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ",
+  "Strings"
+ ],
+ "license_type": 0,
+ "fp_ref_id": "4d751ec63a82d397",
+ "title": "Hall Of Mirrors",
+ "len": 108.016,
+ "streamid": "YcT2PawcCD5fwP8xvw988pG8mbtHIgVJ5CPjnwoSnyCwdPTczK8r2N-GKKwxWVJU",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "vid": "4d751ec63a82d397"
+}

@@ -1,0 +1,30 @@
+{
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "fp_ref_id": "894e7430f0c67812",
+ "artist_channel_url": "/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "reference_vid": "894e7430f0c67812",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 156,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChA4OTRlNzQzMGYwYzY3ODEyEAAYAg%3D%3D&sigh=uOA7803s7XQuzjUBmPWxLw",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=894e7430f0c67812",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "title": "Control",
+ "genre": "Reggae",
+ "streamid": "9H-9XwzuR_Wem5Rkt3eFd_W2Z9Bt4oAN4CH2noqzIwDdC9lFBF973ZypLoC_zA4c",
+ "vid": "894e7430f0c67812",
+ "display_genre": "Reggae",
+ "mood": "Bright",
+ "license_type": 1,
+ "artist": "Rick Steel"
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "27472bed0ac56502",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=27472bed0ac56502",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChAyNzQ3MmJlZDBhYzU2NTAyEAAYAg%3D%3D&sigh=SWSsVzRUYoWClioIBaxIkA",
+ "is_new_track": false,
+ "reference_vid": "27472bed0ac56502",
+ "display_mood": "Funky",
+ "favorite": false,
+ "category": "",
+ "title": "Two Fast",
+ "streamid": "Ez3bN5t2lWRCZ4RUfo9ZOgtrJ8PPv1_5JXuDgjHzDd_lk3xmtyUwfffvAQsz-9-z",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "len": 179.8,
+ "album": "None",
+ "genre": "R&B & Soul",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Text Me Records",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Guitar"
+ ],
+ "fp_ref_id": "27472bed0ac56502"
+}

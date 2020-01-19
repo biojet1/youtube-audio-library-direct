@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "91dbd234c6dd12ce",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Trumpet"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Jazz & Blues",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "9hPa4bWV_0gMFI1tGJbC3oqlT5ZuhJb4-FNDwteJzWz6BSPzktpTzoGz8apc1Mwa",
+ "license_type": 6,
+ "vid": "91dbd234c6dd12ce",
+ "popularity_percentile": 74,
+ "reference_vid": "91dbd234c6dd12ce",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 208.216,
+ "track_url": "https://freemusicarchive.org/music/Kevin_MacLeod/Jazz_Sampler/AcidJazz_1430",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDZDBIWChA5MWRiZDIzNGM2ZGQxMmNlEAAYAg%3D%3D&sigh=rNBr9Q9oh9PcOUVtOlhG8g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91dbd234c6dd12ce",
+ "title": "Acid Jazz"
+}

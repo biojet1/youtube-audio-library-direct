@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA0M2I4MGQyNzRmYTI3MjY3EAAYAg%3D%3D&sigh=UlJevexSWnq7_wMgxppymQ",
+ "display_category": "",
+ "display_mood": "Bright",
+ "album": "None",
+ "vid": "43b80d274fa27267",
+ "downloadable": true,
+ "reference_vid": "43b80d274fa27267",
+ "favorite": false,
+ "fp_ref_id": "43b80d274fa27267",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=43b80d274fa27267",
+ "genre": "Hip Hop & Rap",
+ "streamid": "PVKzxE7-95g2evDfleE1RRjzmu2hQZAGrZlnAEHTR-u7ozRAho7CEQaRQNSg9zde",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Bright",
+ "len": 145,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Submarine",
+ "artist": "Dyalla",
+ "category": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "instruments": [
+  "synth",
+  "drums",
+  "percussion"
+ ]
+}

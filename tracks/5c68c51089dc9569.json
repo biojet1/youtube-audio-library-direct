@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dark",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "fp_ref_id": "5c68c51089dc9569",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "reference_vid": "5c68c51089dc9569",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 216,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChA1YzY4YzUxMDg5ZGM5NTY5EAAYAg%3D%3D&sigh=KMy1arJTtFs5O7V2wdWuyw",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5c68c51089dc9569",
+ "instruments": [
+  "trumpet",
+  "strings"
+ ],
+ "title": "Fear The Wind",
+ "genre": "Cinematic",
+ "streamid": "2q68XyOern0_DoSZ98EduioDDskPH8Ji_kB0dwIZ8o7UhzJuhSHyZFhRw6ELCXlm",
+ "vid": "5c68c51089dc9569",
+ "display_genre": "Cinematic",
+ "mood": "Dark",
+ "license_type": 1,
+ "artist": "Sir Cubworth"
+}

@@ -1,0 +1,31 @@
+{
+ "genre": "Classical",
+ "display_genre": "Classical",
+ "len": 118.883,
+ "display_category": "",
+ "reference_vid": "43066ac98e40a45c",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "fp_ref_id": "43066ac98e40a45c",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "hr4-_voBKwCVIuEhQDq_yqfSX_lrsVnfDI9kNs_wC2gYxm5JRuC9kEgYuTJEkc_x",
+ "display_mood": "Happy",
+ "vid": "43066ac98e40a45c",
+ "track_url": "",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA0MzA2NmFjOThlNDBhNDVjEAAYAg%3D%3D&sigh=lVlNI_NyyOT6vuwN9KP_7w",
+ "category": "",
+ "title": "Baroque Coffee House",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=43066ac98e40a45c"
+}

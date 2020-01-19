@@ -1,0 +1,32 @@
+{
+ "artist": "John Deley and the 41 Players",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=34149ccc0d96c558",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChAzNDE0OWNjYzBkOTZjNTU4EAAYAg%3D%3D&sigh=e0xD5rjKad2J2Sch7bXJJA",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "album": "None",
+ "track_url": "",
+ "len": 154.55,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "34149ccc0d96c558",
+ "streamid": "k_vdmsaiyjUQupaYzFOPEfSiYpQuuK2NUO_ZK597uKs8oDOmPSg2RnqW2l0gdDOs",
+ "title": "Dixie Outlandish",
+ "artist_url": "",
+ "mood": "Bright",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "popularity_percentile": 20,
+ "reference_vid": "34149ccc0d96c558",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "fp_ref_id": "34149ccc0d96c558",
+ "license_type": 0
+}

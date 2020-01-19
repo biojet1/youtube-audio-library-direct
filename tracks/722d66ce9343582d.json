@@ -1,0 +1,31 @@
+{
+ "artist": "Audionautix",
+ "display_category": "",
+ "genre": "Rock",
+ "vid": "722d66ce9343582d",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "722d66ce9343582d",
+ "artist_url": "http://audionautix.com/",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "album": "None",
+ "category": "",
+ "license_type": 6,
+ "display_genre": "Rock",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "722d66ce9343582d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=722d66ce9343582d",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMhlEhYKEDcyMmQ2NmNlOTM0MzU4MmQQABgC&sigh=zBl-YxgkoAsoW_Yd7MVLfg",
+ "streamid": "iCyC0YNE2CPfeR9cte-PDZ9SHE2vG1K1EIVZCNp_-Aob3k2DOBbL8bvAkAezJMj1",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 13.45,
+ "title": "Rock Intro 3",
+ "favorite": false
+}

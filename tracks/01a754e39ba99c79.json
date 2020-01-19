@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "vid": "01a754e39ba99c79",
+ "streamid": "2vI-305047JxQhgrW53YjuWrLLiWHwIKsv66eFTXTUEghVT14Z3myERmK2mmWhTt",
+ "title": "Bellissimo",
+ "category": "",
+ "len": 115,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChAwMWE3NTRlMzliYTk5Yzc5EAAYAg%3D%3D&sigh=VPFqY1bttVoMZcaOASH8ZQ",
+ "artist": "Doug Maxwell",
+ "artist_url": "https://www.youtube.com/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "reference_vid": "01a754e39ba99c79",
+ "display_mood": "Dramatic",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=01a754e39ba99c79",
+ "instruments": [
+  "drums",
+  "string orchestra",
+  "piano",
+  "Solo violin",
+  "percussion"
+ ],
+ "genre": "Classical",
+ "display_genre": "Classical",
+ "fp_ref_id": "01a754e39ba99c79",
+ "favorite": false,
+ "mood": "Dramatic"
+}

@@ -1,0 +1,33 @@
+{
+ "len": 228.583,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=876245ecb4660953",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "display_mood": "Dark",
+ "streamid": "QobGEeC-nteLfpNBtguesCmlgBDS_J8bth4-tfqDXeLc-_fR633gJjKn1_L129oQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChA4NzYyNDVlY2I0NjYwOTUzEAAYAg%3D%3D&sigh=BCA3DGd41IVyrCpXsAFMpw",
+ "title": "Right On Red",
+ "vid": "876245ecb4660953",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "mood": "Dark",
+ "artist": "Audionautix",
+ "favorite": false,
+ "popularity_percentile": 54,
+ "display_genre": "Pop",
+ "reference_vid": "876245ecb4660953",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Pop",
+ "fp_ref_id": "876245ecb4660953",
+ "track_url": "",
+ "album": "None"
+}

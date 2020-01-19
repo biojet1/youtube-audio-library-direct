@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "7ab4259a5ea29b17",
+ "display_category": "",
+ "fp_ref_id": "7ab4259a5ea29b17",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7ab4259a5ea29b17",
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "title": "Mamas",
+ "favorite": false,
+ "license_type": 1,
+ "len": 154,
+ "display_mood": "Calm",
+ "instruments": [
+  "drums",
+  "organ",
+  "electric guitar",
+  "bass",
+  "piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChA3YWI0MjU5YTVlYTI5YjE3EAAYAg%3D%3D&sigh=6GfFJTx2TyZbmAo5M2STXQ",
+ "streamid": "RwK6e7bTI9PGyV5uLFoC2588IcMb4oLAMQsKWEQwIgNw90xwReD_za_P7GkTVjly",
+ "genre": "Rock",
+ "vid": "7ab4259a5ea29b17",
+ "artist": "Josh Lippi & The Overtimers"
+}

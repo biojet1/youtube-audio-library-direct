@@ -1,0 +1,32 @@
+{
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "len": 177,
+ "display_category": "",
+ "reference_vid": "4ef2158191843700",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "license_type": 1,
+ "album": "None",
+ "artist": "The Whole Other",
+ "fp_ref_id": "4ef2158191843700",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "streamid": "ki7JyU1iKAPcuZ7TT5TOTOk0-EKkl4VHGd-TQ4YaZ8Gd52aHrTJU5Sv_f3zTd38c",
+ "display_mood": "Dramatic",
+ "vid": "4ef2158191843700",
+ "track_url": "",
+ "instruments": [
+  "Clarinet",
+  "Drums",
+  "Acoustic Guitar",
+  "Keyboards"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChA0ZWYyMTU4MTkxODQzNzAwEAAYAg%3D%3D&sigh=Z9UJ92xjkBM4d_ry8DBd_A",
+ "category": "",
+ "title": "Mars Cantina",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ef2158191843700"
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "8abb19db3735aa23",
+ "display_category": "",
+ "fp_ref_id": "8abb19db3735aa23",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8abb19db3735aa23",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "downloadable": true,
+ "display_genre": "Pop",
+ "title": "Merengue de Limon",
+ "favorite": false,
+ "license_type": 1,
+ "len": 167,
+ "display_mood": "Happy",
+ "instruments": [
+  "bass",
+  "drums",
+  "horns",
+  "piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChA4YWJiMTlkYjM3MzVhYTIzEAAYAg%3D%3D&sigh=GDHAM3p7FjswxHvXFh6gHg",
+ "streamid": "6P9VunpuvDm-6A0IRJor6c_2WWm6AkXvfp1mcVeqzG7lI5UC4rfls4wNS72tdyma",
+ "genre": "Pop",
+ "vid": "8abb19db3735aa23",
+ "artist": "Quincas Moreira"
+}

@@ -1,0 +1,32 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjECxIWChAwMzExZGEzYmMzN2I4ZDM1EAAYAg%3D%3D&sigh=FNZjdoTop8PhSbyJ1ffueQ",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0311da3bc37b8d35",
+ "reference_vid": "0311da3bc37b8d35",
+ "popularity_percentile": 2,
+ "artist": "Topher Mohr and Alex Elena",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0311da3bc37b8d35",
+ "mood": "Inspirational",
+ "genre": "Rock",
+ "streamid": "zuc5VbbxweWzsPOZOXjYvGi82XMC8iH6RiWK6XLY3nonyAEJk2eGMfZR5j3VEaRA",
+ "title": "Hot Heat",
+ "downloadable": true,
+ "category": "",
+ "len": 189.883,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "fp_ref_id": "0311da3bc37b8d35",
+ "album": "None"
+}

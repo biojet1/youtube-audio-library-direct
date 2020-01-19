@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "f1ceb8f29ae8528c",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f1ceb8f29ae8528c",
+ "popularity_percentile": 95,
+ "vid": "f1ceb8f29ae8528c",
+ "streamid": "gXodr8at5Gt6uWzscGLsZ7ZwXMVgNy7B3sTvNVMtY8xKZHbt4yCcqLmV5tXFzNPP",
+ "artist": "Max Surla/Media Right Productions",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBmMWNlYjhmMjlhZTg1MjhjEAAYAg%3D%3D&sigh=uWkr7y-nDTjPlun1_Zr0-Q",
+ "display_category": "",
+ "title": "Black and White",
+ "album": "None",
+ "license_type": 0,
+ "mood": "dramatic",
+ "display_genre": "Cinematic",
+ "reference_vid": "f1ceb8f29ae8528c",
+ "artist_url": "",
+ "track_url": "",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "len": 133.25,
+ "category": ""
+}

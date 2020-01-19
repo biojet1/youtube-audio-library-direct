@@ -1,0 +1,32 @@
+{
+ "display_mood": "Bright",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "album": "None",
+ "streamid": "23KP3_Vsi2ePrj7ns_-LljzSRbv1g0LMLItukvb8neEvceCWQJvGRTe74r3u1ilx",
+ "title": "Ticket",
+ "display_genre": "Dance & Electronic",
+ "vid": "7584472b6001fc2d",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "7584472b6001fc2d",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Bright",
+ "license_type": 0,
+ "fp_ref_id": "7584472b6001fc2d",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Gunnar Olsen",
+ "len": 212.35,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChA3NTg0NDcyYjYwMDFmYzJkEAAYAg%3D%3D&sigh=Z77ylX5vAeZEvzBEAYmWEw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7584472b6001fc2d"
+}

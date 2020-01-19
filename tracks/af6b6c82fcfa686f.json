@@ -1,0 +1,33 @@
+{
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "len": 165,
+ "display_category": "",
+ "reference_vid": "af6b6c82fcfa686f",
+ "popularity_percentile": 99,
+ "artist_url": "",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Otis McDonald",
+ "fp_ref_id": "af6b6c82fcfa686f",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "streamid": "KAI7eQL7C00taU_mFBZ8Qoq9GSkVQO5UaUbXvwTJM2KHjY2Q1Di-Iomui3IAqH-i",
+ "display_mood": "Happy",
+ "vid": "af6b6c82fcfa686f",
+ "track_url": "",
+ "instruments": [
+  "Samples",
+  "Synth",
+  "Drums",
+  "Guitar",
+  "Bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBhZjZiNmM4MmZjZmE2ODZmEAAYAg%3D%3D&sigh=9GvdwyhEsXkTgJZ9x3I-SA",
+ "category": "",
+ "title": "Side Steppin'",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=af6b6c82fcfa686f"
+}

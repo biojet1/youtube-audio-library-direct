@@ -1,0 +1,31 @@
+{
+ "display_genre": "Rock",
+ "streamid": "h0vHIJuwDxS5-V51RXKmH5ILAG8bxFiHMDAlEO7Ey_fBilyvJTHV2n3conZczxWp",
+ "display_category": "",
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "reference_vid": "11cb669efbc778fe",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Cello"
+ ],
+ "category": "",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "fp_ref_id": "11cb669efbc778fe",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChAxMWNiNjY5ZWZiYzc3OGZlEAAYAg%3D%3D&sigh=dJoegaikWJrm_Y3cXmBkpA",
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=11cb669efbc778fe",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "artist": "The Whole Other",
+ "mood": "Dark",
+ "title": "The Machine Assembly",
+ "len": 169,
+ "vid": "11cb669efbc778fe",
+ "track_url": ""
+}

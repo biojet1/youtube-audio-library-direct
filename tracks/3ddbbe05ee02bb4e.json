@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCyBBIWChAzZGRiYmUwNWVlMDJiYjRlEAAYAg%3D%3D&sigh=-14PivzGxCpm9ngjLHWfbg",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "display_mood": "Inspirational",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "vid": "3ddbbe05ee02bb4e",
+ "reference_vid": "3ddbbe05ee02bb4e",
+ "genre": "Cinematic",
+ "popularity_percentile": 24,
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "track_url": "",
+ "title": "Third Time",
+ "downloadable": true,
+ "category": "",
+ "streamid": "_LaOHTEAXl1Jza2tf_rrG8IbfsMUhGKUpZMmoWoWOJLiE8mh5MgV1E7w99_SFOay",
+ "fp_ref_id": "3ddbbe05ee02bb4e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ddbbe05ee02bb4e",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Inspirational",
+ "len": 72.05
+}

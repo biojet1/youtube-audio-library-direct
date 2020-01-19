@@ -1,0 +1,33 @@
+{
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "len": 174,
+ "display_category": "",
+ "reference_vid": "a4a3edc11b8abdc2",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Chris Haugen",
+ "fp_ref_id": "a4a3edc11b8abdc2",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "streamid": "0VJwe93YJQmCsAl0ZS6fs2dOkVuCegUSGG047in8B68BnUNn-LO5069v_sGBNz9e",
+ "display_mood": "Bright",
+ "vid": "a4a3edc11b8abdc2",
+ "track_url": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "Acoustic guitar",
+  "steel guitar",
+  "drums"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBhNGEzZWRjMTFiOGFiZGMyEAAYAg%3D%3D&sigh=mfwgEccBjigyiW49VwgCsg",
+ "category": "",
+ "title": "Way Out West",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a4a3edc11b8abdc2"
+}

@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "LzRGu0eU3CHagcc-3ZTkQb6ptFNSDmxzr_XviA4nQd0w3D95fpd_saulPEWhIGWO",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDYxMDRmNjA0ZmY4NGIzNzcQABgC&sigh=T9i5gEqgcDdykk9IHXzSkQ",
+ "album": "None",
+ "artist": "Otis McDonald",
+ "mood": "Dark",
+ "len": 7.616,
+ "reference_vid": "6104f604ff84b377",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "vid": "6104f604ff84b377",
+ "title": "Livin' Up (Sting)",
+ "fp_ref_id": "6104f604ff84b377",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6104f604ff84b377",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "ec167ba209f0c35e",
+ "display_category": "",
+ "fp_ref_id": "ec167ba209f0c35e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ec167ba209f0c35e",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChBlYzE2N2JhMjA5ZjBjMzVlEAAYAg%3D%3D&sigh=MCuG47UWZGiQ2FmAXKO6Bw",
+ "streamid": "fXJji51cG-lNTQSrQqFZe-Vt5C18kMn0iWz7OqB6AZ4kfZrV-8RxhfRwNvKvQVlS",
+ "genre": "Dance & Electronic",
+ "vid": "ec167ba209f0c35e",
+ "artist": "White Hex",
+ "display_genre": "Dance & Electronic",
+ "title": "Dreaming Of A New Day",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 177,
+ "display_mood": "Dark",
+ "downloadable": true
+}

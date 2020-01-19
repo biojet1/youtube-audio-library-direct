@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist": "Jingle Punks",
+ "vid": "835c32a104e250b6",
+ "display_category": "",
+ "streamid": "jEflsmfAwSTwa1rB4d68QH2meZLzCGXw1jWnPDnpQP4sWV-xoJt9vc40Z_-oBcVd",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=835c32a104e250b6",
+ "fp_ref_id": "835c32a104e250b6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDgzNWMzMmExMDRlMjUwYjYQABgC&sigh=mb5xDUG8wSen90mV5ypTXQ",
+ "display_genre": "Cinematic",
+ "len": 5.55,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Strings"
+ ],
+ "reference_vid": "835c32a104e250b6",
+ "title": "Earthy Crust (Sting)",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 52
+}

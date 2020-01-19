@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist": "Bird Creek",
+ "is_new_track": false,
+ "fp_ref_id": "9133cf392da92bf0",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "title": "Surfing Llama",
+ "vid": "9133cf392da92bf0",
+ "mood": "Dramatic",
+ "display_genre": "Rock",
+ "len": 105.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChA5MTMzY2YzOTJkYTkyYmYwEAAYAg%3D%3D&sigh=piPPb1N1e5mR0_35okOA0Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9133cf392da92bf0",
+ "display_category": "",
+ "category": "",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "e99U09jPTO2FCi6H_fPY83puvATBWk6MVVPR8Lus96f2ZeBKVa18-Fs6NiGWcMGD",
+ "reference_vid": "9133cf392da92bf0",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Rock",
+ "artist_url": ""
+}

@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=248f35c669505b7f",
+ "artist_channel_url": null,
+ "display_category": "",
+ "display_mood": "Sad",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODUAxIWChAyNDhmMzVjNjY5NTA1YjdmEAAYAg%3D%3D&sigh=2FFeCy356rwlrHBKe-qszQ",
+ "len": 60.05,
+ "album": "None",
+ "downloadable": true,
+ "mood": "Sad",
+ "display_genre": "Classical",
+ "reference_vid": "248f35c669505b7f",
+ "is_new_track": false,
+ "title": "Lone Harvest",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100409",
+ "popularity_percentile": 42,
+ "streamid": "NZNhuSNRRyYCKHDbOyIvfHkx2FptqkXv6VUWgECcApK8rePGAS5ib3-7VgryKsM-",
+ "genre": "Classical",
+ "vid": "248f35c669505b7f",
+ "favorite": false,
+ "fp_ref_id": "248f35c669505b7f"
+}

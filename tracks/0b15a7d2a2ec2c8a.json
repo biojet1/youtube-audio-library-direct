@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKifDRIWChAwYjE1YTdkMmEyZWMyYzhhEAAYAg%3D%3D&sigh=Qs2VnFSxQMD1t55y6bk5UQ",
+ "instruments": [
+  "drums",
+  "bass",
+  "organ",
+  "synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "0b15a7d2a2ec2c8a",
+ "reference_vid": "0b15a7d2a2ec2c8a",
+ "popularity_percentile": 99,
+ "artist": "Mikos Da Gawd",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b15a7d2a2ec2c8a",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "streamid": "zaTD3aVSJRtSnCO0msUZuXj1_FmiZV2KUfeB7d_F7A4W94piTQfdfxNWOWPBzlL8",
+ "title": "Oh Wee",
+ "downloadable": true,
+ "category": "",
+ "len": 217,
+ "artist_url": "https://www.youtube.com/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "0b15a7d2a2ec2c8a",
+ "album": "None"
+}

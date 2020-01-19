@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "7ffbc70b9a3eef82",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7ffbc70b9a3eef82",
+ "popularity_percentile": 95,
+ "vid": "7ffbc70b9a3eef82",
+ "streamid": "J7BnGb-jM-EFttxzCOMQB7mB7l4ZnaqR9SclHOmPdDpiIutNQVg2xuwebByKu3U_",
+ "artist": "Audionautix",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChA3ZmZiYzcwYjlhM2VlZjgyEAAYAg%3D%3D&sigh=OJ3dvfKf3bnjAuGPkWGsXg",
+ "display_category": "",
+ "title": "Rocker Chicks",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Bright",
+ "display_genre": "Rock",
+ "reference_vid": "7ffbc70b9a3eef82",
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "len": 90.05,
+ "category": ""
+}

@@ -1,0 +1,33 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "a37bd2f867e0fd2d",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a37bd2f867e0fd2d",
+ "title": "Until We Meet Again",
+ "mood": "Inspirational",
+ "len": 196.283,
+ "artist_url": "",
+ "artist": "Joe Bagale",
+ "fp_ref_id": "a37bd2f867e0fd2d",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Keyboard",
+  "Synth",
+  "Bass"
+ ],
+ "streamid": "DyHK4bnJoah7JpCXoNMY36eJjN2U9YWCbf8BiWUi2fAjH7xhrG0iZd92IrqYhLlt",
+ "display_mood": "Inspirational",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a37bd2f867e0fd2d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD7CxIWChBhMzdiZDJmODY3ZTBmZDJkEAAYAg%3D%3D&sigh=GEnsv5TkB1c47kzGBgRwUA"
+}

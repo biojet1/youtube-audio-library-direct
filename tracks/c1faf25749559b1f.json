@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChBjMWZhZjI1NzQ5NTU5YjFmEAAYAg%3D%3D&sigh=aW6QlJnUCXPUag5xRZOchQ",
+ "display_category": "",
+ "display_mood": "Dark",
+ "album": "None",
+ "vid": "c1faf25749559b1f",
+ "downloadable": true,
+ "reference_vid": "c1faf25749559b1f",
+ "favorite": false,
+ "fp_ref_id": "c1faf25749559b1f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c1faf25749559b1f",
+ "genre": "Cinematic",
+ "streamid": "8kh3oiN0AkQdakFYXwGxTqSCt23l8Yf4NCZpfbbgAyDUJGUzForIM1MIFVXdp__m",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100779",
+ "mood": "Dark",
+ "len": 159.55,
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Grim League",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums"
+ ]
+}

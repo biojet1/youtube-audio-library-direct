@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Bright",
+ "display_category": "",
+ "fp_ref_id": "78b3e687b96031c8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=78b3e687b96031c8",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "78b3e687b96031c8",
+ "len": 166.916,
+ "display_mood": "Bright",
+ "streamid": "i8MQgamqsls0jxEKUivXxyM8UGlQjo6QRI6iSXKmr1fDaL4vav4yHRdLA2dt-ju7",
+ "display_genre": "Rock",
+ "title": "DC Love Go-Go",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Rock",
+ "vid": "78b3e687b96031c8",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChA3OGIzZTY4N2I5NjAzMWM4EAAYAg%3D%3D&sigh=HRIrC3sEtvWAbHZl5kbBpA"
+}

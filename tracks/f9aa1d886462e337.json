@@ -1,0 +1,33 @@
+{
+ "len": 233,
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "jvpQYZalCiUiMuvsj79bsRJ1J8OWoyJ5FEZYdtHH4Tw9ejfn6DECSBnNwpZI_O3M",
+ "genre": "Pop",
+ "vid": "f9aa1d886462e337",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f9aa1d886462e337",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "title": "Marigold",
+ "instruments": [
+  "organ",
+  "piano",
+  "bass",
+  "drums",
+  "strings"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "f9aa1d886462e337",
+ "mood": "Sad",
+ "album": "None",
+ "reference_vid": "f9aa1d886462e337",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKicDhIWChBmOWFhMWQ4ODY0NjJlMzM3EAAYAg%3D%3D&sigh=Y-QiZ5C-c4JFwZa1-zw5ng",
+ "display_genre": "Pop",
+ "is_new_track": false,
+ "display_mood": "Sad",
+ "artist": "Quincas Moreira"
+}

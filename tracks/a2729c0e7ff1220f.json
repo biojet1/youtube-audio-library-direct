@@ -1,0 +1,33 @@
+{
+ "reference_vid": "a2729c0e7ff1220f",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "len": 222,
+ "streamid": "b8bY8wqX9Y3WL6BpXxSHBEgrCJc3R254CZCTopJevAVpgm3nS6vG2cfZtmL-qHA2",
+ "instruments": [
+  "piano",
+  "bass",
+  "acoustic guitar",
+  "drums",
+  "electric guitar"
+ ],
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "license_type": 1,
+ "display_genre": "Country & Folk",
+ "genre": "Country & Folk",
+ "mood": "Happy",
+ "artist": "Unicorn Heads",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a2729c0e7ff1220f",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChBhMjcyOWMwZTdmZjEyMjBmEAAYAg%3D%3D&sigh=eOexkS2Ph_vGmRoslh4lgw",
+ "fp_ref_id": "a2729c0e7ff1220f",
+ "vid": "a2729c0e7ff1220f",
+ "title": "Rocking Chair",
+ "favorite": false,
+ "display_category": "",
+ "track_url": ""
+}

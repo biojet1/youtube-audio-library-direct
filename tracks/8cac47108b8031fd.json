@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Dark",
+ "genre": "R&B & Soul",
+ "streamid": "2qXyxxSsZNhw-eJaUvdm28buiOTIU66QCQpIEq0moHSDV0ITs5uk46le4WGwrSxO",
+ "fp_ref_id": "8cac47108b8031fd",
+ "artist": "Topher Mohr and Alex Elena",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChA4Y2FjNDcxMDhiODAzMWZkEAAYAg%3D%3D&sigh=u5OtrllmdF9v-bIatcbGXw",
+ "mood": "Dark",
+ "vid": "8cac47108b8031fd",
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8cac47108b8031fd",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth",
+  "Organ"
+ ],
+ "album": "None",
+ "reference_vid": "8cac47108b8031fd",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 186.55,
+ "category": "",
+ "title": "Late"
+}

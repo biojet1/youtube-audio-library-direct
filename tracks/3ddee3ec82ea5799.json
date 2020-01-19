@@ -1,0 +1,30 @@
+{
+ "artist": "Kevin MacLeod",
+ "mood": "Funky",
+ "vid": "3ddee3ec82ea5799",
+ "streamid": "UVphy4rtPSpaQTCmte8yNGLk-XAg2X60c52X36IGZsL7r6ZxRtcvNsmEvLxijdSI",
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100319",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ddee3ec82ea5799",
+ "fp_ref_id": "3ddee3ec82ea5799",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKjAAhIWChAzZGRlZTNlYzgyZWE1Nzk5EAAYAg%3D%3D&sigh=CV00OPG9YPNkhNgfm3M3jg",
+ "len": 41.45,
+ "display_genre": "Jazz & Blues",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Jazz & Blues",
+ "reference_vid": "3ddee3ec82ea5799",
+ "title": "Avant Jazz - Disco Ultralounge",
+ "instruments": [
+  "Bass",
+  "Trumpet"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "display_mood": "Funky",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 6
+}

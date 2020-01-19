@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "fp_ref_id": "31565c23ea9a2202",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "reference_vid": "31565c23ea9a2202",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 152,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChAzMTU2NWMyM2VhOWEyMjAyEAAYAg%3D%3D&sigh=4M_WmVFqxB0y5QnqfMo_IQ",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=31565c23ea9a2202",
+ "instruments": [
+  "trumpet"
+ ],
+ "title": "The Throne Room",
+ "genre": "Cinematic",
+ "streamid": "2n3dSG7mHmGbkt7XufbDoSd3UIOnhQJ9qAq8nz8h0-_Au2UIc0EvOVlrCiNVxpBQ",
+ "vid": "31565c23ea9a2202",
+ "display_genre": "Cinematic",
+ "mood": "Dramatic",
+ "license_type": 1,
+ "artist": "Sir Cubworth"
+}

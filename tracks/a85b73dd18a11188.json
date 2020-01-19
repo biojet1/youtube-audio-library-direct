@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a85b73dd18a11188",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a85b73dd18a11188",
+ "fp_ref_id": "a85b73dd18a11188",
+ "genre": "Rock",
+ "album": "None",
+ "title": "Beat Down",
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "track_url": "",
+ "display_mood": "Angry",
+ "streamid": "iMstwJJgINA8jaJBIFJovLC-Z8EadZ5rZDGldNNhZ5ScH-Mb0imEMVxCu4JVzDm_",
+ "artist": "Silent Partner",
+ "mood": "Angry",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a85b73dd18a11188",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBhODViNzNkZDE4YTExMTg4EAAYAg%3D%3D&sigh=kP6JvdalurPVPoOXB-ruaw",
+ "display_category": "",
+ "len": 102.816,
+ "display_genre": "Rock"
+}

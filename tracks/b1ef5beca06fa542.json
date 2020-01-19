@@ -1,0 +1,33 @@
+{
+ "len": 161,
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "HRVSFJCpQbAR6Wc6J1tzDV_2EIK5Lepc1UqFzhrF-a-z_ptQL77SNu4AZVNCcWtq",
+ "genre": "Pop",
+ "vid": "b1ef5beca06fa542",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b1ef5beca06fa542",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCQdJN8etkQ8OlCMOvZGG97Q",
+ "artist_channel_url": "/channel/UCQdJN8etkQ8OlCMOvZGG97Q",
+ "title": "Seasons",
+ "instruments": [
+  "Bass",
+  "Synth",
+  "Acoustic Guitar",
+  "Guitar",
+  "Electric Guitar"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "b1ef5beca06fa542",
+ "mood": "Bright",
+ "album": "None",
+ "reference_vid": "b1ef5beca06fa542",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChBiMWVmNWJlY2EwNmZhNTQyEAAYAg%3D%3D&sigh=aXSWcDcYraCnJj0omGJzJw",
+ "display_genre": "Pop",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "artist": "roljui"
+}

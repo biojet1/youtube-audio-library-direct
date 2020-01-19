@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "88a446aecac0c1db",
+ "artist_channel_url": null,
+ "len": 406.216,
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPDjGBIWChA4OGE0NDZhZWNhYzBjMWRiEAAYAg%3D%3D&sigh=7seeisPscee2faqP5i5r0Q",
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "vid": "88a446aecac0c1db",
+ "display_category": "",
+ "reference_vid": "88a446aecac0c1db",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=88a446aecac0c1db",
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?collection=005",
+ "streamid": "TPtptPX-CovmCJBiyvXxs8dxlz8Ve_hWr73VLFcRzWNwqMgfrb8gmiOX2eK8si3V",
+ "mood": "Dramatic",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "title": "Danse Macabre",
+ "popularity_percentile": 44,
+ "category": ""
+}

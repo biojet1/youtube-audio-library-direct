@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c363c778954695e1",
+ "artist_url": "http://audionautix.com/",
+ "downloadable": true,
+ "len": 126.55,
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBjMzYzYzc3ODk1NDY5NWUxEAAYAg%3D%3D&sigh=avz9HLq-cCl-pbVjDIL66g",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "c363c778954695e1",
+ "title": "Double Blues",
+ "vid": "c363c778954695e1",
+ "display_mood": "Happy",
+ "reference_vid": "c363c778954695e1",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "is_new_track": false,
+ "streamid": "8pf_9VsSn7IfQ0URtkuG1VPoQYLG3dZpESyWEtTKLvF2TUz623-ubhRoIBIFiVH5",
+ "category": ""
+}

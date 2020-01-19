@@ -1,0 +1,31 @@
+{
+ "display_genre": "Pop",
+ "streamid": "nxl1CRc8yOI1xPnGJs_MEa5zPOWYOFHp0ZE8JMSx0Mx73TWP5RPzLnMJEyAg7ZE4",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "display_category": "",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "vid": "a20749bcf43c6043",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCnEhIWChBhMjA3NDliY2Y0M2M2MDQzEAAYAg%3D%3D&sigh=lTlBC7W2HNcRQbzHx4eCtA",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a20749bcf43c6043",
+ "fp_ref_id": "a20749bcf43c6043",
+ "artist": "Jeremy Blake",
+ "category": "",
+ "display_mood": "Calm",
+ "len": 300,
+ "track_url": "",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "a20749bcf43c6043",
+ "mood": "Calm",
+ "title": "Exhale",
+ "album": "None"
+}

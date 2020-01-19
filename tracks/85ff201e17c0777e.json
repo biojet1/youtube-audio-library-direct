@@ -1,0 +1,30 @@
+{
+ "len": 93,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "track_url": "",
+ "category": "",
+ "mood": "Calm",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=85ff201e17c0777e",
+ "title": "Timeless",
+ "streamid": "VxQHhGzHl1PnRRwtCksXbObtjLkRTq8KRljd1SBxvvsIBRCyF1_SorN2XuEcylXc",
+ "genre": "Ambient",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChA4NWZmMjAxZTE3YzA3NzdlEAAYAg%3D%3D&sigh=m2JMcRLWr_XsF9HVpWaXeA",
+ "license_type": 1,
+ "fp_ref_id": "85ff201e17c0777e",
+ "display_mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "vid": "85ff201e17c0777e",
+ "artist": "Lauren Duski",
+ "instruments": [
+  "acoustic guitar",
+  "piano"
+ ],
+ "display_genre": "Ambient",
+ "favorite": false,
+ "reference_vid": "85ff201e17c0777e"
+}

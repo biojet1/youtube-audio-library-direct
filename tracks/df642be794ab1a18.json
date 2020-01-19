@@ -1,0 +1,30 @@
+{
+ "instruments": [
+  "Drums",
+  "Trumpet"
+ ],
+ "album": "None",
+ "artist": "Unites States Marine Band ",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "len": 250.95,
+ "reference_vid": "df642be794ab1a18",
+ "fp_ref_id": "df642be794ab1a18",
+ "display_genre": "Classical",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "df642be794ab1a18",
+ "category": "",
+ "title": "Semper Fidelis 1890",
+ "genre": "Classical",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=df642be794ab1a18",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJChDxIWChBkZjY0MmJlNzk0YWIxYTE4EAAYAg%3D%3D&sigh=ZTvIaIt4-fAFxYKiR09k6Q",
+ "license_type": 1,
+ "popularity_percentile": 87,
+ "streamid": "XQnwbMGdJ4SOCf6YHOdsBx72WcreAI7drkywINLwsfT0WvRB4-9MVdrdMd7uToPI"
+}

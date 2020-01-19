@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "title": "Runnin' Partner",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Aaron Lieberman",
+ "vid": "d8f347f32e80df03",
+ "mood": "Happy",
+ "genre": "Cinematic",
+ "reference_vid": "d8f347f32e80df03",
+ "track_url": "",
+ "streamid": "E4fKv2Jpm4HX0wvEjk7Y6QmlEyfz3dQVdEQU1rhR4HTUr65YR48rIrj1eLzShg2e",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8f347f32e80df03",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBkOGYzNDdmMzJlODBkZjAzEAAYAg%3D%3D&sigh=IC9KHfm7SMX8PJDRPqMDzw",
+ "instruments": [
+  "Electric Guitar",
+  "Acoustic guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "d8f347f32e80df03",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 105.499,
+ "display_genre": "Cinematic"
+}

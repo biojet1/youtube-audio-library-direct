@@ -1,0 +1,31 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChAwMzJiYWZhYzE5OWUzNzBhEAAYAg%3D%3D&sigh=owFs8ThmWwnHAhEUG1cf4Q",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "032bafac199e370a",
+ "reference_vid": "032bafac199e370a",
+ "popularity_percentile": 2,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=032bafac199e370a",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "streamid": "63vmcnzx6gETZiA96qSOi77nw9pMAO-VjUfYFey9OxZrWrrEXIgYQjW6lNit8cur",
+ "title": "Down for Whatever",
+ "downloadable": true,
+ "category": "",
+ "len": 147.283,
+ "artist_url": "",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "032bafac199e370a",
+ "album": "None"
+}

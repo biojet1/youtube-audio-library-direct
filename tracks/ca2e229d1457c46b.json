@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChBjYTJlMjI5ZDE0NTdjNDZiEAAYAg%3D%3D&sigh=imU9EjB9SNjqznSFkEQbEw",
+ "display_category": "",
+ "display_mood": "Bright",
+ "album": "None",
+ "vid": "ca2e229d1457c46b",
+ "downloadable": true,
+ "reference_vid": "ca2e229d1457c46b",
+ "favorite": false,
+ "fp_ref_id": "ca2e229d1457c46b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ca2e229d1457c46b",
+ "genre": "Jazz & Blues",
+ "streamid": "qlCq0Gd6BflpAsaNV2hkVlQbGA_f_Fdb6gOTtNSM-41AbcuB6VpZ6uqArIq8tVJt",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Bright",
+ "len": 162,
+ "display_genre": "Jazz & Blues",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "World War Blues",
+ "artist": "Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "instruments": [
+  "acoustic guitar"
+ ]
+}

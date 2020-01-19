@@ -1,0 +1,31 @@
+{
+ "mood": "Inspirational",
+ "artist": "E's Jammy Jams",
+ "vid": "9ab35d7ca70a8b26",
+ "display_category": "",
+ "streamid": "4Eo7ARi-jXHCekKP7YZBy1TPRa_4UilEJnD63FHgIi-0SJo1OdDKO6wWVir2MsF7",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9ab35d7ca70a8b26",
+ "fp_ref_id": "9ab35d7ca70a8b26",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCEDhIWChA5YWIzNWQ3Y2E3MGE4YjI2EAAYAg%3D%3D&sigh=46I3c6dh5JwkAFZGjCenFw",
+ "display_genre": "Jazz & Blues",
+ "len": 230,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "organ"
+ ],
+ "reference_vid": "9ab35d7ca70a8b26",
+ "title": "Midnight Special",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "license_type": 1,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99
+}

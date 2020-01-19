@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "album": "None",
+ "reference_vid": "a53a08d253c98174",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a53a08d253c98174",
+ "title": "Not Me",
+ "mood": "Inspirational",
+ "len": 151.666,
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "fp_ref_id": "a53a08d253c98174",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "streamid": "tSwMvMRrW1_VqX0tzf85fYDS2czwj9wiFvjx7PB__XGWrjPKIIDyaaBz18zjur9v",
+ "display_mood": "Inspirational",
+ "downloadable": true,
+ "genre": "Rock",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a53a08d253c98174",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChBhNTNhMDhkMjUzYzk4MTc0EAAYAg%3D%3D&sigh=6HE1NZt0B8DXAV6W-psQXw"
+}

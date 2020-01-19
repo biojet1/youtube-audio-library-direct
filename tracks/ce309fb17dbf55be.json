@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "mood": "Sad",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBjZTMwOWZiMTdkYmY1NWJlEAAYAg%3D%3D&sigh=nf4ar914ruNtHgSB-4-TDw",
+ "title": "Duet Musette",
+ "vid": "ce309fb17dbf55be",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "QNKiFNxEakDA53w_eCcr5wWJDlZgCX83Qc6K3gDJDRXpGlSRSrxTja73EzhDaNdZ",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ce309fb17dbf55be",
+ "instruments": [
+  "Strings",
+  "Synth"
+ ],
+ "display_mood": "Sad",
+ "len": 140.083,
+ "genre": "Country & Folk",
+ "fp_ref_id": "ce309fb17dbf55be",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100250",
+ "album": "None",
+ "display_genre": "Country & Folk",
+ "reference_vid": "ce309fb17dbf55be",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 76
+}

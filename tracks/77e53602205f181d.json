@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "77e53602205f181d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=77e53602205f181d",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "77e53602205f181d",
+ "len": 102.516,
+ "display_mood": "Funky",
+ "streamid": "T_I2NzJ5gLzhJbVuX1AaAxxNyD_6JWa3Jf-92KQaRLv1E56_yeHqfml3GlGscIwL",
+ "display_genre": "Rock",
+ "title": "Mellow Hipster",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Rock",
+ "vid": "77e53602205f181d",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChA3N2U1MzYwMjIwNWYxODFkEAAYAg%3D%3D&sigh=cTwyyP_HJZQF9F42ogrBWQ"
+}

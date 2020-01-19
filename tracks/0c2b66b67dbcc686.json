@@ -1,0 +1,33 @@
+{
+ "mood": "Dark",
+ "title": "Spring Day",
+ "album": "None",
+ "artist": "Silent Partner",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Dance & Electronic",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "display_category": "",
+ "vid": "0c2b66b67dbcc686",
+ "streamid": "WdAfS4zTsjMavC08cHYde3L_v0Nid64aFQvhrPxR1hCIktx5yIaBU7aEZ5YGe2s1",
+ "genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiuDRIWChAwYzJiNjZiNjdkYmNjNjg2EAAYAg%3D%3D&sigh=s8S5vjYlxXOVehs9F-8s_Q",
+ "fp_ref_id": "0c2b66b67dbcc686",
+ "len": 219.633,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Piano",
+  "Bass",
+  "Synth"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0c2b66b67dbcc686",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0c2b66b67dbcc686",
+ "downloadable": true
+}

@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "17dee9da2c95783e",
+ "instruments": [
+  "Synth",
+  "Piano"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Pop",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "HrrR7j2kCE_LrxE-Lu4BpHuJ8D-g--jyVWemBtu1oI_x76ybbi-AP6huygJZL11j",
+ "license_type": 6,
+ "vid": "17dee9da2c95783e",
+ "popularity_percentile": 74,
+ "reference_vid": "17dee9da2c95783e",
+ "display_genre": "Pop",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 200.683,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100266",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChAxN2RlZTlkYTJjOTU3ODNlEAAYAg%3D%3D&sigh=pnDPHeoRGlRgBKqB6KSyLQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=17dee9da2c95783e",
+ "title": "Daybreak"
+}

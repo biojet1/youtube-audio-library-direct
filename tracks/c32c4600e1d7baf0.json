@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChBjMzJjNDYwMGUxZDdiYWYwEAAYAg%3D%3D&sigh=12JMW49rt2YyEiI2jBbA3g",
+ "title": "What Could Appear",
+ "vid": "c32c4600e1d7baf0",
+ "artist_url": "",
+ "streamid": "z8Wq8dAKnR8Wgt_UJRuW4d5PnruOor_hpTk6rMYDb54ZAZP6Fm9tkA-ERatkoWHY",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c32c4600e1d7baf0",
+ "instruments": [
+  "Electric Guitar",
+  "Synth",
+  "Bass",
+  "Strings"
+ ],
+ "display_mood": "Dramatic",
+ "len": 191.983,
+ "genre": "Ambient",
+ "fp_ref_id": "c32c4600e1d7baf0",
+ "track_url": "",
+ "album": "None",
+ "display_genre": "Ambient",
+ "reference_vid": "c32c4600e1d7baf0",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Puddle of Infinity",
+ "popularity_percentile": 76
+}

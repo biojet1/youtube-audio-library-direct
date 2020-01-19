@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d49d566510ed6bd6",
+ "category": "",
+ "title": "Beachfront Celebration - Latinesque",
+ "genre": "Pop",
+ "favorite": false,
+ "reference_vid": "d49d566510ed6bd6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBkNDlkNTY2NTEwZWQ2YmQ2EAAYAg%3D%3D&sigh=YDtRmYrqkp7ghEWpyuiIzA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d49d566510ed6bd6",
+ "license_type": 6,
+ "popularity_percentile": 91,
+ "vid": "d49d566510ed6bd6",
+ "instruments": [
+  "Piano",
+  "Trumpet",
+  "Drums",
+  "Bass"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "len": 187.316,
+ "display_mood": "Happy",
+ "display_category": "",
+ "display_genre": "Pop",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200022",
+ "streamid": "_2jTzFK-DtzvSlOqaq6t8Yc7ilAPZvJuZQjwOjJXUgez0a4xUuFDoDxifrG6NClm"
+}

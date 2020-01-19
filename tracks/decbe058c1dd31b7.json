@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBkZWNiZTA1OGMxZGQzMWI3EAAYAg%3D%3D&sigh=3euiniDjfnnMPVoMBJcrxQ",
+ "display_category": "",
+ "display_mood": "Bright",
+ "album": "None",
+ "vid": "decbe058c1dd31b7",
+ "downloadable": true,
+ "reference_vid": "decbe058c1dd31b7",
+ "favorite": false,
+ "fp_ref_id": "decbe058c1dd31b7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=decbe058c1dd31b7",
+ "genre": "Jazz & Blues",
+ "streamid": "3iZxZq9HiGVdsMlmm431ayN-KaJJPtikCilWTkrP-0YqqxBKl_vjwdb6r_M83Fg1",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Bright",
+ "len": 109,
+ "display_genre": "Jazz & Blues",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Middle Age Blues",
+ "artist": "Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "instruments": [
+  "acoustic guitar"
+ ]
+}

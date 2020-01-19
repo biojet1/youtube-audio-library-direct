@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Organ",
+  "Piano",
+  "Bass",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cfc77348e8371614",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "The Green Orbs",
+ "len": 123.583,
+ "display_category": "",
+ "display_genre": "Children's",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "Y9NwF0yhxo9zl2r9uhAG36Q6aIWKCtvXE-a-xVw-YleT7PkFKJtjJ3MMQufMAhiJ",
+ "category": "",
+ "title": "Mr. Turtle",
+ "display_mood": "Calm",
+ "favorite": false,
+ "reference_vid": "cfc77348e8371614",
+ "genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChBjZmM3NzM0OGU4MzcxNjE0EAAYAg%3D%3D&sigh=DCZmenK807c4wrCuZ5AmOg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "cfc77348e8371614",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "cfc77348e8371614"
+}

@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChBmZjk5NzJiMDdlMTEzOGEwEAAYAg%3D%3D&sigh=hpaelPlCDd4fXNx7o4bl_A",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "ff9972b07e1138a0",
+ "reference_vid": "ff9972b07e1138a0",
+ "popularity_percentile": 99,
+ "artist": "The Green Orbs",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ff9972b07e1138a0",
+ "mood": "Happy",
+ "genre": "Children's",
+ "streamid": "qEUdnHPwUnyvtRh1mJFzaNQ2N3ifNfbToRh8lw77nGiniBcYMDNnGfH9Go2gOtq_",
+ "title": "Splashing Around",
+ "downloadable": true,
+ "category": "",
+ "len": 154.716,
+ "artist_url": "",
+ "display_genre": "Children's",
+ "fp_ref_id": "ff9972b07e1138a0",
+ "album": "None"
+}

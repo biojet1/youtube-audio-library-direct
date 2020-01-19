@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Pop",
+ "mood": "Happy",
+ "instruments": [
+  "drums",
+  "synth",
+  "acoustic guitar",
+  "electric guitar",
+  "bass"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "5ed6d12bd769bda7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChA1ZWQ2ZDEyYmQ3NjliZGE3EAAYAg%3D%3D&sigh=00U7xydSJGqUUPyZe0sR-A",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "category": "",
+ "genre": "Pop",
+ "reference_vid": "5ed6d12bd769bda7",
+ "downloadable": true,
+ "streamid": "cZxYoCuU0EKgvfD0UoAuhyix8qcZWu42mQNmka4qraX-lCykJFKAlgJCYIbNuDMc",
+ "track_url": "",
+ "vid": "5ed6d12bd769bda7",
+ "len": 185,
+ "license_type": 1,
+ "title": "Pop in Gold",
+ "is_new_track": false,
+ "artist": "Freedom Trail Studio",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ed6d12bd769bda7",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw"
+}

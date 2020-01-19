@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChAxOGNmZDAyNzRkODE3MDc3EAAYAg%3D%3D&sigh=xJx31VQEdn7VJlIQbkKyJQ",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "18cfd0274d817077",
+ "reference_vid": "18cfd0274d817077",
+ "popularity_percentile": 99,
+ "artist": "Spazz Cardigan",
+ "artist_channel_url": "/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=18cfd0274d817077",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "streamid": "PTO7IvK2qyYUQMd5FYtrq8wtMP4R3rRn0nmYyzUu6MSzWBq_f8pLn2ccv8Cpxkc7",
+ "title": "Lafayette",
+ "downloadable": true,
+ "category": "",
+ "len": 200,
+ "artist_url": "https://www.youtube.com/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "18cfd0274d817077",
+ "album": "None"
+}

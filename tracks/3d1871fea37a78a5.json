@@ -1,0 +1,30 @@
+{
+ "genre": "Cinematic",
+ "display_category": "",
+ "len": 37.35,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100647",
+ "fp_ref_id": "3d1871fea37a78a5",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "n9VVgEme23OArp-c2wyUVF4q3yQu2GP1hSKw9phVsNym7aohI0cuwUZ-7wS-vl8A",
+ "title": "Happy Boy Theme",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3d1871fea37a78a5",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "3d1871fea37a78a5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIihAhIWChAzZDE4NzFmZWEzN2E3OGE1EAAYAg%3D%3D&sigh=fw9AousMwylFrV74Aq3n9Q",
+ "vid": "3d1871fea37a78a5",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "mood": "Happy",
+ "instruments": [
+  "Electric Guitar",
+  "Drums"
+ ]
+}

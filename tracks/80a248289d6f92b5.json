@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "1Yf0CKcAASV2_47-x8b0h8bCxYWZxkD77YqB9h3SoA61zrvVJh_tM-xEWivexlkS",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=80a248289d6f92b5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA4MGEyNDgyODlkNmY5MmI1EAAYAg%3D%3D&sigh=bVtulhhc7RJu2gt_dEi2DQ",
+ "vid": "80a248289d6f92b5",
+ "display_category": "",
+ "title": "In The Hall Of The Mountain King (by Grieg)",
+ "album": "None",
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Grieg",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "80a248289d6f92b5",
+ "len": 145.016,
+ "popularity_percentile": 51,
+ "genre": "Classical",
+ "fp_ref_id": "80a248289d6f92b5",
+ "track_url": "",
+ "display_genre": "Classical",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "license_type": 0
+}

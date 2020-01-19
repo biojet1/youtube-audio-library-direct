@@ -1,0 +1,30 @@
+{
+ "artist": "Chris Zabriskie",
+ "display_category": "",
+ "genre": "Ambient",
+ "vid": "6218eea3e7ddf958",
+ "instruments": [
+  "Synth",
+  "Piano"
+ ],
+ "reference_vid": "6218eea3e7ddf958",
+ "artist_url": "http://chriszabriskie.com/",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "album": "None",
+ "category": "",
+ "license_type": 6,
+ "display_genre": "Ambient",
+ "track_url": "http://chriszabriskie.com/dtv/",
+ "artist_channel_url": null,
+ "fp_ref_id": "6218eea3e7ddf958",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6218eea3e7ddf958",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMDMJRIWChA2MjE4ZWVhM2U3ZGRmOTU4EAAYAg%3D%3D&sigh=fldCN1RfKPiwa6pMbEjaWw",
+ "streamid": "4nv37e-vVursSQbWIZFXTdkYF7v3SIHB1xrpMt4QAFwJupbgIqESLk-xrw0KVt2E",
+ "downloadable": true,
+ "popularity_percentile": 94,
+ "len": 616.016,
+ "title": "I Don't See the Branches, I See the Leaves",
+ "favorite": false
+}

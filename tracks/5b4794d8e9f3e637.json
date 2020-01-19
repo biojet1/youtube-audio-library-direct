@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "5b4794d8e9f3e637",
+ "display_category": "",
+ "fp_ref_id": "5b4794d8e9f3e637",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5b4794d8e9f3e637",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Inspirational",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "vocal chops"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA1YjQ3OTRkOGU5ZjNlNjM3EAAYAg%3D%3D&sigh=7nBS20glVXTdN9CSVRb8AQ",
+ "streamid": "gxRmZyBUbwK5wOXNFcIUtJkigyvMDr_WsIhbsPchm9hvtB8oP-_1hCwx6eHp7Tv6",
+ "genre": "Pop",
+ "vid": "5b4794d8e9f3e637",
+ "artist": "Dan Henig",
+ "display_genre": "Pop",
+ "title": "Lights Go Down",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 92,
+ "display_mood": "Inspirational",
+ "downloadable": true
+}

@@ -1,0 +1,33 @@
+{
+ "mood": "Calm",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChAwNjRkNWE3NmU4MjM1NzI2EAAYAg%3D%3D&sigh=D9hfgSzwdnJ1MUsPPs-YaQ",
+ "display_mood": "Calm",
+ "genre": "Jazz & Blues",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=064d5a76e8235726",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Quincas Moreira",
+ "title": "Eletrosamba",
+ "reference_vid": "064d5a76e8235726",
+ "instruments": [
+  "synth",
+  "drums",
+  "percussion",
+  "acoustic guitar",
+  "bass"
+ ],
+ "display_genre": "Jazz & Blues",
+ "fp_ref_id": "064d5a76e8235726",
+ "vid": "064d5a76e8235726",
+ "category": "",
+ "streamid": "wz0KJxA-igZPtDyj4H62tR7idGMOuPi70ReLtqAqlR9GJhY-Vby2e3MxUATqL8ow",
+ "popularity_percentile": 99,
+ "len": 216.066,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

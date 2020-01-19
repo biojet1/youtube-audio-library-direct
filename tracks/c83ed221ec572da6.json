@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "vid": "c83ed221ec572da6",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "R&B & Soul",
+ "fp_ref_id": "c83ed221ec572da6",
+ "streamid": "ss_R5fpz6Chex_qQVceiFTjZU1SeRpOEsnv2Zac1qUTiOdKsUBTP33bWwHt0KqZ2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChBjODNlZDIyMWVjNTcyZGE2EAAYAg%3D%3D&sigh=q-M6jFLON2jG8uIj9dH3rA",
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "category": "",
+ "downloadable": true,
+ "title": "The Queen Will See You",
+ "track_url": "",
+ "len": 114,
+ "popularity_percentile": 99,
+ "reference_vid": "c83ed221ec572da6",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c83ed221ec572da6",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "harmonica",
+  "drums"
+ ],
+ "is_new_track": false
+}

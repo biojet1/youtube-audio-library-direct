@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1fe38b8a80d3b047",
+ "fp_ref_id": "1fe38b8a80d3b047",
+ "artist_url": "",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1fe38b8a80d3b047",
+ "artist_channel_url": null,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "len": 105.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChAxZmUzOGI4YTgwZDNiMDQ3EAAYAg%3D%3D&sigh=ZXRg3K3ONHEswFsc0sJfCw",
+ "album": "None",
+ "title": "Dark Lotus",
+ "popularity_percentile": 12,
+ "streamid": "Vter4eFwEmzfOFIqA1cYgBZ-cqPb--rWipr6vjMzeRFiGtK6NTMKdqh6ano7UR5C",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "favorite": false,
+ "vid": "1fe38b8a80d3b047",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "MK2"
+}

@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "genre": "Pop",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "album": "None",
+ "streamid": "wj7s0l0JXPnC7JNrKvhTFmMVjGDg4YdTEsI8V-Itd1m3E7BoDjYMKs6W2mKCQF0x",
+ "title": "Eyes on You (Sting)",
+ "display_genre": "Pop",
+ "vid": "788074e7cf65b960",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "788074e7cf65b960",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 0,
+ "fp_ref_id": "788074e7cf65b960",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Network 415",
+ "len": 12.533,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCOBdEhYKEDc4ODA3NGU3Y2Y2NWI5NjAQABgC&sigh=rvxWekSB_uWuvp9h-Qs_nA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=788074e7cf65b960"
+}

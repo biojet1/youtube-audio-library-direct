@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "mood": "Calm",
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "strings",
+  "synth",
+  "drums"
+ ],
+ "display_mood": "Calm",
+ "fp_ref_id": "cad91b5e6d747a11",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChBjYWQ5MWI1ZTZkNzQ3YTExEAAYAg%3D%3D&sigh=P5l6ttFeY_IgaL5hxO6fAA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "category": "",
+ "genre": "Rock",
+ "reference_vid": "cad91b5e6d747a11",
+ "downloadable": true,
+ "streamid": "ZHUzHPBbwp1n7GJmIcGjULSm2gwMsbeqaetrKFMZiVbSkq2jAW721b2YTOex-_rU",
+ "track_url": "",
+ "vid": "cad91b5e6d747a11",
+ "len": 167,
+ "license_type": 1,
+ "title": "Twin Moon",
+ "is_new_track": false,
+ "artist": "Ashley Shadow",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cad91b5e6d747a11",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw"
+}

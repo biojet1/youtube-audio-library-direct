@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100249",
+ "artist_channel_url": null,
+ "len": 105.05,
+ "mood": "Happy",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a79fd9701d5c0da",
+ "title": "Dvorak Polka",
+ "streamid": "0nNTZ7C1h-5eCKuYfCHQVWoHvEVQz3AXFCnRCg1sxyiD6kHW3mrVHUvtQpLfu15K",
+ "genre": "Country & Folk",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChA1YTc5ZmQ5NzAxZDVjMGRhEAAYAg%3D%3D&sigh=_oPZlxJo26Syh2lt78pcxw",
+ "license_type": 6,
+ "fp_ref_id": "5a79fd9701d5c0da",
+ "display_mood": "Happy",
+ "vid": "5a79fd9701d5c0da",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums"
+ ],
+ "display_genre": "Country & Folk",
+ "favorite": false,
+ "reference_vid": "5a79fd9701d5c0da"
+}

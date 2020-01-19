@@ -1,0 +1,30 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100556",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6bb3453a513cb9a5",
+ "downloadable": true,
+ "reference_vid": "6bb3453a513cb9a5",
+ "mood": "Happy",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "len": 26.183,
+ "instruments": [
+  "Strings",
+  "Trumpet"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDLARIWChA2YmIzNDUzYTUxM2NiOWE1EAAYAg%3D%3D&sigh=tEYqqQlZZ8off-7EPhGTXA",
+ "streamid": "ItgQzMQP4xQ0yHdJwepKg8c9bO1STQclSY6uwy6-miNwadWkwOWClybSANY347YI",
+ "genre": "Classical",
+ "display_category": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Classical",
+ "vid": "6bb3453a513cb9a5",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 87,
+ "fp_ref_id": "6bb3453a513cb9a5",
+ "category": "",
+ "title": "Danse Macabre - Busy Strings",
+ "album": "None"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1ffdadfa335052ca",
+ "track_url": "",
+ "fp_ref_id": "1ffdadfa335052ca",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Silent Partner",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "reference_vid": "1ffdadfa335052ca",
+ "display_mood": "Funky",
+ "len": 143.85,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChAxZmZkYWRmYTMzNTA1MmNhEAAYAg%3D%3D&sigh=zwTMwajr-WwI1iryXyHqOg",
+ "popularity_percentile": 13,
+ "streamid": "unuOpxH2O7KzvPCybj3jgq9adPBaP_xrwh3gNrUT_Zz5zkyH2lBRkgz5oSq7Drw3",
+ "license_type": 0,
+ "display_genre": "Rock",
+ "category": "",
+ "title": "Big Hands",
+ "genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1ffdadfa335052ca"
+}

@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 112,
+ "artist_url": "https://www.youtube.com/channel/UCXUbxtXlyp-urIb2hRlXRpQ",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "677c5ca835d1b155",
+ "mood": "Funky",
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "license_type": 1,
+ "title": "Jazz Apricot",
+ "display_mood": "Funky",
+ "instruments": [
+  "electric piano",
+  "bass",
+  "keys",
+  "piano",
+  "drums"
+ ],
+ "streamid": "-qSNiJbZEvIC3FVP7qvLCnG8-VnoTIs1ZxLKKZTv_zVxi55esIkUMZpAh4CR0sGC",
+ "reference_vid": "677c5ca835d1b155",
+ "artist_channel_url": "/channel/UCXUbxtXlyp-urIb2hRlXRpQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=677c5ca835d1b155",
+ "fp_ref_id": "677c5ca835d1b155",
+ "artist": "Joey Pecoraro",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChA2NzdjNWNhODM1ZDFiMTU1EAAYAg%3D%3D&sigh=AOsOh-nzkemdbji_PAiqhg"
+}

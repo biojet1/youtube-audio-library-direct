@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "vid": "e8850b43c67453e6",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "e8850b43c67453e6",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100602",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChBlODg1MGI0M2M2NzQ1M2U2EAAYAg%3D%3D&sigh=SHCIl2x6Il4C6kOP4KspkQ",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "title": "Disco Ultralounge",
+ "downloadable": true,
+ "streamid": "4ofF2XUYkfyGHb3ngP0sjlFdrCyt6_R8BbO8bxEmCPUJnxZDEnnVudn0y5rF98Bf",
+ "genre": "Dance & Electronic",
+ "len": 228.083,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e8850b43c67453e6",
+ "popularity_percentile": 38,
+ "reference_vid": "e8850b43c67453e6",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Funky"
+}

@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 110,
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "fp_ref_id": "9fa16aee1f9bf11e",
+ "reference_vid": "9fa16aee1f9bf11e",
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "license_type": 1,
+ "streamid": "DU1ayuGp8SiU3Q70wrbw6uuJ72w18q5QjpHRefCUJqD8gTbIPHcHXxaQrUkc7Re4",
+ "vid": "9fa16aee1f9bf11e",
+ "mood": "Happy",
+ "artist": "Wayne Jones",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA5ZmExNmFlZTFmOWJmMTFlEAAYAg%3D%3D&sigh=Wqeo5I4wV_vGyqQ6fOEFXQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9fa16aee1f9bf11e",
+ "category": "",
+ "title": "First Love",
+ "genre": "Cinematic",
+ "instruments": [
+  "piano",
+  "strings"
+ ]
+}

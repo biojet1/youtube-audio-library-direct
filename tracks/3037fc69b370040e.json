@@ -1,0 +1,29 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3037fc69b370040e",
+ "popularity_percentile": 30,
+ "reference_vid": "3037fc69b370040e",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "1tKvPlyXV7EwfHTjrXj7Bu16UAciFyPOHIbsnjiklaQ3dXiy_yei0Xpckqb8BKYy",
+ "genre": "Classical",
+ "len": 299.05,
+ "artist": "Audionautix",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "instruments": [
+  "Piano"
+ ],
+ "title": "Over Time",
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPifEhIWChAzMDM3ZmM2OWIzNzAwNDBlEAAYAg%3D%3D&sigh=9L6unfB_N9ZRthiNQFFDRw",
+ "artist_url": "http://audionautix.com/",
+ "fp_ref_id": "3037fc69b370040e",
+ "track_url": "",
+ "mood": "Dramatic",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "3037fc69b370040e",
+ "is_new_track": false,
+ "favorite": false
+}

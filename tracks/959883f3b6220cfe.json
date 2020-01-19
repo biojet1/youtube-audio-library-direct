@@ -1,0 +1,31 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "len": 151.516,
+ "mood": "Calm",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA5NTk4ODNmM2I2MjIwY2ZlEAAYAg%3D%3D&sigh=K_hCs12RYtw205Vo_TDxug",
+ "genre": "Dance & Electronic",
+ "streamid": "BhrWzCAzZusXUaBUgfJkk7R42of3OqdvxGpEPy6q6XOeRWLOr0cEKE1xZqZocumJ",
+ "downloadable": true,
+ "fp_ref_id": "959883f3b6220cfe",
+ "vid": "959883f3b6220cfe",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=959883f3b6220cfe",
+ "category": "",
+ "reference_vid": "959883f3b6220cfe",
+ "title": "Sunday",
+ "artist": "Otis McDonald",
+ "track_url": ""
+}

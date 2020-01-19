@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Strings",
+  "Piano"
+ ],
+ "len": 206.583,
+ "fp_ref_id": "cad12778cd27b08f",
+ "streamid": "lpjalfgsgmOiZdP_qQJClJjU4IKl8OY5iMNCpxQheA784RrMMucRvnEuVn1z5ADo",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Cinematic",
+ "popularity_percentile": 64,
+ "vid": "cad12778cd27b08f",
+ "display_genre": "Cinematic",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cad12778cd27b08f",
+ "album": "None",
+ "title": "At Rest - Romance",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChBjYWQxMjc3OGNkMjdiMDhmEAAYAg%3D%3D&sigh=Qlx2yjyAblZxuR_Yeu0rGA",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Calm",
+ "is_new_track": false,
+ "reference_vid": "cad12778cd27b08f",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100748",
+ "license_type": 6
+}

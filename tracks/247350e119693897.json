@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "vid": "247350e119693897",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Cinematic",
+ "fp_ref_id": "247350e119693897",
+ "streamid": "sHFYGY54V1EfArHDXA8ssbTXNqFDdvqULE24C6AmWLdUUcAiqVeJVw3DOFbnB9wo",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChAyNDczNTBlMTE5NjkzODk3EAAYAg%3D%3D&sigh=66y_eX5VOra04ma49i7e1g",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "title": "Pangelic",
+ "track_url": "",
+ "len": 105,
+ "popularity_percentile": 99,
+ "reference_vid": "247350e119693897",
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=247350e119693897",
+ "instruments": [
+  "electric guitar",
+  "synth",
+  "steel drum",
+  "drums",
+  "acoustic guitar"
+ ],
+ "is_new_track": false
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChAwN2YwOTQzMjMwYTFiMmRlEAAYAg%3D%3D&sigh=m32rnWhcyB4xNrZKw9WybA",
+ "display_category": "",
+ "reference_vid": "07f0943230a1b2de",
+ "title": "Dinner For One",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=07f0943230a1b2de",
+ "track_url": "",
+ "len": 177.95,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "BrLSza5rTvYGMNqOzhCGd6fInsFvWlUf1Z5qXWMtdEMxrCDinbtRQX4i6ihhhVE_",
+ "favorite": false,
+ "display_genre": "Rock",
+ "license_type": 0,
+ "mood": "Calm",
+ "genre": "Rock",
+ "vid": "07f0943230a1b2de",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "category": "",
+ "fp_ref_id": "07f0943230a1b2de",
+ "display_mood": "Calm",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "artist_channel_url": null
+}

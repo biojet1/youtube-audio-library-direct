@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 15.35,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJh1EhYKEDcyZjgyOWRiZDU0MWRiMTQQABgC&sigh=tgfiWisQOIRe_rKu2wUFyg",
+ "genre": "Cinematic",
+ "streamid": "8WD89QFRxKIRkEudVpqzd_8FCsRDQemLtvwQpDR2kmoh-tKtMf7MyT-0j9eW4H0m",
+ "downloadable": true,
+ "fp_ref_id": "72f829dbd541db14",
+ "vid": "72f829dbd541db14",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Strings"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=72f829dbd541db14",
+ "category": "",
+ "reference_vid": "72f829dbd541db14",
+ "title": "Discovery Hit",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300023"
+}

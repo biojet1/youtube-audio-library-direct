@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "display_genre": "Pop",
+ "category": "",
+ "fp_ref_id": "5e2b5ee00d859d5e",
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Mall Walker",
+ "vid": "5e2b5ee00d859d5e",
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDNEBIWChA1ZTJiNWVlMDBkODU5ZDVlEAAYAg%3D%3D&sigh=od1rRNP7ivsFpp8N-_AcYg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5e2b5ee00d859d5e",
+ "display_category": "",
+ "len": 272.35,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "Ulcpj2w-2zUK10Q5wY6Cf6yfDQheKcQdCOnSwaL4_oimDvy6E8SAwfq_CRdVk1dZ",
+ "reference_vid": "5e2b5ee00d859d5e",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums",
+  "Bass",
+  "Acoustic Guitar"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Pop"
+}

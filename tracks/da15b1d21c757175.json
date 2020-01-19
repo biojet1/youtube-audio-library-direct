@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "title": "Darkest Child A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=da15b1d21c757175",
+ "reference_vid": "da15b1d21c757175",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100783",
+ "album": "None",
+ "len": 197.383,
+ "instruments": [
+  "Strings",
+  "Piano",
+  "Bass"
+ ],
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "streamid": "JNfdVoX8SiimszAMG9az4CxiTMkjtBKXav_n6QKEEWbtAXVOT2KhaUT8Y94-41xE",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "da15b1d21c757175",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "da15b1d21c757175",
+ "category": "",
+ "genre": "Cinematic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiDDBIWChBkYTE1YjFkMjFjNzU3MTc1EAAYAg%3D%3D&sigh=czePuiJPPn2x5rI_1MBubg"
+}

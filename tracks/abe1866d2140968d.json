@@ -1,0 +1,29 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=abe1866d2140968d",
+ "category": "",
+ "title": "Cartoon Pizzicato - Comedy",
+ "genre": "Pop",
+ "favorite": false,
+ "reference_vid": "abe1866d2140968d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCyBBIWChBhYmUxODY2ZDIxNDA5NjhkEAAYAg%3D%3D&sigh=_K6sqbzovHN3qWVLIxFezQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "abe1866d2140968d",
+ "license_type": 6,
+ "popularity_percentile": 91,
+ "vid": "abe1866d2140968d",
+ "instruments": [
+  "Strings"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Kevin MacLeod",
+ "len": 72.216,
+ "display_mood": "Bright",
+ "display_category": "",
+ "display_genre": "Pop",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "",
+ "streamid": "9dFeBxANVdlpB2HAcfWEclMdrSPCVcvDPyQ-C1ydA2BP8OTT_cQFGkSiS39VzXoy"
+}

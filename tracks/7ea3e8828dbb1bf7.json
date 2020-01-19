@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7ea3e8828dbb1bf7",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "category": "",
+ "title": "Then A Left Turn",
+ "track_url": "",
+ "vid": "7ea3e8828dbb1bf7",
+ "mood": "Funky",
+ "is_new_track": false,
+ "len": 92,
+ "instruments": [
+  "bass",
+  "drums",
+  "electric guitar"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "I3UvbbE2T6zasKfxUIoN4O6ogpHbVSoI3wE3-mqa3P12SyeK0gxOxeNNjX13ST-k",
+ "display_genre": "Alternative & Punk",
+ "artist": "Jeremy Korpas",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "reference_vid": "7ea3e8828dbb1bf7",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA3ZWEzZTg4MjhkYmIxYmY3EAAYAg%3D%3D&sigh=6-Go1uRk9LlstlfnYk-KMA",
+ "fp_ref_id": "7ea3e8828dbb1bf7",
+ "genre": "Alternative & Punk",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "license_type": 1
+}

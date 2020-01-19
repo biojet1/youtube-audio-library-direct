@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Synth",
+  "Bass"
+ ],
+ "len": 127.416,
+ "fp_ref_id": "9ef3169e640b192b",
+ "streamid": "_Cogyjy9o_7ZO50KewF4WHD0yw2-w-gQTpG8KGwQpsU-lTEZb1nAhMuBFoUVYGW9",
+ "artist_url": "",
+ "category": "",
+ "genre": "Pop",
+ "popularity_percentile": 63,
+ "vid": "9ef3169e640b192b",
+ "display_genre": "Pop",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9ef3169e640b192b",
+ "album": "None",
+ "title": "Lonely Nights",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChA5ZWYzMTY5ZTY0MGIxOTJiEAAYAg%3D%3D&sigh=yE-3hfsY0sesCb46KLouZg",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "reference_vid": "9ef3169e640b192b",
+ "track_url": "",
+ "license_type": 0
+}

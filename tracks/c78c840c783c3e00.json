@@ -1,0 +1,33 @@
+{
+ "mood": "Happy",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChBjNzhjODQwYzc4M2MzZTAwEAAYAg%3D%3D&sigh=a6jaMXHFHP3a-xDbJ16-XQ",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "category": "",
+ "instruments": [
+  "Weissenborn",
+  "Percussion",
+  "Tres",
+  "Bass",
+  "Acoustic Guitar"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "c78c840c783c3e00",
+ "is_new_track": false,
+ "len": 159,
+ "genre": "Country & Folk",
+ "reference_vid": "c78c840c783c3e00",
+ "downloadable": true,
+ "streamid": "T5Rizg0x37a0Zyuupbgfe1VjIJd6uAar9SoxUVJdiX43RYoKi9gBNSX33DPy_15M",
+ "track_url": "",
+ "vid": "c78c840c783c3e00",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c78c840c783c3e00",
+ "artist_url": "",
+ "license_type": 1,
+ "title": "Almost August",
+ "artist": "Dan Lebowitz"
+}

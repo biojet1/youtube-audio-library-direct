@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "vid": "d9c8288dc4966d0e",
+ "streamid": "Cg84tKc8_T3Ba0YBEVCawVD_qd_0R4NxmqPX2UKR6rOUrAHG5rVzJR1RNCH52ZSy",
+ "title": "Stand Up",
+ "category": "",
+ "len": 147,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChBkOWM4Mjg4ZGM0OTY2ZDBlEAAYAg%3D%3D&sigh=DzfHSHLTuU4UzUBJPv3xPg",
+ "artist": "Norma Rockwell",
+ "artist_url": "https://www.youtube.com/channel/UCq-eW2uoXo1zOcR1GwMwpXw",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCq-eW2uoXo1zOcR1GwMwpXw",
+ "reference_vid": "d9c8288dc4966d0e",
+ "display_mood": "Inspirational",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d9c8288dc4966d0e",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Electric Guitar",
+  "Electronic Drums",
+  "Synth"
+ ],
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "fp_ref_id": "d9c8288dc4966d0e",
+ "favorite": false,
+ "mood": "Inspirational"
+}

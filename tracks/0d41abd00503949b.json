@@ -1,0 +1,31 @@
+{
+ "artist": "ann annie",
+ "display_category": "",
+ "genre": "Cinematic",
+ "vid": "0d41abd00503949b",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "piano"
+ ],
+ "reference_vid": "0d41abd00503949b",
+ "artist_url": "https://www.youtube.com/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "fp_ref_id": "0d41abd00503949b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d41abd00503949b",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjUEBIWChAwZDQxYWJkMDA1MDM5NDliEAAYAg%3D%3D&sigh=NFH5_YrZWYz7I0H5XvIHFg",
+ "streamid": "OB4tC7c79wu4aRbwDTrDFLLUKrJ6T4Fqp7AiMSqRhPu3U817II07ghDI-muRkj8Y",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 273,
+ "title": "A Whisper",
+ "favorite": false
+}

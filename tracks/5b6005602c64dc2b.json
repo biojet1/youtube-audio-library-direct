@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "is_new_track": false,
+ "reference_vid": "5b6005602c64dc2b",
+ "display_category": "",
+ "fp_ref_id": "5b6005602c64dc2b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5b6005602c64dc2b",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChA1YjYwMDU2MDJjNjRkYzJiEAAYAg%3D%3D&sigh=89pSdrL6IcDHkLsJyeUZ3A",
+ "streamid": "9_ZOyyKvWzm2ph1Yy2nvPp_dN9ma6eEpqV1uCMCiojb9CNiVUIhfjKG6wachky_x",
+ "genre": "Dance & Electronic",
+ "vid": "5b6005602c64dc2b",
+ "artist": "Coyote Hearing",
+ "display_genre": "Dance & Electronic",
+ "title": "Darksides",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 182,
+ "display_mood": "Dark",
+ "downloadable": true
+}

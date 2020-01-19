@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Trumpet",
+  "Drums",
+  "Piano",
+  "Bass"
+ ],
+ "len": 110.05,
+ "fp_ref_id": "572bc2a5a8a25730",
+ "streamid": "14N74_BtmQdVn2c98DsDikiX1faWcVQv4OBjNMB7M78o025ooqunBCVbCidwvka6",
+ "artist_url": "http://audionautix.com/",
+ "category": "",
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 64,
+ "vid": "572bc2a5a8a25730",
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=572bc2a5a8a25730",
+ "album": "None",
+ "title": "Big Swing Band",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA1NzJiYzJhNWE4YTI1NzMwEAAYAg%3D%3D&sigh=2D8Hj4xu4Pn70vKuRI4PdA",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "artist": "Audionautix",
+ "display_category": "",
+ "mood": "Happy",
+ "is_new_track": false,
+ "reference_vid": "572bc2a5a8a25730",
+ "track_url": "",
+ "license_type": 6
+}

@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 108,
+ "display_mood": "Funky",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "fp_ref_id": "e32ec87f8f7c1ed4",
+ "reference_vid": "e32ec87f8f7c1ed4",
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "license_type": 1,
+ "streamid": "Y0hbgN-MOSyOXOBfJ_1bcqCwTF-UGASjOtkEw3TCQV-d5zCcvUEVmDRGLcQGwlYV",
+ "vid": "e32ec87f8f7c1ed4",
+ "mood": "Funky",
+ "artist": "Josh Lippi & The Overtimers",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBlMzJlYzg3ZjhmN2MxZWQ0EAAYAg%3D%3D&sigh=uu0kmxy8PnRcRs2e3ZpoEw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e32ec87f8f7c1ed4",
+ "category": "",
+ "title": "Broadway",
+ "genre": "Rock",
+ "instruments": [
+  "drums",
+  "piano",
+  "bass",
+  "electric guitar",
+  "organ"
+ ]
+}

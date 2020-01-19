@@ -1,0 +1,30 @@
+{
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "genre": "Classical",
+ "vid": "3c92b885e639c9a5",
+ "instruments": [
+  "Drums",
+  "Trumpet"
+ ],
+ "reference_vid": "3c92b885e639c9a5",
+ "artist_url": "http://incompetech.com/",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "album": "None",
+ "category": "",
+ "license_type": 6,
+ "display_genre": "Classical",
+ "track_url": "http://incompetech.com/music/royalty-free/?keywords=funeral+march+for+brass",
+ "artist_channel_url": null,
+ "fp_ref_id": "3c92b885e639c9a5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3c92b885e639c9a5",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAzYzkyYjg4NWU2MzljOWE1EAAYAg%3D%3D&sigh=8zpYcn62ukPDCfS4UVr2cw",
+ "streamid": "zcipzFIQT6W77ESE-VoQiLPFGAoGitHazSej_WWG3__7IO-Hn0OoSOaYPyYPzmhL",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 130.85,
+ "title": "Funeral March for Brass",
+ "favorite": false
+}

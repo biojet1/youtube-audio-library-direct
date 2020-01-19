@@ -1,0 +1,31 @@
+{
+ "genre": "Hip Hop & Rap",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Otis McDonald",
+ "fp_ref_id": "9851df857a6674d2",
+ "display_mood": "Dark",
+ "display_genre": "Hip Hop & Rap",
+ "vid": "9851df857a6674d2",
+ "mood": "Dark",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA5ODUxZGY4NTdhNjY3NGQyEAAYAg%3D%3D&sigh=ifjIbRlcBucaEI6fnjpSBw",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Jungle Floor",
+ "category": "",
+ "len": 126.95,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9851df857a6674d2",
+ "reference_vid": "9851df857a6674d2",
+ "streamid": "kd1SA5ipNxv4TMQggaqsDnFfdPTKoIKzPE4k5_xvioBierjUX9AwSqh4fzWLefDm"
+}

@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Rondo Brothers",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "downloadable": true,
+ "fp_ref_id": "daa92b120d55df66",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChBkYWE5MmIxMjBkNTVkZjY2EAAYAg%3D%3D&sigh=qhgklkjIh-escjPRdpJQ4g",
+ "favorite": false,
+ "genre": "Pop",
+ "category": "",
+ "vid": "daa92b120d55df66",
+ "streamid": "mxaRH_9oQPJykinpfJCngDXzpPGc_0MQelbFytSWNGxvyiE7-NmOatRGVbOZBNZi",
+ "mood": "Happy",
+ "reference_vid": "daa92b120d55df66",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=daa92b120d55df66",
+ "title": "Yellow Rose of Berkeley",
+ "display_mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "len": 97,
+ "album": "None",
+ "track_url": ""
+}

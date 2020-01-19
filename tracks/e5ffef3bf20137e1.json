@@ -1,0 +1,33 @@
+{
+ "streamid": "N_QeEwIHFBNt9gJ9KIqwJv_H-sqzEGQtHt5gQFoG-a-eANa_W5NLlVh8b2FXA9N2",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChBlNWZmZWYzYmYyMDEzN2UxEAAYAg%3D%3D&sigh=cHM186Jzpq2GLrr6Y5w0lA",
+ "display_mood": "Happy",
+ "display_category": "",
+ "reference_vid": "e5ffef3bf20137e1",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e5ffef3bf20137e1",
+ "downloadable": true,
+ "len": 96.583,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Piano",
+  "Trumpet"
+ ],
+ "favorite": false,
+ "fp_ref_id": "e5ffef3bf20137e1",
+ "album": "None",
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Para Santo Domingo",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "e5ffef3bf20137e1",
+ "display_genre": "Jazz & Blues"
+}

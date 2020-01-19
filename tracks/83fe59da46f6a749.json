@@ -1,0 +1,32 @@
+{
+ "mood": "Calm",
+ "artist_channel_url": "/channel/UC1zIiKvJIi7aYl2N68pWF8g",
+ "artist_url": "https://www.youtube.com/channel/UC1zIiKvJIi7aYl2N68pWF8g",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChA4M2ZlNTlkYTQ2ZjZhNzQ5EAAYAg%3D%3D&sigh=gYx3t0H1THR2ZcivoFUslA",
+ "display_mood": "Calm",
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=83fe59da46f6a749",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "DivKid",
+ "title": "Dusk",
+ "reference_vid": "83fe59da46f6a749",
+ "instruments": [
+  "keys",
+  "synth",
+  "electric piano",
+  "piano"
+ ],
+ "display_genre": "Ambient",
+ "fp_ref_id": "83fe59da46f6a749",
+ "vid": "83fe59da46f6a749",
+ "category": "",
+ "streamid": "L28eZCbvFFJkgiw2k8k56GzjAuyKu7oem7Roguaserm-VmXhhfTFyQ4qHRY_USuM",
+ "popularity_percentile": 99,
+ "len": 176.766,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

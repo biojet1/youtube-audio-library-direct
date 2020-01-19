@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "6da1ef1066265306",
+ "mood": "Happy",
+ "title": "Classique",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "len": 102,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChA2ZGExZWYxMDY2MjY1MzA2EAAYAg%3D%3D&sigh=hXKLfmbOvyUWMS6HGdvvHg",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6da1ef1066265306",
+ "fp_ref_id": "6da1ef1066265306",
+ "artist": "Francis Preve",
+ "display_mood": "Happy",
+ "display_genre": "Dance & Electronic",
+ "streamid": "WTc9VFSTbd-so8P8D7p-UuTsWlYYuY9y_UHex6XJ0foXFTIGikW5h7HQgGYFdN9x",
+ "artist_channel_url": "/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "piano",
+  "horn"
+ ],
+ "vid": "6da1ef1066265306"
+}

@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "reference_vid": "05750f2dad619ba3",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05750f2dad619ba3",
+ "fp_ref_id": "05750f2dad619ba3",
+ "mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Bass"
+ ],
+ "len": 189.333,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjECxIWChAwNTc1MGYyZGFkNjE5YmEzEAAYAg%3D%3D&sigh=N3K251l94Jv98p53FAMzQQ",
+ "streamid": "doEx1aItz6gakl8ccIgiTfc8HEeNb5VOWjd92Tqo4lL8LAOVz77LCAmREiZ2MTAr",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 80,
+ "title": "Fantastic Dim Bar",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "vid": "05750f2dad619ba3",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100231",
+ "genre": "Cinematic",
+ "category": "",
+ "favorite": false
+}

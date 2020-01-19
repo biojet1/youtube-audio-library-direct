@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a73f6d95d48ba990",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a73f6d95d48ba990",
+ "fp_ref_id": "a73f6d95d48ba990",
+ "genre": "Alternative & Punk",
+ "album": "None",
+ "title": "Full Speed Ahead",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "track_url": "",
+ "display_mood": "Bright",
+ "streamid": "DLZ2YNl27IwRxQFUYDMlaY2dh7V6xuDULk2SoZBiE7NyYY1xziFWFRrQuq7dOxCE",
+ "artist": "Silent Partner",
+ "mood": "Bright",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a73f6d95d48ba990",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBhNzNmNmQ5NWQ0OGJhOTkwEAAYAg%3D%3D&sigh=qDtsGb3bwB4VYcwO3MOxJw",
+ "display_category": "",
+ "len": 128.616,
+ "display_genre": "Alternative & Punk"
+}

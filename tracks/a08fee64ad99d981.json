@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "a08fee64ad99d981",
+ "display_category": "",
+ "fp_ref_id": "a08fee64ad99d981",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a08fee64ad99d981",
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "title": "Live Worms",
+ "favorite": false,
+ "license_type": 1,
+ "len": 134,
+ "display_mood": "Bright",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "organ",
+  "drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChBhMDhmZWU2NGFkOTlkOTgxEAAYAg%3D%3D&sigh=-grhZ_v1SSKJLMYVWHjOpg",
+ "streamid": "JMdTyFBNs2m4DR7fwwKXivhobeey2A8Lknkmrkvra-J9gjRpXR4bAmMIeaWKBOZ1",
+ "genre": "Rock",
+ "vid": "a08fee64ad99d981",
+ "artist": "Josh Lippi & The Overtimers"
+}

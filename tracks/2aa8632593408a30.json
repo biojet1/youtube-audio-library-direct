@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "2aa8632593408a30",
+ "display_category": "",
+ "fp_ref_id": "2aa8632593408a30",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2aa8632593408a30",
+ "artist_channel_url": "/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "title": "Olde Salooner Blues",
+ "favorite": false,
+ "license_type": 1,
+ "len": 146,
+ "display_mood": "Funky",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Organ",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChAyYWE4NjMyNTkzNDA4YTMwEAAYAg%3D%3D&sigh=RD7F2A50Y0PPU65UrkZpUg",
+ "streamid": "dMeO7z9Hofa95D7f8PN0lQydFOH4t2AvXUmBh3IVh9V1LcB0mt84XUc15YS0Ldiq",
+ "genre": "Jazz & Blues",
+ "vid": "2aa8632593408a30",
+ "artist": "Midnight North"
+}

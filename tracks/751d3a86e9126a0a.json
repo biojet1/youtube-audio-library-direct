@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "Lw1L9VujYBH7qDCgHHUpLiQD7TgZzFxbhil605ngZxo1rVmBY4L3wkVfIT1yBAvw",
+ "title": "Shake",
+ "display_genre": "Hip Hop & Rap",
+ "vid": "751d3a86e9126a0a",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "751d3a86e9126a0a",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dark",
+ "license_type": 1,
+ "fp_ref_id": "751d3a86e9126a0a",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Vibe Tracks",
+ "len": 198.95,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCKDBIWChA3NTFkM2E4NmU5MTI2YTBhEAAYAg%3D%3D&sigh=Kby2mq_FBdpftieMoS3srg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=751d3a86e9126a0a"
+}

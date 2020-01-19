@@ -1,0 +1,33 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=72871a3d814d8c3f",
+ "len": 202.5,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCqDBIWChA3Mjg3MWEzZDgxNGQ4YzNmEAAYAg%3D%3D&sigh=PWDxrQAW8Ca8awdiDdIBqg",
+ "fp_ref_id": "72871a3d814d8c3f",
+ "vid": "72871a3d814d8c3f",
+ "title": "Traffic Traffic",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "72871a3d814d8c3f",
+ "license_type": 0,
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "acoustic guitar",
+  "bass",
+  "organ"
+ ],
+ "streamid": "tpfDiqz4wchNybrEK4Qf8b2K3zirPLyz6S86Ug59CW30KZ89mKEsdOqNtGuFKgg_",
+ "category": ""
+}

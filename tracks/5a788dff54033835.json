@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "5a788dff54033835",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCOQyfUmWPaf5uA40I0Zrn2A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a788dff54033835",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChA1YTc4OGRmZjU0MDMzODM1EAAYAg%3D%3D&sigh=z_vd3QQUDMuvfybV4d_fNw",
+ "is_new_track": false,
+ "reference_vid": "5a788dff54033835",
+ "display_mood": "Calm",
+ "favorite": false,
+ "category": "",
+ "title": "Puffs",
+ "streamid": "OVPxt2_Cf2kNjQbrqtkRwgjF1DIkZSgk5uNuto4KvRSnBUyDf8I1CX44Gx2oEJnY",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Pop",
+ "len": 156.7,
+ "album": "None",
+ "genre": "Pop",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Text Me Records / Social Work",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass",
+  "Organ"
+ ],
+ "fp_ref_id": "5a788dff54033835"
+}

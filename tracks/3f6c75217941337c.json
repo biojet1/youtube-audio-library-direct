@@ -1,0 +1,30 @@
+{
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "fp_ref_id": "3f6c75217941337c",
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "reference_vid": "3f6c75217941337c",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 143,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChAzZjZjNzUyMTc5NDEzMzdjEAAYAg%3D%3D&sigh=9v9KoGyQrURDkoiHUlOUEQ",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f6c75217941337c",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "title": "After School Jamboree",
+ "genre": "Children's",
+ "streamid": "sHlHMFSQjuSywRhbqQT3mq5NwoUXH_ls2DyIRt4AecE8FVo6ZP0jA0eYRbxQ5dM7",
+ "vid": "3f6c75217941337c",
+ "display_genre": "Children's",
+ "mood": "Happy",
+ "license_type": 1,
+ "artist": "The Green Orbs"
+}

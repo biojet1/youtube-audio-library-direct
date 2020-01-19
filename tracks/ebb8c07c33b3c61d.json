@@ -1,0 +1,30 @@
+{
+ "artist": "Silent Partner",
+ "display_category": "",
+ "genre": "Cinematic",
+ "vid": "ebb8c07c33b3c61d",
+ "instruments": [
+  "strings",
+  "bass"
+ ],
+ "reference_vid": "ebb8c07c33b3c61d",
+ "artist_url": "",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "album": "None",
+ "category": "",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "ebb8c07c33b3c61d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ebb8c07c33b3c61d",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChBlYmI4YzA3YzMzYjNjNjFkEAAYAg%3D%3D&sigh=i00iexhgGIa0--vo4jQwtQ",
+ "streamid": "5EY7RAt9Z5aM9x937ux7FzF7bzZycO7ajioZ6pE7Yp5YY2Gb0akgJnXJIe1lHRJr",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 93.15,
+ "title": "Dog and Pony Show",
+ "favorite": false
+}

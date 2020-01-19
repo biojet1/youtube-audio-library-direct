@@ -1,0 +1,32 @@
+{
+ "title": "Pablo",
+ "artist": "The Mini Vandals",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChA0ZTljMWM5ZmMwYzdiYjM5EAAYAg%3D%3D&sigh=jDrJejJtUac3RLgwvJRrrA",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "vid": "4e9c1c9fc0c7bb39",
+ "mood": "Dark",
+ "license_type": 1,
+ "is_new_track": false,
+ "len": 124,
+ "instruments": [
+  "percussion",
+  "autoharp",
+  "bass",
+  "acoustic guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4e9c1c9fc0c7bb39",
+ "display_mood": "Dark",
+ "streamid": "AqYDE7xX-DHxfOfkaMQgnFk48Jxqe7EdzCiNAEOLs_o5tsGG2JS8QTkCr26YtOEP",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "fp_ref_id": "4e9c1c9fc0c7bb39",
+ "genre": "Cinematic",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 99,
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "4e9c1c9fc0c7bb39"
+}

@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 105.816,
+ "category": "",
+ "title": "Everyday",
+ "display_genre": "Pop",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b30f2ee97ba2bd50",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Piano",
+  "Synth"
+ ],
+ "album": "None",
+ "reference_vid": "b30f2ee97ba2bd50",
+ "fp_ref_id": "b30f2ee97ba2bd50",
+ "artist": "Jason Farnham",
+ "artist_channel_url": null,
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBiMzBmMmVlOTdiYTJiZDUwEAAYAg%3D%3D&sigh=1YFWDeFOpwesU5_gXsmjyQ",
+ "license_type": 0,
+ "mood": "Inspirational",
+ "vid": "b30f2ee97ba2bd50",
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 70,
+ "display_mood": "Inspirational",
+ "streamid": "rjr5kTC1-sq9qv8_YHMiTg1mA3nCyCULYwPZVHRe4Ym7CAdxKWaf-XD1nc8D3sDS"
+}

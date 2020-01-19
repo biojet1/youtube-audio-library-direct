@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "streamid": "a2yHwLxH0F6ElODk7KwcXY04mZYg_kUOpJ8mM7duKaAzbaaTDQh_L7xu_4bFR3yo",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2b5fd1682a7930f1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChAyYjVmZDE2ODJhNzkzMGYxEAAYAg%3D%3D&sigh=zEi6bCGM0aCSqxNo7P6g3w",
+ "vid": "2b5fd1682a7930f1",
+ "display_category": "",
+ "title": "Ectoplasm",
+ "album": "None",
+ "mood": "Dark",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Audionautix",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "reference_vid": "2b5fd1682a7930f1",
+ "len": 157.15,
+ "genre": "Cinematic",
+ "popularity_percentile": 33,
+ "fp_ref_id": "2b5fd1682a7930f1",
+ "track_url": "",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ]
+}

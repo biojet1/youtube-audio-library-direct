@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "22ac7555b9f03454",
+ "track_url": "",
+ "fp_ref_id": "22ac7555b9f03454",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Network 415",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "reference_vid": "22ac7555b9f03454",
+ "display_mood": "Happy",
+ "len": 201.583,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiiDBIWChAyMmFjNzU1NWI5ZjAzNDU0EAAYAg%3D%3D&sigh=j5wQ0z4tsFh8ZNKNu8rcSQ",
+ "popularity_percentile": 13,
+ "streamid": "wShXdIQsVP7bXkXo_Ks7UFxkV93BfrnPBnun4EfOgRdwhFtImj18YMSdXLMKSpHi",
+ "license_type": 0,
+ "display_genre": "Pop",
+ "category": "",
+ "title": "Eyes On You",
+ "genre": "Pop",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22ac7555b9f03454"
+}

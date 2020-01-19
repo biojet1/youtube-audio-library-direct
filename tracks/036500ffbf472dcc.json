@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChAwMzY1MDBmZmJmNDcyZGNjEAAYAg%3D%3D&sigh=CCLUP28uobd_Ms3RZzG4wA",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "036500ffbf472dcc",
+ "reference_vid": "036500ffbf472dcc",
+ "popularity_percentile": 2,
+ "artist": "Grieg",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=036500ffbf472dcc",
+ "mood": "Happy",
+ "genre": "Classical",
+ "streamid": "EM2NX4Pg2gOBXxgC-pNFx3JoD0F5p2LmhwKJ15MI81k2hGP4-FtmCHwij-LLPquh",
+ "title": "Morning Mood (by Grieg)",
+ "downloadable": true,
+ "category": "",
+ "len": 222.033,
+ "artist_url": "",
+ "display_genre": "Classical",
+ "fp_ref_id": "036500ffbf472dcc",
+ "album": "None"
+}

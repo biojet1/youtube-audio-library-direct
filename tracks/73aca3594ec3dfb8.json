@@ -1,0 +1,29 @@
+{
+ "genre": "Ambient",
+ "track_url": "http://chriszabriskie.com/vendaface/",
+ "artist_channel_url": null,
+ "artist": "Chris Zabriskie",
+ "fp_ref_id": "73aca3594ec3dfb8",
+ "display_mood": "Calm",
+ "display_genre": "Ambient",
+ "vid": "73aca3594ec3dfb8",
+ "mood": "Calm",
+ "instruments": [
+  "Synth"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://chriszabriskie.com/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPD7EBIWChA3M2FjYTM1OTRlYzNkZmI4EAAYAg%3D%3D&sigh=L02TVtd3GyUFecZhJdmEyg",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Air Hockey Saloon",
+ "category": "",
+ "len": 278.016,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73aca3594ec3dfb8",
+ "reference_vid": "73aca3594ec3dfb8",
+ "streamid": "HDA2jjIwVbMQxfBTLz4Gbkxd8gwI4EGB_0kspnBjVmDJbHyytGBqwUaVPIkFVZDg"
+}

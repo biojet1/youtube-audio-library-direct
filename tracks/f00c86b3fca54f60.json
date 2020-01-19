@@ -1,0 +1,31 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100195",
+ "mood": "Dark",
+ "len": 111.85,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "Ya-3T20fca67iVb0REmvsXq2Mv47t4HOeZ0ujOdlu986v2AVbUmJHnPPrnaCg78b",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChBmMDBjODZiM2ZjYTU0ZjYwEAAYAg%3D%3D&sigh=_oITy6lB59kuBAdtAnoR3g",
+ "reference_vid": "f00c86b3fca54f60",
+ "title": "Intended Force",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f00c86b3fca54f60",
+ "vid": "f00c86b3fca54f60",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "f00c86b3fca54f60",
+ "display_mood": "Dark",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Classical",
+ "license_type": 6,
+ "genre": "Classical"
+}

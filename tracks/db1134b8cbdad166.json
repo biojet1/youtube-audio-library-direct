@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "popularity_percentile": 85,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 196.283,
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db1134b8cbdad166",
+ "title": "The Hours",
+ "streamid": "CrZMScRs3BojZ9cNAIrTAX7TcXvQAy8Ne1NkEGxyxY1zDOPtniBfZDTUXU9rMw8E",
+ "genre": "Rock",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD7CxIWChBkYjExMzRiOGNiZGFkMTY2EAAYAg%3D%3D&sigh=LIU3jG6pCkXpGroXLGS0Uw",
+ "license_type": 0,
+ "fp_ref_id": "db1134b8cbdad166",
+ "display_mood": "Dramatic",
+ "vid": "db1134b8cbdad166",
+ "artist_url": "",
+ "artist": "Topher Mohr and Alex Elena",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "display_genre": "Rock",
+ "favorite": false,
+ "reference_vid": "db1134b8cbdad166"
+}

@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Drums"
+ ],
+ "len": 199.716,
+ "fp_ref_id": "867902d14c42ae8d",
+ "streamid": "syAjzT6gtR2xE0LrHoyjOEZKHhcgdznAAGvNSec-PuMhLxFYY1JaSS9EU4QHsJ8Y",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Cinematic",
+ "popularity_percentile": 64,
+ "vid": "867902d14c42ae8d",
+ "display_genre": "Cinematic",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=867902d14c42ae8d",
+ "album": "None",
+ "title": "Hit the Streets (Version 2)",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChA4Njc5MDJkMTRjNDJhZThkEAAYAg%3D%3D&sigh=oaXaEjOznu_rsSfqxOY6YA",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "reference_vid": "867902d14c42ae8d",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100882",
+ "license_type": 6
+}

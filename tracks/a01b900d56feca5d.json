@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "a01b900d56feca5d",
+ "mood": "Calm",
+ "reference_vid": "a01b900d56feca5d",
+ "popularity_percentile": 72,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChBhMDFiOTAwZDU2ZmVjYTVkEAAYAg%3D%3D&sigh=3U2WTUPUYDlaRRLExv5qLw",
+ "len": 204.083,
+ "favorite": false,
+ "display_mood": "Calm",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "a01b900d56feca5d",
+ "streamid": "ef8XUG1x47OHpAunPWDskK-YL7-jjaDTtqvSqkcog3NqgcraTrAKcbTWI1SCAuT4",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a01b900d56feca5d",
+ "title": "Calmant - Calming",
+ "display_genre": "Pop",
+ "artist": "Kevin MacLeod",
+ "genre": "Pop",
+ "downloadable": true,
+ "instruments": [
+  "Piano"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100859",
+ "is_new_track": false
+}

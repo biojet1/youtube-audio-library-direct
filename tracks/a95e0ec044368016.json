@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a95e0ec044368016",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "category": "",
+ "title": "Making Money",
+ "track_url": "",
+ "vid": "a95e0ec044368016",
+ "mood": "Funky",
+ "is_new_track": false,
+ "len": 165,
+ "instruments": [
+  "bass",
+  "drums",
+  "percussion",
+  "electric guitar"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "D-0IhMxqSDWd1110QkoTCiCc9wmU87AI9mFsWZ-3fLTYfo_q5KRbJpbAb7gpfu77",
+ "display_genre": "Rock",
+ "artist": "Jeremy Korpas",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "reference_vid": "a95e0ec044368016",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBhOTVlMGVjMDQ0MzY4MDE2EAAYAg%3D%3D&sigh=w7kU1QVpcGW_XAxqkmvG6Q",
+ "fp_ref_id": "a95e0ec044368016",
+ "genre": "Rock",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "license_type": 1
+}

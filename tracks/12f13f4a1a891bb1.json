@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 1,
+ "vid": "12f13f4a1a891bb1",
+ "fp_ref_id": "12f13f4a1a891bb1",
+ "album": "None",
+ "streamid": "l9xhAEWDr3XIaX1uq3dJrY9z8poo2YLHyFc3tp1Wj4HGyuaD7m53H-_m15wcg5tc",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "artist": "Unites States Marine Band ",
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=12f13f4a1a891bb1",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChAxMmYxM2Y0YTFhODkxYmIxEAAYAg%3D%3D&sigh=pzLLZqeB3HGoFAKOubAHiQ",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 155.65,
+ "reference_vid": "12f13f4a1a891bb1",
+ "title": "Washington Post March 1890",
+ "favorite": false,
+ "track_url": ""
+}

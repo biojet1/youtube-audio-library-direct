@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=25c42ce2e052d37e",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Silent Partner",
+ "len": 161.283,
+ "display_category": "",
+ "display_genre": "Alternative & Punk",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "4nD6QkcYLSVe1rYAbBVaepJ2MhUrOl3zLGtX-pbjkXkFfRvzDHFJA8edv9X4cRYA",
+ "category": "",
+ "title": "Eviction",
+ "display_mood": "Bright",
+ "favorite": false,
+ "reference_vid": "25c42ce2e052d37e",
+ "genre": "Alternative & Punk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChAyNWM0MmNlMmUwNTJkMzdlEAAYAg%3D%3D&sigh=EPb1OmvSoQ-MkAnpTGZLqw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "25c42ce2e052d37e",
+ "license_type": 0,
+ "popularity_percentile": 15,
+ "vid": "25c42ce2e052d37e"
+}

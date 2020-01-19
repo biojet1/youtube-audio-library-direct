@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist_channel_url": "/channel/UCiSKnkKCKAQVxMUWpZQobuQ",
+ "artist_url": "https://www.youtube.com/channel/UCiSKnkKCKAQVxMUWpZQobuQ",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChAzNzMyZGRlOWU5ZGRiN2FiEAAYAg%3D%3D&sigh=D7O3mrNWkf0hC_Rj0da3Mw",
+ "display_mood": "Dramatic",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3732dde9e9ddb7ab",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Myuu",
+ "title": "Tragic Story",
+ "reference_vid": "3732dde9e9ddb7ab",
+ "instruments": [
+  "synth",
+  "mallets",
+  "bells"
+ ],
+ "display_genre": "Cinematic",
+ "fp_ref_id": "3732dde9e9ddb7ab",
+ "vid": "3732dde9e9ddb7ab",
+ "category": "",
+ "streamid": "4xk_MEKIEO7WWslraFBHWjELSRquSYcoAbsYH6ZjZu_JyElLnB_1lWtFIQhpIYR0",
+ "popularity_percentile": 99,
+ "len": 97,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "a0a11078ec57a5a9",
+ "artist_url": "https://www.youtube.com/channel/UCE8in8drPryPgRY9IDZB1XQ",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "a0a11078ec57a5a9",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "808",
+  "electric guitar"
+ ],
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0a11078ec57a5a9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBhMGExMTA3OGVjNTdhNWE5EAAYAg%3D%3D&sigh=nMx9H3ve1kurqCAdIlrOKA",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "a0a11078ec57a5a9",
+ "len": 118,
+ "mood": "Dark",
+ "streamid": "e3FhU8UJMUe67igYFb6lEbVzCoBht7EsbG3q6wvgwbTxBIhXI1IoCNn69Y-QXcB5",
+ "artist": "Alge",
+ "is_new_track": false,
+ "title": "I Love Destruction When It Serves Love",
+ "genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCE8in8drPryPgRY9IDZB1XQ"
+}

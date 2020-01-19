@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200047",
+ "artist_channel_url": null,
+ "len": 229.15,
+ "mood": "Calm",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7998a08ba03c2b75",
+ "title": "Brittle Rille - Reunited",
+ "streamid": "yOWUzbnEMVF0JkNAEFGqOtlemWkLnp1CDPMNKLh0aAGy3xyYS1pQUeHZHmZxSLGE",
+ "genre": "Ambient",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj9DRIWChA3OTk4YTA4YmEwM2MyYjc1EAAYAg%3D%3D&sigh=vnVV8jWtcod3LYAXTAWeEw",
+ "license_type": 6,
+ "fp_ref_id": "7998a08ba03c2b75",
+ "display_mood": "Calm",
+ "vid": "7998a08ba03c2b75",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Bass",
+  "Synth",
+  "Strings"
+ ],
+ "display_genre": "Ambient",
+ "favorite": false,
+ "reference_vid": "7998a08ba03c2b75"
+}

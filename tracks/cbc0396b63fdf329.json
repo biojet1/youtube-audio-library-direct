@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "reference_vid": "cbc0396b63fdf329",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "",
+ "display_mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cbc0396b63fdf329",
+ "fp_ref_id": "cbc0396b63fdf329",
+ "mood": "Inspirational",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "len": 120.683,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBjYmMwMzk2YjYzZmRmMzI5EAAYAg%3D%3D&sigh=fKw8v_A6cGGmXjSvWhLifw",
+ "streamid": "OmdqxrHIrW0Bs27LTF3Myb3fXzG4vRVF-uycybEs0sjcuakCyWZnppYLd9QI_977",
+ "artist": "Riot",
+ "popularity_percentile": 79,
+ "title": "Pressure",
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "license_type": 0,
+ "vid": "cbc0396b63fdf329",
+ "track_url": "",
+ "genre": "Country & Folk",
+ "category": "",
+ "favorite": false
+}

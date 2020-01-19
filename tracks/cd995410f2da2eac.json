@@ -1,0 +1,30 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "cd995410f2da2eac",
+ "display_category": "",
+ "fp_ref_id": "cd995410f2da2eac",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cd995410f2da2eac",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Bright",
+ "instruments": [
+  "bass",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChBjZDk5NTQxMGYyZGEyZWFjEAAYAg%3D%3D&sigh=wAsfN5uLqGkvzjDqVFxw-Q",
+ "streamid": "9O1gtF1gPOYcOVxiyp_eUPL7MUWBXQZM0xJhE4e3oj1eM7X5k6l5ZeWJogFH7sNU",
+ "genre": "Ambient",
+ "vid": "cd995410f2da2eac",
+ "artist": "White Hex",
+ "display_genre": "Ambient",
+ "title": "Light and Air",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 90,
+ "display_mood": "Bright",
+ "downloadable": true
+}

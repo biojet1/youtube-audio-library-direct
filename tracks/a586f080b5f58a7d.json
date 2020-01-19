@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "vid": "a586f080b5f58a7d",
+ "is_new_track": false,
+ "category": "",
+ "len": 238.7,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a586f080b5f58a7d",
+ "streamid": "39mmAjzANtRGtMoHBH1GPe-0ySYLYX1CWPJDq0nALvE-RR5m04PcwpHlw78fOPr3",
+ "reference_vid": "a586f080b5f58a7d",
+ "downloadable": true,
+ "track_url": "",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "license_type": 1,
+ "display_mood": "Bright",
+ "artist_channel_url": "/channel/UC5MBYjOajpL7BwHNA85ZKAA",
+ "favorite": false,
+ "mood": "Bright",
+ "artist": "DJ Williams",
+ "fp_ref_id": "a586f080b5f58a7d",
+ "title": "Love In LA",
+ "genre": "Rock",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UC5MBYjOajpL7BwHNA85ZKAA",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDDDhIWChBhNTg2ZjA4MGI1ZjU4YTdkEAAYAg%3D%3D&sigh=et5we7HSFt4CxVcyAkEsoQ"
+}

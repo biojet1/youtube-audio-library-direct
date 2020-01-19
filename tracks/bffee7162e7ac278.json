@@ -1,0 +1,32 @@
+{
+ "title": "The Chance",
+ "favorite": false,
+ "len": 54.083,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPClAxIWChBiZmZlZTcxNjJlN2FjMjc4EAAYAg%3D%3D&sigh=X2RntghNnwmDZkfO8cg6rQ",
+ "fp_ref_id": "bffee7162e7ac278",
+ "artist_channel_url": null,
+ "display_genre": "Pop",
+ "track_url": "",
+ "genre": "Pop",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Synth",
+  "Drums"
+ ],
+ "reference_vid": "bffee7162e7ac278",
+ "display_category": "",
+ "vid": "bffee7162e7ac278",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bffee7162e7ac278",
+ "streamid": "3OGwk2X71Tgki1IiPZgwQEpLsVNidPpM1Po5Xe64UkFhMcW6zyqQAaTP3r8haVIA",
+ "artist": "Audionautix"
+}

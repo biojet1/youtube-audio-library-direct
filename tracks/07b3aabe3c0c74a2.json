@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Classical",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "w-JoZ6RRrD4sRZcYBvvxmFl5mvKh4NI8xNGAx2essRQBTDuuqKHIG2cVff8ZjXQP",
+ "title": "Tempting Fate",
+ "display_genre": "Classical",
+ "vid": "07b3aabe3c0c74a2",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "07b3aabe3c0c74a2",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 6,
+ "fp_ref_id": "07b3aabe3c0c74a2",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 218.55,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCnDRIWChAwN2IzYWFiZTNjMGM3NGEyEAAYAg%3D%3D&sigh=me1sYdVpl94M72f7lcaJlg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=07b3aabe3c0c74a2"
+}

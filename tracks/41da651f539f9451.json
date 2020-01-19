@@ -1,0 +1,31 @@
+{
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "len": 83.016,
+ "display_category": "",
+ "reference_vid": "41da651f539f9451",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Jingle Punks",
+ "fp_ref_id": "41da651f539f9451",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "kW9nhrcXvf7wtFPtxzpKnVI1yqwaa3qrBPIMe8s513FiVsdHZks0I5N9gYNIKNAN",
+ "display_mood": "Dramatic",
+ "vid": "41da651f539f9451",
+ "track_url": "",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiIBRIWChA0MWRhNjUxZjUzOWY5NDUxEAAYAg%3D%3D&sigh=-_bIosrCxu5Rv9FZPC8TTA",
+ "category": "",
+ "title": "Warrior Strife",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41da651f539f9451"
+}

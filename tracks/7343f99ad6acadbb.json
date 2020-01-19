@@ -1,0 +1,30 @@
+{
+ "display_genre": "Ambient",
+ "vid": "7343f99ad6acadbb",
+ "title": "So Far Away",
+ "mood": "Calm",
+ "reference_vid": "7343f99ad6acadbb",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 172.583,
+ "fp_ref_id": "7343f99ad6acadbb",
+ "is_new_track": false,
+ "artist": "Riot",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "streamid": "vlW7GBqlh5KwxSNhSnX_HKIOEJWYR-tJaGPET7cB48DSsVT2XEd1cJZyzakcJiOT",
+ "display_mood": "Calm",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7343f99ad6acadbb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChA3MzQzZjk5YWQ2YWNhZGJiEAAYAg%3D%3D&sigh=W3We1PBD78LQmzg71lYFpA",
+ "genre": "Ambient"
+}

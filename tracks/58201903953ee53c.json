@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "58201903953ee53c",
+ "downloadable": true,
+ "fp_ref_id": "58201903953ee53c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=58201903953ee53c",
+ "album": "None",
+ "artist": "Silent Partner",
+ "display_mood": "Funky",
+ "streamid": "0MQvDe7Csb8Yp78JE1EWct1eWykSTQXMwf7ZMyE7gBKKt3el4KwAhWHyENgpovSC",
+ "mood": "Funky",
+ "title": "Mile High",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "reference_vid": "58201903953ee53c",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 139.516,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA1ODIwMTkwMzk1M2VlNTNjEAAYAg%3D%3D&sigh=m6e2w6tuKAdhIYWc0KE8Jg"
+}

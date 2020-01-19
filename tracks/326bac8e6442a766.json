@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "326bac8e6442a766",
+ "artist_url": "https://www.youtube.com/channel/UCcuSK-fPeRI-JJ2mfyGYMjw",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "326bac8e6442a766",
+ "instruments": [
+  "synth",
+  "piano",
+  "keys"
+ ],
+ "display_genre": "Ambient",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=326bac8e6442a766",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjgDBIWChAzMjZiYWM4ZTY0NDJhNzY2EAAYAg%3D%3D&sigh=fs1evAVtMjAmCA0Utpajxw",
+ "display_category": "",
+ "display_mood": "Calm",
+ "vid": "326bac8e6442a766",
+ "len": 209,
+ "mood": "Calm",
+ "streamid": "krQsalW5I8uvT06ex9EdsgGe0F8ELUi4k177kWjapsr4IoZx8f7dJFdtbCEBbgXn",
+ "artist": "pATCHES",
+ "is_new_track": false,
+ "title": "An Excuse To Do Less, Not More",
+ "genre": "Ambient",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCcuSK-fPeRI-JJ2mfyGYMjw"
+}

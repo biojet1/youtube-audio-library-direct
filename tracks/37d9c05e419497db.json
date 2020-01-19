@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100435",
+ "artist_channel_url": null,
+ "len": 25.383,
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=37d9c05e419497db",
+ "title": "Flutey Sting",
+ "streamid": "GokujC04ndRMLzQFaFFXVgYzN9sDn2wriZcpy4yAkvJkXxEeCb4Qz7oJOvgBfqWU",
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKjDARIWChAzN2Q5YzA1ZTQxOTQ5N2RiEAAYAg%3D%3D&sigh=qpL7v4riCgLeejjd2GYGsQ",
+ "license_type": 6,
+ "fp_ref_id": "37d9c05e419497db",
+ "display_mood": "Dramatic",
+ "vid": "37d9c05e419497db",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums"
+ ],
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "reference_vid": "37d9c05e419497db"
+}

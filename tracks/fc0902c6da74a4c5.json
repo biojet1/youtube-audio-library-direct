@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChBmYzA5MDJjNmRhNzRhNGM1EAAYAg%3D%3D&sigh=djJhcpmdxK69dL3kgUE0ZQ",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fc0902c6da74a4c5",
+ "reference_vid": "fc0902c6da74a4c5",
+ "popularity_percentile": 99,
+ "artist": "Gunnar Olsen",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc0902c6da74a4c5",
+ "mood": "Dramatic",
+ "genre": "Hip Hop & Rap",
+ "streamid": "CgyAdDXts_Cd6yvsHq1nahOpP92M23qD1d25Utz-6PQdQQF9X44vRa4o1yff1vXa",
+ "title": "Shoulder Closures",
+ "downloadable": true,
+ "category": "",
+ "len": 158.616,
+ "artist_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "fc0902c6da74a4c5",
+ "album": "None"
+}

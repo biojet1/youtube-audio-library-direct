@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "7a5a22c0f927eb25",
+ "reference_vid": "7a5a22c0f927eb25",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a5a22c0f927eb25",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "xE4sC0qjSp7mB0MJGTBDEjmtlEnCip5A5OnTJIZaJR0U6VURlEHxj_K1k9PIq4lJ",
+ "genre": "Alternative & Punk",
+ "popularity_percentile": 48,
+ "mood": "Bright",
+ "downloadable": true,
+ "vid": "7a5a22c0f927eb25",
+ "len": 93.8,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "favorite": false,
+ "display_genre": "Alternative & Punk",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChA3YTVhMjJjMGY5MjdlYjI1EAAYAg%3D%3D&sigh=5mD6FXwuPhRDMPGN9aAWaA",
+ "display_mood": "Bright",
+ "album": "None",
+ "title": "Cockpit",
+ "display_category": ""
+}

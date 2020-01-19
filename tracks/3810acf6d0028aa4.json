@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "3810acf6d0028aa4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3810acf6d0028aa4",
+ "display_mood": "Funky",
+ "fp_ref_id": "3810acf6d0028aa4",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Bells",
+  "Synth"
+ ],
+ "title": "Riddim",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChAzODEwYWNmNmQwMDI4YWE0EAAYAg%3D%3D&sigh=jFedSmI6sQRTxiZ88vtuDA",
+ "display_genre": "Pop",
+ "artist": "Text Me Records / Jorge Hernandez",
+ "genre": "Pop",
+ "len": 119,
+ "streamid": "A1c3KB9z72nqpdjiFE10HYXXuJ5Ba1tKfaiQlU8dmzBmrOxHnUa4P2ErREN5oIuZ",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "3810acf6d0028aa4",
+ "album": "None",
+ "mood": "Funky"
+}

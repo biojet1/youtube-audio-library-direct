@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "vid": "57a98eb3a679c73b",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "57a98eb3a679c73b",
+ "track_url": "",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA1N2E5OGViM2E2NzljNzNiEAAYAg%3D%3D&sigh=JGOSetwgjodKRrHkKPPhxg",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Synth"
+ ],
+ "title": "Vanishing Horizon",
+ "downloadable": true,
+ "streamid": "NcSgmH5xmjDzZv0twZrtoNjxeZHRTr937clggLl6eTBoi8fd-Iu6jJewL4DoH1_a",
+ "genre": "Pop",
+ "len": 163.683,
+ "artist": "Audionautix",
+ "display_mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57a98eb3a679c73b",
+ "popularity_percentile": 38,
+ "reference_vid": "57a98eb3a679c73b",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Bright"
+}

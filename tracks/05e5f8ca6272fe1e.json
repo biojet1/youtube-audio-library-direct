@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 193,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "05e5f8ca6272fe1e",
+ "mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "A Ghost Town",
+ "display_mood": "Dramatic",
+ "instruments": [
+  "bass",
+  "woodwinds",
+  "acoustic guitar",
+  "percussion",
+  "electric guitar"
+ ],
+ "streamid": "Qs4hcsXyFue4HRnJrWFMml0pHStgl51oC6xdvafkSB5xxlZYdT1L3mz7c4iZEJXH",
+ "reference_vid": "05e5f8ca6272fe1e",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05e5f8ca6272fe1e",
+ "fp_ref_id": "05e5f8ca6272fe1e",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChAwNWU1ZjhjYTYyNzJmZTFlEAAYAg%3D%3D&sigh=e0HYE_MVESwXZy_6t9Q3AQ"
+}

@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Mylar Melodies",
+ "artist_channel_url": "/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "downloadable": true,
+ "fp_ref_id": "5653f6a18b28318c",
+ "popularity_percentile": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj6DhIWChA1NjUzZjZhMThiMjgzMThjEAAYAg%3D%3D&sigh=X9sJ04HUSVSxz0sAmO19MA",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "5653f6a18b28318c",
+ "streamid": "kxH8VagsjnOHbJoq0nJ1osPCQvwcAnDe2_gqMUH8sSGUDmBR1cLic1RnZ9yEoNA8",
+ "mood": "Dramatic",
+ "reference_vid": "5653f6a18b28318c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5653f6a18b28318c",
+ "title": "Melody Mill",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "vocal chops",
+  "drums",
+  "synth"
+ ],
+ "len": 245,
+ "album": "None",
+ "track_url": ""
+}

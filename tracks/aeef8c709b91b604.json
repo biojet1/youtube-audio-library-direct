@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "aeef8c709b91b604",
+ "category": "",
+ "license_type": 6,
+ "title": "Running Waters Full Band",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_mood": "Calm",
+ "album": "None",
+ "streamid": "ONuMlrKOv6eEAZfCuymXXOSqpHZngOvOkousSeQB2S81tlopNPR71tZrF68WT0df",
+ "len": 137.883,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aeef8c709b91b604",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChBhZWVmOGM3MDliOTFiNjA0EAAYAg%3D%3D&sigh=ieimdUxs6XPVRVaLURPDyg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "aeef8c709b91b604",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "aeef8c709b91b604",
+ "track_url": ""
+}

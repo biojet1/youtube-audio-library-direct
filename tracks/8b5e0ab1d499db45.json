@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100694",
+ "artist_channel_url": null,
+ "len": 185.25,
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8b5e0ab1d499db45",
+ "title": "Devastation and Revenge",
+ "streamid": "6A-VDr_n70EY-Q0EhZLw9zos6kuY3C9eB3xKiFAclfRpoZUKefcDAQnfnQtIePLO",
+ "genre": "Cinematic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChA4YjVlMGFiMWQ0OTlkYjQ1EAAYAg%3D%3D&sigh=FK6DNfv1uV1ZCGNt8ORDAQ",
+ "license_type": 6,
+ "fp_ref_id": "8b5e0ab1d499db45",
+ "display_mood": "Dramatic",
+ "vid": "8b5e0ab1d499db45",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass"
+ ],
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "reference_vid": "8b5e0ab1d499db45"
+}

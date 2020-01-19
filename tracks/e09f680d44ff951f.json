@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "e09f680d44ff951f",
+ "display_category": "",
+ "fp_ref_id": "e09f680d44ff951f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e09f680d44ff951f",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "downloadable": true,
+ "display_genre": "R&B & Soul",
+ "title": "Urchins",
+ "favorite": false,
+ "license_type": 1,
+ "len": 115,
+ "display_mood": "Funky",
+ "instruments": [
+  "drums",
+  "bass",
+  "organ"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBlMDlmNjgwZDQ0ZmY5NTFmEAAYAg%3D%3D&sigh=yCjC1uqgSlBzNNjpuU7BCQ",
+ "streamid": "_zO5b6KQ6sGJQr-fkUvsjdJRwCThTEncxAO3JQE4W6xO1EQlfUKiJar34zjw_Asd",
+ "genre": "R&B & Soul",
+ "vid": "e09f680d44ff951f",
+ "artist": "Rondo Brothers"
+}

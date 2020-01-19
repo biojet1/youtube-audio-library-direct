@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "a202be26a15ec26f",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a202be26a15ec26f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChBhMjAyYmUyNmExNWVjMjZmEAAYAg%3D%3D&sigh=QID-xr5O4mhsORM0lsY1KQ",
+ "is_new_track": false,
+ "reference_vid": "a202be26a15ec26f",
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "category": "",
+ "title": "Smooth",
+ "streamid": "_fKuNw0h0zS4-cpweMb5twQ5bVt2wQ5Ty8R4mwpt3KIqfgKPU7muK2raTl7TRWzS",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "len": 157.9,
+ "album": "None",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "Text Me Records / Bobby Renz",
+ "instruments": [
+  "Synth",
+  "Organ",
+  "Bass",
+  "Drums"
+ ],
+ "fp_ref_id": "a202be26a15ec26f"
+}

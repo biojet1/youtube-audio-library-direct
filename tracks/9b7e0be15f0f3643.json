@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9b7e0be15f0f3643",
+ "category": "",
+ "license_type": 0,
+ "title": "Here, If You're Going",
+ "display_genre": "Hip Hop & Rap",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "synths",
+  "bass"
+ ],
+ "display_mood": "Funky",
+ "album": "None",
+ "streamid": "z_mRryVbpQp5bBP9mk9-TCpFsKpQb_Ev8dZe0A5QICNutcfZhk1jK88M96bpmJsW",
+ "len": 108.766,
+ "artist": "Otis McDonald",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b7e0be15f0f3643",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChA5YjdlMGJlMTVmMGYzNjQzEAAYAg%3D%3D&sigh=NWJIKgZbdR1jEz6SAgCzzQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9b7e0be15f0f3643",
+ "is_new_track": false,
+ "mood": "Funky",
+ "fp_ref_id": "9b7e0be15f0f3643",
+ "track_url": ""
+}

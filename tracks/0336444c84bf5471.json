@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "favorite": false,
+ "len": 99.399,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0336444c84bf5471",
+ "category": "",
+ "streamid": "R-gdkRYpZiGvaIICDB-caw_7aH-TTXwq07swxi36i0leEAckTGcaGhkUx9OsQ5HU",
+ "fp_ref_id": "0336444c84bf5471",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChAwMzM2NDQ0Yzg0YmY1NDcxEAAYAg%3D%3D&sigh=LvNBZoIV6WjX5BadcWNIQw",
+ "popularity_percentile": 0,
+ "reference_vid": "0336444c84bf5471",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Trumpet",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "0336444c84bf5471",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "title": "Festival De Cuba",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist": "Doug Maxwell/Jimmy Fontanez"
+}

@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=62d2d81401197326",
+ "artist_url": "",
+ "downloadable": true,
+ "len": 163.133,
+ "album": "None",
+ "mood": "Sad",
+ "artist": "Silent Partner",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA2MmQyZDgxNDAxMTk3MzI2EAAYAg%3D%3D&sigh=KSgGuoLVv06U2SW87yrDfQ",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "62d2d81401197326",
+ "title": "Desert Sky",
+ "vid": "62d2d81401197326",
+ "display_mood": "Sad",
+ "reference_vid": "62d2d81401197326",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "is_new_track": false,
+ "streamid": "4Kyx4VlTtIzv_g-Khaf_5OKGPxVY-wTtxiXKwgvRwFhpGgI7URH9q6z_Rmj1DCR0",
+ "category": ""
+}

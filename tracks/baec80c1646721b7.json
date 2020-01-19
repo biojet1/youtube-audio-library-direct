@@ -1,0 +1,31 @@
+{
+ "track_url": "http://chriszabriskie.com/dtv/",
+ "mood": "Funky",
+ "len": 345.216,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "KSjlaM7kzkNP8zrSvcGnvU-fL9xcKRjEilegqgBjdFQv4tDI-Ew_O593sQNznLed",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiHFRIWChBiYWVjODBjMTY0NjcyMWI3EAAYAg%3D%3D&sigh=_6GU8an46IvPMIOE2sVH6g",
+ "reference_vid": "baec80c1646721b7",
+ "title": "Direct to Video",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=baec80c1646721b7",
+ "vid": "baec80c1646721b7",
+ "artist_url": "http://chriszabriskie.com/",
+ "artist": "Chris Zabriskie",
+ "fp_ref_id": "baec80c1646721b7",
+ "display_mood": "Funky",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Stings"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "genre": "Ambient"
+}

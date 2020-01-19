@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 122,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "fp_ref_id": "2914c67c0008c979",
+ "reference_vid": "2914c67c0008c979",
+ "artist_channel_url": "/channel/UCVt9qwFDS1YvKes7XSfd1OQ",
+ "license_type": 1,
+ "streamid": "jVW_684HhvqPSR4BQ4yGOIXnNooFP8zdrFIbCrxYimWR9SuGI8L3KxkvfjlI7hbR",
+ "vid": "2914c67c0008c979",
+ "mood": "Inspirational",
+ "artist": "Endless Love",
+ "display_genre": "Ambient",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAyOTE0YzY3YzAwMDhjOTc5EAAYAg%3D%3D&sigh=Hj4hNWeutuZ8F8ElzHszSA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2914c67c0008c979",
+ "category": "",
+ "title": "Old Vienna",
+ "genre": "Ambient",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Piano",
+  "Electric Guitar"
+ ]
+}

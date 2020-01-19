@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "title": "Cheeky",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Matt Harris",
+ "vid": "14cfac2594362e67",
+ "mood": "Dark",
+ "genre": "Ambient",
+ "reference_vid": "14cfac2594362e67",
+ "track_url": "",
+ "streamid": "Td5dUxnS9P5BYZCnF-8vHiK3C5cK5BYkLUZB7Hf1OwsXQ8NZaAy26l-qgYt9xkEa",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14cfac2594362e67",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChAxNGNmYWMyNTk0MzYyZTY3EAAYAg%3D%3D&sigh=mQRO906pzRpLdjOgwi8U7A",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Guitar",
+  "Synth"
+ ],
+ "display_mood": "Dark",
+ "fp_ref_id": "14cfac2594362e67",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 126.866,
+ "display_genre": "Ambient"
+}

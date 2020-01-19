@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "album": "None",
+ "vid": "b6cff3bb76d5cee3",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChBiNmNmZjNiYjc2ZDVjZWUzEAAYAg%3D%3D&sigh=F9M8re3UIWup7JeyZb7qow",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "track_url": "",
+ "streamid": "3epd7jMYEWGQhLwXRRImU5ReORWJSnQulrm7GYrlSHB_MbttJMXTEj5mRgVo3LHW",
+ "len": 213,
+ "genre": "Rock",
+ "artist": "Jeremy Blake",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Flex",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6cff3bb76d5cee3",
+ "reference_vid": "b6cff3bb76d5cee3",
+ "popularity_percentile": 99,
+ "fp_ref_id": "b6cff3bb76d5cee3",
+ "display_mood": "Dramatic"
+}

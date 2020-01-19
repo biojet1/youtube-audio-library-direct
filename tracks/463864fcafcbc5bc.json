@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "463864fcafcbc5bc",
+ "display_category": "",
+ "fp_ref_id": "463864fcafcbc5bc",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=463864fcafcbc5bc",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 28,
+ "mood": "Dark",
+ "instruments": [
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPicExIWChA0NjM4NjRmY2FmY2JjNWJjEAAYAg%3D%3D&sigh=HmJ7sLUVWKBXWFUCG4zC0w",
+ "streamid": "tMJIN-7ESgtj_5kPN-3wMEpHn8BWQUXjKzYSPj_RwM6L9PpPYXGyeXFCNWffMxTM",
+ "genre": "Classical",
+ "vid": "463864fcafcbc5bc",
+ "artist": "Beethoven",
+ "display_genre": "Classical",
+ "title": "Moonlight Sonata (by Beethoven)",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 315.25,
+ "display_mood": "Dark",
+ "downloadable": true
+}

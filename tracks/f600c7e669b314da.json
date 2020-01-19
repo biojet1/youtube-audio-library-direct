@@ -1,0 +1,31 @@
+{
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ",
+ "fp_ref_id": "f600c7e669b314da",
+ "artist_channel_url": "/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ",
+ "reference_vid": "f600c7e669b314da",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 149,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChBmNjAwYzdlNjY5YjMxNGRhEAAYAg%3D%3D&sigh=TMbw4FPbdHo3Qliab4AW3g",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f600c7e669b314da",
+ "instruments": [
+  "piano",
+  "bells",
+  "synth"
+ ],
+ "title": "Run Until Your Wings Grow",
+ "genre": "Cinematic",
+ "streamid": "_NQeoTy-kqggLLPrtkYUjbr_BUX3bryAISHIRn5eaU5ow-KUDLY6oDiPgokhzzsO",
+ "vid": "f600c7e669b314da",
+ "display_genre": "Cinematic",
+ "mood": "Inspirational",
+ "license_type": 1,
+ "artist": "Late Night Feeler"
+}

@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "album": "None",
+ "artist": "ALBIS",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "len": 121.083,
+ "reference_vid": "df491db58297fc1f",
+ "fp_ref_id": "df491db58297fc1f",
+ "display_genre": "Reggae",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "df491db58297fc1f",
+ "category": "",
+ "title": "Spark",
+ "genre": "Reggae",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=df491db58297fc1f",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChBkZjQ5MWRiNTgyOTdmYzFmEAAYAg%3D%3D&sigh=fJKVuyB6SNb5mkaCv5v3fg",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "fiXFdZk9Eg_tS7MhkKpz2ATc_eVWhaQ5OH32fdRbrZ_mN1RecAOZ9gF6sYydHNmS"
+}

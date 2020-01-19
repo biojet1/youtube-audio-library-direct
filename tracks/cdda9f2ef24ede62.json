@@ -1,0 +1,32 @@
+{
+ "streamid": "Lr8dKa1SnU1MtlwvYtiEAXkAaW4OMsv5JLxMV6M3V23I0hCSumY6noQ6Intz3ccv",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 172.383,
+ "track_url": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cdda9f2ef24ede62",
+ "display_category": "",
+ "reference_vid": "cdda9f2ef24ede62",
+ "title": "Italian Afternoon",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChBjZGRhOWYyZWYyNGVkZTYyEAAYAg%3D%3D&sigh=QiokOUHotjj_K41UdlxkPw",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Piano"
+ ],
+ "category": "",
+ "display_mood": "Happy",
+ "favorite": false,
+ "fp_ref_id": "cdda9f2ef24ede62",
+ "artist": "Twin Musicom",
+ "vid": "cdda9f2ef24ede62",
+ "artist_url": "http://www.twinmusicom.org/",
+ "genre": "Pop",
+ "license_type": 6,
+ "display_genre": "Pop"
+}

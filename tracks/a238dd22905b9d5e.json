@@ -1,0 +1,32 @@
+{
+ "len": 130,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBhMjM4ZGQyMjkwNWI5ZDVlEAAYAg%3D%3D&sigh=03NEEiMWzzFxlLZHnd5U1w",
+ "reference_vid": "a238dd22905b9d5e",
+ "category": "",
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "instruments": [
+  "Bass",
+  "Organ",
+  "Drums",
+  "Synth"
+ ],
+ "title": "Subterranean Monster",
+ "genre": "Cinematic",
+ "mood": "Angry",
+ "artist": "Sir Cubworth",
+ "streamid": "gK0Lvfa1DNif6Efu0g9fFrkBAJb7D0xTHOVp4-m5PNEZdf5jk-xhzRbsxYIuV8yo",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a238dd22905b9d5e",
+ "fp_ref_id": "a238dd22905b9d5e",
+ "album": "None",
+ "vid": "a238dd22905b9d5e",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "6c49f2b8b47e6c50",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6c49f2b8b47e6c50",
+ "display_mood": "Calm",
+ "fp_ref_id": "6c49f2b8b47e6c50",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Piano",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "title": "Surf",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChA2YzQ5ZjJiOGI0N2U2YzUwEAAYAg%3D%3D&sigh=Uc0UX-kKsB3IHt1-0nL47w",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Text Me Records / Leviathe",
+ "genre": "Hip Hop & Rap",
+ "len": 175,
+ "streamid": "garNYF7qGer6qq1wnzuwB89uieoauXNuOLmnCjUBpZDw9mJtemBhFcL1o_f0xogU",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "6c49f2b8b47e6c50",
+ "album": "None",
+ "mood": "Calm"
+}

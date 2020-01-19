@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Dark",
+ "reference_vid": "9205e3e7478d1423",
+ "streamid": "mZg7-3ryF1g2J5DXnK1kKJfvOy_Zxx95wHjzHvhnx8e-fF4IJSyWycMvHiYCRtM5",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChA5MjA1ZTNlNzQ3OGQxNDIzEAAYAg%3D%3D&sigh=VeT7WIK2_K_XyNj1-C1Pzg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9205e3e7478d1423",
+ "len": 125.25,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth",
+  "piano"
+ ],
+ "display_category": "",
+ "fp_ref_id": "9205e3e7478d1423",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Clobber",
+ "mood": "Dark",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "vid": "9205e3e7478d1423"
+}

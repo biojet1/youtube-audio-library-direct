@@ -1,0 +1,29 @@
+{
+ "reference_vid": "80bd461bb2beac13",
+ "popularity_percentile": 78,
+ "display_genre": "Pop",
+ "license_type": 6,
+ "fp_ref_id": "80bd461bb2beac13",
+ "instruments": [
+  "Piano"
+ ],
+ "title": "Cryptic Sorrow - Atlantean Twilight",
+ "downloadable": true,
+ "mood": "Sad",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 480.05,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "streamid": "amAVVuu35h7Dn0vqxbZ6ek_u93jNM6_SLr-gZzlIqtDB0tifltJCmzx_q45HzISe",
+ "vid": "80bd461bb2beac13",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCICmHRIWChA4MGJkNDYxYmIyYmVhYzEzEAAYAg%3D%3D&sigh=W15w24MSm7Nd9GcnPczu8Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=80bd461bb2beac13",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100276",
+ "album": "None",
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Pop"
+}

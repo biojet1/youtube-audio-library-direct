@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCjAv3DfOK7rOsT79fQf2mrA",
+ "reference_vid": "9e6a4be46e1e21ad",
+ "streamid": "iA3cYebhhVf-0Y4_l1GKa_u5YTBe0mtNj_l4JeFuPX_ZCU9eYakgxLy_xs0QesaK",
+ "artist_url": "https://www.youtube.com/channel/UCjAv3DfOK7rOsT79fQf2mrA",
+ "favorite": false,
+ "fp_ref_id": "9e6a4be46e1e21ad",
+ "len": 114,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "artist": "RAGE",
+ "mood": "Funky",
+ "vid": "9e6a4be46e1e21ad",
+ "display_mood": "Funky",
+ "title": "Sour Apples",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChA5ZTZhNGJlNDZlMWUyMWFkEAAYAg%3D%3D&sigh=NXey8yKU3rw-hZ5BsiuFZg",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "piano",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "genre": "Hip Hop & Rap",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9e6a4be46e1e21ad",
+ "category": ""
+}

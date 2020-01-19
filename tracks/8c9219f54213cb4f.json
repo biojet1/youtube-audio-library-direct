@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Inspirational",
+ "genre": "Rock",
+ "streamid": "uEwGlR4uQwQtlNglU8F4Bj9Y8l3yC6zAnFNzieiVMVE8cFM6ShQqYZ8dzlAemsp0",
+ "fp_ref_id": "8c9219f54213cb4f",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChA4YzkyMTlmNTQyMTNjYjRmEAAYAg%3D%3D&sigh=IxksaQeiJ_GYMZaORCA0Og",
+ "mood": "Inspirational",
+ "vid": "8c9219f54213cb4f",
+ "display_genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8c9219f54213cb4f",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "album": "None",
+ "reference_vid": "8c9219f54213cb4f",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 185.183,
+ "category": "",
+ "title": "Triangles"
+}

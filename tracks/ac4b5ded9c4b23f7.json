@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKicDhIWChBhYzRiNWRlZDljNGIyM2Y3EAAYAg%3D%3D&sigh=Z4t1FOdoPHT-pCEWILiQFA",
+ "popularity_percentile": 77,
+ "display_category": "",
+ "reference_vid": "ac4b5ded9c4b23f7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac4b5ded9c4b23f7",
+ "genre": "Pop",
+ "artist_url": "http://audionautix.com/",
+ "len": 233.783,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "aRCf45hQVaZmWw8LUkoHJQICIhyqcIljk_yenCfiwziiZLBZdcgKjwwEOsaORmxh",
+ "display_mood": "Bright",
+ "display_genre": "Pop",
+ "mood": "Bright",
+ "title": "Medium Rock",
+ "license_type": 6,
+ "track_url": "",
+ "vid": "ac4b5ded9c4b23f7",
+ "artist": "Audionautix",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "ac4b5ded9c4b23f7",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Gutiar",
+  "Electric Gutair",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "album": "None"
+}

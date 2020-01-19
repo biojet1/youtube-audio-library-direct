@@ -1,0 +1,29 @@
+{
+ "streamid": "5J81nzElHglgPXbqFBVHQMWVEgwgmiZEG6_H261RL7UUXyatjlrQqeseliIM-mTW",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChA5MzlkOGI2YjUwNDE2YjIyEAAYAg%3D%3D&sigh=IqCkAjz8d_PvUTK4DEXLLg",
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "reference_vid": "939d8b6b50416b22",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=939d8b6b50416b22",
+ "downloadable": true,
+ "len": 61.416,
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "fp_ref_id": "939d8b6b50416b22",
+ "album": "None",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "artist": "Audionautix",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Tall Ships",
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "939d8b6b50416b22",
+ "display_genre": "Classical"
+}

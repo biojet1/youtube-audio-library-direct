@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1cf2d5639bb6d901",
+ "fp_ref_id": "1cf2d5639bb6d901",
+ "artist_url": "",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1cf2d5639bb6d901",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "len": 4.683,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDFjZjJkNTYzOWJiNmQ5MDEQABgC&sigh=-yXbYw_Sasw3AE0NYwL7Dw",
+ "album": "None",
+ "title": "Operator Error (Sting)",
+ "popularity_percentile": 12,
+ "streamid": "StYn6EWMXqtDvYfeUBjVZcPh3203uwqbnw92TOaGLkWT0zJfgnGcYJI8eHdGnqGT",
+ "mood": "Dramatic",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "favorite": false,
+ "vid": "1cf2d5639bb6d901",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Gunnar Olsen"
+}

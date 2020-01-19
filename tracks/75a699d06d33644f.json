@@ -1,0 +1,32 @@
+{
+ "display_mood": "Angry",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "trumpet"
+ ],
+ "album": "None",
+ "streamid": "BVJXlAECTXcAI0d61R-kvXopOTkpJ0zk8HIBlz16PKSJTSJsLebXxFNgt3QmZ3NZ",
+ "title": "Dig Deep",
+ "display_genre": "Hip Hop & Rap",
+ "vid": "75a699d06d33644f",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "75a699d06d33644f",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Angry",
+ "license_type": 0,
+ "fp_ref_id": "75a699d06d33644f",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "RW Smith",
+ "len": 104.783,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChA3NWE2OTlkMDZkMzM2NDRmEAAYAg%3D%3D&sigh=dddyAy2xJs6rZdahNFQDmA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=75a699d06d33644f"
+}

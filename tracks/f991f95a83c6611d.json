@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 98,
+ "reference_vid": "f991f95a83c6611d",
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 84.15,
+ "streamid": "lHwCNqy8M4e1uFx1wxyLCvG0shzTVJGdWSnCNTv9RokJ_uwmz3uRLMgsGHEPwDOb",
+ "license_type": 0,
+ "vid": "f991f95a83c6611d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCQBRIWChBmOTkxZjk1YTgzYzY2MTFkEAAYAg%3D%3D&sigh=d33M2qs0aOiixxCzjq36xA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f991f95a83c6611d",
+ "title": "There Ain't No Other Way",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "display_category": "",
+ "fp_ref_id": "f991f95a83c6611d",
+ "artist_url": "",
+ "instruments": [
+  "Organ",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "artist": "Jingle Punks",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "R&B & Soul",
+ "category": ""
+}

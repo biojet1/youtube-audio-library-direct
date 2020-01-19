@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "title": "Anderson Lane",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Matt Harris",
+ "vid": "49b4c41df082bbec",
+ "mood": "Happy",
+ "genre": "Cinematic",
+ "reference_vid": "49b4c41df082bbec",
+ "track_url": "",
+ "streamid": "D2qruZztyylPBDkrNFy1Lkw1KjsjT0M4txJUuVNuoD_Ydvl_Boiu8mkDyTq8L1Wl",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=49b4c41df082bbec",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA0OWI0YzQxZGYwODJiYmVjEAAYAg%3D%3D&sigh=LDhLU2KkVyqyzX8jzhvKkA",
+ "instruments": [
+  "Bass",
+  "Strings",
+  "Piano"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "49b4c41df082bbec",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 103.033,
+ "display_genre": "Cinematic"
+}

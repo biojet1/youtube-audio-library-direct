@@ -1,0 +1,29 @@
+{
+ "artist": "Chris Zabriskie",
+ "display_category": "",
+ "genre": "Classical",
+ "vid": "ed2e2f580cca948a",
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "ed2e2f580cca948a",
+ "artist_url": "http://chriszabriskie.com/",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "album": "None",
+ "category": "",
+ "license_type": 6,
+ "display_genre": "Classical",
+ "track_url": "http://chriszabriskie.com/uvp/",
+ "artist_channel_url": null,
+ "fp_ref_id": "ed2e2f580cca948a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ed2e2f580cca948a",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiGEBIWChBlZDJlMmY1ODBjY2E5NDhhEAAYAg%3D%3D&sigh=vLQu3qEiYV8eTQ0LTrvm4A",
+ "streamid": "XW_vYppT1NOcU9yxfeZrhKqINNiG3JewpxsPBh7CBzJYDskdygDVkujraRCYvB7n",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 263.316,
+ "title": "That Kid in Fourth Grade Who Really Liked the Denver Broncos",
+ "favorite": false
+}

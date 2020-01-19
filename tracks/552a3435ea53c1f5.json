@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 34,
+ "genre": "R&B & Soul",
+ "streamid": "wgn5ooSo0wgFMEji8-sz7eDXuCVaJWYg8vH2ZJWnyvRIIhkvcfY-gEjbP6D_G7gH",
+ "reference_vid": "552a3435ea53c1f5",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=552a3435ea53c1f5",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "John Deley",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChA1NTJhMzQzNWVhNTNjMWY1EAAYAg%3D%3D&sigh=xtANHTKnfG7Kumu_WJhsag",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "display_category": "",
+ "title": "Saturday Groove",
+ "album": "None",
+ "vid": "552a3435ea53c1f5",
+ "downloadable": true,
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "len": 193.283,
+ "fp_ref_id": "552a3435ea53c1f5",
+ "display_genre": "R&B & Soul"
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "vid": "5db674c2088daa09",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 0,
+ "display_category": "",
+ "fp_ref_id": "5db674c2088daa09",
+ "track_url": "",
+ "display_genre": "Reggae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChA1ZGI2NzRjMjA4OGRhYTA5EAAYAg%3D%3D&sigh=SUWvo3bYcH2K5jyfP6FzKQ",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "title": "Bomber",
+ "downloadable": true,
+ "streamid": "cmKJHkTKuhXcEvuJfG3ehK-4A1oB_v1djHqBklnNoWlUdX4DQqoIBO75oFKPYBFY",
+ "genre": "Reggae",
+ "len": 105.616,
+ "artist": "Riot",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5db674c2088daa09",
+ "popularity_percentile": 37,
+ "reference_vid": "5db674c2088daa09",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Dark"
+}

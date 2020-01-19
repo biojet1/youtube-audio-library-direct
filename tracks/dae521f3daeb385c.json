@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "artist": "Quincas Moreira",
+ "category": "",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "title": "Robot Boogie",
+ "album": "None",
+ "fp_ref_id": "dae521f3daeb385c",
+ "display_genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChBkYWU1MjFmM2RhZWIzODVjEAAYAg%3D%3D&sigh=yu_yYQvD4n7CBP4qaPI5bA",
+ "genre": "Children's",
+ "vid": "dae521f3daeb385c",
+ "streamid": "xmy0dDASStT9lOImAZl4ceQGHj5iz4qEUDOEu3EMjBwLix1ynj5UWCIDe7jnUGrN",
+ "display_category": "",
+ "display_mood": "Happy",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dae521f3daeb385c",
+ "reference_vid": "dae521f3daeb385c",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "favorite": false,
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "len": 169.166
+}

@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "The 126ers",
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "downloadable": true,
+ "fp_ref_id": "f8491421cdce55f3",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChBmODQ5MTQyMWNkY2U1NWYzEAAYAg%3D%3D&sigh=Ra1I3AYd6RFMvL7IomNx_Q",
+ "favorite": false,
+ "genre": "Pop",
+ "category": "",
+ "vid": "f8491421cdce55f3",
+ "streamid": "jHyDJQxstNju1o94EqTmnOXAcNQGZr5sAZVtTWU4-Bva-OCHjKn2kT0eHklSv1Y2",
+ "mood": "Happy",
+ "reference_vid": "f8491421cdce55f3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f8491421cdce55f3",
+ "title": "Silver Skies",
+ "display_mood": "Happy",
+ "artist_url": "",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "display_category": "",
+ "instruments": [
+  "Keyboards",
+  "Drums",
+  "Bass",
+  "Guitar"
+ ],
+ "len": 166,
+ "album": "None",
+ "track_url": ""
+}

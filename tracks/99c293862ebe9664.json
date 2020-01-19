@@ -1,0 +1,29 @@
+{
+ "display_genre": "Ambient",
+ "streamid": "3ETgjJ2HfA8B_aYbXnXrQZVaCCX7v-ApoQyQpkisTwC1qo_RDt-XZUJgLU_Bj7zP",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "99c293862ebe9664",
+ "instruments": [
+  "Strings"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "99c293862ebe9664",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChA5OWMyOTM4NjJlYmU5NjY0EAAYAg%3D%3D&sigh=8PEKn9XxMUD-xOmyL8afog",
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=99c293862ebe9664",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "mood": "Dramatic",
+ "title": "Minima",
+ "len": 213.816,
+ "vid": "99c293862ebe9664",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200053"
+}

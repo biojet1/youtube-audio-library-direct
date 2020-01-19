@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b4ed3aa538d09f0",
+ "fp_ref_id": "1b4ed3aa538d09f0",
+ "artist_url": "",
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1b4ed3aa538d09f0",
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "len": 112.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAxYjRlZDNhYTUzOGQwOWYwEAAYAg%3D%3D&sigh=iG5PxyW7215_8wVrjguKDw",
+ "album": "None",
+ "title": "Summer Smile",
+ "popularity_percentile": 11,
+ "streamid": "IgybtjskY0J2vTzOhLETm1v4RN1gLaeempJHb96VHRhRunsC0ekBujR5m8IRBMdk",
+ "mood": "Bright",
+ "genre": "Pop",
+ "category": "",
+ "favorite": false,
+ "vid": "1b4ed3aa538d09f0",
+ "track_url": "",
+ "display_genre": "Pop",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Silent Partner"
+}

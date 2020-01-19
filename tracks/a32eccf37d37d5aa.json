@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 127,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "fp_ref_id": "a32eccf37d37d5aa",
+ "reference_vid": "a32eccf37d37d5aa",
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "license_type": 1,
+ "streamid": "CnrUpYtsWU_R02lGjLNZ6JsVUQqRV8TggT9Wb89ANhToNKh1l-5Tplu_wwSXuVSc",
+ "vid": "a32eccf37d37d5aa",
+ "mood": "Dramatic",
+ "artist": "Wayne Jones",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBhMzJlY2NmMzdkMzdkNWFhEAAYAg%3D%3D&sigh=f0h8HkTdZz1G8IH-7e8VSg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a32eccf37d37d5aa",
+ "category": "",
+ "title": "Under Cover",
+ "genre": "Cinematic",
+ "instruments": [
+  "strings",
+  "piano",
+  "synth"
+ ]
+}

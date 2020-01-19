@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "f175bf582f8e486d",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f175bf582f8e486d",
+ "popularity_percentile": 95,
+ "vid": "f175bf582f8e486d",
+ "streamid": "yfx3epCZBTzUF0YXe8ShbZlOzBCd08kMFVCgqhXuwt3HdN0bbt0LWzCbNrFyaZCP",
+ "artist": "Vibe Tracks",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChBmMTc1YmY1ODJmOGU0ODZkEAAYAg%3D%3D&sigh=BjTOlc2H8rL5F5ZXNwuhOQ",
+ "display_category": "",
+ "title": "Beat Your Competition",
+ "album": "None",
+ "license_type": 0,
+ "mood": "Funky",
+ "display_genre": "Dance & Electronic",
+ "reference_vid": "f175bf582f8e486d",
+ "artist_url": "",
+ "track_url": "",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "len": 173.616,
+ "category": ""
+}

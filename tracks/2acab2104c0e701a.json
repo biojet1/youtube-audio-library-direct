@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "reference_vid": "2acab2104c0e701a",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "TrackTribe",
+ "category": "",
+ "artist_channel_url": "/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "artist_url": "https://www.youtube.com/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "genre": "Country & Folk",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "organ"
+ ],
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "fp_ref_id": "2acab2104c0e701a",
+ "mood": "Funky",
+ "popularity_percentile": 0,
+ "len": 252,
+ "license_type": 1,
+ "streamid": "ngtcVQDQQBrXwHOMeBCzj93qK9ESyQfAbX5bt6oHYgmQhD6kyAOUmqn1TxrRAsrn",
+ "favorite": false,
+ "album": "None",
+ "display_category": "",
+ "title": "Country Thump",
+ "vid": "2acab2104c0e701a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCwDxIWChAyYWNhYjIxMDRjMGU3MDFhEAAYAg%3D%3D&sigh=lQDDPo68rMEmoSkgWdBnpg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2acab2104c0e701a"
+}

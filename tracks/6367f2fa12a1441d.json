@@ -1,0 +1,32 @@
+{
+ "display_genre": "Dance & Electronic",
+ "streamid": "2PUVCBFeSrhfG58ofyvphAHYkKyk5OnU28-mwf1mJCouNFjmKrzecMpFQ1oR-fEJ",
+ "display_category": "",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "reference_vid": "6367f2fa12a1441d",
+ "instruments": [
+  "synth",
+  "guitars",
+  "drums",
+  "bass"
+ ],
+ "category": "",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "fp_ref_id": "6367f2fa12a1441d",
+ "genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChA2MzY3ZjJmYTEyYTE0NDFkEAAYAg%3D%3D&sigh=MQZc6AriLFousFAwDxb5WQ",
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6367f2fa12a1441d",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Rondo Brothers",
+ "mood": "Happy",
+ "title": "Demoiselle",
+ "len": 181,
+ "vid": "6367f2fa12a1441d",
+ "track_url": ""
+}

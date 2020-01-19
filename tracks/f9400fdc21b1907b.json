@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChBmOTQwMGZkYzIxYjE5MDdiEAAYAg%3D%3D&sigh=rKt0isVaLmeAytpdbKmm5A",
+ "title": "Thump and Jump",
+ "display_mood": "Bright",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "vid": "f9400fdc21b1907b",
+ "popularity_percentile": 98,
+ "reference_vid": "f9400fdc21b1907b",
+ "favorite": false,
+ "mood": "Bright",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "fp_ref_id": "f9400fdc21b1907b",
+ "streamid": "k_F2mQV6Aq9q5cf6Iu8s1Mz0rqOvK31gJkhW5bfoh36tDY-IuuJFD2niKxcO0TLH",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f9400fdc21b1907b",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 98.083
+}

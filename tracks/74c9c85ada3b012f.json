@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA3NGM5Yzg1YWRhM2IwMTJmEAAYAg%3D%3D&sigh=p9Hd5LsYVl6PbXAm6nF_1w",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "74c9c85ada3b012f",
+ "downloadable": true,
+ "reference_vid": "74c9c85ada3b012f",
+ "favorite": false,
+ "fp_ref_id": "74c9c85ada3b012f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=74c9c85ada3b012f",
+ "genre": "Ambient",
+ "streamid": "tEcvJDmVS-jB-IdbLGO79LLQAhmuE_LhyzWM-nM_d-tCC3DJdLzryd_a1mF-J_wY",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 116,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Four Masks",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth"
+ ]
+}

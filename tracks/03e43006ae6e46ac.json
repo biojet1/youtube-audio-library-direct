@@ -1,0 +1,31 @@
+{
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "len": 178,
+ "display_category": "",
+ "reference_vid": "03e43006ae6e46ac",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "license_type": 1,
+ "album": "None",
+ "artist": "William Rosati",
+ "fp_ref_id": "03e43006ae6e46ac",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "streamid": "PlZGuVshztV64pL6z45h_Je4aDriucs1eP-KqzfJuKCfGS9zgIpBdaHpxmjhxpxB",
+ "display_mood": "Dramatic",
+ "vid": "03e43006ae6e46ac",
+ "track_url": "",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "synth"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChAwM2U0MzAwNmFlNmU0NmFjEAAYAg%3D%3D&sigh=8ORpmvCTrZHAT2Wttlc37Q",
+ "category": "",
+ "title": "Rounds",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=03e43006ae6e46ac"
+}

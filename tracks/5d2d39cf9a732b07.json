@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "5d2d39cf9a732b07",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5d2d39cf9a732b07",
+ "popularity_percentile": 95,
+ "vid": "5d2d39cf9a732b07",
+ "streamid": "FMsN5iLjVTeVnXzRsIHgo4rRomgYlgwNKJJCHJArZzemSqxvid2tnGbnqkCe8aRG",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCRDxIWChA1ZDJkMzljZjlhNzMyYjA3EAAYAg%3D%3D&sigh=wT7RVE7a2cn74GW0zGQ8GA",
+ "display_category": "",
+ "title": "Dhaka",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Ambient",
+ "reference_vid": "5d2d39cf9a732b07",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400003",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "len": 248.25,
+ "category": ""
+}

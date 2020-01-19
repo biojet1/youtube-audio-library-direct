@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKhGEhYKEDNkYTIwN2ZlMzMwNWJhZmQQABgC&sigh=1wGdB5EGUqn6sLi6LpvHNQ",
+ "instruments": [
+  "Drums",
+  "Organ",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "display_mood": "Funky",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "vid": "3da207fe3305bafd",
+ "reference_vid": "3da207fe3305bafd",
+ "genre": "R&B & Soul",
+ "popularity_percentile": 24,
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "track_url": "",
+ "title": "Speakeasy in Crescent City (Sting)",
+ "downloadable": true,
+ "category": "",
+ "streamid": "QVW-vtf1D9jKB5yRZv8wYXCtgU6iWXiHN3NM49E9oCDjzTwa2Fz5tqta4FTYpTEl",
+ "fp_ref_id": "3da207fe3305bafd",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3da207fe3305bafd",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Funky",
+ "len": 9.883
+}

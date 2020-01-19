@@ -1,0 +1,31 @@
+{
+ "mood": "Calm",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA3NmI1MThmOGU0YmE1N2Q2EAAYAg%3D%3D&sigh=JxS64mKJiYo56sjAuif3wA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "category": "",
+ "instruments": [
+  "guitar",
+  "piano",
+  "bass"
+ ],
+ "display_mood": "Calm",
+ "fp_ref_id": "76b518f8e4ba57d6",
+ "is_new_track": false,
+ "len": 151,
+ "genre": "Pop",
+ "reference_vid": "76b518f8e4ba57d6",
+ "downloadable": true,
+ "streamid": "T2H4nuxw6bnKWRt7j6yWmVpeR2uLNK57aPreYo-b7HizLRaU0U3U5533-50QODpM",
+ "track_url": "",
+ "vid": "76b518f8e4ba57d6",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=76b518f8e4ba57d6",
+ "artist_url": "",
+ "license_type": 1,
+ "title": "Summer Love",
+ "artist": "The 126ers"
+}

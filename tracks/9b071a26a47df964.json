@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9b071a26a47df964",
+ "category": "",
+ "license_type": 0,
+ "title": "Nemesis",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "instruments": [
+  "Bass",
+  "Strings",
+  "Piano"
+ ],
+ "display_mood": "Dramatic",
+ "album": "None",
+ "streamid": "fyRkS_yc76SpYhKXSAAzUxGXkPVdDoRJK4LM7c_GbH25J20-QGIbwVIXoiXVsxg4",
+ "len": 133.05,
+ "artist": "ALBIS",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b071a26a47df964",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChA5YjA3MWEyNmE0N2RmOTY0EAAYAg%3D%3D&sigh=ZCN4bdiNRgEcrJ3jo3s43w",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9b071a26a47df964",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "9b071a26a47df964",
+ "track_url": ""
+}

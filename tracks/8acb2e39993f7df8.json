@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Funky",
+ "genre": "R&B & Soul",
+ "streamid": "EhIri_ONxx1SbBZTBfuNjDydM_3DaZTxm7v8k7rzZz4pOZodWdo4jVDljRmcl7bp",
+ "fp_ref_id": "8acb2e39993f7df8",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDhhY2IyZTM5OTkzZjdkZjgQABgC&sigh=_bWYmXGYwmYbpZv580nydg",
+ "mood": "Funky",
+ "vid": "8acb2e39993f7df8",
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8acb2e39993f7df8",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "album": "None",
+ "reference_vid": "8acb2e39993f7df8",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 6.083,
+ "category": "",
+ "title": "Must Be Something (Sting)"
+}

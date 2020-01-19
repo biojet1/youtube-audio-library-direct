@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "fp_ref_id": "15ab12e472de6e76",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Ice Flow",
+ "vid": "15ab12e472de6e76",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChAxNWFiMTJlNDcyZGU2ZTc2EAAYAg%3D%3D&sigh=N0-ncHJ47oGSmzBRAXrVoA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=15ab12e472de6e76",
+ "display_category": "",
+ "len": 142.35,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200088",
+ "downloadable": true,
+ "streamid": "7bCynNdiALl4AqtGJOY2FHWF2Abf4daswmcZ2ozgwkQac1s1iOLzAnWx4pg1AB8x",
+ "reference_vid": "15ab12e472de6e76",
+ "instruments": [
+  "Synth"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Dance & Electronic"
+}

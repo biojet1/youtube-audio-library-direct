@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Strings",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d0a114b868dfa14c",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "Vibe Tracks",
+ "len": 187.516,
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "z7TYPCK8AqqgJbfz9Rlf5FQidzn5XLQReaRq49q4nkAboEYkU-lhYXAkFoHH-g_L",
+ "category": "",
+ "title": "TFB9",
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "reference_vid": "d0a114b868dfa14c",
+ "genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBkMGExMTRiODY4ZGZhMTRjEAAYAg%3D%3D&sigh=JvJDG5sGRAjsUaftu30C3A",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d0a114b868dfa14c",
+ "license_type": 1,
+ "popularity_percentile": 81,
+ "vid": "d0a114b868dfa14c"
+}

@@ -1,0 +1,32 @@
+{
+ "artist": "John Deley and the 41 Players",
+ "display_category": "",
+ "genre": "Reggae",
+ "vid": "ec868c4aedb4edc5",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "reference_vid": "ec868c4aedb4edc5",
+ "artist_url": "",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "album": "None",
+ "category": "",
+ "license_type": 0,
+ "display_genre": "Reggae",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "ec868c4aedb4edc5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ec868c4aedb4edc5",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChBlYzg2OGM0YWVkYjRlZGM1EAAYAg%3D%3D&sigh=PpTuLZbrpzu6SIAQtf5xgg",
+ "streamid": "k2raJqBTTwd4loY-tdkfvI-dyFZEtq5JnvjNYIEiF6XHuNt9j_YYUsxQgSEKXg70",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 160.083,
+ "title": "Bark",
+ "favorite": false
+}

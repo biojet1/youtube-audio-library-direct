@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "48114542e587df9e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48114542e587df9e",
+ "display_mood": "Calm",
+ "fp_ref_id": "48114542e587df9e",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Strings",
+  "Horns"
+ ],
+ "title": "Vanity Reprise",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjwDBIWChA0ODExNDU0MmU1ODdkZjllEAAYAg%3D%3D&sigh=GYwHBKb_JsQ4eStbDXH8Rw",
+ "display_genre": "Cinematic",
+ "artist": "Text Me Records / Leviathe",
+ "genre": "Cinematic",
+ "len": 211,
+ "streamid": "Dt8tthwc40U3EdwLlh2zamghplOcBu8W89boMFC87HB_EBAKf570auKH2hHVU6DY",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "48114542e587df9e",
+ "album": "None",
+ "mood": "Calm"
+}

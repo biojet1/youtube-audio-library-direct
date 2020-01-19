@@ -1,0 +1,29 @@
+{
+ "title": "Facile",
+ "favorite": false,
+ "len": 212.05,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChBkMTJjNGI0MmZlYWU2ZTAzEAAYAg%3D%3D&sigh=dkAeBf4_gw-2mOSu3Ht_pg",
+ "fp_ref_id": "d12c4b42feae6e03",
+ "artist_channel_url": null,
+ "display_genre": "Classical",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100858",
+ "genre": "Classical",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "d12c4b42feae6e03",
+ "display_category": "",
+ "vid": "d12c4b42feae6e03",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d12c4b42feae6e03",
+ "streamid": "wAOc5W3TXmw-ndvq9kGrQo_BJ-xjsS1FrF_Z1m0CI6G86t85EATFBX7sk_vMFCEF",
+ "artist": "Kevin MacLeod"
+}

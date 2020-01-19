@@ -1,0 +1,30 @@
+{
+ "mood": "Sad",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChBhNGEyYjZkZTA4NTM4MDNjEAAYAg%3D%3D&sigh=uetP5kdZxgR_KJxrwNB2uw",
+ "display_mood": "Sad",
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a4a2b6de0853803c",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Chasms",
+ "title": "Hallowed Days",
+ "reference_vid": "a4a2b6de0853803c",
+ "instruments": [
+  "synth",
+  "electric guitar"
+ ],
+ "display_genre": "Ambient",
+ "fp_ref_id": "a4a2b6de0853803c",
+ "vid": "a4a2b6de0853803c",
+ "category": "",
+ "streamid": "mZLqn6ZTX5l9D6tOmeZQG8t6WU4lQ3ASKO9euBTEc4juNz7IjXmNdJDmnf1oJrue",
+ "popularity_percentile": 99,
+ "len": 200,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

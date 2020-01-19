@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA0MDA0MGU1OTNiYmNkY2VjEAAYAg%3D%3D&sigh=lcZsuEDgREkEkEi7sVNyOQ",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Trumpet"
+ ],
+ "display_mood": "Dramatic",
+ "artist": "Max Surla/Media Right Productions",
+ "artist_channel_url": null,
+ "vid": "40040e593bbcdcec",
+ "reference_vid": "40040e593bbcdcec",
+ "genre": "Classical",
+ "popularity_percentile": 25,
+ "display_genre": "Classical",
+ "favorite": false,
+ "track_url": "",
+ "title": "Intrigue",
+ "downloadable": true,
+ "category": "",
+ "streamid": "5kcAajEdj1wkOSK67gTHxr0z_FLeNxHODWK06KG5doCXEp9zNY2WyRWd8Ch6PuZC",
+ "fp_ref_id": "40040e593bbcdcec",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40040e593bbcdcec",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Dramatic",
+ "len": 110.383
+}

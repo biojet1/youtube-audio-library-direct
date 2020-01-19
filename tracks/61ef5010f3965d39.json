@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "61ef5010f3965d39",
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA2MWVmNTAxMGYzOTY1ZDM5EAAYAg%3D%3D&sigh=MyMSvk3pOCyh5ZkgczEkDg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=61ef5010f3965d39",
+ "artist": "Unicorn Heads",
+ "len": 146,
+ "streamid": "1x8bBWvbiYpuV0YXi4J_8sKLTCIPbkKfuCorPUREFI9mO7BXsyKTtKQShgT2ry4x",
+ "album": "None",
+ "display_mood": "Inspirational",
+ "instruments": [
+  "Synth",
+  "Strings",
+  "Drums"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "title": "Digital Memories",
+ "vid": "61ef5010f3965d39",
+ "reference_vid": "61ef5010f3965d39",
+ "artist_channel_url": null,
+ "favorite": false,
+ "artist_url": ""
+}

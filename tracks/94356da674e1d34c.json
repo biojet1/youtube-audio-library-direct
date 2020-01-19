@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "y5w15mOHMMXTPbJRA4vrYyXL2lIygFrEsGctVoEsb6LtLB0UCKbBKtrq7NNBWSWb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=94356da674e1d34c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMDtGhIWChA5NDM1NmRhNjc0ZTFkMzRjEAAYAg%3D%3D&sigh=2Uk8swITEnpTcslIR9CVNw",
+ "vid": "94356da674e1d34c",
+ "display_category": "",
+ "title": "Long Note One",
+ "album": "None",
+ "mood": "Dark",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "reference_vid": "94356da674e1d34c",
+ "len": 440.05,
+ "genre": "Ambient",
+ "popularity_percentile": 33,
+ "fp_ref_id": "94356da674e1d34c",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100418",
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "instruments": [
+  "Strings",
+  "Synth"
+ ]
+}

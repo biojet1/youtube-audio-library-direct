@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "display_mood": "Happy",
+ "title": "About That Oldie",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d82538e897579ad2",
+ "reference_vid": "d82538e897579ad2",
+ "mood": "Happy",
+ "artist": "Vibe Tracks",
+ "track_url": "",
+ "album": "None",
+ "len": 114.016,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Organ",
+  "Piano",
+  "Strings"
+ ],
+ "display_category": "",
+ "display_genre": "Pop",
+ "streamid": "ejguG031dXNMjuAxiR7dAWymzCR9oteI_Jqz_yZYX0fKL-Y1a-SQvSsfyD0P--aj",
+ "license_type": 0,
+ "popularity_percentile": 84,
+ "fp_ref_id": "d82538e897579ad2",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "d82538e897579ad2",
+ "category": "",
+ "genre": "Pop",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChBkODI1MzhlODk3NTc5YWQyEAAYAg%3D%3D&sigh=W7gP7GpkyaPQhAHybxvN9g"
+}

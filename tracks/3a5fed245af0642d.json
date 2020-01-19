@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "reference_vid": "3a5fed245af0642d",
+ "streamid": "gVmn0lOOxV0zje_3qegKFqhJtNncx_WvBHZVEx21hTNsu5Fo_kpN7gwLBt8ykIT1",
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "favorite": false,
+ "fp_ref_id": "3a5fed245af0642d",
+ "len": 112,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "artist": "I Think I Can Help You",
+ "mood": "Dramatic",
+ "vid": "3a5fed245af0642d",
+ "display_mood": "Dramatic",
+ "title": "Quick Trip Into The Stratosphere",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAzYTVmZWQyNDVhZjA2NDJkEAAYAg%3D%3D&sigh=cGRZ0aZzzNFdgNpz0WDzhA",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "synth",
+  "bass",
+  "strings"
+ ],
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3a5fed245af0642d",
+ "category": ""
+}

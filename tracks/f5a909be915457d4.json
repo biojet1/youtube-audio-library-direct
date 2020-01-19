@@ -1,0 +1,32 @@
+{
+ "display_genre": "Country & Folk",
+ "license_type": 0,
+ "genre": "Country & Folk",
+ "artist_url": "",
+ "vid": "f5a909be915457d4",
+ "artist": "Silent Partner",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f5a909be915457d4",
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "album": "None",
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChBmNWE5MDliZTkxNTQ1N2Q0EAAYAg%3D%3D&sigh=QzYpKgcsy8Iw8KUXJxgMRA",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Inspirational",
+ "title": "Sleepy Jake",
+ "reference_vid": "f5a909be915457d4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f5a909be915457d4",
+ "track_url": "",
+ "len": 97.816,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "nw5BQuo389Q37MqSEfWdLpEzbSo_7QrD8BMc1lCQB8qBXjCjcmp795G55aGWdTto"
+}

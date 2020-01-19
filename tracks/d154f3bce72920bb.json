@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "d154f3bce72920bb",
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "d154f3bce72920bb",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops"
+ ],
+ "display_genre": "Pop",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d154f3bce72920bb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChBkMTU0ZjNiY2U3MjkyMGJiEAAYAg%3D%3D&sigh=swP8ycrDjNuL6XM4PSXrCQ",
+ "display_category": "",
+ "display_mood": "Bright",
+ "vid": "d154f3bce72920bb",
+ "len": 137,
+ "mood": "Bright",
+ "streamid": "PVXCeKmxmNwFcURcGajXsIctW1aArhCFh0Vaua2XWHF79hIs3M73roQvVn07Be3t",
+ "artist": "Patrick Patrikios",
+ "is_new_track": false,
+ "title": "Greedy",
+ "genre": "Pop",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

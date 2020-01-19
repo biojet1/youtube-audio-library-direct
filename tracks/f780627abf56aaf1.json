@@ -1,0 +1,31 @@
+{
+ "len": 135,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBmNzgwNjI3YWJmNTZhYWYxEAAYAg%3D%3D&sigh=iS0q_XNul1rCROO3WTwNUQ",
+ "reference_vid": "f780627abf56aaf1",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "display_genre": "Rock",
+ "track_url": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "title": "Lone Wolf",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Dan Lebowitz",
+ "streamid": "fwO8SHjG7Gy2FHgvHoCCM7YZ0DCaMF_xaZv__nt9Jquq2IeKKnUR287FvT1uA1Vi",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f780627abf56aaf1",
+ "fp_ref_id": "f780627abf56aaf1",
+ "album": "None",
+ "vid": "f780627abf56aaf1",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "favorite": false
+}

@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "8vanaTLQr4YLC7vhLrgNVGdn1wHbBQ0pmAIAEBiqTYMqzFJb5_74Dz2w6uLyUspE",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=826bf8e2cb01a2f9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA4MjZiZjhlMmNiMDFhMmY5EAAYAg%3D%3D&sigh=6u0Nc6RVfTU3J1BQZFnSHg",
+ "vid": "826bf8e2cb01a2f9",
+ "display_category": "",
+ "title": "The Thunderer",
+ "album": "None",
+ "mood": "Bright",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "The U.S. Army Band",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "reference_vid": "826bf8e2cb01a2f9",
+ "len": 168.916,
+ "popularity_percentile": 51,
+ "genre": "Classical",
+ "fp_ref_id": "826bf8e2cb01a2f9",
+ "track_url": "",
+ "display_genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "license_type": 1
+}

@@ -1,0 +1,32 @@
+{
+ "genre": "Cinematic",
+ "display_category": "",
+ "len": 140.216,
+ "track_url": "",
+ "fp_ref_id": "a9b25524030a63ac",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "SW1yKHlPPxfnlyoUbRD9KmoSdFuNP4HtWPLJgUczEkS3FtgPWeh9XiqMac9HOtQX",
+ "title": "Figth Scene",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a9b25524030a63ac",
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "a9b25524030a63ac",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBhOWIyNTUyNDAzMGE2M2FjEAAYAg%3D%3D&sigh=yg3YCBqOtIC_NPVbXSQsng",
+ "vid": "a9b25524030a63ac",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "mood": "Dark",
+ "instruments": [
+  "Synth",
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

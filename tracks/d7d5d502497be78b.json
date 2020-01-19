@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "vid": "d7d5d502497be78b",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d7d5d502497be78b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBkN2Q1ZDUwMjQ5N2JlNzhiEAAYAg%3D%3D&sigh=YlMU3uhpUegVv-biPNR76w",
+ "is_new_track": false,
+ "reference_vid": "d7d5d502497be78b",
+ "display_mood": "Bright",
+ "favorite": false,
+ "category": "",
+ "title": "My Achy Heart",
+ "streamid": "1AZVdV1mXTNyjO11UeMpo4_r_0b962IdX_TFDXh70GR6cyQxLCc6TpVU_8Pt8FpO",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "display_category": "",
+ "display_genre": "Pop",
+ "len": 135,
+ "album": "None",
+ "genre": "Pop",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Audio Hertz",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "fp_ref_id": "d7d5d502497be78b"
+}

@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "artist": "Topher Mohr and Alex Elena",
+ "is_new_track": false,
+ "fp_ref_id": "6f6337d7e6eecaaf",
+ "artist_channel_url": null,
+ "len": 187.416,
+ "downloadable": true,
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChA2ZjYzMzdkN2U2ZWVjYWFmEAAYAg%3D%3D&sigh=tzJH3piuoEYUKCVENbp7qQ",
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "vid": "6f6337d7e6eecaaf",
+ "display_category": "",
+ "reference_vid": "6f6337d7e6eecaaf",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6f6337d7e6eecaaf",
+ "album": "None",
+ "track_url": "",
+ "streamid": "SyPny3fOtvWEqGKs9alWI3nDgVlRwL1G0fpV0CaS9mu8Yp24B-OWWIiOwnPgeU1y",
+ "mood": "Bright",
+ "artist_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Brontosaurus",
+ "popularity_percentile": 43,
+ "category": ""
+}

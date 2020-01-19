@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "78a755bc6501bcf4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=78a755bc6501bcf4",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "78a755bc6501bcf4",
+ "len": 163.516,
+ "display_mood": "Funky",
+ "streamid": "gzX_aHtynrd7-fiQun2eDXQxFR9DkujUzTaEUoS6jJcwA1-XLJh-psN35aw6FL1V",
+ "display_genre": "R&B & Soul",
+ "title": "Otis McDonald",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "R&B & Soul",
+ "vid": "78a755bc6501bcf4",
+ "artist": "Joe Bagale",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Synth",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA3OGE3NTViYzY1MDFiY2Y0EAAYAg%3D%3D&sigh=hpu5I5A9Ek0IwoE5Z78pAw"
+}

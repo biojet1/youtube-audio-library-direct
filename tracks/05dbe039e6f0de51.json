@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChAwNWRiZTAzOWU2ZjBkZTUxEAAYAg%3D%3D&sigh=Vc5BdrimZpsU8q3ek5XHBw",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "05dbe039e6f0de51",
+ "downloadable": true,
+ "reference_vid": "05dbe039e6f0de51",
+ "favorite": false,
+ "fp_ref_id": "05dbe039e6f0de51",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05dbe039e6f0de51",
+ "genre": "Ambient",
+ "streamid": "gsD0zP-sGdxDK5JSF7OFIxYDkAlZY2eHVQvaqU_Qe5q48e6Xr9Asef6KOK2bT-z0",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 168,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Guardian of The Threshold",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth"
+ ]
+}

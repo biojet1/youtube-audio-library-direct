@@ -1,0 +1,33 @@
+{
+ "streamid": "xoBjdgF0nPAUfNjTVUN82quB9Vy3tIuCwQ6zLyehLkwS1FOm8CjPOT2RVTOw2Gl2",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChBlNGFjNmIxN2NkZDdjNTA0EAAYAg%3D%3D&sigh=PmJdOsC7xMtGwLoqugJfkg",
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "reference_vid": "e4ac6b17cdd7c504",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4ac6b17cdd7c504",
+ "downloadable": true,
+ "len": 181.883,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Strings",
+  "Synth"
+ ],
+ "favorite": false,
+ "fp_ref_id": "e4ac6b17cdd7c504",
+ "album": "None",
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Vibe Tracks",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Over Time",
+ "mood": "Inspirational",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "e4ac6b17cdd7c504",
+ "display_genre": "Pop"
+}

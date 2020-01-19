@@ -1,0 +1,30 @@
+{
+ "genre": "Dance & Electronic",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Topher Mohr and Alex Elena",
+ "fp_ref_id": "991d93db472bec11",
+ "display_mood": "Angry",
+ "display_genre": "Dance & Electronic",
+ "vid": "991d93db472bec11",
+ "mood": "Angry",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNj9EhIWChA5OTFkOTNkYjQ3MmJlYzExEAAYAg%3D%3D&sigh=TTDGODWbFZ70Ien9uYkfaQ",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Dub Star",
+ "category": "",
+ "len": 311.383,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=991d93db472bec11",
+ "reference_vid": "991d93db472bec11",
+ "streamid": "qm9x8hdx5yxDJgC9f6Ng-KS-9temFnxFd8_z7LZYY8rEsf3e37uwx90RtFBUQzur"
+}

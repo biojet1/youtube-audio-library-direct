@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBkZmRkNDBiYjI4MjdjNTZiEAAYAg%3D%3D&sigh=MvOcbs4a0LuO0INRNX4eXA",
+ "display_mood": "Dramatic",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dfdd40bb2827c56b",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Quincas Moreira",
+ "title": "Poison Apple",
+ "reference_vid": "dfdd40bb2827c56b",
+ "instruments": [
+  "bass",
+  "strings",
+  "piano"
+ ],
+ "display_genre": "Cinematic",
+ "fp_ref_id": "dfdd40bb2827c56b",
+ "vid": "dfdd40bb2827c56b",
+ "category": "",
+ "streamid": "BLKv09d691SAuSmKHCB90jFfRA3H60ZEo1cEIszqLGAnYYKJJ3lZ8jLyd-S6AYWC",
+ "popularity_percentile": 99,
+ "len": 120.6,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

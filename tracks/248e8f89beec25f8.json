@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=248e8f89beec25f8",
+ "fp_ref_id": "248e8f89beec25f8",
+ "len": 124,
+ "artist": "Text Me Records / Bobby Renz",
+ "mood": "Inspirational",
+ "reference_vid": "248e8f89beec25f8",
+ "vid": "248e8f89beec25f8",
+ "title": "Proud",
+ "downloadable": true,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Synth",
+  "Organ",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "streamid": "UCaYgbOEpCCPbFsRm2SOdpMpAgigDjjl9GZsX79yeSv4xbIDuRtozNTzxiLqEsAR",
+ "display_genre": "R&B & Soul",
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChAyNDhlOGY4OWJlZWMyNWY4EAAYAg%3D%3D&sigh=PI0ZOToD-lfhaIoEt8kWqQ"
+}

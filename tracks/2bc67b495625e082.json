@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 96,
+ "artist_url": "https://www.youtube.com/channel/UCXUbxtXlyp-urIb2hRlXRpQ",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "2bc67b495625e082",
+ "mood": "Dark",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "Miles to Go",
+ "display_mood": "Dark",
+ "instruments": [
+  "strings",
+  "electric guitar",
+  "accordion",
+  "piano",
+  "synth"
+ ],
+ "streamid": "6dv_W7uzbccq6Xaxkjy5ljYi8czai4E9VNU4CRYwpRmp1wUGWiB3xH6UUBKET0Y-",
+ "reference_vid": "2bc67b495625e082",
+ "artist_channel_url": "/channel/UCXUbxtXlyp-urIb2hRlXRpQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2bc67b495625e082",
+ "fp_ref_id": "2bc67b495625e082",
+ "artist": "Joey Pecoraro",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChAyYmM2N2I0OTU2MjVlMDgyEAAYAg%3D%3D&sigh=cUEoiWQNRSMcg2Z4i7YUbQ"
+}

@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "ICpT5liL5nrBL7KWsCj8vIJqrEfB7NSBW6JPZJTvbjQh3Dm2TLOMKbNp8w-6OzQ4",
+ "len": 84.783,
+ "category": "",
+ "license_type": 1,
+ "title": "The Star Spangled Banner - Band And Chorus",
+ "genre": "Classical",
+ "display_category": "",
+ "vid": "8eeb22e3e75a1525",
+ "album": "None",
+ "mood": "Inspirational",
+ "artist": "The U.S. Army Band",
+ "favorite": false,
+ "display_genre": "Classical",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "8eeb22e3e75a1525",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8eeb22e3e75a1525",
+ "instruments": [
+  "Trumpet"
+ ],
+ "reference_vid": "8eeb22e3e75a1525",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCQBRIWChA4ZWViMjJlM2U3NWExNTI1EAAYAg%3D%3D&sigh=sBROq4NHcLVJza3QzzymBQ",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

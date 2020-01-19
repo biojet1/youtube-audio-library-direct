@@ -1,0 +1,31 @@
+{
+ "title": "La, La, La",
+ "artist": "Otis McDonald",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChA5M2RiM2I5MDE5ZTE5ZjYxEAAYAg%3D%3D&sigh=Dr7LeB3MpGD2hVGMGsIIOg",
+ "artist_url": "",
+ "vid": "93db3b9019e19f61",
+ "mood": "Happy",
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 143.75,
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=93db3b9019e19f61",
+ "display_mood": "Happy",
+ "streamid": "sdr9aUG6NTgyY2GdEXFiyk1SORm3FooFJnAqjUew-q9dEwPPaWrhQuoEUW75vlfl",
+ "artist_channel_url": null,
+ "fp_ref_id": "93db3b9019e19f61",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 58,
+ "display_genre": "Hip Hop & Rap",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "93db3b9019e19f61"
+}

@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "len": 216.566,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=36198c1a0d053a5d",
+ "category": "",
+ "streamid": "tpPXYfLMVXfjZTZYTZQuvGiUskLXnNtqhGTzdHWuDFLysLi9xToprficdJfTS1PA",
+ "fp_ref_id": "36198c1a0d053a5d",
+ "mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChAzNjE5OGMxYTBkMDUzYTVkEAAYAg%3D%3D&sigh=FiuIeaLdwK6VFdALm_mxwA",
+ "popularity_percentile": 0,
+ "reference_vid": "36198c1a0d053a5d",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Synth"
+ ],
+ "is_new_track": false,
+ "vid": "36198c1a0d053a5d",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "We Can Hear You Big Eyes",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "The 129ers"
+}

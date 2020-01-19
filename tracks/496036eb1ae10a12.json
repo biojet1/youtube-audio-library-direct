@@ -1,0 +1,30 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "496036eb1ae10a12",
+ "display_category": "",
+ "fp_ref_id": "496036eb1ae10a12",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=496036eb1ae10a12",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Funky",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChA0OTYwMzZlYjFhZTEwYTEyEAAYAg%3D%3D&sigh=LqIn8Q_k3EXmFpABLcrGEw",
+ "streamid": "GZ1yeLyTdy_NP9D0uNyiZpae6jVu5cURkMhSvZ4UvTWOLEsJGMddnLh3voRWfRjq",
+ "genre": "Dance & Electronic",
+ "vid": "496036eb1ae10a12",
+ "artist": "Gunnar Olsen",
+ "display_genre": "Dance & Electronic",
+ "title": "Get Me On The Floor",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 222.633,
+ "display_mood": "Funky",
+ "downloadable": true
+}

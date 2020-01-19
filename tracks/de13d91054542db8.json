@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100382",
+ "artist_channel_url": null,
+ "len": 129.816,
+ "mood": "Happy",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=de13d91054542db8",
+ "title": "Cherry Blossom - Wonders",
+ "streamid": "GEJ9Iw3iV1w3kvjMG5WXv7YqRqvqR9SPnxkoHpcrekfV6CEQCSW0iezpE5KW6BFI",
+ "genre": "Pop",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBkZTEzZDkxMDU0NTQyZGI4EAAYAg%3D%3D&sigh=_3O6G6Z53_gfq__VayF4ug",
+ "license_type": 6,
+ "fp_ref_id": "de13d91054542db8",
+ "display_mood": "Happy",
+ "vid": "de13d91054542db8",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums"
+ ],
+ "display_genre": "Pop",
+ "favorite": false,
+ "reference_vid": "de13d91054542db8"
+}

@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "len": 222.35,
+ "fp_ref_id": "d8bddfbac2dfe843",
+ "streamid": "KOYvcpuol3ptFM6vGb8NCIt86rFEfgLqgi2qMyPX-lNsekMFzIbnIJe8p-IxeM1m",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 64,
+ "vid": "d8bddfbac2dfe843",
+ "display_genre": "Dance & Electronic",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8bddfbac2dfe843",
+ "album": "None",
+ "title": "Cut and Dry - Electronic Hard",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChBkOGJkZGZiYWMyZGZlODQzEAAYAg%3D%3D&sigh=42XqhmN0F-J-p2QDW0i-tQ",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Happy",
+ "is_new_track": false,
+ "reference_vid": "d8bddfbac2dfe843",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100852",
+ "license_type": 6
+}

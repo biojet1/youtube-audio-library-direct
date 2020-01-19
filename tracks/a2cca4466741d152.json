@@ -1,0 +1,33 @@
+{
+ "display_genre": "Dance & Electronic",
+ "album": "None",
+ "reference_vid": "a2cca4466741d152",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a2cca4466741d152",
+ "title": "Trooper",
+ "mood": "Funky",
+ "len": 206.183,
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "fp_ref_id": "a2cca4466741d152",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth",
+  "Strings"
+ ],
+ "streamid": "XnsbAe3Acngjvj6Yp5Ju1s5BR1z1WVb-iteZwVzjXGxDAqq56wi-7lz87PyBfE6J",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a2cca4466741d152",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChBhMmNjYTQ0NjY3NDFkMTUyEAAYAg%3D%3D&sigh=4amVMnw3vFtILNcZMjHFdA"
+}

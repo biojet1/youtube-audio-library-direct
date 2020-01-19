@@ -1,0 +1,31 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100618",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 75.683,
+ "category": "",
+ "title": "Impact Moderato",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e8ed072a638a1e05",
+ "instruments": [
+  "Electronic Guitar",
+  "Synth",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "e8ed072a638a1e05",
+ "fp_ref_id": "e8ed072a638a1e05",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjJBBIWChBlOGVkMDcyYTYzOGExZTA1EAAYAg%3D%3D&sigh=yS_UNb8ykfxC5xipqGE9KQ",
+ "license_type": 6,
+ "mood": "Dark",
+ "vid": "e8ed072a638a1e05",
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "popularity_percentile": 71,
+ "display_mood": "Dark",
+ "streamid": "wTK2Kpb-36AAfntww_5PlO7HXFO5NEy6ImMQN_9nmD4sk0P0rwuDa0qk66dG7sLa"
+}

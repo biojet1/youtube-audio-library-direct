@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Ethan Meixsell",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "fp_ref_id": "db129472bfe67e47",
+ "popularity_percentile": 85,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBkYjEyOTQ3MmJmZTY3ZTQ3EAAYAg%3D%3D&sigh=1E8VCMW8F6o7gmzppTOiQQ",
+ "favorite": false,
+ "genre": "Rock",
+ "category": "",
+ "vid": "db129472bfe67e47",
+ "streamid": "NVrcHk4yKEO8UAruU513WqhlKFJhtWCHukBG07wUOI9LTdGzOfjjL2x46l6-Omdy",
+ "mood": "Angry",
+ "reference_vid": "db129472bfe67e47",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db129472bfe67e47",
+ "title": "Demilitarized Zone",
+ "display_mood": "Angry",
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Rock",
+ "display_category": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "len": 144.016,
+ "album": "None",
+ "track_url": ""
+}

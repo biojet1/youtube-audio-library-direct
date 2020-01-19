@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 127,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "d6892e2c62f2946e",
+ "mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "Dawn of Man",
+ "display_mood": "Dramatic",
+ "instruments": [
+  "percussion",
+  "drums"
+ ],
+ "streamid": "PUGme_7ApCkADbs8S7JmZvUsklgaVsbka4E09STyanAmJrDGSUEiu1tziet6tRBa",
+ "reference_vid": "d6892e2c62f2946e",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d6892e2c62f2946e",
+ "fp_ref_id": "d6892e2c62f2946e",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBkNjg5MmUyYzYyZjI5NDZlEAAYAg%3D%3D&sigh=QE9lghVf29OY37GG0YkY6w"
+}

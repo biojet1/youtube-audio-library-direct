@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "57419af487d1c798",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57419af487d1c798",
+ "popularity_percentile": 95,
+ "vid": "57419af487d1c798",
+ "streamid": "l5pCrfyyCGS2TkgdjnfeakBVuqnCQaPsT4D6KduVZ1V5zvaFD_6mI-Ap0jKmPqOF",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMiyERIWChA1NzQxOWFmNDg3ZDFjNzk4EAAYAg%3D%3D&sigh=fMpR2JVx31sP0e4SZL-1hg",
+ "display_category": "",
+ "title": "Echoes of Time v2",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Ambient",
+ "reference_vid": "57419af487d1c798",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300030",
+ "instruments": [
+  "Bass",
+  "Synth",
+  "Drums"
+ ],
+ "len": 285.15,
+ "category": ""
+}

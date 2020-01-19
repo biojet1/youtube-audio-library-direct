@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 129.683,
+ "reference_vid": "2aeef78a6812523b",
+ "display_genre": "Jazz & Blues",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2aeef78a6812523b",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChAyYWVlZjc4YTY4MTI1MjNiEAAYAg%3D%3D&sigh=i5yJRgCDP4VsLmcfkkoJxw",
+ "display_mood": "Sad",
+ "fp_ref_id": "2aeef78a6812523b",
+ "track_url": "",
+ "genre": "Jazz & Blues",
+ "vid": "2aeef78a6812523b",
+ "artist_channel_url": null,
+ "streamid": "1k2gPHcC3xUxeu2em5C1IejSax9VqlfwWH62lReDHGuoyAR6IKGA0UH6hTHL5BCe",
+ "license_type": 0,
+ "title": "Nail Biter",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Riot",
+ "mood": "Sad"
+}

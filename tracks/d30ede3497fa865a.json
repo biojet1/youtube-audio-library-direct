@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d30ede3497fa865a",
+ "downloadable": true,
+ "reference_vid": "d30ede3497fa865a",
+ "mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "license_type": 1,
+ "len": 130,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "organ"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBkMzBlZGUzNDk3ZmE4NjVhEAAYAg%3D%3D&sigh=gvrNw3DScXSSOnAl95sOiA",
+ "streamid": "TR0ZdWzQm9YC0p1RGb5hJot-ToAP4OVLVssi8-zTek13B2mTA1anxkqTCE5kZLvc",
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "display_genre": "Jazz & Blues",
+ "vid": "d30ede3497fa865a",
+ "artist": "Quincas Moreira",
+ "popularity_percentile": 99,
+ "fp_ref_id": "d30ede3497fa865a",
+ "category": "",
+ "title": "Blues Infusion",
+ "album": "None"
+}

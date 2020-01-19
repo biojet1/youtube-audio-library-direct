@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "favorite": false,
+ "len": 129.098,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4733ae53663895d8",
+ "category": "",
+ "streamid": "pa0eRCsKCaY1aZP67DeaNjzkEaZ1TuCrO3g8ANkM96z1cQgXhSEsul3UvFPMk2o0",
+ "fp_ref_id": "4733ae53663895d8",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChA0NzMzYWU1MzY2Mzg5NWQ4EAAYAg%3D%3D&sigh=VUmvx0k35NynHKETXFA2Lw",
+ "popularity_percentile": 0,
+ "reference_vid": "4733ae53663895d8",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Synth"
+ ],
+ "is_new_track": false,
+ "vid": "4733ae53663895d8",
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "title": "Island Summer Breeze",
+ "downloadable": true,
+ "genre": "Country & Folk",
+ "artist": "Coyote Hearing"
+}

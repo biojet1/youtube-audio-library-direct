@@ -1,0 +1,30 @@
+{
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "vid": "d23b90e6c6ae9205",
+ "display_category": "",
+ "streamid": "Peg8u6sK7ZFXpWa6JtVvPs5e_L8IEUVG_Haz3rRaPbI8EtIRWurUntc693aSEIhi",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100655",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d23b90e6c6ae9205",
+ "fp_ref_id": "d23b90e6c6ae9205",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiQFxIWChBkMjNiOTBlNmM2YWU5MjA1EAAYAg%3D%3D&sigh=GAruTL0Eahyt2hdCJM1xQg",
+ "display_genre": "Ambient",
+ "len": 379.85,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "reference_vid": "d23b90e6c6ae9205",
+ "title": "Lightless Dawn",
+ "genre": "Ambient",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "display_mood": "Dark",
+ "popularity_percentile": 52
+}

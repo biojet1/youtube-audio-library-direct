@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth",
+  "Strings"
+ ],
+ "display_mood": "Dark",
+ "vid": "068a39fce2d8180a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=068a39fce2d8180a",
+ "is_new_track": false,
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "068a39fce2d8180a",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "len": 206.75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100413",
+ "category": "",
+ "streamid": "mcmADG62a0gPVIz1P8EbPxGmfhIBewmJfsMVEkvkeXt5IdO1Y8ANhxb2Yb4-hCIr",
+ "title": "Griphop",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChAwNjhhMzlmY2UyZDgxODBhEAAYAg%3D%3D&sigh=Jp9SKGjXbkLJQ-dUzWxvfg",
+ "popularity_percentile": 50,
+ "reference_vid": "068a39fce2d8180a",
+ "artist": "Kevin MacLeod",
+ "genre": "Cinematic"
+}

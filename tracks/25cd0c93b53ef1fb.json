@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "vid": "25cd0c93b53ef1fb",
+ "streamid": "02PWQMv4hqwCHfJ2nxAuISW2Tbx9j1kxcBns1QdBrpjCyfmop6YKoCbHkk1dtZZ3",
+ "title": "Ammo",
+ "category": "",
+ "len": 171,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChAyNWNkMGM5M2I1M2VmMWZiEAAYAg%3D%3D&sigh=dNX9ZtvR4UcY7EwvuY00Fw",
+ "artist": "Density & Time",
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "reference_vid": "25cd0c93b53ef1fb",
+ "display_mood": "Inspirational",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=25cd0c93b53ef1fb",
+ "instruments": [
+  "Piano",
+  "Organ",
+  "Mellotron",
+  "Acoustic Guitar"
+ ],
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "fp_ref_id": "25cd0c93b53ef1fb",
+ "favorite": false,
+ "mood": "Inspirational"
+}

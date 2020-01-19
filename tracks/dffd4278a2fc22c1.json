@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "len": 156,
+ "vid": "dffd4278a2fc22c1",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808",
+  "percussion"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "dffd4278a2fc22c1",
+ "album": "None",
+ "display_mood": "Calm",
+ "artist_channel_url": "/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChBkZmZkNDI3OGEyZmMyMmMxEAAYAg%3D%3D&sigh=NXX4NaWmRS0jjA9baBH5Cw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dffd4278a2fc22c1",
+ "mood": "Calm",
+ "genre": "Dance & Electronic",
+ "title": "Rescate",
+ "display_genre": "Dance & Electronic",
+ "artist": "Mike Relm",
+ "reference_vid": "dffd4278a2fc22c1",
+ "streamid": "j0IbfLpwkUFg0fAU81aUibQqrntPJp06Vlh1hKcyJaa1Bey5XMqYPt4AQEHyEbBO"
+}

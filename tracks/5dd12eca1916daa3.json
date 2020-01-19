@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "vid": "5dd12eca1916daa3",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 0,
+ "display_category": "",
+ "fp_ref_id": "5dd12eca1916daa3",
+ "track_url": "",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA1ZGQxMmVjYTE5MTZkYWEzEAAYAg%3D%3D&sigh=ynvxdbW4zx88n0qo_aUFKw",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "title": "New Sneakers",
+ "downloadable": true,
+ "streamid": "Zqp31ho8jPUWtNNfH0KPbv7cK-ooRYGcDwhTRtqKY8S6HWXIhEBgH9Iv_882xPSr",
+ "genre": "Rock",
+ "len": 110.116,
+ "artist": "Riot",
+ "display_mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5dd12eca1916daa3",
+ "popularity_percentile": 37,
+ "reference_vid": "5dd12eca1916daa3",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Bright"
+}

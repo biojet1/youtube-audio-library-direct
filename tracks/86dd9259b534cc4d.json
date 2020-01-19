@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 171,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "86dd9259b534cc4d",
+ "mood": "Calm",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "Metamorphosis",
+ "display_mood": "Calm",
+ "instruments": [
+  "synth",
+  "strings",
+  "piano"
+ ],
+ "streamid": "9X4xWRYthVPI_dWFfD1X8fwlYY8FNt5Ud3DRDKowbWlCqT1XOvjPd6LdpBBUQ4R7",
+ "reference_vid": "86dd9259b534cc4d",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=86dd9259b534cc4d",
+ "fp_ref_id": "86dd9259b534cc4d",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA4NmRkOTI1OWI1MzRjYzRkEAAYAg%3D%3D&sigh=WdiPJGvcwxiUHAxiSXgFVg"
+}

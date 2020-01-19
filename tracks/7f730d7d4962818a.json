@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Synth",
+  "Bass"
+ ],
+ "display_mood": "Happy",
+ "vid": "7f730d7d4962818a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7f730d7d4962818a",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Happy",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "7f730d7d4962818a",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 6.65,
+ "track_url": "",
+ "category": "",
+ "streamid": "FnG-wRp0amZnwynW8dqzGdDf3abgHVW-pNbbYi7qXTKDJ5fW28VXbtq6mvt_Hm7z",
+ "title": "Stay (Sting)",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDdmNzMwZDdkNDk2MjgxOGEQABgC&sigh=_0CByymCP3pLMP19_LUAJQ",
+ "popularity_percentile": 50,
+ "reference_vid": "7f730d7d4962818a",
+ "artist": "Otis McDonald",
+ "genre": "Hip Hop & Rap"
+}

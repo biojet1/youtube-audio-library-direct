@@ -1,0 +1,33 @@
+{
+ "len": 167,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "track_url": "",
+ "category": "",
+ "mood": "Inspirational",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1c1c8489289c4e11",
+ "title": "Jindupe",
+ "streamid": "Hve6zZPolAMOkp7UaSbIX0WjHPnSPzY7a7SEnJFNLw66B6df5-5lnroAF20sPnao",
+ "genre": "Pop",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChAxYzFjODQ4OTI4OWM0ZTExEAAYAg%3D%3D&sigh=XHazbUAt252LxsjFh3XfWQ",
+ "license_type": 1,
+ "fp_ref_id": "1c1c8489289c4e11",
+ "display_mood": "Inspirational",
+ "artist_url": "https://www.youtube.com/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "vid": "1c1c8489289c4e11",
+ "artist": "Lauren Duski",
+ "instruments": [
+  "piano",
+  "drums",
+  "synth",
+  "bass",
+  "acoustic guitar"
+ ],
+ "display_genre": "Pop",
+ "favorite": false,
+ "reference_vid": "1c1c8489289c4e11"
+}

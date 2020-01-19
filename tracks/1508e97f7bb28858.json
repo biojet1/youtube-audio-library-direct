@@ -1,0 +1,31 @@
+{
+ "track_url": "http://www.twinmusicom.org/song/270/seven-lives-to-live",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 280.016,
+ "category": "",
+ "title": "Seven Lives to Live",
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1508e97f7bb28858",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "1508e97f7bb28858",
+ "fp_ref_id": "1508e97f7bb28858",
+ "artist": "Twin Musicom",
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCLERIWChAxNTA4ZTk3ZjdiYjI4ODU4EAAYAg%3D%3D&sigh=9MrtPLROkvl8EktKM7MsBA",
+ "license_type": 6,
+ "mood": "Bright",
+ "vid": "1508e97f7bb28858",
+ "artist_url": "http://www.twinmusicom.org",
+ "display_category": "",
+ "popularity_percentile": 71,
+ "display_mood": "Bright",
+ "streamid": "376J0-oew0TtbOVF9ypOTt45AX2G_B33StGIzHoLUGCr14ZT03vU_hiT6By1ZeO7"
+}

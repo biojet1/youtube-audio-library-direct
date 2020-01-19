@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1c6886f07e046408",
+ "fp_ref_id": "1c6886f07e046408",
+ "artist_url": "",
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1c6886f07e046408",
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums"
+ ],
+ "len": 235.316,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPirDhIWChAxYzY4ODZmMDdlMDQ2NDA4EAAYAg%3D%3D&sigh=GJmRIaOYOsAqBLqUGrn-BA",
+ "album": "None",
+ "title": "Dream Yourself Smooth",
+ "popularity_percentile": 11,
+ "streamid": "BaRFBnnDVTGlQ33KWHm92Wf__e0YfaYDfnd1HWwC1Li_IlP1hmvPBTBE4AjEEpub",
+ "mood": "Calm",
+ "genre": "Ambient",
+ "category": "",
+ "favorite": false,
+ "vid": "1c6886f07e046408",
+ "track_url": "",
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "display_category": "",
+ "artist": "Puddle of Infinity"
+}

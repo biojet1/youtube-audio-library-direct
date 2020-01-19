@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "title": "Whirlwind Love",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Unicorn Heads",
+ "vid": "a83164cc1d9854f3",
+ "mood": "Romantic",
+ "genre": "Ambient",
+ "reference_vid": "a83164cc1d9854f3",
+ "track_url": "",
+ "streamid": "bdDWgBlJT70u_pJRK0qdjHeicrEjBhrPcE0NAUr2sdh8ZpJ48yfjz3O2Y-Gfz2y3",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a83164cc1d9854f3",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChBhODMxNjRjYzFkOTg1NGYzEAAYAg%3D%3D&sigh=HGdWG-UK_6F1fqIXO1KHmA",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Strings",
+  "Drums"
+ ],
+ "display_mood": "Romantic",
+ "fp_ref_id": "a83164cc1d9854f3",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 190.499,
+ "display_genre": "Ambient"
+}

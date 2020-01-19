@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChAwODY0YmQxZmNiMDMxOGJlEAAYAg%3D%3D&sigh=X9h-N9TrpcgMYYIiAjKbJg",
+ "display_category": "",
+ "reference_vid": "0864bd1fcb0318be",
+ "title": "Angelic Happiness",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0864bd1fcb0318be",
+ "track_url": "",
+ "len": 95.033,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "gwxSUdtPG8JTgB8RLHGeJxoVfdE1XkL9uNeQc3pdQaI0BH2c0RoGtqQIAQosRyaW",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "license_type": 0,
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "vid": "0864bd1fcb0318be",
+ "artist_url": "",
+ "artist": "Jingle Punks",
+ "category": "",
+ "fp_ref_id": "0864bd1fcb0318be",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "artist_channel_url": null
+}

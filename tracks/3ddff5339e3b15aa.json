@@ -1,0 +1,33 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChAzZGRmZjUzMzllM2IxNWFhEAAYAg%3D%3D&sigh=rN4B__hPkQ887MRwNNprZw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "category": "",
+ "instruments": [
+  "piano",
+  "drums",
+  "organ",
+  "electric guitar",
+  "bass"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "3ddff5339e3b15aa",
+ "is_new_track": false,
+ "len": 117,
+ "genre": "Rock",
+ "reference_vid": "3ddff5339e3b15aa",
+ "downloadable": true,
+ "streamid": "PYQIuuYo-2Cw_M2pPCY1lPqOoLeo7QCLJDfViNrSgBPUNN_Ibz86LpgEHNoj8t-p",
+ "track_url": "",
+ "vid": "3ddff5339e3b15aa",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ddff5339e3b15aa",
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "license_type": 1,
+ "title": "Big ALs",
+ "artist": "Josh Lippi & The Overtimers"
+}

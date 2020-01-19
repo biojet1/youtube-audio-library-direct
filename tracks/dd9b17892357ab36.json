@@ -1,0 +1,31 @@
+{
+ "artist": "Magic In The Other",
+ "display_category": "",
+ "genre": "Rock",
+ "vid": "dd9b17892357ab36",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "reference_vid": "dd9b17892357ab36",
+ "artist_url": "https://www.youtube.com/channel/UC_v-LoMHkq9yiSv-OfsTeBQ",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Rock",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC_v-LoMHkq9yiSv-OfsTeBQ",
+ "fp_ref_id": "dd9b17892357ab36",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dd9b17892357ab36",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChBkZDliMTc4OTIzNTdhYjM2EAAYAg%3D%3D&sigh=dFaS-nCAH8qKughx9AqgqA",
+ "streamid": "qPI-jB4JXePFRC8d4mxF2Ouwg3h2N1UZvRktXNsvODF4fJox0k7KBnI4qJP8c8Dh",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 170,
+ "title": "Life is Good",
+ "favorite": false
+}

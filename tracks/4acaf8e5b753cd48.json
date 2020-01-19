@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "artist": "Reed Mathis",
+ "artist_channel_url": "/channel/UC68AFP-IByN3wAe1uc4fzxw",
+ "downloadable": true,
+ "fp_ref_id": "4acaf8e5b753cd48",
+ "popularity_percentile": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChA0YWNhZjhlNWI3NTNjZDQ4EAAYAg%3D%3D&sigh=pI8WjmGx5MAPd_duUGlmIA",
+ "favorite": false,
+ "genre": "Rock",
+ "category": "",
+ "vid": "4acaf8e5b753cd48",
+ "streamid": "gTagVK6_CeHGhUP0YdZVduqHAQoRcO-0rqPqTAHiUFnLchPgNn380F3PEuZxOzqk",
+ "mood": "Dramatic",
+ "reference_vid": "4acaf8e5b753cd48",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4acaf8e5b753cd48",
+ "title": "Round Three",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UC68AFP-IByN3wAe1uc4fzxw",
+ "license_type": 1,
+ "display_genre": "Rock",
+ "display_category": "",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "electric piano",
+  "bass",
+  "piano"
+ ],
+ "len": 114,
+ "album": "None",
+ "track_url": ""
+}

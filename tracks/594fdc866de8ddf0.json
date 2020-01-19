@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "594fdc866de8ddf0",
+ "downloadable": true,
+ "fp_ref_id": "594fdc866de8ddf0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=594fdc866de8ddf0",
+ "album": "None",
+ "artist": "Silent Partner",
+ "display_mood": "Inspirational",
+ "streamid": "2ES4dkCx_HeJaq2pZuy8nlp6hdoj91ArFEvNM2jq5D5P9D8X28RA778ztb-x4oss",
+ "mood": "Inspirational",
+ "title": "Yard Sale",
+ "genre": "Country & Folk",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "reference_vid": "594fdc866de8ddf0",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 144.25,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChA1OTRmZGM4NjZkZThkZGYwEAAYAg%3D%3D&sigh=K1LuwWSz2RgLEThzcBf7qg"
+}

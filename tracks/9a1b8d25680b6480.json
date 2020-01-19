@@ -1,0 +1,29 @@
+{
+ "display_genre": "Cinematic",
+ "vid": "9a1b8d25680b6480",
+ "title": "Anxiety - Madness Paranoia",
+ "mood": "Dark",
+ "reference_vid": "9a1b8d25680b6480",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "len": 110.883,
+ "fp_ref_id": "9a1b8d25680b6480",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100328",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Synth"
+ ],
+ "streamid": "97fRSG6qTA82eSrkUi8tViVjNkbR7Fd3XAOFaKIMwYpUWHUzqZqEagFEVylRGr0n",
+ "display_mood": "Dark",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9a1b8d25680b6480",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA5YTFiOGQyNTY4MGI2NDgwEAAYAg%3D%3D&sigh=JZpPqO-_8Z7U6-LPCOU7Iw",
+ "genre": "Cinematic"
+}

@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "len": 180,
+ "mood": "Dramatic",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChA3OTY3MjdjZWUzYjdjYjZmEAAYAg%3D%3D&sigh=L_Lv_XBJw9EAVQyjl30o0A",
+ "genre": "Dance & Electronic",
+ "streamid": "KBRtkI_UyDQXJhmY2hwccrO2Zck9_2OqUCk3CzrcguoO239vNTP9Mr97rkgnF7T6",
+ "downloadable": true,
+ "fp_ref_id": "796727cee3b7cb6f",
+ "vid": "796727cee3b7cb6f",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "instruments": [
+  "Modular Synthesizer",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=796727cee3b7cb6f",
+ "category": "",
+ "reference_vid": "796727cee3b7cb6f",
+ "title": "Venetian",
+ "artist": "Density & Time",
+ "track_url": ""
+}

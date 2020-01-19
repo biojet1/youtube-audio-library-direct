@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 133,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "fp_ref_id": "76fc44b619013278",
+ "reference_vid": "76fc44b619013278",
+ "artist_channel_url": "/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "license_type": 1,
+ "streamid": "836Nq_-WymwJt7DguKQjTY3poI1Hpd0EZqyMRiet2MaeKrnHEJpStdX4DT4MOMRW",
+ "vid": "76fc44b619013278",
+ "mood": "Dramatic",
+ "artist": "Francis Preve",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChA3NmZjNDRiNjE5MDEzMjc4EAAYAg%3D%3D&sigh=OrUUpFv0tjF2G5-eyki2Sg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=76fc44b619013278",
+ "category": "",
+ "title": "Seductress",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "synth",
+  "piano"
+ ]
+}

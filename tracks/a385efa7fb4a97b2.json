@@ -1,0 +1,30 @@
+{
+ "display_genre": "Rock",
+ "album": "None",
+ "reference_vid": "a385efa7fb4a97b2",
+ "popularity_percentile": 66,
+ "category": "",
+ "vid": "a385efa7fb4a97b2",
+ "title": "Good for Nothing Safety",
+ "mood": "Angry",
+ "len": 48.983,
+ "artist_url": "http://www.twinmusicom.org/",
+ "artist": "Twin Musicom",
+ "fp_ref_id": "a385efa7fb4a97b2",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Drums",
+  "Electric Guitar"
+ ],
+ "streamid": "r7fu4gFU4hFP5wmvTH3X50F7J0wUuVbK7Vi2LihurdiA6MSTquf0mHHnlyju1EGM",
+ "display_mood": "Angry",
+ "downloadable": true,
+ "genre": "Rock",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a385efa7fb4a97b2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID3AhIWChBhMzg1ZWZhN2ZiNGE5N2IyEAAYAg%3D%3D&sigh=MxWOUZDLbv7EU_sGVpTNmA"
+}

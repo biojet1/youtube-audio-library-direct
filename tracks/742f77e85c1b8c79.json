@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "742f77e85c1b8c79",
+ "instruments": [
+  "Synth",
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "category": "",
+ "artist": "Audionautix",
+ "display_category": "",
+ "streamid": "WF74qX9oJr-3Jv0nZFgxBg14bxVcDP5HIHJG2jP0CCYkYqignQDw2bOwAHsDcCRJ",
+ "license_type": 6,
+ "vid": "742f77e85c1b8c79",
+ "popularity_percentile": 74,
+ "reference_vid": "742f77e85c1b8c79",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 142.716,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChA3NDJmNzdlODVjMWI4Yzc5EAAYAg%3D%3D&sigh=-zGdmFgDvnpnhMYBkMuNUQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=742f77e85c1b8c79",
+ "title": "Code Blue"
+}

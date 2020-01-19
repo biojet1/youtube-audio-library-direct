@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "bee969405366dacd",
+ "instruments": [
+  "Piano"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Classical",
+ "category": "",
+ "artist": "Wahneta Meixsell",
+ "display_category": "",
+ "streamid": "gAL9ibxLw-bDhGDt44ybXYSW_LdUQAYI5msbYM6LrLxh7TAzOjeF3gT3pVUrwkxI",
+ "license_type": 0,
+ "vid": "bee969405366dacd",
+ "popularity_percentile": 74,
+ "reference_vid": "bee969405366dacd",
+ "display_genre": "Classical",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 199.65,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChBiZWU5Njk0MDUzNjZkYWNkEAAYAg%3D%3D&sigh=7fxBmbXwMf4N7hiosvJlTA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bee969405366dacd",
+ "title": "Allemande"
+}

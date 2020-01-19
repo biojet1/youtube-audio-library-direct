@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "AYaYGIHpgWXZ5hAqohT2VNga2rJWr9v01CFNRL6lvJi_JEdcCa3mMQ0z-jctM-iz",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNinBRIWChBlMzk1ODQ2Mjg4NTgwOTE0EAAYAg%3D%3D&sigh=SmlCqt_eLsnAZwp0yNJW7g",
+ "album": "None",
+ "artist": "Twin Musicom",
+ "mood": "Calm",
+ "len": 87.383,
+ "reference_vid": "e395846288580914",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "vid": "e395846288580914",
+ "title": "I Found an Answer",
+ "fp_ref_id": "e395846288580914",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Ambient",
+ "instruments": [
+  "Bass",
+  "Strings",
+  "Drums",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e395846288580914",
+ "is_new_track": false,
+ "artist_url": "http://www.twinmusicom.org/",
+ "license_type": 6,
+ "display_genre": "Ambient"
+}

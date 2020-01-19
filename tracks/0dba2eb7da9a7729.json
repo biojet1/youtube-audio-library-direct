@@ -1,0 +1,31 @@
+{
+ "mood": "Bright",
+ "title": "Bring It Back",
+ "album": "None",
+ "artist": "Silent Partner",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Rock",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "display_category": "",
+ "vid": "0dba2eb7da9a7729",
+ "streamid": "2yGpK_pn62ToKZf7A-VsoEcIshpyc2GhsJ2sL0AlEW_B4qcWrH1SclhSW7i6-10Z",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChAwZGJhMmViN2RhOWE3NzI5EAAYAg%3D%3D&sigh=OIQ7fFzTJMQBRmvTLDPTBQ",
+ "fp_ref_id": "0dba2eb7da9a7729",
+ "len": 135.05,
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0dba2eb7da9a7729",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0dba2eb7da9a7729",
+ "downloadable": true
+}

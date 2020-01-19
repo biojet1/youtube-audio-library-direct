@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA5OTY5ZDg1YTNlYmNhOGZhEAAYAg%3D%3D&sigh=PXPw-Js2ImWnfKkSvtCVxg",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "9969d85a3ebca8fa",
+ "downloadable": true,
+ "reference_vid": "9969d85a3ebca8fa",
+ "favorite": false,
+ "fp_ref_id": "9969d85a3ebca8fa",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9969d85a3ebca8fa",
+ "genre": "Jazz & Blues",
+ "streamid": "EfnOKTZbjfqTl3_ytXY3cez41_XneIY9a31wrBtRhGrWD-aemCVfjR0h2hfm6M8q",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Happy",
+ "len": 109.216,
+ "display_genre": "Jazz & Blues",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Panama Hat No Voice",
+ "artist": "Audionautix",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar Drums"
+ ]
+}

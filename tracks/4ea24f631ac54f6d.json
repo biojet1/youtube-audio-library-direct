@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ea24f631ac54f6d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChA0ZWEyNGY2MzFhYzU0ZjZkEAAYAg%3D%3D&sigh=VscLsFpD66XbJhl1P86vxA",
+ "vid": "4ea24f631ac54f6d",
+ "title": "Finally The Sun",
+ "display_category": "",
+ "album": "None",
+ "favorite": false,
+ "streamid": "748fpe5jUd9FJXOHFL3LG2BT7NPt1AyIvUU-rFCRi6r7Tm6RGt6qKn7MCInn9__y",
+ "genre": "Hip Hop & Rap",
+ "len": 149,
+ "mood": "Dramatic",
+ "popularity_percentile": 0,
+ "fp_ref_id": "4ea24f631ac54f6d",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "808"
+ ],
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "category": "",
+ "artist": "Audio Hertz",
+ "is_new_track": true,
+ "downloadable": true,
+ "reference_vid": "4ea24f631ac54f6d",
+ "display_mood": "Dramatic"
+}

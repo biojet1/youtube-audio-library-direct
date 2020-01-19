@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "ceea78c68c27263a",
+ "category": "",
+ "title": "Back on Track - Latinesque",
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "genre": "Jazz & Blues",
+ "display_mood": "Funky",
+ "streamid": "AffO_levTMVOUvdlz6XRzRx7fFNjXgHBNqk-pb-OmXQszTN8A_Hf7fgukSZUCbNT",
+ "album": "None",
+ "len": 78.55,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ceea78c68c27263a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDhBBIWChBjZWVhNzhjNjhjMjcyNjNhEAAYAg%3D%3D&sigh=xC2aL7EN9iEpkJ5uYlbOyw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "ceea78c68c27263a",
+ "is_new_track": false,
+ "mood": "Funky",
+ "fp_ref_id": "ceea78c68c27263a",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100426"
+}

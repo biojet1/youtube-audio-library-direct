@@ -1,0 +1,31 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "vid": "f4b2659e7a1cae1a",
+ "artist": "Everet Almond",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f4b2659e7a1cae1a",
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBmNGIyNjU5ZTdhMWNhZTFhEAAYAg%3D%3D&sigh=U-CoWh6hsZwL04U9gJ57tg",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Dark",
+ "title": "Ice Crystals",
+ "reference_vid": "f4b2659e7a1cae1a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f4b2659e7a1cae1a",
+ "track_url": "",
+ "len": 174.783,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "O_9t6x1jRFPhPSD_5zXjSzwPgZSz4Qn8JdOeT3NharcarBArf5IL39aOKQ35dJJL"
+}

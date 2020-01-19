@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "d5cecceef289374f",
+ "is_new_track": false,
+ "mood": "Happy",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBkNWNlY2NlZWYyODkzNzRmEAAYAg%3D%3D&sigh=0dIFM8bMsdPjgtN8PZi9Rg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d5cecceef289374f",
+ "artist": "Aaron Kenny",
+ "len": 127,
+ "streamid": "Qb1V0F7Lk4Re4HDmnldinAjVbU4gxsOsoKTwM-KvbI0AfLGD34Ivgc-sGxSPvWUh",
+ "album": "None",
+ "display_mood": "Happy",
+ "instruments": [
+  "Organ",
+  "Strings",
+  "Horn"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "title": "Happy Haunts",
+ "vid": "d5cecceef289374f",
+ "reference_vid": "d5cecceef289374f",
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q"
+}

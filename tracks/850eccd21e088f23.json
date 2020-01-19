@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Dark",
+ "vid": "850eccd21e088f23",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=850eccd21e088f23",
+ "is_new_track": false,
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Ambient",
+ "fp_ref_id": "850eccd21e088f23",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "len": 216.85,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100847",
+ "category": "",
+ "streamid": "nqUDjFIxqZkjq7gpkoZXBuchTaTHHQFwPq5RJ5JEA9MUcTfBLB2Rc2-J7TLwuYhb",
+ "title": "Invariance",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChA4NTBlY2NkMjFlMDg4ZjIzEAAYAg%3D%3D&sigh=WO1KjPjEwY44ETXpWHLRrA",
+ "popularity_percentile": 50,
+ "reference_vid": "850eccd21e088f23",
+ "artist": "Kevin MacLeod",
+ "genre": "Ambient"
+}

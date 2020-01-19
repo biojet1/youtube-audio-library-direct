@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "485745c035eae839",
+ "category": "",
+ "license_type": 6,
+ "title": "Horror Music",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Piano"
+ ],
+ "display_mood": "Dark",
+ "album": "None",
+ "streamid": "3rrKZGDZ4fJWwckthfLiil1qXB6BSN5T7HI2DqYcVls9q_n7kJcA9RvbJuzzdx8d",
+ "len": 159.35,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=485745c035eae839",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChA0ODU3NDVjMDM1ZWFlODM5EAAYAg%3D%3D&sigh=_oExj9H4WoGVteQjGSPiQw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "485745c035eae839",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "485745c035eae839",
+ "track_url": ""
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "title": "Kombucha Drone",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Unicorn Heads",
+ "vid": "b1c7d5ab4b5f6e77",
+ "mood": "Calm",
+ "genre": "Country & Folk",
+ "reference_vid": "b1c7d5ab4b5f6e77",
+ "track_url": "",
+ "streamid": "JyiRekOgKuFGMO3Xo_QQ_CKaVFLKtefnjbHItDuyUonvWPXttztJgle9PEswYUFA",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b1c7d5ab4b5f6e77",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChBiMWM3ZDVhYjRiNWY2ZTc3EAAYAg%3D%3D&sigh=nxZrCupw9cHD1xWLvtW46g",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Strings",
+  "Synth"
+ ],
+ "display_mood": "Calm",
+ "fp_ref_id": "b1c7d5ab4b5f6e77",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 176.466,
+ "display_genre": "Country & Folk"
+}

@@ -1,0 +1,30 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChAwMmE4NzYwYWM3NzhlNmZkEAAYAg%3D%3D&sigh=5ImMVlM3h3eixHxSIeD9fg",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "02a8760ac778e6fd",
+ "reference_vid": "02a8760ac778e6fd",
+ "popularity_percentile": 2,
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=02a8760ac778e6fd",
+ "mood": "Happy",
+ "genre": "Dance & Electronic",
+ "streamid": "C9x8FrCE_CXPD4zqHBzn-8MUaHUfhmvi8ndhQTraHnkXuCIpTx87yA_Tqz8SfZ7V",
+ "title": "Bonanza",
+ "downloadable": true,
+ "category": "",
+ "len": 100.816,
+ "artist_url": "",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "02a8760ac778e6fd",
+ "album": "None"
+}

@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "reference_vid": "db283e04a496f7b5",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db283e04a496f7b5",
+ "fp_ref_id": "db283e04a496f7b5",
+ "mood": "Funky",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "len": 114.383,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChBkYjI4M2UwNGE0OTZmN2I1EAAYAg%3D%3D&sigh=UTcdjS0e4aIOmVJ1pBdgXw",
+ "streamid": "QcX5NXzQ17xwus4BlokABv2EmkCeEhk12e5CSi1Flq7jt8beYnUvF2aeFfSor9gS",
+ "artist": "Audionautix",
+ "popularity_percentile": 80,
+ "title": "Transition",
+ "display_category": "",
+ "display_genre": "Pop",
+ "license_type": 6,
+ "vid": "db283e04a496f7b5",
+ "track_url": "",
+ "genre": "Pop",
+ "category": "",
+ "favorite": false
+}

@@ -1,0 +1,31 @@
+{
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "len": 132.95,
+ "display_category": "",
+ "reference_vid": "4325800408ebf5ef",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "4325800408ebf5ef",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "Kqmwe09DE62wP48zVmX1kMXGntBo2dtVwvdSvLAYemBB7NzcOX89Oltf7ICBMzXB",
+ "display_mood": "Dark",
+ "vid": "4325800408ebf5ef",
+ "track_url": "",
+ "instruments": [
+  "drums",
+  "strings",
+  "bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChA0MzI1ODAwNDA4ZWJmNWVmEAAYAg%3D%3D&sigh=C-WzC0n8PhGIFWPiR7_fYg",
+ "category": "",
+ "title": "Lurking",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4325800408ebf5ef"
+}

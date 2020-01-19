@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "len": 126.033,
+ "fp_ref_id": "a02de5906c1ded77",
+ "streamid": "f_JpL_Etk4ndk9C5lprk4q8l5hoEEVUH0FXQd4S3bG4InCZtclQA5EsIbUExWFXm",
+ "artist_url": "",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 63,
+ "vid": "a02de5906c1ded77",
+ "display_genre": "Dance & Electronic",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a02de5906c1ded77",
+ "album": "None",
+ "title": "Bounce House",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBhMDJkZTU5MDZjMWRlZDc3EAAYAg%3D%3D&sigh=bp_hH6EDsQf4Bf1ZKCX1Hg",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "mood": "Funky",
+ "is_new_track": false,
+ "reference_vid": "a02de5906c1ded77",
+ "track_url": "",
+ "license_type": 0
+}

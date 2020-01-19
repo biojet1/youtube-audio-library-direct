@@ -1,0 +1,31 @@
+{
+ "vid": "08c54810469c6e4e",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=08c54810469c6e4e",
+ "len": 110,
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "artist_channel_url": "/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "display_mood": "Calm",
+ "reference_vid": "08c54810469c6e4e",
+ "artist_url": "https://www.youtube.com/channel/UCcB_tnqYHwPzADwUdeppIIQ",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChAwOGM1NDgxMDQ2OWM2ZTRlEAAYAg%3D%3D&sigh=9oxhVtNrqONwL9Egx6hCkg",
+ "display_genre": "Ambient",
+ "fp_ref_id": "08c54810469c6e4e",
+ "popularity_percentile": 99,
+ "title": "Lightning Bugs",
+ "genre": "Ambient",
+ "instruments": [
+  "synth",
+  "strings",
+  "acoustic guitar"
+ ],
+ "artist": "Geographer",
+ "streamid": "zlHN9f6kdoDmrLBdPzd2EGjX2Qa1vILItp85as5J-RsyCtFFpuVmMHScvVIaLcNZ",
+ "mood": "Calm",
+ "license_type": 1
+}

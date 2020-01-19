@@ -1,0 +1,30 @@
+{
+ "vid": "71893d8c0e99ecef",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "71893d8c0e99ecef",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=71893d8c0e99ecef",
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "track_url": "",
+ "title": "Heavy Drums Bass",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Audionautix",
+ "display_mood": "Angry",
+ "streamid": "lr7gxHzPI4iyXJ0-IvigN5jdx4Zhl266N-boRuLc-rxNL_eKM0jqOA-0KZZk-8bc",
+ "display_category": "",
+ "len": 118.216,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA3MTg5M2Q4YzBlOTllY2VmEAAYAg%3D%3D&sigh=F7sBAbp-ulYSMlAA6NEaLA",
+ "reference_vid": "71893d8c0e99ecef",
+ "album": "None",
+ "artist_url": "http://audionautix.com/",
+ "display_genre": "Rock"
+}

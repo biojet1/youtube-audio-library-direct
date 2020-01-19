@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "vcNIonpxBFwp4Yi88TkKxJUYLCKN4vsNlc6XUbvkXrlEzP9zzyKI_EVbf_K2kXlj",
+ "len": 106.75,
+ "category": "",
+ "license_type": 6,
+ "title": "Corporation Motivation",
+ "genre": "Rock",
+ "display_category": "",
+ "vid": "78d0db5f7ac5965e",
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "favorite": false,
+ "display_genre": "Rock",
+ "display_mood": "Happy",
+ "fp_ref_id": "78d0db5f7ac5965e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=78d0db5f7ac5965e",
+ "instruments": [
+  "Piano",
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "78d0db5f7ac5965e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA3OGQwZGI1ZjdhYzU5NjVlEAAYAg%3D%3D&sigh=NUXEeZ6HIAIUbKrsl-p40w",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 56
+}

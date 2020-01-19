@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric electric guitar",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChBmNjI1ZjdkYjEyN2E3ZmYxEAAYAg%3D%3D&sigh=sCvuVrkfsCpbgPWHZxaxQA",
+ "title": "Righteous",
+ "display_mood": "Dark",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "genre": "Ambient",
+ "vid": "f625f7db127a7ff1",
+ "popularity_percentile": 97,
+ "reference_vid": "f625f7db127a7ff1",
+ "favorite": false,
+ "mood": "Dark",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Ambient",
+ "category": "",
+ "fp_ref_id": "f625f7db127a7ff1",
+ "streamid": "3bTAicryid3IoyZoii2POUAGF13JEl8D8wXqpCSsZsikVMQRetXSLuNmIPQCFtzY",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f625f7db127a7ff1",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 178.7
+}

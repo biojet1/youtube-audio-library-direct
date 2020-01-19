@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 0,
+ "vid": "137ecd5ece9c3744",
+ "fp_ref_id": "137ecd5ece9c3744",
+ "album": "None",
+ "streamid": "QAxk7HLkUZQ-fty5wxTA4p2j2pUE7oiZyBoxjhr_79Oa1Hh7Rxeoe7f5yueFULbe",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "artist": "Silent Partner",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=137ecd5ece9c3744",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi7DhIWChAxMzdlY2Q1ZWNlOWMzNzQ0EAAYAg%3D%3D&sigh=UCFio3gAuW9KXx2GxoZToQ",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 237.45,
+ "reference_vid": "137ecd5ece9c3744",
+ "title": "Blue Break",
+ "favorite": false,
+ "track_url": ""
+}

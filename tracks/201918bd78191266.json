@@ -1,0 +1,32 @@
+{
+ "mood": "Happy",
+ "album": "None",
+ "vid": "201918bd78191266",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNj3FBIWChAyMDE5MThiZDc4MTkxMjY2EAAYAg%3D%3D&sigh=H_CztC0nboljoZXeDUshXw",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "track_url": "",
+ "streamid": "tlUpKiucct-Hc5v1eABjieNhz_ekxtbP7RUv4kAqqk7GAP2Ps3BuORtH_DyAx-vO",
+ "len": 343,
+ "genre": "Dance & Electronic",
+ "artist": "Jeremy Blake",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Sunspots",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=201918bd78191266",
+ "reference_vid": "201918bd78191266",
+ "popularity_percentile": 99,
+ "fp_ref_id": "201918bd78191266",
+ "display_mood": "Happy"
+}

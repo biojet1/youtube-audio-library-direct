@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "d3ffdbc90d0db782",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Otis McDonald",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBkM2ZmZGJjOTBkMGRiNzgyEAAYAg%3D%3D&sigh=XqLrZ7iv1AAv5U_NRe1aKQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d3ffdbc90d0db782",
+ "len": 104.383,
+ "mood": "Inspirational",
+ "title": "One More chance",
+ "vid": "d3ffdbc90d0db782",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 0,
+ "artist_url": "",
+ "genre": "Hip Hop & Rap",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "d3ffdbc90d0db782",
+ "streamid": "xd9Ub3BySFlmPTXkL_ZoIhF6k-auiyhH7i5P3wV20jmpOBAPjsafkc0q8RpgoSzA"
+}

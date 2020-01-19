@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "e8c922b747bcd012",
+ "display_category": "",
+ "fp_ref_id": "e8c922b747bcd012",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e8c922b747bcd012",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBlOGM5MjJiNzQ3YmNkMDEyEAAYAg%3D%3D&sigh=sUT3Q04rODH7rvvOceeyWw",
+ "streamid": "QB_EB_GE_BtelKBQ6bgtIRjPK5AvSdTwzMEL2b6MQ9n4Jr5I3jRSoxu8-O3mpo50",
+ "genre": "Pop",
+ "vid": "e8c922b747bcd012",
+ "artist": "Dan Henig",
+ "display_genre": "Pop",
+ "title": "Wrong",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 104,
+ "display_mood": "Dramatic",
+ "downloadable": true
+}

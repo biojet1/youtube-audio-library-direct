@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "len": 123.499,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8f0a76f5a997f614",
+ "category": "",
+ "streamid": "SUKcRFA5IW_pL3VAHyXN_aP3dWONk5c2jY9zH3BOz4NnKUO1G-WiD-rdc-mVEoeU",
+ "fp_ref_id": "8f0a76f5a997f614",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA4ZjBhNzZmNWE5OTdmNjE0EAAYAg%3D%3D&sigh=jaQo7V0uevN4VqbbRSFsKw",
+ "popularity_percentile": 0,
+ "reference_vid": "8f0a76f5a997f614",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "vid": "8f0a76f5a997f614",
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "title": "Oud Dance",
+ "downloadable": true,
+ "genre": "Country & Folk",
+ "artist": "Doug Maxwell"
+}

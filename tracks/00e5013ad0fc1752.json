@@ -1,0 +1,31 @@
+{
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "len": 149,
+ "mood": "Sad",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChAwMGU1MDEzYWQwZmMxNzUyEAAYAg%3D%3D&sigh=qPOAPloflEfSEqPat7Y3Ug",
+ "genre": "Cinematic",
+ "streamid": "EiaRdKeqf5hLnn67_t3JZlTOY4vtGM8Os0zoTDejHCDdORstwHVlyIjAuzxqSWMu",
+ "downloadable": true,
+ "fp_ref_id": "00e5013ad0fc1752",
+ "vid": "00e5013ad0fc1752",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=00e5013ad0fc1752",
+ "category": "",
+ "reference_vid": "00e5013ad0fc1752",
+ "title": "Aurora Currents",
+ "artist": "Asher Fulero",
+ "track_url": ""
+}

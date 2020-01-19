@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=de8da5f6d2889df6",
+ "downloadable": true,
+ "reference_vid": "de8da5f6d2889df6",
+ "mood": "Sad",
+ "artist_url": "",
+ "license_type": 0,
+ "len": 148.583,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Electric Guitar",
+  "Acoustic Guitar"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBkZThkYTVmNmQyODg5ZGY2EAAYAg%3D%3D&sigh=h0VFM2YDZ614iaWuoH7vTw",
+ "streamid": "IVNkZSMxc4X0utujzBVHZ7aZFX1FX_SZDMyNa3eQo5PJRbE4oEgANadbFKsGuX12",
+ "genre": "Rock",
+ "display_category": "",
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Rock",
+ "vid": "de8da5f6d2889df6",
+ "artist": "ALBIS",
+ "popularity_percentile": 86,
+ "fp_ref_id": "de8da5f6d2889df6",
+ "category": "",
+ "title": "Open Highway",
+ "album": "None"
+}

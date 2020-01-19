@@ -1,0 +1,31 @@
+{
+ "vid": "c046dc27b0b396b7",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "c046dc27b0b396b7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c046dc27b0b396b7",
+ "favorite": false,
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "title": "Be Bop 25",
+ "genre": "Jazz & Blues",
+ "mood": "Romantic",
+ "artist": "Audionautix",
+ "display_mood": "Romantic",
+ "streamid": "pV5ab7uYy-rYMGMlFlZ9do-fARQJ-3HDB-2dC7vKupJ594rTTKEGvDZK_RbXzDEy",
+ "display_category": "",
+ "len": 142.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChBjMDQ2ZGMyN2IwYjM5NmI3EAAYAg%3D%3D&sigh=7vdVYC9H6NtRiFgiFgEUYw",
+ "reference_vid": "c046dc27b0b396b7",
+ "album": "None",
+ "artist_url": "http://audionautix.com/",
+ "display_genre": "Jazz & Blues"
+}

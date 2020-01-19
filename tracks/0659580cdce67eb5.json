@@ -1,0 +1,32 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChAwNjU5NTgwY2RjZTY3ZWI1EAAYAg%3D%3D&sigh=cImYauSxn20rL5IKmTdk_g",
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0659580cdce67eb5",
+ "reference_vid": "0659580cdce67eb5",
+ "popularity_percentile": 3,
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0659580cdce67eb5",
+ "mood": "Inspirational",
+ "genre": "Holiday",
+ "streamid": "8Gy8TOntfOn3mvKHODjWOlY_SRxJleDyKsP5e9_Nw-3hDH69oXuZurgbYzdc8Jjk",
+ "title": "First Noel (Instrumental)",
+ "downloadable": true,
+ "category": "",
+ "len": 140.883,
+ "artist_url": "",
+ "display_genre": "Holiday",
+ "fp_ref_id": "0659580cdce67eb5",
+ "album": "None"
+}

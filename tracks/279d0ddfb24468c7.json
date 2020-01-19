@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 48,
+ "favorite": false,
+ "mood": "Dramatic",
+ "display_category": "",
+ "fp_ref_id": "279d0ddfb24468c7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=279d0ddfb24468c7",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "is_new_track": false,
+ "reference_vid": "279d0ddfb24468c7",
+ "len": 18.283,
+ "display_mood": "Dramatic",
+ "streamid": "afoDbSpM2jZC7ddPzHMel79uwiSeqGSPoDnhWodbUt_Vb7Mo02emrcoa9rfJAC2W",
+ "display_genre": "Pop",
+ "title": "Gustav Sting",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100529",
+ "downloadable": true,
+ "license_type": 6,
+ "genre": "Pop",
+ "vid": "279d0ddfb24468c7",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCMARIWChAyNzlkMGRkZmIyNDQ2OGM3EAAYAg%3D%3D&sigh=vSXQ7go3lr38t2laEmagjA"
+}

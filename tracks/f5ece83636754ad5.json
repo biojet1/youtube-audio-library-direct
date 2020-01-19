@@ -1,0 +1,29 @@
+{
+ "vid": "f5ece83636754ad5",
+ "display_mood": "Happy",
+ "title": "Happy Strummin",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBmNWVjZTgzNjM2NzU0YWQ1EAAYAg%3D%3D&sigh=H6EJrLZy0BoCXk7QN0RnPw",
+ "favorite": false,
+ "display_genre": "Pop",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "reference_vid": "f5ece83636754ad5",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f5ece83636754ad5",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 79,
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "genre": "Pop",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "cfh1lP9gMM2vCoDnmO6Af1XtshMWbeATcQyDOSY2Zl2uT9E9QZVGS-4Sz56xc2Ie",
+ "artist_url": "http://audionautix.com/",
+ "len": 133.65,
+ "fp_ref_id": "f5ece83636754ad5",
+ "license_type": 6,
+ "is_new_track": false
+}

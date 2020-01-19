@@ -1,0 +1,31 @@
+{
+ "title": "Inner Light",
+ "artist": "Kevin MacLeod",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCICUIxIWChBjYjg3NmNlNGY4M2ZlN2Q5EAAYAg%3D%3D&sigh=iC_LISvIVDkMQahQDnkTzA",
+ "artist_url": "http://incompetech.com/",
+ "vid": "cb876ce4f83fe7d9",
+ "mood": "Calm",
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 576.216,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cb876ce4f83fe7d9",
+ "display_mood": "Calm",
+ "streamid": "JGU4Wpq9FfpMUhmcqshkcB30RyBYJobfBS34v4A8MzqvA0CACaqQET8rtI_dOMum",
+ "artist_channel_url": null,
+ "fp_ref_id": "cb876ce4f83fe7d9",
+ "genre": "Pop",
+ "category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300021",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 59,
+ "display_genre": "Pop",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "cb876ce4f83fe7d9"
+}

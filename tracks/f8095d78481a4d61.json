@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCcARIWChBmODA5NWQ3ODQ4MWE0ZDYxEAAYAg%3D%3D&sigh=5-jEVsSbEvIJTZwBZilfzg",
+ "title": "On My Way Home (Sting)",
+ "display_mood": "Bright",
+ "artist": "The 126ers",
+ "artist_channel_url": null,
+ "genre": "Country & Folk",
+ "vid": "f8095d78481a4d61",
+ "popularity_percentile": 97,
+ "reference_vid": "f8095d78481a4d61",
+ "favorite": false,
+ "mood": "Bright",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "category": "",
+ "fp_ref_id": "f8095d78481a4d61",
+ "streamid": "XYm9JaQSTcdUqsNIGhFuvLvZWhcazvLTX4KJ3k5JlIfgRyeP1s5TdmBFasVH9AaJ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f8095d78481a4d61",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 20.183
+}

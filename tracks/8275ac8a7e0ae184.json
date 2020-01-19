@@ -1,0 +1,29 @@
+{
+ "mood": "Sad",
+ "artist": "Sir Cubworth",
+ "vid": "8275ac8a7e0ae184",
+ "display_category": "",
+ "streamid": "PU8WWceWN5xEt_RAmm7bQstRi-oPtda4SXeyLkEN1DDTmzXRh4tFO2j9liZg0TQS",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8275ac8a7e0ae184",
+ "fp_ref_id": "8275ac8a7e0ae184",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjtDRIWChA4Mjc1YWM4YTdlMGFlMTg0EAAYAg%3D%3D&sigh=zQOySuV9A1qh44b2lW0x-w",
+ "display_genre": "Cinematic",
+ "len": 227,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "piano"
+ ],
+ "reference_vid": "8275ac8a7e0ae184",
+ "title": "The Quiet Aftermath",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "license_type": 1,
+ "display_mood": "Sad",
+ "popularity_percentile": 99
+}

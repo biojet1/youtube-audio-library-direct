@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2993eff5ae705359",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "len": 103.216,
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "hiUeDNa43IHCKZs2790aeXsq0CDipzUTYWY8_Zk0y9LYzkZPL5evbTkoHqLpNW6d",
+ "category": "",
+ "title": "Baila Mi Cumbia",
+ "display_mood": "Happy",
+ "favorite": false,
+ "reference_vid": "2993eff5ae705359",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChAyOTkzZWZmNWFlNzA1MzU5EAAYAg%3D%3D&sigh=t5zUJqWKqLJSm5SPy9-8XA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "2993eff5ae705359",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "2993eff5ae705359"
+}

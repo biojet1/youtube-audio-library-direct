@@ -1,0 +1,32 @@
+{
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChAwMzQ5YTA0NDQxNmM1ODUyEAAYAg%3D%3D&sigh=1mEt9dq2XD3CBSmipw07zw",
+ "instruments": [
+  "Piano",
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0349a044416c5852",
+ "reference_vid": "0349a044416c5852",
+ "popularity_percentile": 2,
+ "artist": "Huma-Huma",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0349a044416c5852",
+ "mood": "Romantic",
+ "genre": "R&B & Soul",
+ "streamid": "Hai2qZCod8HbCRixkBiLwaHbtuCvVMaITaW3-MXp7sFDnHnrZYPWhn96Qd_wlt3V",
+ "title": "Satin Sugar",
+ "downloadable": true,
+ "category": "",
+ "len": 154.05,
+ "artist_url": "",
+ "display_genre": "R&B & Soul",
+ "fp_ref_id": "0349a044416c5852",
+ "album": "None"
+}

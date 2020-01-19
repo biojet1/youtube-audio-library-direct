@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "favorite": false,
+ "len": 122.999,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1ffb21425ba7f7b2",
+ "category": "",
+ "streamid": "8klNPms_vozN1JGwj2VDXdUBXKUUcWFgCylptJA3svXDvihe_-JCURvflH6hxm4P",
+ "fp_ref_id": "1ffb21425ba7f7b2",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAxZmZiMjE0MjViYTdmN2IyEAAYAg%3D%3D&sigh=dxRbQkLOmIphiV4uwkg6Zw",
+ "popularity_percentile": 0,
+ "reference_vid": "1ffb21425ba7f7b2",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Organ",
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "is_new_track": false,
+ "vid": "1ffb21425ba7f7b2",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "title": "Get 'er Done",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist": "Aaron Lieberman"
+}

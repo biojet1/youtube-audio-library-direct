@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c2d790e4221371f8",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "len": 225.416,
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100475",
+ "streamid": "B4Kkk8OiBB8nYKwFqK01BL3U9l9YxVyKhnLO_bKjo8OQ_zxVNXhveOBefnslN8YN",
+ "category": "",
+ "title": "Feelin Good",
+ "display_mood": "Happy",
+ "favorite": false,
+ "reference_vid": "c2d790e4221371f8",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjdDRIWChBjMmQ3OTBlNDIyMTM3MWY4EAAYAg%3D%3D&sigh=i5wX4792odvkfPd30194mQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "c2d790e4221371f8",
+ "license_type": 6,
+ "popularity_percentile": 82,
+ "vid": "c2d790e4221371f8"
+}

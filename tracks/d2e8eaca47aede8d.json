@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 170,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "d2e8eaca47aede8d",
+ "mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "The Long Night",
+ "display_mood": "Dramatic",
+ "instruments": [
+  "strings",
+  "drums",
+  "percussion",
+  "woodwinds",
+  "horns"
+ ],
+ "streamid": "sOgLtFls8NIzKN8T_qKRi005Jg0NQQE7fmVmsg2piColrOvLsnf5XOjo4gCwVUQU",
+ "reference_vid": "d2e8eaca47aede8d",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2e8eaca47aede8d",
+ "fp_ref_id": "d2e8eaca47aede8d",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChBkMmU4ZWFjYTQ3YWVkZThkEAAYAg%3D%3D&sigh=TkcAO7wCi9K-PwVHMWgjjw"
+}

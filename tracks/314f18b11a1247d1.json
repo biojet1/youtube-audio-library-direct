@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Happy",
+ "title": "Country Cue 1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=314f18b11a1247d1",
+ "reference_vid": "314f18b11a1247d1",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "track_url": "",
+ "album": "None",
+ "len": 18.45,
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "streamid": "3b90nfAufsnxIhtPvG3lnRercWRgP3r64GNwoCEmifungBMopbrsmu7ZdJ3EBNjy",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "314f18b11a1247d1",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "314f18b11a1247d1",
+ "category": "",
+ "genre": "Country & Folk",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCMARIWChAzMTRmMThiMTFhMTI0N2QxEAAYAg%3D%3D&sigh=QP-D1M9IKiW3-Fd0JLeoZQ"
+}

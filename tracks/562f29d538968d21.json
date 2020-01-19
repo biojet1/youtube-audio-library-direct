@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Dance & Electronic",
+ "streamid": "mjrfmfH0mEWgXBRhKH3Ec11u-FZhDXULBmxnDMcVSV5Fy_Ld5tcibkNS7RQiLwDU",
+ "reference_vid": "562f29d538968d21",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=562f29d538968d21",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "MK2",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChA1NjJmMjlkNTM4OTY4ZDIxEAAYAg%3D%3D&sigh=mtuiRWBE140oRsRxtZO1ZQ",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "display_category": "",
+ "title": "Far Away",
+ "album": "None",
+ "vid": "562f29d538968d21",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth",
+  "Piano"
+ ],
+ "favorite": false,
+ "len": 105.65,
+ "fp_ref_id": "562f29d538968d21",
+ "display_genre": "Dance & Electronic"
+}

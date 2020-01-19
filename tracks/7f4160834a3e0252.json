@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100411",
+ "artist_channel_url": null,
+ "len": 64.783,
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7f4160834a3e0252",
+ "title": "AngloZulu - The Dark Contenent",
+ "streamid": "7Np3iyRFXJpnC6EoII3skhYTIM9u94EAKmYyVUiBv1Ho2GkNqq8Hilrbj_RFt6bA",
+ "genre": "Cinematic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID0AxIWChA3ZjQxNjA4MzRhM2UwMjUyEAAYAg%3D%3D&sigh=w7no4GH_ODCuFTL2JF_ADw",
+ "license_type": 6,
+ "fp_ref_id": "7f4160834a3e0252",
+ "display_mood": "Dramatic",
+ "vid": "7f4160834a3e0252",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums"
+ ],
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "reference_vid": "7f4160834a3e0252"
+}

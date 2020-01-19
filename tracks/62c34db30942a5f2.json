@@ -1,0 +1,31 @@
+{
+ "mood": "Happy",
+ "artist": "E's Jammy Jams",
+ "vid": "62c34db30942a5f2",
+ "display_category": "",
+ "streamid": "9xCJNkpEPRenpwPjW3_S1Iq-DPssx3NbHU1E9SacUww7bJVj8B-KP6T3HhtLI66K",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=62c34db30942a5f2",
+ "fp_ref_id": "62c34db30942a5f2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChA2MmMzNGRiMzA5NDJhNWYyEAAYAg%3D%3D&sigh=QJp7HBh44VWmLW7t8DoxNg",
+ "display_genre": "Jazz & Blues",
+ "len": 165,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "piano"
+ ],
+ "reference_vid": "62c34db30942a5f2",
+ "title": "Happy Birthday Jazz Waltz",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "license_type": 1,
+ "display_mood": "Happy",
+ "popularity_percentile": 99
+}

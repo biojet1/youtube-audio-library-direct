@@ -1,0 +1,30 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCGAxIWChA1YWMxMDQzODczZThlZGQ1EAAYAg%3D%3D&sigh=ZbPHTwL_Wn-NLALAfA1tzw",
+ "genre": "Cinematic",
+ "streamid": "IXSketF5L119ra7yKogA8adhL8N7XP_2Qd6Iix90K7YMXw1Ll9z9TIGYZZQoXdo9",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "5ac1043873e8edd5",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ac1043873e8edd5",
+ "fp_ref_id": "5ac1043873e8edd5",
+ "reference_vid": "5ac1043873e8edd5",
+ "mood": "Dark",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Organ"
+ ],
+ "len": 50.283,
+ "popularity_percentile": 77,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100159",
+ "title": "Midnight Meeting",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Cinematic"
+}

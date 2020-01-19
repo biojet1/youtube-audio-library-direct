@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "b7a95fb36662a7b9",
+ "mood": "Romantic",
+ "reference_vid": "b7a95fb36662a7b9",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChBiN2E5NWZiMzY2NjJhN2I5EAAYAg%3D%3D&sigh=TpOlcNz-r0_xKSee2-xutA",
+ "len": 193.85,
+ "favorite": false,
+ "display_mood": "Romantic",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b7a95fb36662a7b9",
+ "streamid": "8CYSNr6NacDpcPeSEk9M-WZRbv3AJkHR1YfJVwvH1yVPiijXSvw4cniGnX8-gQBb",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b7a95fb36662a7b9",
+ "title": "Let's Do It",
+ "display_genre": "R&B & Soul",
+ "artist": "Topher Mohr and Alex Elena",
+ "genre": "R&B & Soul",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth",
+  "Strings"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

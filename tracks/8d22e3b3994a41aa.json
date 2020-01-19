@@ -1,0 +1,31 @@
+{
+ "len": 164,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "track_url": "",
+ "category": "",
+ "mood": "Bright",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8d22e3b3994a41aa",
+ "title": "Running Back 2U",
+ "streamid": "1fnk3CTaPJQ6DXbqVAP3E3FxNxnhM98zYNjLvl21KxcajCJRh5iMpZ7e_iy0tbQT",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA4ZDIyZTNiMzk5NGE0MWFhEAAYAg%3D%3D&sigh=CQF1GRJ6CRxZ_5vh9RwLoA",
+ "license_type": 1,
+ "fp_ref_id": "8d22e3b3994a41aa",
+ "display_mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCen_7jAo3C3dHKCpRjNgEeg",
+ "vid": "8d22e3b3994a41aa",
+ "artist": "Stayloose",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "8d22e3b3994a41aa"
+}

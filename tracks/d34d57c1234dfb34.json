@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d34d57c1234dfb34",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "category": "",
+ "title": "Beginnings",
+ "track_url": "",
+ "vid": "d34d57c1234dfb34",
+ "mood": "Funky",
+ "is_new_track": false,
+ "len": 284,
+ "instruments": [
+  "drums",
+  "synth",
+  "strings",
+  "bass",
+  "keys"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "WKnHgpxWIocOOBuYMwXN5wF20PG_z5AJebrkbUrHbQhpokC5BcRadXl1NLrrNY7D",
+ "display_genre": "Dance & Electronic",
+ "artist": "Unicorn Heads",
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "reference_vid": "d34d57c1234dfb34",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCqERIWChBkMzRkNTdjMTIzNGRmYjM0EAAYAg%3D%3D&sigh=ozBmFTbGq-w-WMMeGGJh0g",
+ "fp_ref_id": "d34d57c1234dfb34",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "license_type": 1
+}

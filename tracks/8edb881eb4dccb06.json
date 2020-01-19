@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "reference_vid": "8edb881eb4dccb06",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8edb881eb4dccb06",
+ "fp_ref_id": "8edb881eb4dccb06",
+ "mood": "Happy",
+ "album": "None",
+ "instruments": [
+  "Piano"
+ ],
+ "len": 40.883,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMC4AhIWChA4ZWRiODgxZWI0ZGNjYjA2EAAYAg%3D%3D&sigh=xr8lWHr0sC1Dj0c6SU8iBg",
+ "streamid": "nTx3C-15kxHC1QLDf7YIHzYUMVBXPOsEneoJD2P7CH_sJkVXLXnmUc1-K33ZVzEd",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 80,
+ "title": "Circus Waltz - Silent Film Light",
+ "display_category": "",
+ "display_genre": "Pop",
+ "license_type": 6,
+ "vid": "8edb881eb4dccb06",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100291",
+ "genre": "Pop",
+ "category": "",
+ "favorite": false
+}

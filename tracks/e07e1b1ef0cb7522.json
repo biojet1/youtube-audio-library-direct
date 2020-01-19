@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChBlMDdlMWIxZWYwY2I3NTIyEAAYAg%3D%3D&sigh=cq5xwrMOO1ZJuNLLKWWJQg",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Aaron Kenny",
+ "display_genre": "Classical",
+ "mood": "Happy",
+ "reference_vid": "e07e1b1ef0cb7522",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e07e1b1ef0cb7522",
+ "favorite": false,
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "category": "",
+ "instruments": [
+  "Piano",
+  "Strings",
+  "Horn"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "e07e1b1ef0cb7522",
+ "title": "English Country Garden",
+ "len": 97,
+ "streamid": "TbIMSwYNToJH21r8yMV2IVBF0YloZdqHVd63VE4EDYKaEkxP_UJnMp7NfgY4AgIe",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Classical",
+ "vid": "e07e1b1ef0cb7522"
+}

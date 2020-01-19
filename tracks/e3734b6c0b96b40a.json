@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "e3734b6c0b96b40a",
+ "category": "",
+ "license_type": 6,
+ "title": "God Be With You Till We Meet Again",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "display_mood": "Calm",
+ "album": "None",
+ "streamid": "jfQAAQvlIFpXZPfFQAjXeD1ByuIa3ZEGTChkQsq-VtDVqERPcQODkIb3V0RkRUiV",
+ "len": 284.983,
+ "artist": "Chris Zabriskie",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e3734b6c0b96b40a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCqERIWChBlMzczNGI2YzBiOTZiNDBhEAAYAg%3D%3D&sigh=jEhsBIWwM2iY75v6I9lR9w",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "e3734b6c0b96b40a",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "e3734b6c0b96b40a",
+ "track_url": "http://chriszabriskie.com/dtv/"
+}

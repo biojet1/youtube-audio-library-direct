@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "INzVgrMnCNeuEMZzcqlO2s6Q3t4EABunh24WrYzOJ8UGVBWDebSe_EPBTRA4kE4z",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=506261a7e542b8cc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChA1MDYyNjFhN2U1NDJiOGNjEAAYAg%3D%3D&sigh=hdQIhPvPysTMRU1iwAB_rA",
+ "vid": "506261a7e542b8cc",
+ "display_category": "",
+ "title": "Go to Town",
+ "album": "None",
+ "mood": "Funky",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "reference_vid": "506261a7e542b8cc",
+ "len": 136.8,
+ "genre": "Rock",
+ "popularity_percentile": 32,
+ "fp_ref_id": "506261a7e542b8cc",
+ "track_url": "",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ]
+}

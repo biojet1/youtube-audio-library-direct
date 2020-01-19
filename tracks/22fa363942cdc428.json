@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "22fa363942cdc428",
+ "track_url": "",
+ "fp_ref_id": "22fa363942cdc428",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Angry",
+ "artist": "Ethan Meixsell",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "22fa363942cdc428",
+ "display_mood": "Angry",
+ "len": 182.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChAyMmZhMzYzOTQyY2RjNDI4EAAYAg%3D%3D&sigh=DoyUME5IIVNx7c04MFN06g",
+ "popularity_percentile": 13,
+ "streamid": "l7TFyTJTAgAyEOxmjsuybVxJ4OE7SrT-lkK28a18ja14YIVPFZ5-yIwGAhiJkFDa",
+ "license_type": 0,
+ "display_genre": "Rock",
+ "category": "",
+ "title": "By the Sword",
+ "genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22fa363942cdc428"
+}

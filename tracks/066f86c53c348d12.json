@@ -1,0 +1,32 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChAwNjZmODZjNTNjMzQ4ZDEyEAAYAg%3D%3D&sigh=-vZohg7BZocZIYn5vdqiTQ",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "066f86c53c348d12",
+ "reference_vid": "066f86c53c348d12",
+ "popularity_percentile": 3,
+ "artist": "ALBIS",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=066f86c53c348d12",
+ "mood": "Calm",
+ "genre": "Rock",
+ "streamid": "vAwumg6zvRin8vl9VoVkEqCjcwan-GamsJ1UTg9zu1QEu0PODrNeqoyn3ihc1KG2",
+ "title": "Osaka Rain",
+ "downloadable": true,
+ "category": "",
+ "len": 108.316,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "fp_ref_id": "066f86c53c348d12",
+ "album": "None"
+}

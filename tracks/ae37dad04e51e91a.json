@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "reference_vid": "ae37dad04e51e91a",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ae37dad04e51e91a",
+ "fp_ref_id": "ae37dad04e51e91a",
+ "mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Piano",
+  "Strings"
+ ],
+ "len": 40.183,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMC4AhIWChBhZTM3ZGFkMDRlNTFlOTFhEAAYAg%3D%3D&sigh=2aTmOks2IYGdxxjtR3uB-A",
+ "streamid": "OXdxCbvM3R0_pK_x178a5Q9KWo-pNhzC-gQQt9YTpgAJmlNRNblcJNVyL4dNwEsk",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 80,
+ "title": "Evening Melodrama",
+ "display_category": "",
+ "display_genre": "Children's",
+ "license_type": 6,
+ "vid": "ae37dad04e51e91a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200049",
+ "genre": "Children's",
+ "category": "",
+ "favorite": false
+}

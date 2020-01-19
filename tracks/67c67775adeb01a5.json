@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "67c67775adeb01a5",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCOQyfUmWPaf5uA40I0Zrn2A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=67c67775adeb01a5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChA2N2M2Nzc3NWFkZWIwMWE1EAAYAg%3D%3D&sigh=UliC6m87JIzE0FulVBceJA",
+ "is_new_track": false,
+ "reference_vid": "67c67775adeb01a5",
+ "display_mood": "Happy",
+ "favorite": false,
+ "category": "",
+ "title": "Flexxx",
+ "streamid": "Htn01e_o2-ags2kr3_kivQsqqmGawXlbLdxQEkFs5UrAV4PdZ7Mbj-FNlSZQmtrQ",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Pop",
+ "len": 115.5,
+ "album": "None",
+ "genre": "Pop",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Text Me Records / Social Work",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "fp_ref_id": "67c67775adeb01a5"
+}

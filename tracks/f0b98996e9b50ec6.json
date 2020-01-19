@@ -1,0 +1,32 @@
+{
+ "mood": "Calm",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChBmMGI5ODk5NmU5YjUwZWM2EAAYAg%3D%3D&sigh=sIsYVcUDSy3yp5HQKiqk7g",
+ "display_mood": "Calm",
+ "genre": "Pop",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f0b98996e9b50ec6",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Quincas Moreira",
+ "title": "Los Angeles",
+ "reference_vid": "f0b98996e9b50ec6",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "percussion"
+ ],
+ "display_genre": "Pop",
+ "fp_ref_id": "f0b98996e9b50ec6",
+ "vid": "f0b98996e9b50ec6",
+ "category": "",
+ "streamid": "HQm1th2Dsba-KVjzcc9QfRm-fDGxtdrSKLBMUOZtDJCBIQa1QWsfbQWrzCbq1F5R",
+ "popularity_percentile": 99,
+ "len": 138.333,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

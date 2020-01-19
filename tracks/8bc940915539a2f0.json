@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Bright",
+ "genre": "Rock",
+ "streamid": "jW6TUKgEN6RnpUV4RwL2CnWEG77q7Bwm9c-EoCmKXKzp-WUZP4CG6tFZDsyVsw55",
+ "fp_ref_id": "8bc940915539a2f0",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChA4YmM5NDA5MTU1MzlhMmYwEAAYAg%3D%3D&sigh=RJZnRt7FtMdy20KGNLXTXw",
+ "mood": "Bright",
+ "vid": "8bc940915539a2f0",
+ "display_genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8bc940915539a2f0",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "album": "None",
+ "reference_vid": "8bc940915539a2f0",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 115.716,
+ "category": "",
+ "title": "Soldier On"
+}

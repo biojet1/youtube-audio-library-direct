@@ -1,0 +1,32 @@
+{
+ "reference_vid": "add484de75b7adf8",
+ "display_mood": "Funky",
+ "fp_ref_id": "add484de75b7adf8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=add484de75b7adf8",
+ "mood": "Funky",
+ "artist": "Jingle Punks",
+ "vid": "add484de75b7adf8",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiIBRIWChBhZGQ0ODRkZTc1YjdhZGY4EAAYAg%3D%3D&sigh=C5sg4FGlemQI-tUzMIpTAg",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 68,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Organ",
+  "Bass"
+ ],
+ "downloadable": true,
+ "streamid": "hdnx6VB_ua6KZzlX2h3MqgwmRsZVN0Kc6Y5md6SbUSz68vW3Cfw2SZboGV0EUbpX",
+ "len": 83.55,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Bayou State of Mind",
+ "genre": "Country & Folk",
+ "display_category": ""
+}

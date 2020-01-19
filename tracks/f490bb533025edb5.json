@@ -1,0 +1,31 @@
+{
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "genre": "Dance & Electronic",
+ "artist_url": "",
+ "vid": "f490bb533025edb5",
+ "artist": "Gunnar Olsen",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f490bb533025edb5",
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "album": "None",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChBmNDkwYmI1MzMwMjVlZGI1EAAYAg%3D%3D&sigh=gSGcgEDmkSV8naBvNmL6Zg",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Dark",
+ "title": "Haus Guest",
+ "reference_vid": "f490bb533025edb5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f490bb533025edb5",
+ "track_url": "",
+ "len": 147.216,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "Ir_uMiDrLFfgnM5IOxCIkCNvl8J7L-RIpwHHKqvBs5b-b_QMuwK_YOohi7IgmDQs"
+}

@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "vid": "a11847672d8aad4c",
+ "title": "Friendly Day",
+ "mood": "Happy",
+ "reference_vid": "a11847672d8aad4c",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "len": 70.483,
+ "fp_ref_id": "a11847672d8aad4c",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100223",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Piano"
+ ],
+ "streamid": "M5-czuVmagzrhg-3BV31632c2UXVUGUJV6gIkaMNmfz3TO8RSEVRYYLRiYnejwqw",
+ "display_mood": "Happy",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a11847672d8aad4c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCiBBIWChBhMTE4NDc2NzJkOGFhZDRjEAAYAg%3D%3D&sigh=wgxfsTirFm_xOCKC2C2uOw",
+ "genre": "Classical"
+}

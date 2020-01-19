@@ -1,0 +1,30 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "qni2QI_nmLtERxH6-eOod5LvwPMtS2JYFxY1ESI-XpH_RJ1ByAiNrw8OKxd6o1E3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=51764feba6e13905",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChA1MTc2NGZlYmE2ZTEzOTA1EAAYAg%3D%3D&sigh=dfi7xMDWzZnPOyyN50K5xQ",
+ "vid": "51764feba6e13905",
+ "display_category": "",
+ "title": "Dub Zap",
+ "album": "None",
+ "mood": "Dramatic",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Gunnar Olsen",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "51764feba6e13905",
+ "len": 192.016,
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 32,
+ "fp_ref_id": "51764feba6e13905",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ]
+}

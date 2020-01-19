@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj7AxIWChA0ZjA5Y2Y2ZWNiN2U1NjdiEAAYAg%3D%3D&sigh=i0YTAS1tF4gFZOaf_5EseA",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "artist": "Jingle Punks",
+ "display_genre": "Pop",
+ "mood": "Bright",
+ "reference_vid": "4f09cf6ecb7e567b",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4f09cf6ecb7e567b",
+ "favorite": false,
+ "popularity_percentile": 31,
+ "artist_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "license_type": 0,
+ "fp_ref_id": "4f09cf6ecb7e567b",
+ "title": "Stoker",
+ "len": 65.85,
+ "streamid": "WAN08xcjCyuBYebluPC2EG0lv1giPlvo8HRn4P4e_pJq2AJZMx2j4trGlWb5-kPj",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Pop",
+ "vid": "4f09cf6ecb7e567b"
+}

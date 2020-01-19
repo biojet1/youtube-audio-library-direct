@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 18,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 4.583,
+ "reference_vid": "2ed8d86ed8a7c45e",
+ "display_genre": "R&B & Soul",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ed8d86ed8a7c45e",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDJlZDhkODZlZDhhN2M0NWUQABgC&sigh=opzfihyGMzbbDruHYO0-4g",
+ "display_mood": "Calm",
+ "fp_ref_id": "2ed8d86ed8a7c45e",
+ "track_url": "",
+ "genre": "R&B & Soul",
+ "vid": "2ed8d86ed8a7c45e",
+ "artist_channel_url": null,
+ "streamid": "0VQk9R5Ff4QSwOYjHdKC7JumX3oHmZBJKtEIBQ1Zh6rlOAP5l3bs4cAchJckPex9",
+ "license_type": 0,
+ "title": "Everythings Nice (Sting)",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Jingle Punks",
+ "mood": "Calm"
+}

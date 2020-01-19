@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChAwOGVkZTc1ZTc4OGJlMDg5EAAYAg%3D%3D&sigh=45avWmkxszCaHuyECjLOWQ",
+ "display_category": "",
+ "reference_vid": "08ede75e788be089",
+ "title": "Pisco Sour",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=08ede75e788be089",
+ "track_url": "",
+ "len": 171.35,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "N3PWOlwEHlfOpw0HHNJx8wu5LA8yi1yLqvWbQeLuQ-26UPNkiZXOVHdQutXvdmYV",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "mood": "Happy",
+ "genre": "Dance & Electronic",
+ "vid": "08ede75e788be089",
+ "artist_url": "",
+ "artist": "Gunnar Olsen",
+ "category": "",
+ "fp_ref_id": "08ede75e788be089",
+ "display_mood": "Happy",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "electric guitar"
+ ],
+ "artist_channel_url": null
+}

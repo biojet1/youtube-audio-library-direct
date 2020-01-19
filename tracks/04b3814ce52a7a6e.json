@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "04b3814ce52a7a6e",
+ "display_category": "",
+ "fp_ref_id": "04b3814ce52a7a6e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04b3814ce52a7a6e",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "title": "How R U?",
+ "favorite": false,
+ "license_type": 1,
+ "len": 158,
+ "display_mood": "Happy",
+ "instruments": [
+  "bass",
+  "piano",
+  "synthesizer",
+  "drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChAwNGIzODE0Y2U1MmE3YTZlEAAYAg%3D%3D&sigh=TkwuV8s5U0hlzui_p7TcMg",
+ "streamid": "t3DQ3XrzwO9BJhUsxOF71WQSNZQyNodai8KA2OHMl5NWU3Lxu5Ug0Z6hxEYXHLX0",
+ "genre": "Dance & Electronic",
+ "vid": "04b3814ce52a7a6e",
+ "artist": "Freedom Trail Studio"
+}

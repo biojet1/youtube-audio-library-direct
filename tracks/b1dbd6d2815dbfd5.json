@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "b1dbd6d2815dbfd5",
+ "category": "",
+ "title": "Blue Moon",
+ "display_genre": "Pop",
+ "instruments": [
+  "acoustic guitar",
+  "synth",
+  "drums",
+  "snaps",
+  "bass"
+ ],
+ "genre": "Pop",
+ "display_mood": "Calm",
+ "streamid": "4P6QpimC6b7GBBzUaXbWh7Ge8TJ4BoN2ncMMntHbX6fwmYkXn-dyNdSvMAuXTB7m",
+ "album": "None",
+ "len": 213,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b1dbd6d2815dbfd5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChBiMWRiZDZkMjgxNWRiZmQ1EAAYAg%3D%3D&sigh=16lHIogBzLoWi26sxWlCgg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "b1dbd6d2815dbfd5",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "b1dbd6d2815dbfd5",
+ "license_type": 1,
+ "track_url": ""
+}

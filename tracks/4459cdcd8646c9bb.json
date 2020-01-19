@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "vid": "4459cdcd8646c9bb",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiiERIWChA0NDU5Y2RjZDg2NDZjOWJiEAAYAg%3D%3D&sigh=89YP0mVccdabTk3Zo7awHw",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "track_url": "",
+ "streamid": "5iVCB8ceKbEVvksg5DspBzlF3x7a-GHXVH_orKwsZnVMZ5fkz_8pLSoOoRjsjCpH",
+ "len": 283,
+ "genre": "Dance & Electronic",
+ "artist": "Jeremy Blake",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Smile",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4459cdcd8646c9bb",
+ "reference_vid": "4459cdcd8646c9bb",
+ "popularity_percentile": 99,
+ "fp_ref_id": "4459cdcd8646c9bb",
+ "display_mood": "Funky"
+}

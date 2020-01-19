@@ -1,0 +1,33 @@
+{
+ "streamid": "fhoYt0ZCRoCCqHl00A8LjmBHNYvOYtFC3atHVK6UXZf-KV131bO5OYQUszlvg3Fy",
+ "genre": "Reggae",
+ "fp_ref_id": "cce112a598f88e03",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cce112a598f88e03",
+ "favorite": false,
+ "reference_vid": "cce112a598f88e03",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Funky",
+ "display_category": "",
+ "vid": "cce112a598f88e03",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBjY2UxMTJhNTk4Zjg4ZTAzEAAYAg%3D%3D&sigh=UR-U6j5G9ifk44V6h5leMQ",
+ "artist_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "piano",
+  "synth"
+ ],
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Silent Partner",
+ "title": "Noble Dub",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 0,
+ "display_genre": "Reggae",
+ "mood": "Funky",
+ "len": 119.15,
+ "popularity_percentile": 80
+}

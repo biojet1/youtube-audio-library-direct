@@ -1,0 +1,30 @@
+{
+ "reference_vid": "ae0120d4d26fcab6",
+ "display_mood": "Dark",
+ "fp_ref_id": "ae0120d4d26fcab6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ae0120d4d26fcab6",
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "vid": "ae0120d4d26fcab6",
+ "favorite": false,
+ "display_genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChBhZTAxMjBkNGQyNmZjYWI2EAAYAg%3D%3D&sigh=hWPdT_mYe_T7YvC-ZPjLAA",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 68,
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "DNKwiFGGGE3v3eC7UNafMMUauLMcxTSgFu1oTAItjvcn8AZ9bdjiiTUzjXn-4rwD",
+ "len": 204.75,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Court and Page",
+ "genre": "Ambient",
+ "display_category": ""
+}

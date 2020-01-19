@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChA0N2QzMGJkZGZkOGZhYjc2EAAYAg%3D%3D&sigh=e9xca4gV5bK00p2iZraM0A",
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "GQGeMVF-XyY1x7CQ8SfMsO378xIXyzb3X5wlv2Kokt_Nwe3YA1H6Zb1Mrvw_VKDz",
+ "artist": "John Deley and the 41 Players",
+ "len": 181.183,
+ "genre": "Jazz & Blues",
+ "mood": "Happy",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "47d30bddfd8fab76",
+ "reference_vid": "47d30bddfd8fab76",
+ "popularity_percentile": 28,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=47d30bddfd8fab76",
+ "fp_ref_id": "47d30bddfd8fab76",
+ "display_mood": "Happy",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Handprints",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ]
+}

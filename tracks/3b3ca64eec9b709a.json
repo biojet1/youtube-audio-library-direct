@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "reference_vid": "3b3ca64eec9b709a",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "mUMwMfIU0upJwpc6gQWwdtPAgLIAmMXQdS6Daf0CGmC8D9RnnwRhGcCiVO1TGfhv",
+ "display_mood": "Dramatic",
+ "genre": "Cinematic",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "display_genre": "Cinematic",
+ "title": "Lament",
+ "license_type": 1,
+ "downloadable": true,
+ "vid": "3b3ca64eec9b709a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAzYjNjYTY0ZWVjOWI3MDlhEAAYAg%3D%3D&sigh=bKyVIpznQirqPYf0touafw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b3ca64eec9b709a",
+ "artist": "MK2",
+ "len": 121.85,
+ "track_url": "",
+ "fp_ref_id": "3b3ca64eec9b709a",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "popularity_percentile": 23,
+ "display_category": ""
+}

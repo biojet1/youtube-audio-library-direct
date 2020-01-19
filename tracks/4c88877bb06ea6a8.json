@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "4c88877bb06ea6a8",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Reggae",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "0egjJZOvrLAuUPOTyo_NPQ-2OPNM-coQbqt2Vh5htabRSafi17U5KGORQ6w_uBzg",
+ "license_type": 6,
+ "vid": "4c88877bb06ea6a8",
+ "popularity_percentile": 73,
+ "reference_vid": "4c88877bb06ea6a8",
+ "display_genre": "Reggae",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 296.116,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100245",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCIEhIWChA0Yzg4ODc3YmIwNmVhNmE4EAAYAg%3D%3D&sigh=ETV_Ip3Kcr3jfYzXorjQ_g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4c88877bb06ea6a8",
+ "title": "Easy Jam"
+}

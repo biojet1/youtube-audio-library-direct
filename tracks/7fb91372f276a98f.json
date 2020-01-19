@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "bass",
+  "acoustic guitar",
+  "electric guitar"
+ ],
+ "display_mood": "Dramatic",
+ "vid": "7fb91372f276a98f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7fb91372f276a98f",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Dramatic",
+ "display_genre": "Country & Folk",
+ "fp_ref_id": "7fb91372f276a98f",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 110.45,
+ "track_url": "",
+ "category": "",
+ "streamid": "ptjLrdHl9vfos-GyW8aS0nDTQkPATjbyBFI91XHFUxu1bFCDCTEd9L7m6FHvryK1",
+ "title": "Easy Breezy",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA3ZmI5MTM3MmYyNzZhOThmEAAYAg%3D%3D&sigh=Vwx5y9C9byUMHgUN1eI7fQ",
+ "popularity_percentile": 50,
+ "reference_vid": "7fb91372f276a98f",
+ "artist": "Silent Partner",
+ "genre": "Country & Folk"
+}

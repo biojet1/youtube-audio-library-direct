@@ -1,0 +1,30 @@
+{
+ "license_type": 0,
+ "mood": "Calm",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDrCxIWChBiZjczNTVhYmE0Nzc4NWUwEAAYAg%3D%3D&sigh=HoJWQD-ccK17AsHLkuu0Uw",
+ "title": "Easy Day",
+ "vid": "bf7355aba47785e0",
+ "artist_url": "",
+ "streamid": "SaGGLta8iwb6VWzNgixWyT_WAQEeSQUW1W9JiiD47ESGSCI2JHOgkydoPsfHJvFj",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf7355aba47785e0",
+ "instruments": [
+  "acoustic guitar",
+  "bass"
+ ],
+ "display_mood": "Calm",
+ "len": 194.633,
+ "genre": "Country & Folk",
+ "fp_ref_id": "bf7355aba47785e0",
+ "track_url": "",
+ "album": "None",
+ "display_genre": "Country & Folk",
+ "reference_vid": "bf7355aba47785e0",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 75
+}

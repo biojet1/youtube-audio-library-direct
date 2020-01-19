@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "reference_vid": "3ae49221ac0c47a3",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "lMahtNlDhwTSSLNWX2ClTnUt0r2ktR5l9Urn_MRftTtr3RI-gFzreqXqlaNvoDVK",
+ "display_mood": "Happy",
+ "genre": "Pop",
+ "instruments": [
+  "drums",
+  "piano",
+  "bass"
+ ],
+ "display_genre": "Pop",
+ "title": "Last Call",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "3ae49221ac0c47a3",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChAzYWU0OTIyMWFjMGM0N2EzEAAYAg%3D%3D&sigh=nqZ3UyiujDcmpztHdTwdFg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ae49221ac0c47a3",
+ "artist": "Silent Partner",
+ "len": 140.15,
+ "track_url": "",
+ "fp_ref_id": "3ae49221ac0c47a3",
+ "mood": "Happy",
+ "is_new_track": false,
+ "popularity_percentile": 23,
+ "display_category": ""
+}

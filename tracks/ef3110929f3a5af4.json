@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjIDxIWChBlZjMxMTA5MjlmM2E1YWY0EAAYAg%3D%3D&sigh=Cqnt0wfJUt2wITLndYq2Lg",
+ "genre": "Jazz & Blues",
+ "streamid": "Ld7mVLazSnxRed0R45yyMrGeG_Oe3ktkZGDC4ZQlaxFogpYwU-pZpX8UwWCx5Be9",
+ "display_category": "",
+ "display_mood": "Funky",
+ "vid": "ef3110929f3a5af4",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ef3110929f3a5af4",
+ "fp_ref_id": "ef3110929f3a5af4",
+ "reference_vid": "ef3110929f3a5af4",
+ "mood": "Funky",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "len": 255.05,
+ "popularity_percentile": 77,
+ "artist": "Audionautix",
+ "category": "",
+ "track_url": "",
+ "title": "Crushin",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Jazz & Blues"
+}

@@ -1,0 +1,33 @@
+{
+ "vid": "5b452e2a848100be",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5b452e2a848100be",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5b452e2a848100be",
+ "favorite": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Strings"
+ ],
+ "track_url": "",
+ "title": "Wish You'd Come True",
+ "genre": "Rock",
+ "mood": "Inspirational",
+ "artist": "The 126ers",
+ "display_mood": "Inspirational",
+ "streamid": "DzmNftkMj6XXxGnxF8CBRq2izJN0tZf5LuFBN8vspuXdtFCunSv0V3B2YdMMTFYx",
+ "display_category": "",
+ "len": 169.55,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChA1YjQ1MmUyYTg0ODEwMGJlEAAYAg%3D%3D&sigh=XIWpnU_fgn-BEsoQODbGNg",
+ "reference_vid": "5b452e2a848100be",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Rock"
+}

@@ -1,0 +1,30 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChA4ZGVlMWFiM2ZhZmVlOTYyEAAYAg%3D%3D&sigh=w4aYp-XI2VmamJLOwPiGNA",
+ "genre": "Classical",
+ "streamid": "RMkpxEbHvXuuSiBDUMWitqx5NM36IS26ZSFx3RuPj0HwPs3H4sNhxPzuWKVuIVTP",
+ "display_category": "",
+ "display_mood": "Happy",
+ "vid": "8dee1ab3fafee962",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8dee1ab3fafee962",
+ "fp_ref_id": "8dee1ab3fafee962",
+ "reference_vid": "8dee1ab3fafee962",
+ "mood": "Happy",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "len": 95.783,
+ "popularity_percentile": 77,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100256",
+ "title": "Divertissement",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Classical"
+}

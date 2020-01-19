@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 5,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChAwYmE5ZGU1YTczYzI5ZDFhEAAYAg%3D%3D&sigh=sxGScO5Xw-4MD5kbjKfZZQ",
+ "display_category": "",
+ "reference_vid": "0ba9de5a73c29d1a",
+ "title": "Circular",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0ba9de5a73c29d1a",
+ "track_url": "",
+ "len": 133.183,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "1NGW_Am0mFXhqP0X0GKt--e_lXdoc0mHPVOtFTlNUiqNxy35lHOokqTvzwQ-N93g",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "vid": "0ba9de5a73c29d1a",
+ "artist_url": "",
+ "artist": "Gunnar Olsen",
+ "category": "",
+ "fp_ref_id": "0ba9de5a73c29d1a",
+ "display_mood": "Funky",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "artist_channel_url": null
+}

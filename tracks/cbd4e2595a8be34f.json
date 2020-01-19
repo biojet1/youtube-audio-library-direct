@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 207.183,
+ "fp_ref_id": "cbd4e2595a8be34f",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "LRLlBV2Ria-coR7tL9bLF6-9aXxiNhsCvAphPA-rTfuirDw0U4OAMxK2L0Qs_PA3",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Classical",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300016",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cbd4e2595a8be34f",
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Classical",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjRDBIWChBjYmQ0ZTI1OTVhOGJlMzRmEAAYAg%3D%3D&sigh=C_n27IFQrYUU1ZHjapSoTw",
+ "title": "Decline",
+ "reference_vid": "cbd4e2595a8be34f",
+ "vid": "cbd4e2595a8be34f"
+}

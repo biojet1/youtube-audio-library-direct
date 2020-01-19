@@ -1,0 +1,29 @@
+{
+ "vid": "b4cef9c3e0cedb91",
+ "display_mood": "Happy",
+ "title": "Jingle Bells",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBiNGNlZjljM2UwY2VkYjkxEAAYAg%3D%3D&sigh=5p1mOJQ4fuQp2lTspoVRTg",
+ "display_genre": "Holiday",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b4cef9c3e0cedb91",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100187",
+ "popularity_percentile": 61,
+ "genre": "Holiday",
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "reference_vid": "b4cef9c3e0cedb91",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "Ja-KOL7JvMNiZ51OTQ2AQmw4EYM8UQlVu75YREK2w8MzJ4yp_7G9XF4OqYdR3rCV",
+ "artist_url": "http://incompetech.com/",
+ "len": 102.083,
+ "fp_ref_id": "b4cef9c3e0cedb91",
+ "license_type": 6,
+ "is_new_track": false
+}

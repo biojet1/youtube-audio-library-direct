@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "2374d08437971a52",
+ "track_url": "",
+ "fp_ref_id": "2374d08437971a52",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "2374d08437971a52",
+ "display_mood": "Dark",
+ "len": 234.05,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCkDhIWChAyMzc0ZDA4NDM3OTcxYTUyEAAYAg%3D%3D&sigh=qP9NJa_tLW6dLbdOLuHCzw",
+ "popularity_percentile": 13,
+ "streamid": "Xl-ydB_uiCRRvJycWJRy9GnnbnVjKF7-_3-BsNgHWk_mSthdP1senZ6MfpmXb8uP",
+ "license_type": 0,
+ "display_genre": "Ambient",
+ "category": "",
+ "title": "Birds",
+ "genre": "Ambient",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2374d08437971a52"
+}

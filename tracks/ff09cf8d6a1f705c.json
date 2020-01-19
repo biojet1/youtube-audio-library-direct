@@ -1,0 +1,32 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChBmZjA5Y2Y4ZDZhMWY3MDVjEAAYAg%3D%3D&sigh=vTVmUqjjgvJn7yaJQ2n9JQ",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "ff09cf8d6a1f705c",
+ "reference_vid": "ff09cf8d6a1f705c",
+ "popularity_percentile": 99,
+ "artist": "The Green Orbs",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ff09cf8d6a1f705c",
+ "mood": "Happy",
+ "genre": "Children's",
+ "streamid": "fHyHg-jkdAMS-3xVgu0OrvmzPjSqBnP06pBHiRr5f9i-UAg2eZbdNyMl5haTrUVN",
+ "title": "The Farmer In The Dell (Instrumental)",
+ "downloadable": true,
+ "category": "",
+ "len": 110.35,
+ "artist_url": "",
+ "display_genre": "Children's",
+ "fp_ref_id": "ff09cf8d6a1f705c",
+ "album": "None"
+}

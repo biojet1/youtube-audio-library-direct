@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "fp_ref_id": "7a2f453cf8896447",
+ "artist": "Gunnar Olsen",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Fly High",
+ "vid": "7a2f453cf8896447",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChA3YTJmNDUzY2Y4ODk2NDQ3EAAYAg%3D%3D&sigh=78dvDKdslao55eHnEF7EOg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a2f453cf8896447",
+ "display_category": "",
+ "len": 174.366,
+ "album": "None",
+ "license_type": 0,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "JcRwCFLH0aSgtuFBBylX4qwXFEyc01r27hQbrnFF5WW_JlcoNMswtdcOEGadwDp3",
+ "reference_vid": "7a2f453cf8896447",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "popularity_percentile": 48,
+ "artist_url": "",
+ "genre": "Dance & Electronic"
+}

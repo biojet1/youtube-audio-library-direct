@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=636cfbafb48d5ba5",
+ "artist_url": "",
+ "downloadable": true,
+ "len": 160.05,
+ "album": "None",
+ "mood": "Bright",
+ "artist": "Huma-Huma",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChA2MzZjZmJhZmI0OGQ1YmE1EAAYAg%3D%3D&sigh=0TRYO46PVs3mXuhUaXTZYw",
+ "artist_channel_url": null,
+ "popularity_percentile": 39,
+ "track_url": "",
+ "display_category": "",
+ "favorite": false,
+ "fp_ref_id": "636cfbafb48d5ba5",
+ "title": "Crimson Fly",
+ "vid": "636cfbafb48d5ba5",
+ "display_mood": "Bright",
+ "reference_vid": "636cfbafb48d5ba5",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "streamid": "ZpYTQDprftgaR7BaeFSrvD8_NL9Rc9Yneyl7cKnanJtXQ-xcIC6jxQtAso_-RVic",
+ "category": ""
+}

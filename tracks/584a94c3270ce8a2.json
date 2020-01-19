@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "fp_ref_id": "584a94c3270ce8a2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCRDxIWChA1ODRhOTRjMzI3MGNlOGEyEAAYAg%3D%3D&sigh=vOEpFKZpFQAXmjup7DBhhg",
+ "streamid": "g-FFVyrHjSbkNgT6vksRMaxRwzReENt_g8x7PIKPk7fJMmb0eXsWW2Er7t-eN3cd",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 248,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=584a94c3270ce8a2",
+ "favorite": false,
+ "title": "Selfie Stick",
+ "artist": "Quincas Moreira",
+ "genre": "Pop",
+ "vid": "584a94c3270ce8a2",
+ "display_category": "",
+ "reference_vid": "584a94c3270ce8a2",
+ "instruments": [
+  "piano",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Pop",
+ "is_new_track": false
+}

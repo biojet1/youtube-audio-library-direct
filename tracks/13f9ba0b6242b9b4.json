@@ -1,0 +1,30 @@
+{
+ "mood": "Funky",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChAxM2Y5YmEwYjYyNDJiOWI0EAAYAg%3D%3D&sigh=GuQ_UVtEacAkddSpQyAfJg",
+ "display_mood": "Funky",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=13f9ba0b6242b9b4",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Houses of Heaven",
+ "title": "Slow Mo",
+ "reference_vid": "13f9ba0b6242b9b4",
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "13f9ba0b6242b9b4",
+ "vid": "13f9ba0b6242b9b4",
+ "category": "",
+ "streamid": "17jwy1WTMLBvAvHlOlALCXKVfS-KrSsi81H_HppXdIDE8CMKIGe862my9mt8htMX",
+ "popularity_percentile": 99,
+ "len": 93,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

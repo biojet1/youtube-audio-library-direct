@@ -1,0 +1,32 @@
+{
+ "display_mood": "Inspirational",
+ "genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Piano",
+  "Strings"
+ ],
+ "album": "None",
+ "streamid": "rM5MqInITqruoErUC3EE45cl2DdZmeceuw0IZf3bTbjT5381ALdrvbeYxg-iApY6",
+ "title": "Pas de Deux",
+ "display_genre": "Cinematic",
+ "vid": "bcac430cc8f35ca7",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "bcac430cc8f35ca7",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "license_type": 0,
+ "fp_ref_id": "bcac430cc8f35ca7",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Bird Creek",
+ "len": 92.683,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChBiY2FjNDMwY2M4ZjM1Y2E3EAAYAg%3D%3D&sigh=mfb--oorQNG5eTMJ3gpHQw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bcac430cc8f35ca7"
+}

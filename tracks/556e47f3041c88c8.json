@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "len": 114.866,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=556e47f3041c88c8",
+ "category": "",
+ "streamid": "t4wC7-Rsz4HNuFyqtT4jrjMtvxqPr-Jx91Muj2ngoZjCLtMzjdfUEivswZ17Vfwf",
+ "fp_ref_id": "556e47f3041c88c8",
+ "mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChA1NTZlNDdmMzA0MWM4OGM4EAAYAg%3D%3D&sigh=-nuF0jfpn4QbQPHg1zri1g",
+ "popularity_percentile": 0,
+ "reference_vid": "556e47f3041c88c8",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "vid": "556e47f3041c88c8",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "title": "Rainy Day",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist": "Matt Harris"
+}

@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChAzNWNmMWU1NjhkMjZjMmI2EAAYAg%3D%3D&sigh=wAkPkNuPgJgezXSNY-JEDA",
+ "display_category": "",
+ "display_mood": "Dark",
+ "album": "None",
+ "vid": "35cf1e568d26c2b6",
+ "downloadable": true,
+ "reference_vid": "35cf1e568d26c2b6",
+ "favorite": false,
+ "fp_ref_id": "35cf1e568d26c2b6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=35cf1e568d26c2b6",
+ "genre": "Dance & Electronic",
+ "streamid": "qgi9KEdR0kBwFJEggtUgpewq_sMaGldCbQ9ouM4E66bk8vCGjxpO7uPgBc3oW-D3",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100513",
+ "mood": "Dark",
+ "len": 118.216,
+ "display_genre": "Dance & Electronic",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "BlockMan - Cephelopod",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth"
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "2530e3cf0b76c105",
+ "display_genre": "Pop",
+ "artist": "Biz Baz Studio",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChAyNTMwZTNjZjBiNzZjMTA1EAAYAg%3D%3D&sigh=lwfkBRgee0M12hbLWnIiVw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2530e3cf0b76c105",
+ "len": 102,
+ "mood": "Happy",
+ "title": "Conjuto Grande",
+ "vid": "2530e3cf0b76c105",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "genre": "Pop",
+ "display_mood": "Happy",
+ "album": "None",
+ "instruments": [
+  "bass",
+  "acoustic guitar",
+  "drums",
+  "strings"
+ ],
+ "popularity_percentile": 99,
+ "reference_vid": "2530e3cf0b76c105",
+ "streamid": "HG60cN_TZExQuVkGftKwk7l6S7f-NVGgx60ou4da7U6ZwVG3qmfhMlEX76U91g24"
+}

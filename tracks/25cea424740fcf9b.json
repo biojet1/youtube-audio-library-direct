@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "25cea424740fcf9b",
+ "display_category": "",
+ "fp_ref_id": "25cea424740fcf9b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=25cea424740fcf9b",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "instruments": [
+  "organ",
+  "piano",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChAyNWNlYTQyNDc0MGZjZjliEAAYAg%3D%3D&sigh=L5LVPd9xGJ3j-uE_xeygog",
+ "streamid": "IV5QZt73hL4EIG41kEWuJlXv8ZOudEBRUVpgyvCIDJ-rpKSFnKEibxDTOGqQFO16",
+ "genre": "Pop",
+ "vid": "25cea424740fcf9b",
+ "artist": "Dan Henig",
+ "display_genre": "Pop",
+ "title": "Midnight",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 92,
+ "display_mood": "Dramatic",
+ "downloadable": true
+}

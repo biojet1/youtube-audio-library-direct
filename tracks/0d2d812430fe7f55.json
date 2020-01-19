@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "genre": "Cinematic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar",
+  "bass"
+ ],
+ "reference_vid": "0d2d812430fe7f55",
+ "streamid": "0r220d-uxUkxIp4q1LNHFFVSwtxmIUyzhTdJ67SxELEu7Dq_-lbfe5xUo-zPApIs",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d2d812430fe7f55",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAwZDJkODEyNDMwZmU3ZjU1EAAYAg%3D%3D&sigh=dovNr4rK6NTf27es10YDIQ",
+ "len": 130,
+ "is_new_track": false,
+ "mood": "Calm",
+ "vid": "0d2d812430fe7f55",
+ "title": "Alive and Sleeping",
+ "display_mood": "Calm",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "favorite": false,
+ "fp_ref_id": "0d2d812430fe7f55",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "artist": "Jeremy Korpas"
+}

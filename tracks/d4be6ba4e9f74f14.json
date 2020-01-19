@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d4be6ba4e9f74f14",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "category": "",
+ "title": "The Plan's Working",
+ "track_url": "",
+ "vid": "d4be6ba4e9f74f14",
+ "mood": "Bright",
+ "is_new_track": false,
+ "len": 102,
+ "instruments": [
+  "strings"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "cGn9xjJuKmzIAVNvDwhxgJPxz3KYrCt0lq8DOGIifMT-UJyh78t4wEEPhYJp3QEl",
+ "display_genre": "Cinematic",
+ "artist": "Cooper Cannell",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "reference_vid": "d4be6ba4e9f74f14",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBkNGJlNmJhNGU5Zjc0ZjE0EAAYAg%3D%3D&sigh=i-8JZCy_ZgAfi2FE2wTpfQ",
+ "fp_ref_id": "d4be6ba4e9f74f14",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "license_type": 1
+}

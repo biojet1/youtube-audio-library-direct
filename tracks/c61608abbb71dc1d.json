@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 138,
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "fp_ref_id": "c61608abbb71dc1d",
+ "reference_vid": "c61608abbb71dc1d",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "license_type": 1,
+ "streamid": "TXH32nowwqCtYFooGzHOTTTbkzQvhxqLSCk_jpyMFf9-gu2fo0EQr1-eR2q7mNi2",
+ "vid": "c61608abbb71dc1d",
+ "mood": "Happy",
+ "artist": "Rondo Brothers",
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChBjNjE2MDhhYmJiNzFkYzFkEAAYAg%3D%3D&sigh=J-ejShOysD-wuphjmub6aw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c61608abbb71dc1d",
+ "category": "",
+ "title": "Valerie Plain",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "bass",
+  "guitar"
+ ]
+}

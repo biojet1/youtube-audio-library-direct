@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "7a8b226586ccc803",
+ "reference_vid": "7a8b226586ccc803",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a8b226586ccc803",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "Nab86JNYKa9EpEQT5sLqWE4gDHBpHPQkH9boXlxi-mb71NzZE4daUTP2-_E6FWgR",
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 48,
+ "mood": "Funky",
+ "downloadable": true,
+ "vid": "7a8b226586ccc803",
+ "len": 183.583,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "JR Tundra",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChA3YThiMjI2NTg2Y2NjODAzEAAYAg%3D%3D&sigh=nWrEj6pQFGPemmqrlQqWvA",
+ "display_mood": "Funky",
+ "album": "None",
+ "title": "Bar Crawl",
+ "display_category": ""
+}

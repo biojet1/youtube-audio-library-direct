@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "fp_ref_id": "bb2d84a3a235a87f",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "title": "Troubled Bridges",
+ "vid": "bb2d84a3a235a87f",
+ "mood": "Calm",
+ "display_genre": "Classical",
+ "len": 61.183,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChBiYjJkODRhM2EyMzVhODdmEAAYAg%3D%3D&sigh=seT1FHQqd854BexDXMqJzg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bb2d84a3a235a87f",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "yY8BMDz1ELVx64-89BPiRY4d5SBYtfK6dubZd5ihzpypQ07-AVpAxrPehkZW4rcB",
+ "reference_vid": "bb2d84a3a235a87f",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Classical",
+ "artist_url": "http://audionautix.com/"
+}

@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "genre": "Pop",
+ "is_new_track": false,
+ "artist": "Quincas Moreira",
+ "title": "Rio Nights",
+ "streamid": "LLE_kAnJfn-dyDqgrePPZ1fh8CNAxPxfWZ9_5QlXlmZ3PJYy0mr0RUyX30EjrwRv",
+ "downloadable": true,
+ "album": "None",
+ "len": 131,
+ "fp_ref_id": "eef40ea8453d44ef",
+ "vid": "eef40ea8453d44ef",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "display_mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=eef40ea8453d44ef",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "acoustic guitar"
+ ],
+ "license_type": 1,
+ "mood": "Calm",
+ "display_genre": "Pop",
+ "track_url": "",
+ "reference_vid": "eef40ea8453d44ef",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBlZWY0MGVhODQ1M2Q0NGVmEAAYAg%3D%3D&sigh=RfFXGyIO7j2dzysr7cCoAA",
+ "category": "",
+ "popularity_percentile": 99
+}

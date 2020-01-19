@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "mood": "Dark",
+ "instruments": [
+  "bass",
+  "drums",
+  "808",
+  "synth"
+ ],
+ "display_mood": "Dark",
+ "fp_ref_id": "f70b9369b864911a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChBmNzBiOTM2OWI4NjQ5MTFhEAAYAg%3D%3D&sigh=UIfxhEWlmVwbkRp_FvIdnA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "category": "",
+ "genre": "Hip Hop & Rap",
+ "reference_vid": "f70b9369b864911a",
+ "downloadable": true,
+ "streamid": "b8z5VXq0PdUOVOX-X4RhWNVslHbuw7ip9LBHKj7OrjyZhr_bSudbsZ4aUEwklvJE",
+ "track_url": "",
+ "vid": "f70b9369b864911a",
+ "len": 161,
+ "license_type": 1,
+ "title": "Trap Picasso",
+ "is_new_track": false,
+ "artist": "Verified Picasso",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f70b9369b864911a",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

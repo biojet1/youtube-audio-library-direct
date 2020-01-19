@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi7DhIWChAxMmI4NmE3NTNjNDc1ZWMyEAAYAg%3D%3D&sigh=-KVi0FBm27hTiFrNqgYzCg",
+ "is_new_track": false,
+ "display_mood": "Sad",
+ "artist": "Audionautix",
+ "display_genre": "Alternative & Punk",
+ "mood": "Sad",
+ "reference_vid": "12b86a753c475ec2",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=12b86a753c475ec2",
+ "favorite": false,
+ "popularity_percentile": 31,
+ "artist_url": "http://audionautix.com/",
+ "artist_channel_url": null,
+ "category": "",
+ "instruments": [
+  "Electric Guitar",
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "license_type": 6,
+ "fp_ref_id": "12b86a753c475ec2",
+ "title": "Drifting 2",
+ "len": 237.783,
+ "streamid": "ZxP6tDWbxmp2TnnqnYouxFyT-fSSxzK19smewysTdKdf9W7A98tkghOWy_zgw90L",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Alternative & Punk",
+ "vid": "12b86a753c475ec2"
+}

@@ -1,0 +1,30 @@
+{
+ "artist": "Kevin MacLeod",
+ "mood": "Calm",
+ "vid": "3f729f64a2166536",
+ "streamid": "O_wGKHBL2WUobPfZ9lsH52ygP4K86HEXrrlVk2je7e9pcYc2__vw8KncIxhN-k4z",
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100563",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f729f64a2166536",
+ "fp_ref_id": "3f729f64a2166536",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIikARIWChAzZjcyOWY2NGEyMTY2NTM2EAAYAg%3D%3D&sigh=iQ9iLikJy3RU4kpp6jqHSA",
+ "len": 21.883,
+ "display_genre": "Cinematic",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Cinematic",
+ "reference_vid": "3f729f64a2166536",
+ "title": "Home Base Groove",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "display_mood": "Calm",
+ "popularity_percentile": 95,
+ "downloadable": true,
+ "license_type": 6
+}

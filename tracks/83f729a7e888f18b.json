@@ -1,0 +1,33 @@
+{
+ "mood": "Inspirational",
+ "artist": "Silent Partner",
+ "vid": "83f729a7e888f18b",
+ "display_category": "",
+ "streamid": "p4zFxCTQ8qbxWgWziweqc7yhjeI66vLcb1z2RE-ETTmFzGQq76mxGrvodzAIKXvE",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=83f729a7e888f18b",
+ "fp_ref_id": "83f729a7e888f18b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChA4M2Y3MjlhN2U4ODhmMThiEAAYAg%3D%3D&sigh=TNaBl2r3UY6tG3c4_9aNRw",
+ "display_genre": "Rock",
+ "len": 167.55,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar",
+  "synth"
+ ],
+ "reference_vid": "83f729a7e888f18b",
+ "title": "Rooftops",
+ "genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 52
+}

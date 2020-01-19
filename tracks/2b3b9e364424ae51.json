@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 162.15,
+ "reference_vid": "2b3b9e364424ae51",
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2b3b9e364424ae51",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChAyYjNiOWUzNjQ0MjRhZTUxEAAYAg%3D%3D&sigh=xFrc3v19TuxSEmzDlNFcbw",
+ "display_mood": "Funky",
+ "fp_ref_id": "2b3b9e364424ae51",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "vid": "2b3b9e364424ae51",
+ "artist_channel_url": null,
+ "streamid": "bT7tPWobXNlgTM381QLaSCZ-vyn-vv3lM87nFLyme8-wuMJNuET23r2KKqWIJ54V",
+ "license_type": 0,
+ "title": "South Town",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Riot",
+ "mood": "Funky"
+}

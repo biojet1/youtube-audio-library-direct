@@ -1,0 +1,33 @@
+{
+ "artist": "Silent Partner",
+ "display_category": "",
+ "genre": "Pop",
+ "vid": "eb4492f3ad703c07",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "acoustic guitar",
+  "bass",
+  "piano"
+ ],
+ "reference_vid": "eb4492f3ad703c07",
+ "artist_url": "",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "album": "None",
+ "category": "",
+ "license_type": 0,
+ "display_genre": "Pop",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "eb4492f3ad703c07",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=eb4492f3ad703c07",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChBlYjQ0OTJmM2FkNzAzYzA3EAAYAg%3D%3D&sigh=tTRVEr6fKNEAtmH6gWgTag",
+ "streamid": "7LsVbmH7Pj3SUq8kFrJSilhUtVMcqDTBzYJtD7dwPIxdTEVJXq-j7Gwpnvsxm9my",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 170,
+ "title": "Sunday Plans",
+ "favorite": false
+}

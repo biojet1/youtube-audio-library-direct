@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "genre": "Cinematic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "flute",
+  "woodwinds",
+  "acoustic guitar",
+  "strings",
+  "drums"
+ ],
+ "reference_vid": "64d12f55c5c3ea45",
+ "streamid": "CkOzvCOqO8ZBH_zLscDBXK2a1P4M_Qkr4UiLs3XGYODg4Vf1fdZziU5TYmQZN4j9",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=64d12f55c5c3ea45",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChA2NGQxMmY1NWM1YzNlYTQ1EAAYAg%3D%3D&sigh=t80ifHUu0de1nqynbNtvVQ",
+ "len": 179,
+ "is_new_track": false,
+ "mood": "Romantic",
+ "vid": "64d12f55c5c3ea45",
+ "title": "Portrait of Time",
+ "display_mood": "Romantic",
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "favorite": false,
+ "fp_ref_id": "64d12f55c5c3ea45",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "artist": "Aakash Gandhi"
+}

@@ -1,0 +1,32 @@
+{
+ "mood": "Happy",
+ "title": "Log Cabin",
+ "album": "None",
+ "artist": "Silent Partner",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Country & Folk",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "display_category": "",
+ "vid": "0de8d55397be89e6",
+ "streamid": "Xov6Thf9f1lfoQtyOCfv6JHKqa-rBsMib5sstw1YKkih7JwBLdkdTihD6BVpOq_s",
+ "genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChAwZGU4ZDU1Mzk3YmU4OWU2EAAYAg%3D%3D&sigh=ya6ALJvw24io7zx6aoUhCw",
+ "fp_ref_id": "0de8d55397be89e6",
+ "len": 174.083,
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "piano"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0de8d55397be89e6",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0de8d55397be89e6",
+ "downloadable": true
+}

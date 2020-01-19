@@ -1,0 +1,30 @@
+{
+ "genre": "Country & Folk",
+ "display_genre": "Country & Folk",
+ "len": 118,
+ "display_category": "",
+ "reference_vid": "2428b2eb38755762",
+ "popularity_percentile": 99,
+ "artist_url": "",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Dan Lebowitz",
+ "fp_ref_id": "2428b2eb38755762",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "streamid": "jOa5pmooAmDSa0tRSEhJ91faPCmIHYSIrKCrdbi2ZQc4eSt_yh-wTb-RS8d31Th6",
+ "display_mood": "Calm",
+ "vid": "2428b2eb38755762",
+ "track_url": "",
+ "instruments": [
+  "acoustic guitar",
+  "strings"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChAyNDI4YjJlYjM4NzU1NzYyEAAYAg%3D%3D&sigh=58z-9CW1F1FZxlJfvD7FDQ",
+ "category": "",
+ "title": "Room For Two?",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2428b2eb38755762"
+}

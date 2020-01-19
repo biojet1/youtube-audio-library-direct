@@ -1,0 +1,31 @@
+{
+ "streamid": "v7pdb5o-PuScHcyvQP7_CFkHsA9uVZwFJ1CYHomW0OxdyTaKCZzx9DyoudcJnxmq",
+ "genre": "Reggae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChBlM2Y4YTY2MjdhZjM1NTg2EAAYAg%3D%3D&sigh=3gG3g-d1-zmnn13YD6XNnw",
+ "display_mood": "Funky",
+ "display_category": "",
+ "reference_vid": "e3f8a6627af35586",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e3f8a6627af35586",
+ "downloadable": true,
+ "len": 146.25,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "fp_ref_id": "e3f8a6627af35586",
+ "album": "None",
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Silent Partner",
+ "popularity_percentile": 89,
+ "category": "",
+ "title": "Double Down",
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "e3f8a6627af35586",
+ "display_genre": "Reggae"
+}

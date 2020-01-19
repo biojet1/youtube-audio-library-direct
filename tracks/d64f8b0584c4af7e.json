@@ -1,0 +1,32 @@
+{
+ "len": 117.983,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d64f8b0584c4af7e",
+ "instruments": [
+  "piano",
+  "acoustic guitar",
+  "bass",
+  "synth"
+ ],
+ "display_mood": "Calm",
+ "streamid": "ATYP2EB4jhPs6oLyjsdV9ymMSUrA9a_Ntamrj3WTPziRzYPSFY1i0OOOxAdfNPuf",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChBkNjRmOGIwNTg0YzRhZjdlEAAYAg%3D%3D&sigh=bw32y-9Z-5kWwxVYgQvuig",
+ "title": "Terminal D",
+ "vid": "d64f8b0584c4af7e",
+ "artist_url": "",
+ "license_type": 0,
+ "mood": "Calm",
+ "artist": "Silent Partner",
+ "favorite": false,
+ "popularity_percentile": 83,
+ "display_genre": "Ambient",
+ "reference_vid": "d64f8b0584c4af7e",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Ambient",
+ "fp_ref_id": "d64f8b0584c4af7e",
+ "track_url": "",
+ "album": "None"
+}

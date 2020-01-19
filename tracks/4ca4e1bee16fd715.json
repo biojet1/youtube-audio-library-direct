@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ca4e1bee16fd715",
+ "popularity_percentile": 30,
+ "reference_vid": "4ca4e1bee16fd715",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "ZxAB0ApWv2acVqc7_Zj23roumAgZ0zNlTfsJgkPEXzpx-Q324r6FzFX0H1sQuDKv",
+ "genre": "Hip Hop & Rap",
+ "len": 157.016,
+ "artist": "Otis McDonald",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Organ"
+ ],
+ "title": "Drive",
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChA0Y2E0ZTFiZWUxNmZkNzE1EAAYAg%3D%3D&sigh=KnJEcIq5mDbmRluIJw--Ow",
+ "artist_url": "",
+ "fp_ref_id": "4ca4e1bee16fd715",
+ "track_url": "",
+ "mood": "Funky",
+ "license_type": 1,
+ "display_category": "",
+ "album": "None",
+ "vid": "4ca4e1bee16fd715",
+ "is_new_track": false,
+ "favorite": false
+}

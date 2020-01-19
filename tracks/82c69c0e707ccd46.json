@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDCBBIWChA4MmM2OWMwZTcwN2NjZDQ2EAAYAg%3D%3D&sigh=dD5zImUlDB8-Y2Ksm25Gag",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "artist": "Audionautix",
+ "display_genre": "Country & Folk",
+ "mood": "Bright",
+ "reference_vid": "82c69c0e707ccd46",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=82c69c0e707ccd46",
+ "favorite": false,
+ "popularity_percentile": 31,
+ "artist_url": "http://audionautix.com/",
+ "artist_channel_url": null,
+ "category": "",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Strings"
+ ],
+ "license_type": 6,
+ "fp_ref_id": "82c69c0e707ccd46",
+ "title": "Banjo Hop",
+ "len": 74.55,
+ "streamid": "ZktfwHDy8XfYWckc1cliEmJhW6j9wU46daown4fZlocM2R5Tubidg-X1orzSJ34z",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Country & Folk",
+ "vid": "82c69c0e707ccd46"
+}

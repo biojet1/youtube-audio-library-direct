@@ -1,0 +1,32 @@
+{
+ "reference_vid": "ac33d15c1ba4c080",
+ "display_mood": "Sad",
+ "fp_ref_id": "ac33d15c1ba4c080",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac33d15c1ba4c080",
+ "mood": "Sad",
+ "artist": "Jingle Punks",
+ "vid": "ac33d15c1ba4c080",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj4BBIWChBhYzMzZDE1YzFiYTRjMDgwEAAYAg%3D%3D&sigh=AswsHLfEYJCU33pRtFC1NA",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 68,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Organ"
+ ],
+ "downloadable": true,
+ "streamid": "9JvDeTiVBgHgFq1P4IuKb1ne8tYFFh5880XCLXgSxSAMnDrvxFq0qo24_dAusW1W",
+ "len": 81.516,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Doctor True",
+ "genre": "Country & Folk",
+ "display_category": ""
+}

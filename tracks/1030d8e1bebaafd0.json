@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 0,
+ "vid": "1030d8e1bebaafd0",
+ "fp_ref_id": "1030d8e1bebaafd0",
+ "album": "None",
+ "streamid": "wblIDGxp29ceZiloJTml6ReKts_ShT27W1Ea9XoNUM6KsJfj5H3hpyp_5-UmRZLM",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "artist": "Topher Mohr and Alex Elena",
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1030d8e1bebaafd0",
+ "downloadable": true,
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChAxMDMwZDhlMWJlYmFhZmQwEAAYAg%3D%3D&sigh=8fBo222_bbCQSWzuRfrPog",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 222.916,
+ "reference_vid": "1030d8e1bebaafd0",
+ "title": "Trouble",
+ "favorite": false,
+ "track_url": ""
+}

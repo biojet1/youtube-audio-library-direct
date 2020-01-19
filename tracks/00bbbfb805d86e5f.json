@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://www.twinmusicom.org/",
+ "display_mood": "Sad",
+ "title": "Funeral Procession",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=00bbbfb805d86e5f",
+ "reference_vid": "00bbbfb805d86e5f",
+ "mood": "Sad",
+ "artist": "Twin Musicom",
+ "track_url": "",
+ "album": "None",
+ "len": 64.65,
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_category": "",
+ "display_genre": "Ambient",
+ "streamid": "BaIGdyjU-_B4PKpKeHV_eqQagPc2IKg67CZDBUDbE49PxP6gDOkmu5co7JIAZDXo",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "00bbbfb805d86e5f",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "00bbbfb805d86e5f",
+ "category": "",
+ "genre": "Ambient",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID0AxIWChAwMGJiYmZiODA1ZDg2ZTVmEAAYAg%3D%3D&sigh=HZTfEEyFNYfbdm2nj922nA"
+}

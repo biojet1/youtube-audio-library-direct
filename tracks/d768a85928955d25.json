@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "display_mood": "Bright",
+ "title": "A-Tisket A-Tasket",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d768a85928955d25",
+ "reference_vid": "d768a85928955d25",
+ "mood": "Bright",
+ "artist": "The Green Orbs",
+ "track_url": "",
+ "album": "None",
+ "len": 163.416,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Organ",
+  "Synth"
+ ],
+ "display_category": "",
+ "display_genre": "Children's",
+ "streamid": "Plq-aAJuemTUg5f62G-I5UGTZWqPTS3FAi_voSUepBo6PWthuaeSRh1tWkrd9R4i",
+ "license_type": 1,
+ "popularity_percentile": 84,
+ "fp_ref_id": "d768a85928955d25",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "d768a85928955d25",
+ "category": "",
+ "genre": "Children's",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChBkNzY4YTg1OTI4OTU1ZDI1EAAYAg%3D%3D&sigh=Tdno1CLU3hytNQqiAoSZqQ"
+}

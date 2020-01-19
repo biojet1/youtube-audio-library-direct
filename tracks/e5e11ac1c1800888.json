@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "mood": "Sad",
+ "len": 110.283,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "8NuNdxwjvb4ZPW_cT4NXGrW4uTlaXal5aceDeTbKyp2Zs7MFNLkiDkdqCr9Em0wE",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChBlNWUxMWFjMWMxODAwODg4EAAYAg%3D%3D&sigh=ZsHnp7PeUoyGUQaSGNieBA",
+ "reference_vid": "e5e11ac1c1800888",
+ "title": "Red Chair",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e5e11ac1c1800888",
+ "vid": "e5e11ac1c1800888",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "fp_ref_id": "e5e11ac1c1800888",
+ "display_mood": "Sad",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Rock",
+ "license_type": 0,
+ "genre": "Rock"
+}

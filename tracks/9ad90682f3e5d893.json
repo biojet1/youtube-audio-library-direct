@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9ad90682f3e5d893",
+ "category": "",
+ "license_type": 0,
+ "title": "Underdog",
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Trumpet",
+  "Synth"
+ ],
+ "display_mood": "Dramatic",
+ "album": "None",
+ "streamid": "HdOku9CiNdFzLcgXkm2APNDZKWOr5YE6QD1vi0agKUN7weQMDNfyjYHfr9WZ7wLm",
+ "len": 131.383,
+ "artist": "The 126ers",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9ad90682f3e5d893",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChA5YWQ5MDY4MmYzZTVkODkzEAAYAg%3D%3D&sigh=uYqpojYqFc0u8hMkjqjTtw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9ad90682f3e5d893",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "9ad90682f3e5d893",
+ "track_url": ""
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "len": 268.299,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0fd1d553e5b42053",
+ "category": "",
+ "streamid": "mmwFT_kvxMaj87VA_J4ZqGX2VIL5SImVBU3Qnzd7Dw6DToQiJT_yhaKRWtj6Csyz",
+ "fp_ref_id": "0fd1d553e5b42053",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCtEBIWChAwZmQxZDU1M2U1YjQyMDUzEAAYAg%3D%3D&sigh=Cf85M8HeJ4WQzcXpI5g82Q",
+ "popularity_percentile": 0,
+ "reference_vid": "0fd1d553e5b42053",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Synth",
+  "Trumpet",
+  "Strings",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "0fd1d553e5b42053",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "Houston Vibes Score",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Unicorn Heads"
+}

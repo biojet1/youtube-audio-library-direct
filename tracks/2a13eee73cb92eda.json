@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 16,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 61.083,
+ "reference_vid": "2a13eee73cb92eda",
+ "display_genre": "Cinematic",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2a13eee73cb92eda",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Piano",
+  "Drums",
+  "Strings"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChAyYTEzZWVlNzNjYjkyZWRhEAAYAg%3D%3D&sigh=E061yg4RwePk1HuUT4cLTg",
+ "display_mood": "Happy",
+ "fp_ref_id": "2a13eee73cb92eda",
+ "track_url": "",
+ "genre": "Cinematic",
+ "vid": "2a13eee73cb92eda",
+ "artist_channel_url": null,
+ "streamid": "xoJ7vVuKYusDW4onMj4QiZocNjTyvXIKDYHKfLbj2kVs7QM0-8tNStzZwnbAd-wx",
+ "license_type": 0,
+ "title": "Morning Walk",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Jingle Punks",
+ "mood": "Happy"
+}

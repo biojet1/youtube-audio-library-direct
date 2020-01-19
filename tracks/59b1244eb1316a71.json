@@ -1,0 +1,29 @@
+{
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "59b1244eb1316a71",
+ "artist_channel_url": null,
+ "len": 210.583,
+ "downloadable": true,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChA1OWIxMjQ0ZWIxMzE2YTcxEAAYAg%3D%3D&sigh=COvh-ieBJXadno3DE5oEWQ",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "vid": "59b1244eb1316a71",
+ "display_category": "",
+ "reference_vid": "59b1244eb1316a71",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=59b1244eb1316a71",
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100619",
+ "streamid": "phQdOipSrfwIOR0uKFOOddB-NMWMieeU-erVtXjHnbgdmz_KKNaqubd_0B03j4VQ",
+ "mood": "Dark",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Synth"
+ ],
+ "title": "Impact Lento",
+ "popularity_percentile": 44,
+ "category": ""
+}

@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "aakvLElI1OytCgfBZ4VHrN2ajmULPhWaWYsjt9Bir3VcVEEqtTa1nAlBp9ix5aKQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=827015f261d0f9ed",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDfDxIWChA4MjcwMTVmMjYxZDBmOWVkEAAYAg%3D%3D&sigh=reUUi7jYnrAE-4q_xYVCyg",
+ "vid": "827015f261d0f9ed",
+ "display_category": "",
+ "title": "Old Comrades March",
+ "album": "None",
+ "mood": "Bright",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "United States Marine Band",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "reference_vid": "827015f261d0f9ed",
+ "len": 258.05,
+ "popularity_percentile": 51,
+ "genre": "Classical",
+ "fp_ref_id": "827015f261d0f9ed",
+ "track_url": "",
+ "display_genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "license_type": 1
+}

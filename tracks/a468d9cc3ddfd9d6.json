@@ -1,0 +1,33 @@
+{
+ "display_genre": "Jazz & Blues",
+ "album": "None",
+ "reference_vid": "a468d9cc3ddfd9d6",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a468d9cc3ddfd9d6",
+ "title": "Brother Jack",
+ "mood": "Funky",
+ "len": 107.45,
+ "artist_url": "",
+ "artist": "JR Tundra",
+ "fp_ref_id": "a468d9cc3ddfd9d6",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Organ",
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "streamid": "Xvl1ah_-Kv7Sp2ydzeSrCg5zZovkdonJHmLBEfex4gxKCcOQ2q-YRR4ACKQ3Sbj0",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a468d9cc3ddfd9d6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChBhNDY4ZDljYzNkZGZkOWQ2EAAYAg%3D%3D&sigh=xtsjScE-NTFFE7ACyfc09Q"
+}

@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "display_mood": "Bright",
+ "vid": "8056665728ce1178",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8056665728ce1178",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Bright",
+ "display_genre": "Rock",
+ "fp_ref_id": "8056665728ce1178",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 171.95,
+ "track_url": "",
+ "category": "",
+ "streamid": "ll8fPkGqcaNP9uERpdiTQk42NAqkVPMd1vEcU2eernecRgQlrYMe74oXpkGTplxr",
+ "title": "Fresh Start",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA4MDU2NjY1NzI4Y2UxMTc4EAAYAg%3D%3D&sigh=SnZrTQ8xA8FdZ9OuZRmHPg",
+ "popularity_percentile": 50,
+ "reference_vid": "8056665728ce1178",
+ "artist": "Silent Partner",
+ "genre": "Rock"
+}

@@ -1,0 +1,33 @@
+{
+ "mood": "Bright",
+ "artist_channel_url": "/channel/UCPSf3-VnJZ73eoUECetfO5Q",
+ "artist_url": "https://www.youtube.com/channel/UCPSf3-VnJZ73eoUECetfO5Q",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChAzMjhhYzJiZjU3NjE5OTgxEAAYAg%3D%3D&sigh=B-HiTESCrav4jlfqU4cKKQ",
+ "display_mood": "Bright",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=328ac2bf57619981",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Slynk",
+ "title": "Uh Oh",
+ "reference_vid": "328ac2bf57619981",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "percussion",
+  "electric guitar"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "328ac2bf57619981",
+ "vid": "328ac2bf57619981",
+ "category": "",
+ "streamid": "1q5JgVqcsjnlLWc_McyJNY_vEaOdp665d2I5Fu3b5cD5o_kU7dZSCj35eG5zDPth",
+ "popularity_percentile": 99,
+ "len": 176,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

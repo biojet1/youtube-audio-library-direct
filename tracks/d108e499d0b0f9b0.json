@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano",
+  "Strings"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d108e499d0b0f9b0",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Romantic",
+ "artist": "Everet Almond",
+ "len": 185.616,
+ "display_category": "",
+ "display_genre": "Pop",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "JLXSXCxis1KgIftcUf-vhjx6hpIjWm9c3EPxHZctWy1hTocF43EfJ-JnZHe9GW2o",
+ "category": "",
+ "title": "Where She Walks",
+ "display_mood": "Romantic",
+ "favorite": false,
+ "reference_vid": "d108e499d0b0f9b0",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChBkMTA4ZTQ5OWQwYjBmOWIwEAAYAg%3D%3D&sigh=LmwDd40QN2WpVpDwW06kWA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d108e499d0b0f9b0",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "d108e499d0b0f9b0"
+}

@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 217.05,
+ "fp_ref_id": "a29d9a9dd2d9eac5",
+ "artist_url": "http://audionautix.com/",
+ "streamid": "WG49XVGrt4gUzEM3be4h9o8oauL-J8uXO4GBn94piShen9M7MDiuHv7D_w4NjjDA",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet",
+  "Strings"
+ ],
+ "track_url": "",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a29d9a9dd2d9eac5",
+ "mood": "Dramatic",
+ "artist": "Audionautix",
+ "display_genre": "Classical",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKifDRIWChBhMjlkOWE5ZGQyZDllYWM1EAAYAg%3D%3D&sigh=3X8hv9RFd8sBhMCMKF37MA",
+ "title": "Opus One",
+ "reference_vid": "a29d9a9dd2d9eac5",
+ "vid": "a29d9a9dd2d9eac5"
+}

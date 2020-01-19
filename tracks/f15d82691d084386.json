@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "vid": "f15d82691d084386",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "f15d82691d084386",
+ "track_url": "",
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjcAxIWChBmMTVkODI2OTFkMDg0Mzg2EAAYAg%3D%3D&sigh=1jI4UdcCSVRlq9lQnoaXAw",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Piano"
+ ],
+ "title": "Majestic Piano",
+ "downloadable": true,
+ "streamid": "Ym-bB8X2yKNDBlb81nkeMaImO3Tf3F9v41W8TpUAFVXhgZuMub5KeGrZZHUdCxrH",
+ "genre": "Classical",
+ "len": 61.416,
+ "artist": "Audionautix",
+ "display_mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f15d82691d084386",
+ "popularity_percentile": 38,
+ "reference_vid": "f15d82691d084386",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Dramatic"
+}

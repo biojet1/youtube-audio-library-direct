@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "vid": "077811ec375a63ee",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=077811ec375a63ee",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAwNzc4MTFlYzM3NWE2M2VlEAAYAg%3D%3D&sigh=Myghaguj6X8wHqrICVM4ZA",
+ "is_new_track": false,
+ "reference_vid": "077811ec375a63ee",
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "category": "",
+ "title": "Summer Nights",
+ "streamid": "ifiGVBO8kik55TvXrbduvaZlMDvh862tVvYxfdJRGtCMWJaEby80TQCrcmV8LYf3",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Pop",
+ "len": 130.8,
+ "album": "None",
+ "genre": "Pop",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "Text Me Records / Leviathe",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "piano",
+  "strings"
+ ],
+ "fp_ref_id": "077811ec375a63ee"
+}

@@ -1,0 +1,31 @@
+{
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Horns"
+ ],
+ "artist": "Biz Baz Studio",
+ "reference_vid": "fdbde847de323ed9",
+ "genre": "Cinematic",
+ "streamid": "7cKVhzB1ZMDY9ROPrDxRQqaWScWdUFCxQPC6O_YEsJLKu6d-_MAIhxVLaN-J55oU",
+ "len": 95.1,
+ "display_category": "",
+ "fp_ref_id": "fdbde847de323ed9",
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChBmZGJkZTg0N2RlMzIzZWQ5EAAYAg%3D%3D&sigh=PbOo8PqVVsYf0XwpyXteMQ",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "vid": "fdbde847de323ed9",
+ "display_mood": "Happy",
+ "favorite": false,
+ "mood": "Happy",
+ "downloadable": true,
+ "album": "None",
+ "title": "Nutty Comedy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fdbde847de323ed9",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "track_url": "",
+ "popularity_percentile": 99,
+ "category": ""
+}

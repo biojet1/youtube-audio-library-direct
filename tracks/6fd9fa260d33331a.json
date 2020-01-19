@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 93,
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "fp_ref_id": "6fd9fa260d33331a",
+ "reference_vid": "6fd9fa260d33331a",
+ "artist_channel_url": "/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "license_type": 1,
+ "streamid": "S1mUvW12Cb5NL5AoiQ-U-6Xbxr-sAIRDNgSpSBtNwnsdOihVj3XjGeadafnhEIY0",
+ "vid": "6fd9fa260d33331a",
+ "mood": "Happy",
+ "artist": "Vibe Mountain",
+ "display_genre": "Pop",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChA2ZmQ5ZmEyNjBkMzMzMzFhEAAYAg%3D%3D&sigh=n9t30qX9tBbH4zU4ySYCDA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6fd9fa260d33331a",
+ "category": "",
+ "title": "Great Hope",
+ "genre": "Pop",
+ "instruments": [
+  "synths",
+  "drums"
+ ]
+}

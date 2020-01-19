@@ -1,0 +1,29 @@
+{
+ "display_mood": "Inspirational",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChBiMzcwZTA3MzM0ZGIxNTgwEAAYAg%3D%3D&sigh=Cm2XxRxUaouQTscNwOkLgQ",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "b370e07334db1580",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b370e07334db1580",
+ "streamid": "SQnOlbQ4FJkOtqx-P0R5wmHI7OBYXeCWJfrplR5mo88X1fhR7QINWfd4uK9DJ50Q",
+ "genre": "Ambient",
+ "track_url": "",
+ "reference_vid": "b370e07334db1580",
+ "vid": "b370e07334db1580",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Ambient",
+ "mood": "Inspirational",
+ "len": 134,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "instruments": [
+  "piano"
+ ],
+ "title": "Eternal Structures",
+ "artist": "Asher Fulero"
+}

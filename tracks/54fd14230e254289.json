@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Hip Hop & Rap",
+ "streamid": "5EELWvS7aCCspz8jWA_NWPvsHEehZmomUgwroNpbrOEFBzYx143R30xTfhCM5mHH",
+ "reference_vid": "54fd14230e254289",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=54fd14230e254289",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Otis McDonald",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEDU0ZmQxNDIzMGUyNTQyODkQABgC&sigh=_bDJzfkBRA4gfHHklFck8Q",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "display_category": "",
+ "title": "Otis McMusic (Sting)",
+ "album": "None",
+ "vid": "54fd14230e254289",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Piano"
+ ],
+ "favorite": false,
+ "len": 10.55,
+ "fp_ref_id": "54fd14230e254289",
+ "display_genre": "Hip Hop & Rap"
+}

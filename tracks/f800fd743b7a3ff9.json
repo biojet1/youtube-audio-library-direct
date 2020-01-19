@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBmODAwZmQ3NDNiN2EzZmY5EAAYAg%3D%3D&sigh=Xq2Ut8js4zFq3omW3M9GOw",
+ "title": "BirdBrainz",
+ "display_mood": "Funky",
+ "artist": "Otis McDonald",
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "vid": "f800fd743b7a3ff9",
+ "popularity_percentile": 97,
+ "reference_vid": "f800fd743b7a3ff9",
+ "favorite": false,
+ "mood": "Funky",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Hip Hop & Rap",
+ "category": "",
+ "fp_ref_id": "f800fd743b7a3ff9",
+ "streamid": "ifZPF5XnO0XAHYG2icZ7nqiSF2h13LuGEEQgEM4xsBLmdl6jgj2M9HQPZrulfHQz",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f800fd743b7a3ff9",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 133.95
+}

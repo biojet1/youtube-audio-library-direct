@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChAxZTQ4NTVjMDI4YzNlMDVkEAAYAg%3D%3D&sigh=yf5HNhi_SsnrSMwC8VoDLQ",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "1e4855c028c3e05d",
+ "downloadable": true,
+ "reference_vid": "1e4855c028c3e05d",
+ "favorite": false,
+ "fp_ref_id": "1e4855c028c3e05d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1e4855c028c3e05d",
+ "genre": "Cinematic",
+ "streamid": "_NN5J_GC-SfXKaQXmyK3mmsRwrXVIbalsygezSNN3xVJzos6MI6CJvCovslu4vcN",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100338",
+ "mood": "Dramatic",
+ "len": 195.216,
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Action - Scoring Action",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Strings"
+ ]
+}

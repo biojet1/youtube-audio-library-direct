@@ -1,0 +1,31 @@
+{
+ "mood": "Bright",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChBjMzM1YzRlNDY4MzMwMWU3EAAYAg%3D%3D&sigh=Cjrx7zpxykANs3it2DS1ag",
+ "display_mood": "Bright",
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c335c4e4683301e7",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Dan Lebowitz",
+ "title": "Lazy Rock",
+ "reference_vid": "c335c4e4683301e7",
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "drums"
+ ],
+ "display_genre": "Rock",
+ "fp_ref_id": "c335c4e4683301e7",
+ "vid": "c335c4e4683301e7",
+ "category": "",
+ "streamid": "KYPtMiDHx_K2az25EDV6feb_qwMMQvCg9E_G3Ww3PkrTJfToDKtak7xZfkOYo8Gj",
+ "popularity_percentile": 99,
+ "len": 153,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

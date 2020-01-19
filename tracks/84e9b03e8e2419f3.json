@@ -1,0 +1,31 @@
+{
+ "mood": "Angry",
+ "artist": "Silent Partner",
+ "vid": "84e9b03e8e2419f3",
+ "display_category": "",
+ "streamid": "SL31rhJ0NrcPYU7Ab6mhKzjOcW-g4zDysOagwa58V8T5kbw3SH7sKSnWsCcopeeo",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=84e9b03e8e2419f3",
+ "fp_ref_id": "84e9b03e8e2419f3",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChA4NGU5YjAzZThlMjQxOWYzEAAYAg%3D%3D&sigh=wqM-dR2kacCXklCDZIHlUA",
+ "display_genre": "Rock",
+ "len": 131.716,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "reference_vid": "84e9b03e8e2419f3",
+ "title": "Last Second",
+ "genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Angry",
+ "popularity_percentile": 52
+}

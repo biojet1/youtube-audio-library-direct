@@ -1,0 +1,33 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a40a7dccf95d9ae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChA4YTQwYTdkY2NmOTVkOWFlEAAYAg%3D%3D&sigh=OnxHwH38e_bDtm90r9ivmA",
+ "vid": "8a40a7dccf95d9ae",
+ "title": "Luck Witch",
+ "display_category": "",
+ "album": "None",
+ "favorite": false,
+ "streamid": "U1YbkYDlcxNwLAWVA8QCwW1TiKUjYkQ9Vdu0XfXml6GRnjzuEhl3l6QaBNwy_8wf",
+ "genre": "Hip Hop & Rap",
+ "len": 121,
+ "mood": "Angry",
+ "popularity_percentile": 0,
+ "fp_ref_id": "8a40a7dccf95d9ae",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "808",
+  "piano"
+ ],
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "category": "",
+ "artist": "Audio Hertz",
+ "is_new_track": true,
+ "downloadable": true,
+ "reference_vid": "8a40a7dccf95d9ae",
+ "display_mood": "Angry"
+}

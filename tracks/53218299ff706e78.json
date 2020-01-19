@@ -1,0 +1,30 @@
+{
+ "display_mood": "Funky",
+ "genre": "Ambient",
+ "instruments": [
+  "Synth",
+  "Piano"
+ ],
+ "album": "None",
+ "streamid": "yYuFGKzbdDUdKHwrL_lQl2lL3HV4V3nJCveEEKSGetl7Ez50X-GTL7UadW2hb9bV",
+ "title": "It's Always Too Late to Start Over",
+ "display_genre": "Ambient",
+ "vid": "53218299ff706e78",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://chriszabriskie.com/",
+ "reference_vid": "53218299ff706e78",
+ "track_url": "http://chriszabriskie.com/dtv/",
+ "is_new_track": false,
+ "mood": "Funky",
+ "license_type": 6,
+ "fp_ref_id": "53218299ff706e78",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Chris Zabriskie",
+ "len": 299.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPifEhIWChA1MzIxODI5OWZmNzA2ZTc4EAAYAg%3D%3D&sigh=KTVwjaSKSS8-7a0deSVJnw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=53218299ff706e78"
+}

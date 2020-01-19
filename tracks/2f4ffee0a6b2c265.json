@@ -1,0 +1,33 @@
+{
+ "artist": "Quincas Moreira",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2f4ffee0a6b2c265",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChAyZjRmZmVlMGE2YjJjMjY1EAAYAg%3D%3D&sigh=UzTykbwH6oC8bYQlOKBYTQ",
+ "genre": "Children's",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "album": "None",
+ "track_url": "",
+ "len": 186,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "vid": "2f4ffee0a6b2c265",
+ "streamid": "sLfcAmWnG-VQOnMwCUmY-hcrrf6sVIzHcK5x7FS2zsq_26F-W3LDH_d6GIL54n2K",
+ "title": "Summer Shower",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "mood": "Calm",
+ "downloadable": true,
+ "display_genre": "Children's",
+ "popularity_percentile": 99,
+ "reference_vid": "2f4ffee0a6b2c265",
+ "instruments": [
+  "acoustic guitar",
+  "drums",
+  "electric guitar",
+  "bass",
+  "percussion"
+ ],
+ "fp_ref_id": "2f4ffee0a6b2c265",
+ "license_type": 1
+}

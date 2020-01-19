@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dark",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "album": "None",
+ "streamid": "s52ohKOZjFUmOws97TJPUlXvGOqFkHjsMjRJqnuZle-NhfCY5U6m38S_fsZ-ZJE7",
+ "title": "Finding Science",
+ "display_genre": "Jazz & Blues",
+ "vid": "7450c898796c0543",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "7450c898796c0543",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dark",
+ "license_type": 0,
+ "fp_ref_id": "7450c898796c0543",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "JR Tundra",
+ "len": 93.35,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChA3NDUwYzg5ODc5NmMwNTQzEAAYAg%3D%3D&sigh=8mWAMcyGWRCj8_GfMBC0vQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7450c898796c0543"
+}

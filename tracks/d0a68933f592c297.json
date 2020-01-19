@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "Drums",
+  "Organ",
+  "Piano",
+  "Bass",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d0a68933f592c297",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "The Green Orbs",
+ "len": 183.016,
+ "display_category": "",
+ "display_genre": "Children's",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "2zNoTBS8vIsfR1T1rTFLanzpqU8ZVKuvzC1ly88LL2MiXleEgJDCcBTLIU0oFoGK",
+ "category": "",
+ "title": "Ponies and Balloons",
+ "display_mood": "Happy",
+ "favorite": false,
+ "reference_vid": "d0a68933f592c297",
+ "genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChBkMGE2ODkzM2Y1OTJjMjk3EAAYAg%3D%3D&sigh=PvMjPyVmtexrbakNw8qusQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d0a68933f592c297",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "d0a68933f592c297"
+}

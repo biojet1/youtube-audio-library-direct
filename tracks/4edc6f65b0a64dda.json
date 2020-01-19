@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDxBBIWChA0ZWRjNmY2NWIwYTY0ZGRhEAAYAg%3D%3D&sigh=4FU1MbilX5KQVTjRopvv4g",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Jingle Punks",
+ "display_genre": "Cinematic",
+ "mood": "Happy",
+ "reference_vid": "4edc6f65b0a64dda",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4edc6f65b0a64dda",
+ "favorite": false,
+ "popularity_percentile": 31,
+ "artist_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "instruments": [
+  "Piano",
+  "Strings",
+  "Drums",
+  "Bass"
+ ],
+ "license_type": 0,
+ "fp_ref_id": "4edc6f65b0a64dda",
+ "title": "Talk to Me",
+ "len": 80.316,
+ "streamid": "r875OWGKDWRJGAREbfSMJIfXeO6itnLsR56ETdoJYwnYOd9DzloA7f4_exE_cNxA",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "vid": "4edc6f65b0a64dda"
+}

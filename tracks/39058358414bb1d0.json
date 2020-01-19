@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "reference_vid": "39058358414bb1d0",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "v3lSgXooK-WZnwI1c2lTddUqjZmWz74OCunID2-gfVkRk11wcgsMm_t0MW1VkZju",
+ "display_mood": "Bright",
+ "genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "display_genre": "Rock",
+ "title": "Parasail",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "39058358414bb1d0",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCdCxIWChAzOTA1ODM1ODQxNGJiMWQwEAAYAg%3D%3D&sigh=pasfSk7ZnHrQ0zp9Oc6l6w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=39058358414bb1d0",
+ "artist": "Silent Partner",
+ "len": 184.266,
+ "track_url": "",
+ "fp_ref_id": "39058358414bb1d0",
+ "mood": "Bright",
+ "is_new_track": false,
+ "popularity_percentile": 22,
+ "display_category": ""
+}

@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "29de141916c230a6",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Luminous Rain",
+ "vid": "29de141916c230a6",
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChAyOWRlMTQxOTE2YzIzMGE2EAAYAg%3D%3D&sigh=HJvodq7O-shC18oixNd7rw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=29de141916c230a6",
+ "display_category": "",
+ "len": 114.05,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100169",
+ "downloadable": true,
+ "streamid": "ShZjOa4hMrDU-ZgpI4v6LYtpgOvOeXTpRtnNWsdsppJe2i8LO0usnI3MVAnf7QXA",
+ "reference_vid": "29de141916c230a6",
+ "instruments": [
+  "Piano"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Classical"
+}

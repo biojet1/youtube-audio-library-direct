@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "b85d1996e4b33bf2",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Cinematic",
+ "category": "",
+ "artist": "Jingle Punks",
+ "display_category": "",
+ "streamid": "XHRWnFQDDrobm2aZ1LdAcv3YLVFrfHHJ6dA4x8wDNTxS1_eewCMctNtxkxsFpA1k",
+ "license_type": 0,
+ "vid": "b85d1996e4b33bf2",
+ "popularity_percentile": 72,
+ "reference_vid": "b85d1996e4b33bf2",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 69.883,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIibBBIWChBiODVkMTk5NmU0YjMzYmYyEAAYAg%3D%3D&sigh=Lb8o6B4D0vdrEWCZoBVqgA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b85d1996e4b33bf2",
+ "title": "Good Starts"
+}

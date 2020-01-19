@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "038ab62caee146f2",
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Edward",
+ "vid": "038ab62caee146f2",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDvDxIWChAwMzhhYjYyY2FlZTE0NmYyEAAYAg%3D%3D&sigh=8OIJaH2zVC4xrJqcG1q8bg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=038ab62caee146f2",
+ "display_category": "",
+ "len": 260.05,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "h0oGB3f25R2ml_cPWhhbDk5rjGBgh70SLAj4kPMrPrpcJkb3tU0h2dhxP48H5qZY",
+ "reference_vid": "038ab62caee146f2",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Classical"
+}

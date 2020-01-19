@@ -1,0 +1,29 @@
+{
+ "reference_vid": "d3b77e6d65207b0e",
+ "display_mood": "Happy",
+ "fp_ref_id": "d3b77e6d65207b0e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d3b77e6d65207b0e",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "vid": "d3b77e6d65207b0e",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC2DRIWChBkM2I3N2U2ZDY1MjA3YjBlEAAYAg%3D%3D&sigh=ciRNKaqjDmxcPk_0N4Zx4A",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Synth"
+ ],
+ "downloadable": true,
+ "streamid": "LcMYkoFdHLH4dR_-ks28zCO0gu7h9g40VNaKyJr6TBT4sKVSbVCD6siKU09pRq8d",
+ "len": 220.416,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100273",
+ "album": "None",
+ "license_type": 6,
+ "title": "Cut Trance - Cephelopod",
+ "genre": "Dance & Electronic",
+ "display_category": ""
+}

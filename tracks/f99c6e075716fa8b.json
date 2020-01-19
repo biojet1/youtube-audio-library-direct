@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f99c6e075716fa8b",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "category": "",
+ "title": "Sprightly Pursuit",
+ "track_url": "",
+ "vid": "f99c6e075716fa8b",
+ "mood": "Bright",
+ "is_new_track": false,
+ "len": 106,
+ "instruments": [
+  "horns",
+  "strings",
+  "woodwinds"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "YUuLcAU1z_XMkJfeHLVlytHV1nyQnFM-ZJRAo7qsazF0JpgU0dsf89TxxgfxRSHi",
+ "display_genre": "Cinematic",
+ "artist": "Cooper Cannell",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "reference_vid": "f99c6e075716fa8b",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBmOTljNmUwNzU3MTZmYThiEAAYAg%3D%3D&sigh=TzdyezQLAZ2Pxt7sEzlCpQ",
+ "fp_ref_id": "f99c6e075716fa8b",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "license_type": 1
+}

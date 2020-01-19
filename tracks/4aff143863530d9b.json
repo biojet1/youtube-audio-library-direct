@@ -1,0 +1,32 @@
+{
+ "streamid": "W1CLJtYhjqbNnujeskUFVglT9rg-ClRrN97dARUK6xxcxDXX0K9y5mYVSDItmQnM",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCKDBIWChA0YWZmMTQzODYzNTMwZDliEAAYAg%3D%3D&sigh=Nl9MfUJeRa2pcZ_0VQ2AsQ",
+ "display_mood": "Happy",
+ "display_category": "",
+ "reference_vid": "4aff143863530d9b",
+ "track_url": "http://www.twinmusicom.org/song/255/bounce-ball",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4aff143863530d9b",
+ "downloadable": true,
+ "len": 198.283,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "fp_ref_id": "4aff143863530d9b",
+ "album": "None",
+ "artist_url": "http://www.twinmusicom.org",
+ "license_type": 6,
+ "artist": "Twin Musicom",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Bounce Ball",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "4aff143863530d9b",
+ "display_genre": "Pop"
+}

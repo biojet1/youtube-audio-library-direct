@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "1UhcHVuHg8Ov1sRlC76hTGv8jj-Hf701I5AKZUbZ1R1CZGj6S_m4ACqFkv2P_lUu",
+ "len": 233.616,
+ "category": "",
+ "license_type": 6,
+ "title": "Thingamajig",
+ "genre": "Country & Folk",
+ "display_category": "",
+ "vid": "91052d8d23c5696d",
+ "album": "None",
+ "mood": "Bright",
+ "artist": "Audionautix",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "display_mood": "Bright",
+ "fp_ref_id": "91052d8d23c5696d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91052d8d23c5696d",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "reference_vid": "91052d8d23c5696d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKicDhIWChA5MTA1MmQ4ZDIzYzU2OTZkEAAYAg%3D%3D&sigh=6WVkkKe97SZV7pU6vgkGMQ",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 56
+}

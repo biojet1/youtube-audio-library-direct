@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "bd04cedd8995c59b",
+ "category": "",
+ "title": "Mountain",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass",
+  "synth",
+  "strings"
+ ],
+ "genre": "Cinematic",
+ "display_mood": "Dramatic",
+ "streamid": "iU1CCGU-ql_nQYiWC9SQTmYCnxGfB43A5EHZimN3jEKqf1Aa-Pd8FvsMYpqDxCHI",
+ "album": "None",
+ "len": 103,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bd04cedd8995c59b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChBiZDA0Y2VkZDg5OTVjNTliEAAYAg%3D%3D&sigh=1gPhsj1oJsStDcNRS0chng",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "bd04cedd8995c59b",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "bd04cedd8995c59b",
+ "license_type": 1,
+ "track_url": ""
+}

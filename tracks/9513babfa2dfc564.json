@@ -1,0 +1,31 @@
+{
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "len": 163.316,
+ "mood": "Romantic",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA5NTEzYmFiZmEyZGZjNTY0EAAYAg%3D%3D&sigh=WTeqhh6qbLHRHwErJwfWqQ",
+ "genre": "Country & Folk",
+ "streamid": "__NyW-U4QcNxv-S00renbRiiPsaXDzd8e2L03ORNwn21Kt9s6spd4Zvev7yq-dOp",
+ "downloadable": true,
+ "fp_ref_id": "9513babfa2dfc564",
+ "vid": "9513babfa2dfc564",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Country & Folk",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9513babfa2dfc564",
+ "category": "",
+ "reference_vid": "9513babfa2dfc564",
+ "title": "Despite The Traffic",
+ "artist": "Wes Hutchinson",
+ "track_url": ""
+}

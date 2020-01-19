@@ -1,0 +1,32 @@
+{
+ "artist": "Au.Ra",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6bfd6f82a298e790",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChA2YmZkNmY4MmEyOThlNzkwEAAYAg%3D%3D&sigh=aw4Oa0lFxhvH5OYJ95V-5w",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Inspirational",
+ "album": "None",
+ "track_url": "",
+ "len": 112,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "6bfd6f82a298e790",
+ "streamid": "pkogokORUeW4yopGeyiWaulrKYbdIeAh4nxL9sD35fWr1PQ1YIv3o_3gmq-JspCd",
+ "title": "Space Walker",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "mood": "Inspirational",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 99,
+ "reference_vid": "6bfd6f82a298e790",
+ "instruments": [
+  "drum machine",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "fp_ref_id": "6bfd6f82a298e790",
+ "license_type": 1
+}

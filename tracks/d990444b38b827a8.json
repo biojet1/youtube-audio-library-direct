@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Country & Folk",
+ "genre": "Country & Folk",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d990444b38b827a8",
+ "len": 246.483,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCBDxIWChBkOTkwNDQ0YjM4YjgyN2E4EAAYAg%3D%3D&sigh=wCDIi_QxlgXDKxVJPGrHpw",
+ "fp_ref_id": "d990444b38b827a8",
+ "vid": "d990444b38b827a8",
+ "title": "Drankin Song",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500021",
+ "reference_vid": "d990444b38b827a8",
+ "license_type": 6,
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "streamid": "HYm4aRgblEfM4jHdqstl-zq-mL3GeX8kMnVS5jCYIlIVGxIFChPssCceYIfsUlU-",
+ "category": ""
+}

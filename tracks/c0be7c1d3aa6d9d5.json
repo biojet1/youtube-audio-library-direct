@@ -1,0 +1,33 @@
+{
+ "license_type": 0,
+ "mood": "Happy",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChBjMGJlN2MxZDNhYTZkOWQ1EAAYAg%3D%3D&sigh=Zbxz-Wr7FVjpUj1kPN1Tyg",
+ "title": "Pink Lemonade",
+ "vid": "c0be7c1d3aa6d9d5",
+ "artist_url": "",
+ "streamid": "y1Ip3fFy7oIi2UzvhecTwF3vld3mj0ER8e1xv4U1ONqEEWNg80ONEdzk0G4ytFtc",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c0be7c1d3aa6d9d5",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "electric guitar",
+  "organ"
+ ],
+ "display_mood": "Happy",
+ "len": 141.216,
+ "genre": "Pop",
+ "fp_ref_id": "c0be7c1d3aa6d9d5",
+ "track_url": "",
+ "album": "None",
+ "display_genre": "Pop",
+ "reference_vid": "c0be7c1d3aa6d9d5",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 75
+}

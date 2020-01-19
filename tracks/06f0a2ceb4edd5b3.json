@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=06f0a2ceb4edd5b3",
+ "title": "Snappy",
+ "is_new_track": false,
+ "mood": "Bright",
+ "downloadable": true,
+ "album": "None",
+ "len": 50.566,
+ "popularity_percentile": 41,
+ "track_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "reference_vid": "06f0a2ceb4edd5b3",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "display_genre": "Country & Folk",
+ "artist": "Audionautix",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCGAxIWChAwNmYwYTJjZWI0ZWRkNWIzEAAYAg%3D%3D&sigh=0Y76dPmSYwtoc5hyzCSYjA",
+ "fp_ref_id": "06f0a2ceb4edd5b3",
+ "license_type": 6,
+ "favorite": false,
+ "vid": "06f0a2ceb4edd5b3",
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Bright",
+ "genre": "Country & Folk",
+ "streamid": "CxIramYVFbVHXXzbzNw0iAuea-EeRjpKKEUoe99Fk93fd_Ft9EZ9rqD4x97j7SgF",
+ "display_category": ""
+}

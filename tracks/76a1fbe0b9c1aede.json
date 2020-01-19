@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "len": 270.75,
+ "fp_ref_id": "76a1fbe0b9c1aede",
+ "streamid": "5_u0SjuhflxYMecB1iKdqn_Dq2F8Ug0EV86gAv6BEK12ljpw8zr0p78etjdCDzp5",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Pop",
+ "popularity_percentile": 64,
+ "vid": "76a1fbe0b9c1aede",
+ "display_genre": "Pop",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=76a1fbe0b9c1aede",
+ "album": "None",
+ "title": "Colossus - Wonders",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLC9EBIWChA3NmExZmJlMGI5YzFhZWRlEAAYAg%3D%3D&sigh=4IwIZiS0vPd7y93Jp0HivQ",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Dark",
+ "is_new_track": false,
+ "reference_vid": "76a1fbe0b9c1aede",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100358",
+ "license_type": 6
+}

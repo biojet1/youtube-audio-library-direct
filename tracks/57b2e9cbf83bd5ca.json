@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "vid": "57b2e9cbf83bd5ca",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Rock",
+ "fp_ref_id": "57b2e9cbf83bd5ca",
+ "streamid": "fHXyBUaxznma4obSchD-WHYzW9Pao-88HBL0BSa8j0zqq_cfoFu_Mq8pXK2kOlaf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA1N2IyZTljYmY4M2JkNWNhEAAYAg%3D%3D&sigh=Jn_IDM8-o38_JYxc4nDNbQ",
+ "display_category": "",
+ "display_genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "title": "Double You",
+ "track_url": "",
+ "len": 163,
+ "popularity_percentile": 99,
+ "reference_vid": "57b2e9cbf83bd5ca",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57b2e9cbf83bd5ca",
+ "instruments": [
+  "bass",
+  "drums",
+  "electric guitar"
+ ],
+ "is_new_track": false
+}

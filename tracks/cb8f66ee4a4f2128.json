@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "cb8f66ee4a4f2128",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cb8f66ee4a4f2128",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBjYjhmNjZlZTRhNGYyMTI4EAAYAg%3D%3D&sigh=befhFE6TgMVhxIOX_AkQig",
+ "is_new_track": false,
+ "reference_vid": "cb8f66ee4a4f2128",
+ "display_mood": "Happy",
+ "favorite": false,
+ "category": "",
+ "title": "Yellow Jello",
+ "streamid": "GYGKll_66Dh5Z5Cc95qgQVPU5MdJMHnuglAIjZI6YXwuwlrBIAsrpVM_IIb7rCLq",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "display_category": "",
+ "display_genre": "Pop",
+ "len": 129,
+ "album": "None",
+ "genre": "Pop",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Audio Hertz",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "electric piano"
+ ],
+ "fp_ref_id": "cb8f66ee4a4f2128"
+}

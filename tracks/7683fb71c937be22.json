@@ -1,0 +1,31 @@
+{
+ "display_mood": "Sad",
+ "genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Guitar"
+ ],
+ "album": "None",
+ "streamid": "QEAlY4Q2gsDyV4mnkzzGr_uvTVGrPQ1NEoL67xvPaqjlhFQF6tpacI9_pM0Uqkv8",
+ "title": "No Win",
+ "display_genre": "Rock",
+ "vid": "7683fb71c937be22",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "7683fb71c937be22",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Sad",
+ "license_type": 0,
+ "fp_ref_id": "7683fb71c937be22",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "len": 100.783,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA3NjgzZmI3MWM5MzdiZTIyEAAYAg%3D%3D&sigh=-U67vInk-te2Idz4N049cQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7683fb71c937be22"
+}

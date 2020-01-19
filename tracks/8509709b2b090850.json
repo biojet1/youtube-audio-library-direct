@@ -1,0 +1,31 @@
+{
+ "mood": "Calm",
+ "artist": "Silent Partner",
+ "vid": "8509709b2b090850",
+ "display_category": "",
+ "streamid": "S5bsQ5WvaeY9wzPGc_WD81pmaGbM5B9j0W4qXf3uWWYBhPo5IIagn3Sh1D0xsKzF",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8509709b2b090850",
+ "fp_ref_id": "8509709b2b090850",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA4NTA5NzA5YjJiMDkwODUwEAAYAg%3D%3D&sigh=wedk0NUdov4KQJgQlveZOQ",
+ "display_genre": "Ambient",
+ "len": 171.683,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "reference_vid": "8509709b2b090850",
+ "title": "Split Screen",
+ "genre": "Ambient",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Calm",
+ "popularity_percentile": 52
+}

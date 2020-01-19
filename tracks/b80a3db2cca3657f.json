@@ -1,0 +1,29 @@
+{
+ "display_genre": "Ambient",
+ "streamid": "2qxpGuaYxIiVvvlYI5ZUo8j8ZkGfGjYnNmkwpMROhAwrmd2ouSqLmDo5hDWZ9rb0",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "b80a3db2cca3657f",
+ "instruments": [
+  "Drums"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "b80a3db2cca3657f",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBiODBhM2RiMmNjYTM2NTdmEAAYAg%3D%3D&sigh=vKVpev-igfzo6itvZsTKGQ",
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b80a3db2cca3657f",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "mood": "Calm",
+ "title": "Confused State - The Dark Contenent",
+ "len": 174.383,
+ "vid": "b80a3db2cca3657f",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100453"
+}

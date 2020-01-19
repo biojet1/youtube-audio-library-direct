@@ -1,0 +1,31 @@
+{
+ "len": 94.4,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d529143886c6101c",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "display_mood": "Sad",
+ "streamid": "gGiYhy8kOqvku0U62LqKseXvgbL-xEQ32fq6jcnRjX7zwvgdFph5IAXOTZM58kpq",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBkNTI5MTQzODg2YzYxMDFjEAAYAg%3D%3D&sigh=01xmVEBI3ClO6hdwrivjxg",
+ "title": "Fights",
+ "vid": "d529143886c6101c",
+ "artist_url": "",
+ "license_type": 0,
+ "mood": "Sad",
+ "artist": "Silent Partner",
+ "favorite": false,
+ "popularity_percentile": 83,
+ "display_genre": "Rock",
+ "reference_vid": "d529143886c6101c",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Rock",
+ "fp_ref_id": "d529143886c6101c",
+ "track_url": "",
+ "album": "None"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e8c4736283c55074",
+ "category": "",
+ "title": "Creepin",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "genre": "Dance & Electronic",
+ "display_mood": "Funky",
+ "streamid": "laCJvFcyFmuGnRtxu9qmFn7iq_lWf66ISk0PE29nKFvl1dISry2zShU2W8Bpykwv",
+ "album": "None",
+ "len": 137.183,
+ "artist": "MK2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e8c4736283c55074",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChBlOGM0NzM2MjgzYzU1MDc0EAAYAg%3D%3D&sigh=ckeUpIF5jI4R3f8s1cV3Ig",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e8c4736283c55074",
+ "is_new_track": false,
+ "mood": "Funky",
+ "fp_ref_id": "e8c4736283c55074",
+ "license_type": 1,
+ "track_url": ""
+}

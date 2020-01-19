@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Funky",
+ "reference_vid": "c2f9dbf73dee2167",
+ "streamid": "XqwvZ2BGocwP1cmcxBh5Gs1f1AHiG1DE63l2qRSnm1-38tGgPT6yPl-mbxk1M5xU",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBjMmY5ZGJmNzNkZWUyMTY3EAAYAg%3D%3D&sigh=2PjAVmdJQiUj7e9NzSeZ7w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c2f9dbf73dee2167",
+ "len": 126.116,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "c2f9dbf73dee2167",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Clap Along",
+ "mood": "Funky",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "R&B & Soul",
+ "track_url": "",
+ "vid": "c2f9dbf73dee2167"
+}

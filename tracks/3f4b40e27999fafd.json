@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChAzZjRiNDBlMjc5OTlmYWZkEAAYAg%3D%3D&sigh=kcDv09KQJAunNUCuAIi6Tg",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "display_mood": "Bright",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "3f4b40e27999fafd",
+ "reference_vid": "3f4b40e27999fafd",
+ "genre": "Rock",
+ "popularity_percentile": 24,
+ "display_genre": "Rock",
+ "favorite": false,
+ "track_url": "",
+ "title": "Leaving",
+ "downloadable": true,
+ "category": "",
+ "streamid": "i1zCa8-eBSvWAtrDZETn4L_o8-QPg0-NW8-gki5RYWyIu2Txaon7f074RstsBw9I",
+ "fp_ref_id": "3f4b40e27999fafd",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f4b40e27999fafd",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Bright",
+ "len": 113.616
+}

@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Classical",
+ "streamid": "_eA6-jqhUQhMspQUoXpYixORF0oNtOKHPq5eujIi7yZ4ZX-lDUJkZf37jE-z2kIj",
+ "reference_vid": "057585577b23afc8",
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=057585577b23afc8",
+ "artist_channel_url": null,
+ "artist_url": "http://chriszabriskie.com/",
+ "license_type": 6,
+ "artist": "Chris Zabriskie",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChAwNTc1ODU1NzdiMjNhZmM4EAAYAg%3D%3D&sigh=lqhi5eXQKDuNbwSiuOxLGQ",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "display_category": "",
+ "title": "Prelude No. 23",
+ "album": "None",
+ "vid": "057585577b23afc8",
+ "downloadable": true,
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "len": 103.683,
+ "fp_ref_id": "057585577b23afc8",
+ "display_genre": "Classical"
+}

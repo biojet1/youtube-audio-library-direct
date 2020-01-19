@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6a25306352dbd42a",
+ "popularity_percentile": 30,
+ "reference_vid": "6a25306352dbd42a",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "7-48NA5XJXhw3nmgpWfu7D0zgIJzN0pgV0rFnQHh8W7zlUqw8Y_3M5sIkzKzNLQv",
+ "genre": "Ambient",
+ "len": 122.083,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "title": "Deep Haze",
+ "display_genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChA2YTI1MzA2MzUyZGJkNDJhEAAYAg%3D%3D&sigh=Trf_MiX44fBS-XFdN2egbw",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "6a25306352dbd42a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100886",
+ "mood": "Dramatic",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "6a25306352dbd42a",
+ "is_new_track": false,
+ "favorite": false
+}

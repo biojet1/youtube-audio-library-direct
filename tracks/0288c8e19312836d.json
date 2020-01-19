@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "0288c8e19312836d",
+ "is_new_track": false,
+ "mood": "Funky",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChAwMjg4YzhlMTkzMTI4MzZkEAAYAg%3D%3D&sigh=md9qFdqEVEzICNHKoVpLFg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0288c8e19312836d",
+ "artist": "Verified Picasso",
+ "len": 149,
+ "streamid": "H96KSzjvdCeO54LHCVNtuIC0w79iQjeA07Bk00tRNN6uFioQALctmFjDTHdzlWJA",
+ "album": "None",
+ "display_mood": "Funky",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808",
+  "electric guitar"
+ ],
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "title": "Sex and The Kennedy's",
+ "vid": "0288c8e19312836d",
+ "reference_vid": "0288c8e19312836d",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

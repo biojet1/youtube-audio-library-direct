@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "2408e4a552219d3e",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Classical",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2408e4a552219d3e",
+ "popularity_percentile": 95,
+ "vid": "2408e4a552219d3e",
+ "streamid": "ZUuiZN6MMVIADNPdaqSAvecIjTL-_QJsYuew5vSlk2zh8t_4RLdegp-B251U7OS4",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChAyNDA4ZTRhNTUyMjE5ZDNlEAAYAg%3D%3D&sigh=z4Xeii-5GQNWR6V6yPONnA",
+ "display_category": "",
+ "title": "Gymnopedie No 2",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Calm",
+ "display_genre": "Classical",
+ "reference_vid": "2408e4a552219d3e",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100786",
+ "instruments": [
+  "Piano"
+ ],
+ "len": 159.033,
+ "category": ""
+}

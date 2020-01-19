@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "aa56e87b5c94c669",
+ "is_new_track": false,
+ "mood": "Happy",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBhYTU2ZTg3YjVjOTRjNjY5EAAYAg%3D%3D&sigh=1RTHiJHaH7A2VISa9yr8TQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aa56e87b5c94c669",
+ "artist": "Andrew Langdon",
+ "len": 144,
+ "streamid": "0EFssiZbaMmAJ5S0dTn4HhAFpXTUFtFLm8Bzhi4fgVYE70-9hCh5g7tyYKNu4OfI",
+ "album": "None",
+ "display_mood": "Happy",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "title": "Keys",
+ "vid": "aa56e87b5c94c669",
+ "reference_vid": "aa56e87b5c94c669",
+ "artist_channel_url": "/channel/UCQdkiVaW24oJIwne-UP3DBg",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCQdkiVaW24oJIwne-UP3DBg"
+}

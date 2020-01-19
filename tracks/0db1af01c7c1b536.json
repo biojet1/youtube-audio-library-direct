@@ -1,0 +1,33 @@
+{
+ "mood": "Funky",
+ "title": "Afrola",
+ "album": "None",
+ "artist": "Bird Creek",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "R&B & Soul",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "display_category": "",
+ "vid": "0db1af01c7c1b536",
+ "streamid": "pD2nZjfvyyGtMBm79YFblLPyZYLIJCGDDYBWp9ULSruh0fHBxiQAKl8IoLYjwQSi",
+ "genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChAwZGIxYWYwMWM3YzFiNTM2EAAYAg%3D%3D&sigh=ZANbjqOO4ONWKX8mD9mAcg",
+ "fp_ref_id": "0db1af01c7c1b536",
+ "len": 111.75,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ",
+  "Trumpet"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0db1af01c7c1b536",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0db1af01c7c1b536",
+ "downloadable": true
+}

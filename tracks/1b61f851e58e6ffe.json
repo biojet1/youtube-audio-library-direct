@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "1b61f851e58e6ffe",
+ "reference_vid": "1b61f851e58e6ffe",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b61f851e58e6ffe",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "license_type": 1,
+ "streamid": "wpBVQZ-HyID1Bh-kKNqzoU7p61RldzlWfaBvxZPVOgaBMiv2qKS1UcSFVo0BSRcr",
+ "genre": "Pop",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "downloadable": true,
+ "vid": "1b61f851e58e6ffe",
+ "len": 232,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "percussion"
+ ],
+ "favorite": false,
+ "display_genre": "Pop",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "category": "",
+ "artist": "Jeremy Blake",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCUDhIWChAxYjYxZjg1MWU1OGU2ZmZlEAAYAg%3D%3D&sigh=AH69qmBKyGfPEJkTTCI6xg",
+ "display_mood": "Happy",
+ "album": "None",
+ "title": "Everything Is Gonna Be Just Fine",
+ "display_category": ""
+}

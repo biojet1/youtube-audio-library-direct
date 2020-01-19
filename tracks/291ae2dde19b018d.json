@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=291ae2dde19b018d",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Jimmy Fontanez/Doug Maxwell/Media Right Productions",
+ "len": 102.483,
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "_9kO9l-j_PmMTxjhdq_0kp1gRRDpQERdjsvyYtk2NUChlMo-tna3BnTBahCKBA02",
+ "category": "",
+ "title": "Sneaky Bass Latina",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "reference_vid": "291ae2dde19b018d",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChAyOTFhZTJkZGUxOWIwMThkEAAYAg%3D%3D&sigh=enyjQGv-XPx9jXdhu-zjpw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "291ae2dde19b018d",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "291ae2dde19b018d"
+}

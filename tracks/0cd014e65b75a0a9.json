@@ -1,0 +1,32 @@
+{
+ "mood": "Calm",
+ "title": "The Low Seas",
+ "album": "None",
+ "artist": "The 126ers",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Ambient",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "display_category": "",
+ "vid": "0cd014e65b75a0a9",
+ "streamid": "bwTfdtJpZX1x4nC5e9vgdRHVqAD_O3dD3SmYi2vAxdMyhZkuYUZf-lFYMev1PNOl",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChAwY2QwMTRlNjViNzVhMGE5EAAYAg%3D%3D&sigh=BkemfBKQ8BvFj4oDCMuDOw",
+ "fp_ref_id": "0cd014e65b75a0a9",
+ "len": 128.25,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0cd014e65b75a0a9",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0cd014e65b75a0a9",
+ "downloadable": true
+}

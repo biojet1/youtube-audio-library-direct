@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "is_new_track": false,
+ "reference_vid": "2eeb05ce95b8ac77",
+ "display_category": "",
+ "fp_ref_id": "2eeb05ce95b8ac77",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2eeb05ce95b8ac77",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Inspirational",
+ "instruments": [
+  "bass",
+  "vocal chops",
+  "drums",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChAyZWViMDVjZTk1YjhhYzc3EAAYAg%3D%3D&sigh=byWqDijUP8Q6t9RPGc-r4g",
+ "streamid": "aV_wxJ-e7R7uRnyK5nzp13-Y2JgUaXSBtrDxVjwVsnWqSGJt89o4MSZhZJFGvL4s",
+ "genre": "Dance & Electronic",
+ "vid": "2eeb05ce95b8ac77",
+ "artist": "Coyote Hearing",
+ "display_genre": "Dance & Electronic",
+ "title": "Girls Say",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 135,
+ "display_mood": "Inspirational",
+ "downloadable": true
+}

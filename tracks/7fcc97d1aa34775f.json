@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Organ"
+ ],
+ "display_mood": "Dramatic",
+ "vid": "7fcc97d1aa34775f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7fcc97d1aa34775f",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Dramatic",
+ "display_genre": "Jazz & Blues",
+ "fp_ref_id": "7fcc97d1aa34775f",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 97.95,
+ "track_url": "",
+ "category": "",
+ "streamid": "bZ7YCNhKhhOPElrtWHKPd4sZ-72GJe_TVRvBbo9-902_4HUuuc0Z117_Lh0ih2C9",
+ "title": "Gimmie Five",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChA3ZmNjOTdkMWFhMzQ3NzVmEAAYAg%3D%3D&sigh=SK3xlpVaAQYeuBv7sezy-w",
+ "popularity_percentile": 50,
+ "reference_vid": "7fcc97d1aa34775f",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "genre": "Jazz & Blues"
+}

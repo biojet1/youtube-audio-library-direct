@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=39d43756bacde0dc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCLBtEhYKEDM5ZDQzNzU2YmFjZGUwZGMQABgC&sigh=_Hk7El815xVPf_ZfCx2XMQ",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "39d43756bacde0dc",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "vid": "39d43756bacde0dc",
+ "downloadable": true,
+ "title": "Rock Intro 2",
+ "reference_vid": "39d43756bacde0dc",
+ "artist_url": "http://audionautix.com/",
+ "len": 14.383,
+ "artist": "Audionautix",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "h4hT-dO6uwk9gi3LijFIufNzpIXner8ZJt9s85VOcrYBUcyA9MnZlQCW9iEejxpo",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

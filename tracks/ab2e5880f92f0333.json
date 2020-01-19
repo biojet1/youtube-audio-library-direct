@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBhYjJlNTg4MGY5MmYwMzMzEAAYAg%3D%3D&sigh=2WoV2qIyfW-hyHuFji5dZg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "category": "",
+ "instruments": [
+  "drums",
+  "originalvocal samples",
+  "synths"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "ab2e5880f92f0333",
+ "is_new_track": false,
+ "len": 187,
+ "genre": "Hip Hop & Rap",
+ "reference_vid": "ab2e5880f92f0333",
+ "downloadable": true,
+ "streamid": "UBqZd_HOsWf6gZl4Y84IJsb-XBDy4Fbywt6e2qmfA1zoAvsKEjGhlFfHvVBQ7tFf",
+ "track_url": "",
+ "vid": "ab2e5880f92f0333",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab2e5880f92f0333",
+ "artist_url": "https://www.youtube.com/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "license_type": 1,
+ "title": "Crock Pot",
+ "artist": "Diamond Ortiz"
+}

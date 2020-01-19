@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f9e31a8fc6a747a",
+ "len": 182.083,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChA5ZjllMzFhOGZjNmE3NDdhEAAYAg%3D%3D&sigh=CEwK9SGZk419lUsosdImnA",
+ "fp_ref_id": "9f9e31a8fc6a747a",
+ "vid": "9f9e31a8fc6a747a",
+ "title": "Impact Allegretto",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100622",
+ "reference_vid": "9f9e31a8fc6a747a",
+ "license_type": 6,
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "instruments": [
+  "Electronic Guitar",
+  "Synth"
+ ],
+ "streamid": "eHqbN89hf_QTtaDa0o3I3pD5Ut3MHliDjs_IBMmKhSkZ2rKHjcQKKWdWoAKJVOg5",
+ "category": ""
+}

@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "be4ulZRiJ8UFLZ0m9hKIe9MHlag_r7PstLZzziIIFvWNOlJh0n4Q-mGcgP_CywbH",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChA1ZmYxNzJlNzgwZjYyOTdjEAAYAg%3D%3D&sigh=KysiW7SXBUdhqXNsrktFMA",
+ "album": "None",
+ "artist": "Everet Almond",
+ "mood": "Angry",
+ "len": 96.016,
+ "reference_vid": "5ff172e780f6297c",
+ "downloadable": true,
+ "display_mood": "Angry",
+ "vid": "5ff172e780f6297c",
+ "title": "Next Funk",
+ "fp_ref_id": "5ff172e780f6297c",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ff172e780f6297c",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Rock"
+}

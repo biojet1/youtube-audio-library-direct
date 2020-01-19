@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "vid": "1f333b30e0015ef3",
+ "streamid": "Z-tE1Qqg7tnr-KYTY5Kx1Lqqdw8d54jqrBvADSWFdiKZXQE2YZnh3JTfa-VEl5rt",
+ "title": "Rev",
+ "category": "",
+ "len": 281,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiTERIWChAxZjMzM2IzMGUwMDE1ZWYzEAAYAg%3D%3D&sigh=yilxiqkxrwCDrUma4o4hng",
+ "artist": "Eveningland",
+ "artist_url": "https://www.youtube.com/channel/UCi0uheSErbivC3_662UqL-w",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCi0uheSErbivC3_662UqL-w",
+ "reference_vid": "1f333b30e0015ef3",
+ "display_mood": "Inspirational",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1f333b30e0015ef3",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "1f333b30e0015ef3",
+ "favorite": false,
+ "mood": "Inspirational"
+}

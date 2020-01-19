@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 152,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChAwMzAyMGU4OWExNGUyODc3EAAYAg%3D%3D&sigh=joGHFI7gXtCI9m5soYUfpg",
+ "genre": "Pop",
+ "streamid": "aLug-zaKk9gUgEWr3KO-xHlH4Z0AAhUf5M9qCu_sg3X8f43PWgeqa7MQ_t2bqmF0",
+ "downloadable": true,
+ "fp_ref_id": "03020e89a14e2877",
+ "vid": "03020e89a14e2877",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "instruments": [
+  "Keyboards",
+  "Bass",
+  "Drums",
+  "Guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=03020e89a14e2877",
+ "category": "",
+ "reference_vid": "03020e89a14e2877",
+ "title": "Total Totality",
+ "artist": "The 126ers",
+ "track_url": ""
+}

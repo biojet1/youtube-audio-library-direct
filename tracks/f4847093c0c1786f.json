@@ -1,0 +1,33 @@
+{
+ "mood": "Dark",
+ "artist_channel_url": "/channel/UCrEAQx48oTZy7f9ZWsDawKg",
+ "artist_url": "https://www.youtube.com/channel/UCrEAQx48oTZy7f9ZWsDawKg",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChBmNDg0NzA5M2MwYzE3ODZmEAAYAg%3D%3D&sigh=g6m5Z2xMZm_1x3tfDGnrog",
+ "display_mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f4847093c0c1786f",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Birocratic",
+ "title": "Ego Push",
+ "reference_vid": "f4847093c0c1786f",
+ "instruments": [
+  "percussion",
+  "electric guitar",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "f4847093c0c1786f",
+ "vid": "f4847093c0c1786f",
+ "category": "",
+ "streamid": "UONubxYqzcSZ_jgEPmrW9poXe8S0-J_rK8AB02N9OuCnmlCt3hgXacjG_saeth3f",
+ "popularity_percentile": 99,
+ "len": 178.1,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Trumpet"
+ ],
+ "len": 116.016,
+ "fp_ref_id": "9fad6f451294431c",
+ "streamid": "H34ugGMnJgBdp-4ub8W7AlR1I9XLneyCSs6A4_jV3OL94b7SyLKGOeJ9LRvQ07R2",
+ "artist_url": "",
+ "category": "",
+ "genre": "Classical",
+ "popularity_percentile": 63,
+ "vid": "9fad6f451294431c",
+ "display_genre": "Classical",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9fad6f451294431c",
+ "album": "None",
+ "title": "Holiday Brass Ensemble",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA5ZmFkNmY0NTEyOTQ0MzFjEAAYAg%3D%3D&sigh=jOk9HnS089PgfpLdQ27j0w",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "display_category": "",
+ "mood": "Calm",
+ "is_new_track": false,
+ "reference_vid": "9fad6f451294431c",
+ "track_url": "",
+ "license_type": 0
+}

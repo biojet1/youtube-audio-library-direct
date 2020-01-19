@@ -1,0 +1,32 @@
+{
+ "display_genre": "Jazz & Blues",
+ "album": "None",
+ "reference_vid": "a4035b5e8a509a77",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a4035b5e8a509a77",
+ "title": "Getz Me to Brazil",
+ "mood": "Happy",
+ "len": 95.016,
+ "artist_url": "",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "fp_ref_id": "a4035b5e8a509a77",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "streamid": "V-rWUNkjmee5ZCPUNycfc_fxnQ2HGGwYyo7j_doqtyYitmO5hHS5k-Osp1HgBLEb",
+ "display_mood": "Happy",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a4035b5e8a509a77",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChBhNDAzNWI1ZThhNTA5YTc3EAAYAg%3D%3D&sigh=gmeQ0W0gn0LMPh_Rx6KdEQ"
+}

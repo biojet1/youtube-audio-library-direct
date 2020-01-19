@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "album": "None",
+ "vid": "eb16c13069632ec6",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChBlYjE2YzEzMDY5NjMyZWM2EAAYAg%3D%3D&sigh=4IAa01tl8ayzYByX3a8ciA",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "track_url": "",
+ "streamid": "uWvKL9mpoJ4ka_cnbq3hs0oh-QjE4KtSKcBN-KVhrloqztxNPPLhFlOlJbk49CGe",
+ "len": 191,
+ "genre": "Dance & Electronic",
+ "artist": "Density & Time",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "CHALLENGE",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=eb16c13069632ec6",
+ "reference_vid": "eb16c13069632ec6",
+ "popularity_percentile": 99,
+ "fp_ref_id": "eb16c13069632ec6",
+ "display_mood": "Dramatic"
+}

@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "fp_ref_id": "2e943f4623c58aca",
+ "artist_channel_url": "/channel/UCgA0po6yo5406uGDEN2yPUw",
+ "reference_vid": "2e943f4623c58aca",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 113,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChAyZTk0M2Y0NjIzYzU4YWNhEAAYAg%3D%3D&sigh=Os6G4K3GBDD1QG-4Ul47cA",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2e943f4623c58aca",
+ "instruments": [
+  "drums",
+  "808",
+  "synth"
+ ],
+ "title": "Roll",
+ "genre": "Hip Hop & Rap",
+ "streamid": "KfcTcnNyORtMCRGnA1wVpe9YaOW24oD_TquUSlg8uu8tIWEFfDb9GnX--UQ3MfTA",
+ "vid": "2e943f4623c58aca",
+ "display_genre": "Hip Hop & Rap",
+ "mood": "Happy",
+ "license_type": 1,
+ "artist": "Rick Steel"
+}

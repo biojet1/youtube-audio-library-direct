@@ -1,0 +1,33 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "album": "None",
+ "reference_vid": "6e2fa7ce9c19885b",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "6e2fa7ce9c19885b",
+ "title": "Happytoseeyou",
+ "mood": "Happy",
+ "len": 140,
+ "artist_url": "https://www.youtube.com/channel/UCp57MJpe_BxdrbHNR3Q8HMA",
+ "artist": "Sarah, The Illstrumentalist",
+ "fp_ref_id": "6e2fa7ce9c19885b",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCp57MJpe_BxdrbHNR3Q8HMA",
+ "license_type": 1,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "electric piano",
+  "keys"
+ ],
+ "streamid": "s18ddt9iC0CHwAGuAwgAWmLgAoFHMnBTu06reFnKhGHvRgiXNTy-fCP5t6cB85QC",
+ "display_mood": "Happy",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6e2fa7ce9c19885b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChA2ZTJmYTdjZTljMTk4ODViEAAYAg%3D%3D&sigh=91d75NN0y32S-rAMnclQDw"
+}

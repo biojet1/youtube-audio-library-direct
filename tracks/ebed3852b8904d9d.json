@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "artist": "Dan Bodan",
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "downloadable": true,
+ "fp_ref_id": "ebed3852b8904d9d",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChBlYmVkMzg1MmI4OTA0ZDlkEAAYAg%3D%3D&sigh=WDMO9loEXlrkOT6bT6spzg",
+ "favorite": false,
+ "genre": "Ambient",
+ "category": "",
+ "vid": "ebed3852b8904d9d",
+ "streamid": "6R7Ws5ti3DW-n9B6kLXs_hKxq8V5NIajKFte17KaYNsLadEmdUdPNAHi61NtIXfh",
+ "mood": "Dark",
+ "reference_vid": "ebed3852b8904d9d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ebed3852b8904d9d",
+ "title": "Leoforos Alexandras",
+ "display_mood": "Dark",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "display_category": "",
+ "instruments": [
+  "synth"
+ ],
+ "len": 99,
+ "album": "None",
+ "track_url": ""
+}

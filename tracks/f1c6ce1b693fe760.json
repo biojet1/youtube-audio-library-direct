@@ -1,0 +1,31 @@
+{
+ "display_genre": "Pop",
+ "license_type": 0,
+ "genre": "Pop",
+ "artist_url": "",
+ "vid": "f1c6ce1b693fe760",
+ "artist": "Topher Mohr and Alex Elena",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f1c6ce1b693fe760",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiPDRIWChBmMWM2Y2UxYjY5M2ZlNzYwEAAYAg%3D%3D&sigh=_WzPFojTrvc44pt8Xpf0Sw",
+ "popularity_percentile": 95,
+ "display_category": "",
+ "mood": "Calm",
+ "title": "Where I am From",
+ "reference_vid": "f1c6ce1b693fe760",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f1c6ce1b693fe760",
+ "track_url": "",
+ "len": 215.15,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "BVeq188QJn5KXKi575BDbnN-Cu7Tm48I78h59WYq8crfGBw_5H0wbUGz5AfCNy1W"
+}

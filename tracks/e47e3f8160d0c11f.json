@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "mood": "Dramatic",
+ "instruments": [
+  "electric guitar",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "e47e3f8160d0c11f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiJDxIWChBlNDdlM2Y4MTYwZDBjMTFmEAAYAg%3D%3D&sigh=r9mZCgnDaxZi076vpPOhwQ",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "category": "",
+ "genre": "Rock",
+ "reference_vid": "e47e3f8160d0c11f",
+ "downloadable": true,
+ "streamid": "FhQCerCLTqnWzvsTcARPHrUYnnMEBNDUk_5kLDQiEdObtOUmS0KDInfjTeRzONQ6",
+ "track_url": "",
+ "vid": "e47e3f8160d0c11f",
+ "len": 247,
+ "license_type": 1,
+ "title": "Long Ball",
+ "is_new_track": false,
+ "artist": "Freedom Trail Studio",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e47e3f8160d0c11f",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw"
+}

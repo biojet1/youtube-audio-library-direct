@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "artist": "Gunnar Olsen",
+ "is_new_track": false,
+ "fp_ref_id": "6feb0654949ef64c",
+ "artist_channel_url": null,
+ "len": 167.716,
+ "downloadable": true,
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiYChIWChA2ZmViMDY1NDk0OWVmNjRjEAAYAg%3D%3D&sigh=5G5vY1a_F4JciKli0jUg_w",
+ "display_genre": "Dance & Electronic",
+ "genre": "Dance & Electronic",
+ "vid": "6feb0654949ef64c",
+ "display_category": "",
+ "reference_vid": "6feb0654949ef64c",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6feb0654949ef64c",
+ "album": "None",
+ "track_url": "",
+ "streamid": "S05vw8tVCLrlBumYva3styg4stDTGCPAcdpPe5JBGcOWSn7JYTAEO09FzHYo13HG",
+ "mood": "Bright",
+ "artist_url": "",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "title": "Home Stretch",
+ "popularity_percentile": 43,
+ "category": ""
+}

@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "len": 44.066,
+ "fp_ref_id": "2b56e1ca007c3acc",
+ "streamid": "iqhs8CI4MUPNuunVEc3B0Z0qU1fdf8RYGMfUF3WRo8KPYl2aaDrdaiO7oqVTokpK",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Ambient",
+ "popularity_percentile": 64,
+ "vid": "2b56e1ca007c3acc",
+ "display_genre": "Ambient",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2b56e1ca007c3acc",
+ "album": "None",
+ "title": "Dopplerette",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODXAhIWChAyYjU2ZTFjYTAwN2MzYWNjEAAYAg%3D%3D&sigh=DH1n1LOHq5XsBuR4dVRyfA",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Dark",
+ "is_new_track": false,
+ "reference_vid": "2b56e1ca007c3acc",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100659",
+ "license_type": 6
+}

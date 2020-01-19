@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "mood": "Dark",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "808"
+ ],
+ "display_mood": "Dark",
+ "fp_ref_id": "fd7e4766fb6a2e4e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChBmZDdlNDc2NmZiNmEyZTRlEAAYAg%3D%3D&sigh=IGmnJGZIYVxrcw0hekw7WQ",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "category": "",
+ "genre": "Hip Hop & Rap",
+ "reference_vid": "fd7e4766fb6a2e4e",
+ "downloadable": true,
+ "streamid": "p3TXBKSH-cmPHlyF88_kDocIvgPVbuJ_bCbHf6ituRLPwyv0RxahMsUkzL_GyaR_",
+ "track_url": "",
+ "vid": "fd7e4766fb6a2e4e",
+ "len": 155,
+ "license_type": 1,
+ "title": "Chosen One",
+ "is_new_track": false,
+ "artist": "Verified Picasso",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fd7e4766fb6a2e4e",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

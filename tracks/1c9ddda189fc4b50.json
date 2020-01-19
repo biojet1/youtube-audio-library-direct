@@ -1,0 +1,29 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "len": 188,
+ "vid": "1c9ddda189fc4b50",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "synth"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "1c9ddda189fc4b50",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC8CxIWChAxYzlkZGRhMTg5ZmM0YjUwEAAYAg%3D%3D&sigh=TzxKegtKKNRt77c8KzqYTg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1c9ddda189fc4b50",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "title": "They Can Feel You",
+ "display_genre": "Cinematic",
+ "artist": "Hainbach",
+ "reference_vid": "1c9ddda189fc4b50",
+ "streamid": "NnHcf5_WH5L0OMom5SlnSzUXjGMV9VVXGhKWHPyANPKa3HqHID0YIg1zVPi0LBRi"
+}

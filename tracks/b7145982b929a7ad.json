@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "b7145982b929a7ad",
+ "mood": "Bright",
+ "reference_vid": "b7145982b929a7ad",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjFEBIWChBiNzE0NTk4MmI5MjlhN2FkEAAYAg%3D%3D&sigh=8ILJaCSMhT0z3oiD5TzQ-g",
+ "len": 271.85,
+ "favorite": false,
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b7145982b929a7ad",
+ "streamid": "mW31hXaBnU6w2FASwxENLmnoq9YTUjO79q2pEFVIDuDt1OKqY7wcYAMtrMIRE4cV",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b7145982b929a7ad",
+ "title": "Ceremonial Medley",
+ "display_genre": "Classical",
+ "artist": "United States Marine Band",
+ "genre": "Classical",
+ "downloadable": true,
+ "instruments": [
+  "Trumpet"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "a728de2dc765a0ca",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a728de2dc765a0ca",
+ "display_mood": "Dark",
+ "fp_ref_id": "a728de2dc765a0ca",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "title": "Born Again",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChBhNzI4ZGUyZGM3NjVhMGNhEAAYAg%3D%3D&sigh=2dFvOPRcPE8k8SCZfOV8Eg",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Text Me Records / Jorge Hernandez",
+ "genre": "Hip Hop & Rap",
+ "len": 93.7,
+ "streamid": "nK_BIF8dt_7baAKDGmFgkVlafd-xI0Oe1e3AHAV-apUfBrO4fbIe9x6Ir1-d_AeD",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "a728de2dc765a0ca",
+ "album": "None",
+ "mood": "Dark"
+}

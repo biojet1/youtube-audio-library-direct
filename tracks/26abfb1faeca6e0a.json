@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=26abfb1faeca6e0a",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Silent Partner",
+ "len": 114.283,
+ "display_category": "",
+ "display_genre": "Pop",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "ohEo3eJe_bZ1iVj3aStHGE-vDPu48uO_j8SFAmRxyIbWD3ZufH6Sqixh71L14NHK",
+ "category": "",
+ "title": "Making Rounds",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "reference_vid": "26abfb1faeca6e0a",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChAyNmFiZmIxZmFlY2E2ZTBhEAAYAg%3D%3D&sigh=uQSw6YOUhAfJHgQmok9Htw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "26abfb1faeca6e0a",
+ "license_type": 0,
+ "popularity_percentile": 15,
+ "vid": "26abfb1faeca6e0a"
+}

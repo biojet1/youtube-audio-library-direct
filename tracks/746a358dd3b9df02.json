@@ -1,0 +1,33 @@
+{
+ "vid": "746a358dd3b9df02",
+ "downloadable": true,
+ "genre": "Rock",
+ "streamid": "JeOwvi86f2iDVVRNW1xsDjTd8-icEAnWxk8T1z174dHI67Unuj2hx5fyaFr9KUuB",
+ "favorite": false,
+ "fp_ref_id": "746a358dd3b9df02",
+ "len": 222,
+ "mood": "Happy",
+ "display_category": "",
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChA3NDZhMzU4ZGQzYjlkZjAyEAAYAg%3D%3D&sigh=Pi5kxsnnZx8sVfdSMvAT0w",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "reference_vid": "746a358dd3b9df02",
+ "title": "Days Like This",
+ "artist": "The Whole Other",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "instruments": [
+  "piano",
+  "clarinet",
+  "bass",
+  "drums",
+  "woodwinds"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=746a358dd3b9df02",
+ "category": "",
+ "display_genre": "Rock",
+ "popularity_percentile": 99,
+ "album": "None",
+ "license_type": 1
+}

@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "4ad6ad49e7fa9ee0",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "title": "Honey Bee",
+ "vid": "4ad6ad49e7fa9ee0",
+ "mood": "Funky",
+ "display_genre": "R&B & Soul",
+ "len": 57.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi9AxIWChA0YWQ2YWQ0OWU3ZmE5ZWUwEAAYAg%3D%3D&sigh=DyHVm8ALcW_-j9xcoatrew",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ad6ad49e7fa9ee0",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100755",
+ "streamid": "SE64sP33Eiu5zeWfd4eIEF980DWtDFMPuzCrNUSTfXUW7Xpx9822q9CUGGu8ZYFi",
+ "reference_vid": "4ad6ad49e7fa9ee0",
+ "instruments": [
+  "Bass"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "R&B & Soul",
+ "artist_url": "http://incompetech.com/"
+}

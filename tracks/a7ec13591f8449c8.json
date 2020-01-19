@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "a7ec13591f8449c8",
+ "mood": "Calm",
+ "reference_vid": "a7ec13591f8449c8",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjsAxIWChBhN2VjMTM1OTFmODQ0OWM4EAAYAg%3D%3D&sigh=dR8wtQf2JyysGe6Vk1gIPw",
+ "len": 63.65,
+ "favorite": false,
+ "display_mood": "Calm",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "a7ec13591f8449c8",
+ "streamid": "n-7IJhUBKpUtM5jlGjLDva7gt2oIntM47GqdiHqqd4TzghfhdPK5sjxtxT5RmgqF",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a7ec13591f8449c8",
+ "title": "Back To The Wood",
+ "display_genre": "Country & Folk",
+ "artist": "Audionautix",
+ "genre": "Country & Folk",
+ "downloadable": true,
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "is_new_track": false
+}

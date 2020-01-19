@@ -1,0 +1,33 @@
+{
+ "streamid": "WWwXSiqFudNA0-xAkSSiMfr5JagWFje_BJ4uom1yHaRyztMIy1CCmFOwEHPyyeuh",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChBmMGIxNjIwOWZjNDEzMTI4EAAYAg%3D%3D&sigh=jCmOuyNJ-BNce5gcWlcyWA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f0b16209fc413128",
+ "favorite": false,
+ "genre": "Hip Hop & Rap",
+ "title": "A Saint",
+ "mood": "Dark",
+ "category": "",
+ "vid": "f0b16209fc413128",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "artist_channel_url": "/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "f0b16209fc413128",
+ "len": 142,
+ "display_mood": "Dark",
+ "artist": "Saidbysed",
+ "downloadable": true,
+ "fp_ref_id": "f0b16209fc413128",
+ "album": "None",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "keys",
+  "808"
+ ]
+}

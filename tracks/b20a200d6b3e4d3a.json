@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "fp_ref_id": "b20a200d6b3e4d3a",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "title": "Dobro Mash",
+ "vid": "b20a200d6b3e4d3a",
+ "mood": "Bright",
+ "display_genre": "Country & Folk",
+ "len": 17.216,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOiEARIWChBiMjBhMjAwZDZiM2U0ZDNhEAAYAg%3D%3D&sigh=lv83og5P9sxPIwPDYW_Huw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b20a200d6b3e4d3a",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "tYs6zZL2hHRTMN-yi8ZC_3Yzlg-gJPv7BQOIRuAyRfFQZ2w67EZAtQjoVn718Rq_",
+ "reference_vid": "b20a200d6b3e4d3a",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Country & Folk",
+ "artist_url": "http://audionautix.com/"
+}

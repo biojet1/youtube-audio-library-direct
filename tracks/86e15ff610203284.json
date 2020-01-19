@@ -1,0 +1,31 @@
+{
+ "title": "You Like It",
+ "favorite": false,
+ "len": 197.05,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiDDBIWChA4NmUxNWZmNjEwMjAzMjg0EAAYAg%3D%3D&sigh=UWFh4-O_xRcOIVNB8wo9Wg",
+ "fp_ref_id": "86e15ff610203284",
+ "artist_channel_url": null,
+ "display_genre": "Dance & Electronic",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "artist_url": "",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "86e15ff610203284",
+ "display_category": "",
+ "vid": "86e15ff610203284",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=86e15ff610203284",
+ "streamid": "fCcV7MengYXccklNjVdASvgTfVHPsXrEHEIXw6_yb1jjuDD1NTKYX5L9KQGbhUg-",
+ "artist": "Vibe Tracks"
+}

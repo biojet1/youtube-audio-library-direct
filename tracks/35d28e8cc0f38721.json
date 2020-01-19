@@ -1,0 +1,31 @@
+{
+ "artist": "Doug Maxwell/Media Right Productions",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=35d28e8cc0f38721",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChAzNWQyOGU4Y2MwZjM4NzIxEAAYAg%3D%3D&sigh=ngIPJ_eWv7eF_hQMLmNPng",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "album": "None",
+ "track_url": "",
+ "len": 107.05,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "35d28e8cc0f38721",
+ "streamid": "QkvlOgfp79RneaDSMW5O5VO0pwlFm16ZxQE38EhJcy-lkVXsPZjZ3yBmueWJ0yyv",
+ "title": "Jazz Organ Trio Cool Blue",
+ "artist_url": "",
+ "mood": "Funky",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "popularity_percentile": 21,
+ "reference_vid": "35d28e8cc0f38721",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums"
+ ],
+ "fp_ref_id": "35d28e8cc0f38721",
+ "license_type": 0
+}

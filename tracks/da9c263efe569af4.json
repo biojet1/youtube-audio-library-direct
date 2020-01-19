@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "popularity_percentile": 85,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 164.716,
+ "mood": "Inspirational",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=da9c263efe569af4",
+ "title": "Bottomless Cup",
+ "streamid": "t3_DhgQNtbuTN0LPnms2LcswnVP4z6byOu-S1WYgCgzxtvFskj2onAfkdXCMyOTk",
+ "genre": "Pop",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChBkYTljMjYzZWZlNTY5YWY0EAAYAg%3D%3D&sigh=bCj9QrelzIX1smJpUfNY0Q",
+ "license_type": 0,
+ "fp_ref_id": "da9c263efe569af4",
+ "display_mood": "Inspirational",
+ "vid": "da9c263efe569af4",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "instruments": [
+  "drums",
+  "bass",
+  "organ",
+  "acoustic guitar",
+  "synth"
+ ],
+ "display_genre": "Pop",
+ "favorite": false,
+ "reference_vid": "da9c263efe569af4"
+}

@@ -1,0 +1,30 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "52sjwFN6M-xsGEKnWtwi2WnIW5vqiDsLOgLFfmY2DdCu9n3Y_8iC4V3C4NWRQSDw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=523c91421f43f3ed",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChA1MjNjOTE0MjFmNDNmM2VkEAAYAg%3D%3D&sigh=eTA-SRDXgtiDW5hPPxry_w",
+ "vid": "523c91421f43f3ed",
+ "display_category": "",
+ "title": "Armchair Stellar Crossing",
+ "album": "None",
+ "mood": "Inspirational",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Puddle of Infinity",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Inspirational",
+ "reference_vid": "523c91421f43f3ed",
+ "len": 216.016,
+ "genre": "Ambient",
+ "popularity_percentile": 33,
+ "fp_ref_id": "523c91421f43f3ed",
+ "track_url": "",
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "instruments": [
+  "Electric Guitar",
+  "Synth"
+ ]
+}

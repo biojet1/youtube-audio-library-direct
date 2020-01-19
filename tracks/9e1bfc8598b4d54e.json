@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9e1bfc8598b4d54e",
+ "category": "",
+ "license_type": 0,
+ "title": "Double Helix",
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Dark",
+ "album": "None",
+ "streamid": "R2lpndTS4pUaFJzuGJ0p4g3avg_jUw2mRCdOHQk3zThPqA01RIoZma5HS8up7l9c",
+ "len": 161.35,
+ "artist": "Ethan Meixsell",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9e1bfc8598b4d54e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChA5ZTFiZmM4NTk4YjRkNTRlEAAYAg%3D%3D&sigh=bBsMsrMHZZ6RlnKHivdiFQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "9e1bfc8598b4d54e",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "9e1bfc8598b4d54e",
+ "track_url": ""
+}

@@ -1,0 +1,33 @@
+{
+ "vid": "3c9f25beed313897",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3c9f25beed313897",
+ "len": 185,
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "display_mood": "Inspirational",
+ "reference_vid": "3c9f25beed313897",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChAzYzlmMjViZWVkMzEzODk3EAAYAg%3D%3D&sigh=NKsrEPl6A4qRkQhMPDZSrg",
+ "display_genre": "Rock",
+ "fp_ref_id": "3c9f25beed313897",
+ "popularity_percentile": 99,
+ "title": "I'm Happy For This Guitar",
+ "genre": "Rock",
+ "instruments": [
+  "acoustic guitar",
+  "piano",
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "artist": "Freedom Trail Studio",
+ "streamid": "Xyunm1kCJyRkU4utRPn-d4vkWcGbdK22Fcs7b1awyfTFK1vT84c2fjtuu9zbJNyv",
+ "mood": "Inspirational",
+ "license_type": 1
+}

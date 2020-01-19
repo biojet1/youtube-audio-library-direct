@@ -1,0 +1,33 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChBlY2IzMzdmYTUxOGZiYTZhEAAYAg%3D%3D&sigh=b-6jLi2aey3s9UUuhzBU7w",
+ "instruments": [
+  "piano",
+  "synth",
+  "strings",
+  "bass",
+  "drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "ecb337fa518fba6a",
+ "reference_vid": "ecb337fa518fba6a",
+ "popularity_percentile": 99,
+ "artist": "Spazz Cardigan",
+ "artist_channel_url": "/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ecb337fa518fba6a",
+ "mood": "Calm",
+ "genre": "Pop",
+ "streamid": "Rx3Mkr4uBmZfLXwCgfd1tqTkJWgikBM6PAvrppRp7sl_wlMP8MW2TRZvecrkg588",
+ "title": "Garden",
+ "downloadable": true,
+ "category": "",
+ "len": 181,
+ "artist_url": "https://www.youtube.com/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "display_genre": "Pop",
+ "fp_ref_id": "ecb337fa518fba6a",
+ "album": "None"
+}

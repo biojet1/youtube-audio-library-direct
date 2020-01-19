@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "reference_vid": "09ee59533943913a",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAwOWVlNTk1MzM5NDM5MTNhEAAYAg%3D%3D&sigh=W7f1EIPANIrBBJ-eNvQ6Ug",
+ "display_mood": "Funky",
+ "title": "Decay Tower",
+ "artist": "roljui",
+ "is_new_track": false,
+ "len": 122,
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "09ee59533943913a",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09ee59533943913a",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCQdJN8etkQ8OlCMOvZGG97Q",
+ "artist_url": "https://www.youtube.com/channel/UCQdJN8etkQ8OlCMOvZGG97Q",
+ "license_type": 1,
+ "instruments": [
+  "Drums",
+  "Guitar",
+  "Piano",
+  "Synth"
+ ],
+ "fp_ref_id": "09ee59533943913a",
+ "streamid": "O8tmLKw4YI0ZQHnVz82c0a3TE0yj0Vhdmgt195m3qoVERnI1LHlN7Fm37XNoCWe-"
+}

@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d130a24cf19e4652",
+ "title": "Whatdafunk",
+ "is_new_track": false,
+ "mood": "Happy",
+ "downloadable": true,
+ "album": "None",
+ "len": 277.483,
+ "popularity_percentile": 41,
+ "track_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "reference_vid": "d130a24cf19e4652",
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "display_genre": "Rock",
+ "artist": "Audionautix",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj0EBIWChBkMTMwYTI0Y2YxOWU0NjUyEAAYAg%3D%3D&sigh=KcMolbe7LVKrlWM4ojvbNQ",
+ "fp_ref_id": "d130a24cf19e4652",
+ "license_type": 6,
+ "favorite": false,
+ "vid": "d130a24cf19e4652",
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Happy",
+ "genre": "Rock",
+ "streamid": "VsU_G-s0Ot4fZDEzthaqXtBVOhZsopG4ScTyQLsVQYm8OtLvAqiLucjsnY_LwKWU",
+ "display_category": ""
+}

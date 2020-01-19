@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "JXRm59563zVLnM0b-uZ9KJWLRlOg9eHChPTBsyEsCQApM-nMviSJ7JJuY9xNotN7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=424daf75f6d74da1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChA0MjRkYWY3NWY2ZDc0ZGExEAAYAg%3D%3D&sigh=jYr2lWIKDe5cB7P9HtNtZQ",
+ "vid": "424daf75f6d74da1",
+ "display_category": "",
+ "title": "Comic Plodding - Silent Film Dark",
+ "album": "None",
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "424daf75f6d74da1",
+ "len": 96.45,
+ "popularity_percentile": 52,
+ "genre": "Pop",
+ "fp_ref_id": "424daf75f6d74da1",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100457",
+ "display_genre": "Pop",
+ "instruments": [
+  "Piano"
+ ],
+ "license_type": 6
+}

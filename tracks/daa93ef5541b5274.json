@@ -1,0 +1,31 @@
+{
+ "streamid": "Q1TWDF3WIKlfP3uvxPvFeOe5eN2MDciBRZrlKe4xgNP_r4KMTHZ--QAo2pwFTrM5",
+ "genre": "Classical",
+ "fp_ref_id": "daa93ef5541b5274",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=daa93ef5541b5274",
+ "favorite": false,
+ "reference_vid": "daa93ef5541b5274",
+ "vid": "daa93ef5541b5274",
+ "album": "None",
+ "display_mood": "Romantic",
+ "display_category": "",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChBkYWE5M2VmNTU0MWI1Mjc0EAAYAg%3D%3D&sigh=dLVMC7UZNlrTnsnCfwMA0g",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "instruments": [
+  "strings",
+  "piano",
+  "synth"
+ ],
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "category": "",
+ "artist": "Dan Bodan",
+ "title": "Bucolic Acrylic",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Classical",
+ "mood": "Romantic",
+ "len": 170,
+ "popularity_percentile": 99
+}

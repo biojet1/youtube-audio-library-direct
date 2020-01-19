@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "3826be478060a656",
+ "display_category": "",
+ "fp_ref_id": "3826be478060a656",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3826be478060a656",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Romantic",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChAzODI2YmU0NzgwNjBhNjU2EAAYAg%3D%3D&sigh=qiBwx29x0hciJbKdJ_EJ6g",
+ "streamid": "Bu-j_NOHFCEYkRn0zr3W_p77rANjNmjYYdijRBhah6QmyNF0cthdqhBZ9H-Uaq-G",
+ "genre": "Dance & Electronic",
+ "vid": "3826be478060a656",
+ "artist": "White Hex",
+ "display_genre": "Dance & Electronic",
+ "title": "Tonight Is Never",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 177,
+ "display_mood": "Romantic",
+ "downloadable": true
+}

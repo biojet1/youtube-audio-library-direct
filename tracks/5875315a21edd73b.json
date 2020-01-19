@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "5875315a21edd73b",
+ "downloadable": true,
+ "fp_ref_id": "5875315a21edd73b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5875315a21edd73b",
+ "album": "None",
+ "artist": "The 126ers",
+ "display_mood": "Happy",
+ "streamid": "JldhKXZ6-petHWMfcI3MI3NaRaWiTa-xKE2NL5clxRZ4nsCiHKg_DH7GWTO-uYuB",
+ "mood": "Happy",
+ "title": "Water Lily",
+ "genre": "Pop",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano",
+  "Organ"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Pop",
+ "reference_vid": "5875315a21edd73b",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 129.583,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChA1ODc1MzE1YTIxZWRkNzNiEAAYAg%3D%3D&sigh=JgWLawfQK10bjcu5AxSLEg"
+}

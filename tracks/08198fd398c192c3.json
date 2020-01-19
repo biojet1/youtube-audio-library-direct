@@ -1,0 +1,29 @@
+{
+ "mood": "Dramatic",
+ "reference_vid": "08198fd398c192c3",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChAwODE5OGZkMzk4YzE5MmMzEAAYAg%3D%3D&sigh=E_LsO6aqVYmJGJzrGsXs2g",
+ "display_mood": "Dramatic",
+ "title": "Meteor",
+ "artist": "HOVATOFF",
+ "is_new_track": false,
+ "len": 181,
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "08198fd398c192c3",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=08198fd398c192c3",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCQ3QtdsILJ8zuXpvqlRXfsw",
+ "artist_url": "https://www.youtube.com/channel/UCQ3QtdsILJ8zuXpvqlRXfsw",
+ "license_type": 1,
+ "instruments": [
+  "synth"
+ ],
+ "fp_ref_id": "08198fd398c192c3",
+ "streamid": "plz_eBWB-Ba2TVdIOill5AEvPq93StX2zlTUyHqgleoq5LaMXQB4Ql_j2mUMVzLF"
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "22c5ab8e5e6e5200",
+ "track_url": "",
+ "fp_ref_id": "22c5ab8e5e6e5200",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "reference_vid": "22c5ab8e5e6e5200",
+ "display_mood": "Dramatic",
+ "len": 163.616,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChAyMmM1YWI4ZTVlNmU1MjAwEAAYAg%3D%3D&sigh=4MQcBB9tTXmt7wQe8SUT7g",
+ "popularity_percentile": 13,
+ "streamid": "gILZnGs7o3IC28ggfxteyiRCzVJP9QooNv8zS2W62VScArdK95FlIqad_UHI8YZU",
+ "license_type": 0,
+ "display_genre": "Pop",
+ "category": "",
+ "title": "Branching Out",
+ "genre": "Pop",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22c5ab8e5e6e5200"
+}

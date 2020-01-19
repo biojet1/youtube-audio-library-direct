@@ -1,0 +1,31 @@
+{
+ "streamid": "ETpKBtvLNFSjFgOdkah97seKsSHmyZb-hGUwytIyh4XtHsCtP4GIHFTMKIXM2JFe",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 546.216,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200069",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2cf8415fd01f74a4",
+ "display_category": "",
+ "reference_vid": "2cf8415fd01f74a4",
+ "title": "Egmont Overture",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCpIRIWChAyY2Y4NDE1ZmQwMWY3NGE0EAAYAg%3D%3D&sigh=GPsD-3dc3IsXTc79tZxX-w",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "category": "",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "fp_ref_id": "2cf8415fd01f74a4",
+ "artist": "Kevin MacLeod",
+ "vid": "2cf8415fd01f74a4",
+ "artist_url": "http://incompetech.com/",
+ "genre": "Classical",
+ "license_type": 6,
+ "display_genre": "Classical"
+}

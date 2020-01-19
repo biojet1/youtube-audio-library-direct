@@ -1,0 +1,29 @@
+{
+ "title": "Acoustic Blues",
+ "favorite": false,
+ "len": 152.883,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChAwNTI4MjM2MmZlMTE1YWZhEAAYAg%3D%3D&sigh=KmhpEsiiOcROaJ3dqBhdSQ",
+ "fp_ref_id": "05282362fe115afa",
+ "artist_channel_url": null,
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "genre": "Jazz & Blues",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "reference_vid": "05282362fe115afa",
+ "display_category": "",
+ "vid": "05282362fe115afa",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05282362fe115afa",
+ "streamid": "j-4wGCO0FI48gAhN91vmj_dQ9FCEGUBtl86VNbh0e2fOZ2VkJbYZ4qQMTK3MW9Sz",
+ "artist": "Audionautix"
+}

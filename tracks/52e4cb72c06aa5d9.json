@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "4CGCm6YLA8WmYMXNK9PEkpw6wfKVq7YJcyaSMEUGLesFoK3N7wD34-P8W79Gzj5W",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=52e4cb72c06aa5d9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChA1MmU0Y2I3MmMwNmFhNWQ5EAAYAg%3D%3D&sigh=pu7Qo7rYDXJZBnLBc1ZPiw",
+ "vid": "52e4cb72c06aa5d9",
+ "display_category": "",
+ "title": "Forward Thinker",
+ "album": "None",
+ "mood": "Funky",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "reference_vid": "52e4cb72c06aa5d9",
+ "len": 115.616,
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 33,
+ "fp_ref_id": "52e4cb72c06aa5d9",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ]
+}

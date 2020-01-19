@@ -1,0 +1,31 @@
+{
+ "mood": "Calm",
+ "album": "None",
+ "vid": "45c9720fed96be05",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA0NWM5NzIwZmVkOTZiZTA1EAAYAg%3D%3D&sigh=sGlzo6b6k76cE04sLNNhwQ",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "streamid": "JtRV57t14mjZjkb8_io5KEc-Q3HosxOngKcKGQfDG3ZZGDDBk6YPnoWh7gd4yIsh",
+ "len": 92,
+ "genre": "Dance & Electronic",
+ "artist": "Coyote Hearing",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Someday",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=45c9720fed96be05",
+ "reference_vid": "45c9720fed96be05",
+ "popularity_percentile": 99,
+ "fp_ref_id": "45c9720fed96be05",
+ "display_mood": "Calm"
+}

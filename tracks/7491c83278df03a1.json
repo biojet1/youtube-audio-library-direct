@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dark",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "album": "None",
+ "streamid": "8NDD1bGLvt0vn83iqD5kQcpo9aNOxwVhxUmVGozLGXyV4sCOK0G5UpmXFbflkMa2",
+ "title": "Double Helix (Sting)",
+ "display_genre": "Rock",
+ "vid": "7491c83278df03a1",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "7491c83278df03a1",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dark",
+ "license_type": 0,
+ "fp_ref_id": "7491c83278df03a1",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Ethan Meixsell",
+ "len": 5.916,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDc0OTFjODMyNzhkZjAzYTEQABgC&sigh=Kq7MeYrYLbubdtVnj7cifg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7491c83278df03a1"
+}

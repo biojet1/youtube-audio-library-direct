@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "artist": "Twin Musicom",
+ "instruments": [
+  "Strings",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c02a4bf901f85dbf",
+ "artist_channel_url": null,
+ "display_category": "",
+ "display_mood": "Calm",
+ "artist_url": "http://www.twinmusicom.org/",
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChBjMDJhNGJmOTAxZjg1ZGJmEAAYAg%3D%3D&sigh=m5YiaVz_ReBcFU7qLB6mtg",
+ "len": 155.416,
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "display_genre": "Cinematic",
+ "reference_vid": "c02a4bf901f85dbf",
+ "is_new_track": false,
+ "title": "Arabian Bazaar",
+ "track_url": "",
+ "popularity_percentile": 42,
+ "streamid": "CvaW9SHE2cycNUzMdltqBM1MXHknc1hZDt_K6T6MI8mZqwzr9xnXUpIOxdJU2fbX",
+ "genre": "Cinematic",
+ "vid": "c02a4bf901f85dbf",
+ "favorite": false,
+ "fp_ref_id": "c02a4bf901f85dbf"
+}

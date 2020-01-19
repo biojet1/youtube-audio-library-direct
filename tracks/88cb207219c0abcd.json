@@ -1,0 +1,31 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100883",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "88cb207219c0abcd",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA4OGNiMjA3MjE5YzBhYmNkEAAYAg%3D%3D&sigh=K3adlNSuI7ms7JfnQMxXtQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=88cb207219c0abcd",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar"
+ ],
+ "reference_vid": "88cb207219c0abcd",
+ "category": "",
+ "len": 134.716,
+ "vid": "88cb207219c0abcd",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "mood": "Happy",
+ "license_type": 6,
+ "genre": "Country & Folk",
+ "title": "Brightly Fancy - Oddities",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "streamid": "qPZpmNDKjiEWKJA93y77WDFPCEoX-K36ZzeZRVFSgVw0MaU9WvzH2tO_kQyvjLJR"
+}

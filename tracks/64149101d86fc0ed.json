@@ -1,0 +1,33 @@
+{
+ "len": 186,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChA2NDE0OTEwMWQ4NmZjMGVkEAAYAg%3D%3D&sigh=xyMW0EnM2051IkffIN2Zkw",
+ "reference_vid": "64149101d86fc0ed",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Chasing Time",
+ "genre": "Cinematic",
+ "mood": "Angry",
+ "artist": "SYBS",
+ "streamid": "OcpF5zHED1QSZlGkQIyqkBjxmQUvbnwhCqiaw4feelyvjNlyr1Tu-oIiQIe23nM4",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=64149101d86fc0ed",
+ "fp_ref_id": "64149101d86fc0ed",
+ "album": "None",
+ "vid": "64149101d86fc0ed",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "favorite": false
+}

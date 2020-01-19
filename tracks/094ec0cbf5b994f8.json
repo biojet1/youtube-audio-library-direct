@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "094ec0cbf5b994f8",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Ashley Shadow",
+ "vid": "094ec0cbf5b994f8",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChAwOTRlYzBjYmY1Yjk5NGY4EAAYAg%3D%3D&sigh=rWXJX-lkZBx-Z2TeYpTvVA",
+ "category": "",
+ "genre": "Cinematic",
+ "display_mood": "Inspirational",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Bernie Love",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=094ec0cbf5b994f8",
+ "reference_vid": "094ec0cbf5b994f8",
+ "mood": "Inspirational",
+ "streamid": "tOKjhrETYcAJakbZbu9UNhbSqK1dsZQPO_kB9w1RAzVFmqXfpCRRqkO2O-3e_lDS",
+ "track_url": "",
+ "album": "None",
+ "len": 171,
+ "instruments": [
+  "electric guitar",
+  "organ",
+  "synth",
+  "keys"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Cinematic"
+}

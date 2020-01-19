@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Cinematic",
+ "streamid": "wNIsJGbPBiNGYOaraKrCICCVxAfbvVGZP-zJwVOwfH9GGnact55aapNmwpjPBRAm",
+ "reference_vid": "86510eb866d036e6",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200073",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=86510eb866d036e6",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj3DxIWChA4NjUxMGViODY2ZDAzNmU2EAAYAg%3D%3D&sigh=ZY7SbzPIoTbeyfPtJ0MI_w",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "display_category": "",
+ "title": "Gypsy Shoegazer",
+ "album": "None",
+ "vid": "86510eb866d036e6",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Drums"
+ ],
+ "favorite": false,
+ "len": 261.616,
+ "fp_ref_id": "86510eb866d036e6",
+ "display_genre": "Cinematic"
+}

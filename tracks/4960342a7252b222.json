@@ -1,0 +1,30 @@
+{
+ "title": "Ambiment - The Ambient",
+ "favorite": false,
+ "len": 1372.883,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODeUxIWChA0OTYwMzQyYTcyNTJiMjIyEAAYAg%3D%3D&sigh=WyhSwAcqQcTjvcBowNJh9Q",
+ "fp_ref_id": "4960342a7252b222",
+ "artist_channel_url": null,
+ "display_genre": "Ambient",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100630",
+ "genre": "Ambient",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Piano",
+  "Synth"
+ ],
+ "reference_vid": "4960342a7252b222",
+ "display_category": "",
+ "vid": "4960342a7252b222",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4960342a7252b222",
+ "streamid": "1_M57_Y9fVWATy94AwC13j3FfDsI7S4y-4H7yzRrc-BD2ir3PO9r9V1TYP4Ccgcb",
+ "artist": "Kevin MacLeod"
+}

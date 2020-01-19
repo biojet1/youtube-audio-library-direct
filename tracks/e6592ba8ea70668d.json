@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "e6592ba8ea70668d",
+ "artist_url": "https://www.youtube.com/channel/UCE8in8drPryPgRY9IDZB1XQ",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "e6592ba8ea70668d",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "808",
+  "electric guitar"
+ ],
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e6592ba8ea70668d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChBlNjU5MmJhOGVhNzA2NjhkEAAYAg%3D%3D&sigh=CDY1tZQ_bkWXV9idTTHcsg",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "vid": "e6592ba8ea70668d",
+ "len": 153,
+ "mood": "Dramatic",
+ "streamid": "3b9xPJhDXl1wPekXYRSXYgioQnGYZDpuTBJTzwoieihCBqhEaissCFQonktIpuV2",
+ "artist": "Alge",
+ "is_new_track": false,
+ "title": "Mitigated Suffering",
+ "genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCE8in8drPryPgRY9IDZB1XQ"
+}

@@ -1,0 +1,32 @@
+{
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "len": 197.583,
+ "display_category": "",
+ "reference_vid": "40bc0076ce35646e",
+ "popularity_percentile": 25,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "40bc0076ce35646e",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "vETyzUaE-RwKSni3hVkQMMQtU2yRPaLj61hFki3UFUp9R0HNdHxjfxsKNawfQrON",
+ "display_mood": "Inspirational",
+ "vid": "40bc0076ce35646e",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiDDBIWChA0MGJjMDA3NmNlMzU2NDZlEAAYAg%3D%3D&sigh=BTlDDpkocGXI1hIm9n3g0g",
+ "category": "",
+ "title": "Accidents Will Happen",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40bc0076ce35646e"
+}

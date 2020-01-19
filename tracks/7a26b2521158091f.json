@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "7a26b2521158091f",
+ "reference_vid": "7a26b2521158091f",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a26b2521158091f",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "gLXjJ6d6c2fAhxCsckg9GmoC8eJ8bgdzNtAfaXd7l4Y6Z2kb41Y0qILoNqpvV4x3",
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 48,
+ "mood": "Bright",
+ "downloadable": true,
+ "vid": "7a26b2521158091f",
+ "len": 106.883,
+ "instruments": [
+  "bass",
+  "drums",
+  "piano"
+ ],
+ "favorite": false,
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Media Right Productions",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA3YTI2YjI1MjExNTgwOTFmEAAYAg%3D%3D&sigh=o137gTNshSPjqpH7us8XSw",
+ "display_mood": "Bright",
+ "album": "None",
+ "title": "Zydeco Piano Party",
+ "display_category": ""
+}

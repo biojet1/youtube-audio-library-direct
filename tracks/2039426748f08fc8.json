@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChAyMDM5NDI2NzQ4ZjA4ZmM4EAAYAg%3D%3D&sigh=9tGAv-rfjMMpxzFqwhTojQ",
+ "is_new_track": false,
+ "display_mood": "Sad",
+ "artist": "Hanu Dixit",
+ "display_genre": "Classical",
+ "mood": "Sad",
+ "reference_vid": "2039426748f08fc8",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2039426748f08fc8",
+ "favorite": false,
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "artist_channel_url": "/channel/UCY-Rb2-JgAgiR_qzsMRq3qA",
+ "category": "",
+ "instruments": [
+  "piano",
+  "strings",
+  "drums"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "2039426748f08fc8",
+ "title": "Requiem In Cello",
+ "len": 149,
+ "streamid": "GEmVMrTt_yLk5KRfbvm-OQ2EyujS7Y5QGPo5-5V7aHzRPOCeCBZgZoLGEpYW_S21",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Classical",
+ "vid": "2039426748f08fc8"
+}

@@ -1,0 +1,32 @@
+{
+ "streamid": "ychrTAk57oP6IFTTsaWm7QTi3dA4saz4F0I2J_9KLGHMq8dNuehm1yABNGQqARJj",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 132.683,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100399",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=797630c361941f99",
+ "display_category": "",
+ "reference_vid": "797630c361941f99",
+ "title": "Chase - Scoring Action",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChA3OTc2MzBjMzYxOTQxZjk5EAAYAg%3D%3D&sigh=O-rF-CvBqvSaCBgdbmBouA",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Trumpet",
+  "Synth"
+ ],
+ "category": "",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "fp_ref_id": "797630c361941f99",
+ "artist": "Kevin MacLeod",
+ "vid": "797630c361941f99",
+ "artist_url": "http://incompetech.com/",
+ "genre": "Pop",
+ "license_type": 6,
+ "display_genre": "Pop"
+}

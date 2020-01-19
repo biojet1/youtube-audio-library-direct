@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "len": 101.999,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ec969e00a92b225",
+ "category": "",
+ "streamid": "DL4e-8qP-YZNX1TjBiPg3WzpVkd7IVqPcPdq4Q1dAV1rWAai-fc_7z5q_LF9_SQn",
+ "fp_ref_id": "2ec969e00a92b225",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChAyZWM5NjllMDBhOTJiMjI1EAAYAg%3D%3D&sigh=ztNipQmtfmmvXeiOzJhnPQ",
+ "popularity_percentile": 0,
+ "reference_vid": "2ec969e00a92b225",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Strings"
+ ],
+ "is_new_track": false,
+ "vid": "2ec969e00a92b225",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "Lau Tzu Ehru",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Doug Maxwell"
+}

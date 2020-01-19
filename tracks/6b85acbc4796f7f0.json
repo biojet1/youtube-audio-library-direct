@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "6b85acbc4796f7f0",
+ "instruments": [
+  "Piano",
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Classical",
+ "category": "",
+ "artist": "Audionautix",
+ "display_category": "",
+ "streamid": "RyEZTiWzEr-SdWMSHTqGZy0BFmfdtUPAI61zz-CJzs-hzwDWRCLvKSIrYK6Y0ZU8",
+ "license_type": 6,
+ "vid": "6b85acbc4796f7f0",
+ "popularity_percentile": 73,
+ "reference_vid": "6b85acbc4796f7f0",
+ "display_genre": "Classical",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 248.016,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCRDxIWChA2Yjg1YWNiYzQ3OTZmN2YwEAAYAg%3D%3D&sigh=DKrUA9C04tEJWfp1ol7KUg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6b85acbc4796f7f0",
+ "title": "Antarctica"
+}

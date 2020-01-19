@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings",
+  "Trumpet"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "kJlSS0s6nyqGLD8KpJk2r5bJ38_qK5GCLJ3yHVP2O2u8TUwNSYavMp_rVPMHtYCB",
+ "len": 6.483,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a9900cce2687f273",
+ "category": "",
+ "is_new_track": false,
+ "vid": "a9900cce2687f273",
+ "display_genre": "Cinematic",
+ "reference_vid": "a9900cce2687f273",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEGE5OTAwY2NlMjY4N2YyNzMQABgC&sigh=wZhjTrHpA071Dz9zHDkidA",
+ "display_mood": "Dramatic",
+ "artist_url": "",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "",
+ "title": "Extinction Level Event (Sting)",
+ "genre": "Cinematic",
+ "fp_ref_id": "a9900cce2687f273",
+ "mood": "Dramatic",
+ "artist": "Jingle Punks",
+ "favorite": false
+}

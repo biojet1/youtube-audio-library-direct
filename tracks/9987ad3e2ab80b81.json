@@ -1,0 +1,31 @@
+{
+ "mood": "Sad",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChA5OTg3YWQzZTJhYjgwYjgxEAAYAg%3D%3D&sigh=1_edXjqX5tFs7oDORRud0Q",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "category": "",
+ "instruments": [
+  "piano",
+  "drums",
+  "synth"
+ ],
+ "display_mood": "Sad",
+ "fp_ref_id": "9987ad3e2ab80b81",
+ "is_new_track": false,
+ "len": 121,
+ "genre": "Dance & Electronic",
+ "reference_vid": "9987ad3e2ab80b81",
+ "downloadable": true,
+ "streamid": "KzQrdvRBp8Hop1sbfXit4g2amPPphbszrb9AdsraS2QacMn_vvRSxYgSqmMOqRTJ",
+ "track_url": "",
+ "vid": "9987ad3e2ab80b81",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9987ad3e2ab80b81",
+ "artist_url": "https://www.youtube.com/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "license_type": 1,
+ "title": "Boards",
+ "artist": "Francis Preve"
+}

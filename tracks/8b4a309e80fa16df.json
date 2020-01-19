@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8b4a309e80fa16df",
+ "fp_ref_id": "8b4a309e80fa16df",
+ "len": 117.733,
+ "artist": "Text Me Records / Leviathe",
+ "mood": "Dark",
+ "reference_vid": "8b4a309e80fa16df",
+ "vid": "8b4a309e80fa16df",
+ "title": "Neptune",
+ "downloadable": true,
+ "genre": "Pop",
+ "instruments": [
+  "Piano",
+  "Guitar",
+  "Drums",
+  "Bass",
+  "strings"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "streamid": "zret6G5OQbRIt6_R4flzIFNwBXCeOub_jKQ2xZ7VfhvLidlAj0LMINWj0S_s7CgF",
+ "display_genre": "Pop",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChA4YjRhMzA5ZTgwZmExNmRmEAAYAg%3D%3D&sigh=EWR7rNDiPFgLkO-0CDMQbg"
+}

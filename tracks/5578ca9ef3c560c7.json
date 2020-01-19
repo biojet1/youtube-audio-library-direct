@@ -1,0 +1,33 @@
+{
+ "vid": "5578ca9ef3c560c7",
+ "mood": "Calm",
+ "artist": "Text Me Records / Leviathe",
+ "track_url": "",
+ "display_category": "",
+ "streamid": "ppVGR0D6o33lQDMBQ3Sx2QxPJptM4VbPB9B6xIvZa038mkCBfVGTIdZglfCNp4Ea",
+ "favorite": false,
+ "fp_ref_id": "5578ca9ef3c560c7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5578ca9ef3c560c7",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChA1NTc4Y2E5ZWYzYzU2MGM3EAAYAg%3D%3D&sigh=TvhTILt4_vLWSkteJXGHpg",
+ "downloadable": true,
+ "display_genre": "Pop",
+ "len": 152.7,
+ "is_new_track": false,
+ "license_type": 1,
+ "album": "None",
+ "category": "",
+ "artist_url": "",
+ "instruments": [
+  "strings",
+  "Piano",
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "title": "I Miss You",
+ "reference_vid": "5578ca9ef3c560c7",
+ "genre": "Pop",
+ "display_mood": "Calm",
+ "popularity_percentile": 99
+}

@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEGMxYzg0M2YxNjVlNzU2OTQQABgC&sigh=-e9jstx_tp7QgepggcXNMw",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "c1c843f165e75694",
+ "downloadable": true,
+ "reference_vid": "c1c843f165e75694",
+ "favorite": false,
+ "fp_ref_id": "c1c843f165e75694",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c1c843f165e75694",
+ "genre": "Dance & Electronic",
+ "streamid": "l_EByggI_oSWrmjD4bvDeYYBVC3d-8V6onBOj2nCLdGRXENcRi7sYpNDPJeXqXNX",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 6.15,
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Dub Hub (Sting)",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ]
+}

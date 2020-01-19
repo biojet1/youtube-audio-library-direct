@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "64d52c85170276b4",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "64d52c85170276b4",
+ "title": "Psyche",
+ "mood": "Bright",
+ "len": 125,
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "artist": "Dyalla",
+ "fp_ref_id": "64d52c85170276b4",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "license_type": 1,
+ "instruments": [
+  "synth",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "streamid": "XclzkgZiqPBKZGLDpOSSIFZa0zAnz6X_0BNsenBnbc6dfTW517_USQAzbd-cLINH",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=64d52c85170276b4",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChA2NGQ1MmM4NTE3MDI3NmI0EAAYAg%3D%3D&sigh=8VPlX57c18COULYA6EhEEA"
+}

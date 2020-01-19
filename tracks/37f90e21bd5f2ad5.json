@@ -1,0 +1,32 @@
+{
+ "display_genre": "Dance & Electronic",
+ "album": "None",
+ "reference_vid": "37f90e21bd5f2ad5",
+ "popularity_percentile": 66,
+ "category": "",
+ "vid": "37f90e21bd5f2ad5",
+ "title": "Occupy The Dance Floor",
+ "mood": "Dark",
+ "len": 170.116,
+ "artist_url": "http://audionautix.com/",
+ "artist": "Audionautix",
+ "fp_ref_id": "37f90e21bd5f2ad5",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "streamid": "5GMrkqmvDE6OEd68qflKeuj9eOxg7VIUi1hR8QRhUREU1WWbLxD2RL6LWwwy_-3M",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=37f90e21bd5f2ad5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChAzN2Y5MGUyMWJkNWYyYWQ1EAAYAg%3D%3D&sigh=-h4jVwZiGFtE4tyMHBbsRQ"
+}

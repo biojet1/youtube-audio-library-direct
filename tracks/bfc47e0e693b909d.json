@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "vid": "bfc47e0e693b909d",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Rock",
+ "fp_ref_id": "bfc47e0e693b909d",
+ "streamid": "SXr9UOjTDye9jcQPLikDVbXakO_D7_BDEuiqPId_90tLVry3_34hpA70-yW8QAaK",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBiZmM0N2UwZTY5M2I5MDlkEAAYAg%3D%3D&sigh=JhqoEDVcbknOhsMcpn20ig",
+ "display_category": "",
+ "display_genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "title": "Key to Your Heart",
+ "track_url": "",
+ "len": 119,
+ "popularity_percentile": 99,
+ "reference_vid": "bfc47e0e693b909d",
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bfc47e0e693b909d",
+ "instruments": [
+  "banjo",
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "is_new_track": false
+}

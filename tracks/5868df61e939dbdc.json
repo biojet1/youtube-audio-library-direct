@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDgdxIWChA1ODY4ZGY2MWU5MzlkYmRjEAAYAg%3D%3D&sigh=cKJWNPw6MXBo6UU6eKZL0g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5868df61e939dbdc",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100394",
+ "genre": "Ambient",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "5868df61e939dbdc",
+ "fp_ref_id": "5868df61e939dbdc",
+ "category": "",
+ "title": "Almost in F - Tranquillity",
+ "reference_vid": "5868df61e939dbdc",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Piano"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "n_2V8ICa_uEvJy2MKjPX7F6dc73ize9KWi8c-Ot_J5Iwza-L-IhzdZ0KBMN9OUyw",
+ "len": 1962.05,
+ "license_type": 6,
+ "is_new_track": false
+}

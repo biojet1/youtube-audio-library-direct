@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e82a644826667198",
+ "category": "",
+ "title": "Highway Wildflowers",
+ "display_genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "genre": "Rock",
+ "display_mood": "Romantic",
+ "streamid": "_sU1GGgmesz7gsxx2Cdp7_gPao7OAhU_DFoUMCsFxgS4sHC8J1z9zYUYWEJgtXNC",
+ "album": "None",
+ "len": 101.716,
+ "artist": "Bird Creek",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e82a644826667198",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChBlODJhNjQ0ODI2NjY3MTk4EAAYAg%3D%3D&sigh=AHfg8Of1b-UNP7AtYHP6qQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e82a644826667198",
+ "is_new_track": false,
+ "mood": "Romantic",
+ "fp_ref_id": "e82a644826667198",
+ "license_type": 0,
+ "track_url": ""
+}

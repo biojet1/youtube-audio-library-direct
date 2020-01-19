@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChAwOWJhNmUzNTEzNGRjNDA2EAAYAg%3D%3D&sigh=u0MIxp8G_c-Eb-vef0CL_w",
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "09ba6e35134dc406",
+ "reference_vid": "09ba6e35134dc406",
+ "fp_ref_id": "09ba6e35134dc406",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09ba6e35134dc406",
+ "downloadable": true,
+ "genre": "Classical",
+ "streamid": "UqjDBlqLtvTZzHexUGBU3okrFKHy0LRSqtR--qqwphaSSW7S7JLb9-8YhuFyOBRu",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "len": 150,
+ "display_genre": "Classical",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "artist": "Sir Cubworth",
+ "title": "Party Waltz",
+ "license_type": 1,
+ "category": "",
+ "instruments": [
+  "drums",
+  "trumpet",
+  "piano"
+ ],
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw"
+}

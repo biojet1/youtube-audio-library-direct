@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "downloadable": true,
+ "license_type": 6,
+ "len": 163.416,
+ "artist": "Twin Musicom",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=be6619520fbbcb99",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChBiZTY2MTk1MjBmYmJjYjk5EAAYAg%3D%3D&sigh=UTIwcU68xx5qpJTKbxAU4w",
+ "mood": "Happy",
+ "is_new_track": false,
+ "fp_ref_id": "be6619520fbbcb99",
+ "track_url": "http://www.twinmusicom.org/song/245/tom-perry",
+ "display_category": "",
+ "popularity_percentile": 72,
+ "vid": "be6619520fbbcb99",
+ "artist_url": "http://www.twinmusicom.org",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "be6619520fbbcb99",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "display_mood": "Happy",
+ "album": "None",
+ "streamid": "cpTo3BOm5TET0POl0STr0C2Ysg56Fesk1JOxzQuLvbvbLEHoxzOQQW3KRFx9Gg8V",
+ "title": "Tom Perry",
+ "display_genre": "Dance & Electronic"
+}

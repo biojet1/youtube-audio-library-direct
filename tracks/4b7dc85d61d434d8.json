@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "streamid": "pMT1Nsqrt5eoKsTsVuD7SNNsdXwPJP5_2wE4xIUz-3tf564Viuk56ObxLaskOWcS",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "4b7dc85d61d434d8",
+ "instruments": [
+  "Piano"
+ ],
+ "category": "",
+ "popularity_percentile": 30,
+ "license_type": 0,
+ "fp_ref_id": "4b7dc85d61d434d8",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCzDhIWChA0YjdkYzg1ZDYxZDQzNGQ4EAAYAg%3D%3D&sigh=BK9LB7GBzA-p3A4qOXSjUw",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b7dc85d61d434d8",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "artist": "Ron Meixsell and Wahneta Meixsell",
+ "mood": "Dramatic",
+ "title": "Si la Rigueur",
+ "len": 236.716,
+ "vid": "4b7dc85d61d434d8",
+ "track_url": ""
+}

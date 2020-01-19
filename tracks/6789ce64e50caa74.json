@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6789ce64e50caa74",
+ "title": "Walking the Dog",
+ "is_new_track": false,
+ "mood": "Happy",
+ "downloadable": true,
+ "album": "None",
+ "len": 149.55,
+ "popularity_percentile": 40,
+ "track_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "reference_vid": "6789ce64e50caa74",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "display_genre": "R&B & Soul",
+ "artist": "Silent Partner",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChA2Nzg5Y2U2NGU1MGNhYTc0EAAYAg%3D%3D&sigh=LYRx8Z9CTM5K4DNVHFTE8g",
+ "fp_ref_id": "6789ce64e50caa74",
+ "license_type": 0,
+ "favorite": false,
+ "vid": "6789ce64e50caa74",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "genre": "R&B & Soul",
+ "streamid": "Nf4YrwEwWZ_B8W7Bx3CFEA4BaJRen_SF8DBbs6x1cF0vI6M5k6ajnf5ZsSkNXpE6",
+ "display_category": ""
+}

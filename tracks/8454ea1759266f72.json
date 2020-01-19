@@ -1,0 +1,33 @@
+{
+ "display_mood": "Happy",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChA4NDU0ZWExNzU5MjY2ZjcyEAAYAg%3D%3D&sigh=bpM1O0_pobfmii3qXr9ZtQ",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "8454ea1759266f72",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8454ea1759266f72",
+ "streamid": "vHTIewr5R64nW2iWC_FVWUe2oISfJrZyob33KNdE0PIUX5ZGRbjXNe3wvADNapQC",
+ "genre": "Country & Folk",
+ "track_url": "",
+ "reference_vid": "8454ea1759266f72",
+ "vid": "8454ea1759266f72",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Country & Folk",
+ "mood": "Happy",
+ "len": 98,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "instruments": [
+  "ukelele",
+  "bass",
+  "acoustic guitar",
+  "banjo",
+  "harmonica"
+ ],
+ "title": "Nitpicky Picnic",
+ "artist": "The Whole Other"
+}

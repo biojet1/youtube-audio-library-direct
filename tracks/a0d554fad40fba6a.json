@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Calm",
+ "reference_vid": "a0d554fad40fba6a",
+ "streamid": "ZqEjk78bOy0M9f9gnBTXEWOuli61SCDhxkicmRFfl7wKwM53RA2pcqa5btwTEXvN",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChBhMGQ1NTRmYWQ0MGZiYTZhEAAYAg%3D%3D&sigh=01UO-xlG37O5BT9qczgP7Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0d554fad40fba6a",
+ "len": 166.55,
+ "genre": "Ambient",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "fp_ref_id": "a0d554fad40fba6a",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Running Waters",
+ "mood": "Calm",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Ambient",
+ "track_url": "",
+ "vid": "a0d554fad40fba6a"
+}

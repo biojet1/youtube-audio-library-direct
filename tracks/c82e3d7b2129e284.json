@@ -1,0 +1,32 @@
+{
+ "vid": "c82e3d7b2129e284",
+ "display_mood": "Bright",
+ "title": "Locally Sourced",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChBjODJlM2Q3YjIxMjllMjg0EAAYAg%3D%3D&sigh=DV-_deKk2z_sznMyBIdmZg",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Bright",
+ "artist": "Jason Farnham",
+ "reference_vid": "c82e3d7b2129e284",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c82e3d7b2129e284",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 78,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "7S0IYV97yUx8F9l6OmJs3F2B2foJ1ChmYAmWAEv5DQ1WjE2yeVYLNAXT5t9HpgvQ",
+ "artist_url": "",
+ "len": 88.95,
+ "fp_ref_id": "c82e3d7b2129e284",
+ "license_type": 0,
+ "is_new_track": false
+}

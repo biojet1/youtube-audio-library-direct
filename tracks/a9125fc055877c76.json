@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "track_url": "http://freepd.com/Classical/Danse%20Macabre%20-%20No%20Violin",
+ "display_category": "",
+ "popularity_percentile": 39,
+ "streamid": "7EFYn6SdyLnrzp6QfBftvJCXidSLpzhBRBFMfifYV0U5Ul6KJoLPm3QMv5TxJ5qE",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPDjGBIWChBhOTEyNWZjMDU1ODc3Yzc2EAAYAg%3D%3D&sigh=GDzilVHIGeV1W8K2TfbhpA",
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "mood": "Dramatic",
+ "len": 406.216,
+ "reference_vid": "a9125fc055877c76",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "vid": "a9125fc055877c76",
+ "title": "Danse Macabre - No Violin",
+ "fp_ref_id": "a9125fc055877c76",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a9125fc055877c76",
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "display_genre": "Classical"
+}

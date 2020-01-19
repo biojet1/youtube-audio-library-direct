@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Inspirational",
+ "display_category": "",
+ "fp_ref_id": "7800f388caca96a9",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7800f388caca96a9",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "7800f388caca96a9",
+ "len": 142.466,
+ "display_mood": "Inspirational",
+ "streamid": "3QP7P27mH3x_SAze3L6cV2utwlsjqzZamNlSq0p6hg4lPjZeE-QbQp3lVQdDFG_s",
+ "display_genre": "Country & Folk",
+ "title": "Strolling Through",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Country & Folk",
+ "vid": "7800f388caca96a9",
+ "artist": "Silent Partner",
+ "instruments": [
+  "drums",
+  "bass",
+  "guitar",
+  "piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChA3ODAwZjM4OGNhY2E5NmE5EAAYAg%3D%3D&sigh=3qU6Ji4XH30stJUb86vlNw"
+}

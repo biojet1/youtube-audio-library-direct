@@ -1,0 +1,33 @@
+{
+ "mood": "Inspirational",
+ "artist": "Dyalla",
+ "vid": "755d8b0a0af6edbd",
+ "display_category": "",
+ "streamid": "evWIln1xrtHfMePPnFMWXG30oW32TVeqBwdVEgcMPxrXtAtE6q9Jar7y1F9zmnRA",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=755d8b0a0af6edbd",
+ "fp_ref_id": "755d8b0a0af6edbd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA3NTVkOGIwYTBhZjZlZGJkEAAYAg%3D%3D&sigh=mZBF9DFi8XjAxCcFrswNEA",
+ "display_genre": "Dance & Electronic",
+ "len": 151,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "vocal chops",
+  "synth",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "reference_vid": "755d8b0a0af6edbd",
+ "title": "Midnight Sun",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "license_type": 1,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99
+}

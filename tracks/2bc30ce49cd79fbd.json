@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 157.683,
+ "reference_vid": "2bc30ce49cd79fbd",
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2bc30ce49cd79fbd",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChAyYmMzMGNlNDljZDc5ZmJkEAAYAg%3D%3D&sigh=X2OxVYdLt7Bru1AXFCXUjA",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "2bc30ce49cd79fbd",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "vid": "2bc30ce49cd79fbd",
+ "artist_channel_url": null,
+ "streamid": "mL3qYn_YhFuLJeLk7m1wvEeWJUaCRA7ncepOEa0qlu00zl1b0XLIE5vvqH1AYbcv",
+ "license_type": 0,
+ "title": "Let Go",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Riot",
+ "mood": "Inspirational"
+}

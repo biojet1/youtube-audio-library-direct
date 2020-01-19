@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "57b00494076c6e56",
+ "downloadable": true,
+ "fp_ref_id": "57b00494076c6e56",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57b00494076c6e56",
+ "album": "None",
+ "artist": "Joe Bagale",
+ "display_mood": "Funky",
+ "streamid": "G0fwU6g3NXh8qKd6XnKN5kn-hfIcWAj7WUUMCru92JdrwR_q2MxcYiPHGRYW9zyA",
+ "mood": "Funky",
+ "title": "Miles of Prints",
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Drums",
+  "Keyboard",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "R&B & Soul",
+ "reference_vid": "57b00494076c6e56",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 171.833,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA1N2IwMDQ5NDA3NmM2ZTU2EAAYAg%3D%3D&sigh=9IxESBvYU0vfq4xrtPzIkQ"
+}

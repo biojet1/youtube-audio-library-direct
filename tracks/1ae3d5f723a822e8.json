@@ -1,0 +1,29 @@
+{
+ "display_genre": "Cinematic",
+ "streamid": "1d90ofGq4bjwBshfHUo14yAc6Z6KifpRscbAqK9XP8C-Q229aFrmOe5CXWrpczyv",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "1ae3d5f723a822e8",
+ "instruments": [
+  "Strings"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "1ae3d5f723a822e8",
+ "genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChAxYWUzZDVmNzIzYTgyMmU4EAAYAg%3D%3D&sigh=HcqXkznochCOq1f0HAY_xA",
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1ae3d5f723a822e8",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "mood": "Dramatic",
+ "title": "All This - Scoring Action",
+ "len": 228.916,
+ "vid": "1ae3d5f723a822e8",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300001"
+}

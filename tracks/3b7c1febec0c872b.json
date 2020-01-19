@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 183.516,
+ "mood": "Happy",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b7c1febec0c872b",
+ "title": "Santo Rico",
+ "streamid": "y6z1LfrbRihE9iDHFUHNZoqtt13s4hj6U6iNQ7VDM_SDpZsnNgLVBcaxLRj9LfSt",
+ "genre": "Pop",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAzYjdjMWZlYmVjMGM4NzJiEAAYAg%3D%3D&sigh=cLw58O_hGaHTela3HQt4dA",
+ "license_type": 6,
+ "fp_ref_id": "3b7c1febec0c872b",
+ "display_mood": "Happy",
+ "vid": "3b7c1febec0c872b",
+ "artist_url": "http://www.twinmusicom.org/",
+ "artist": "Twin Musicom",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "piano"
+ ],
+ "display_genre": "Pop",
+ "favorite": false,
+ "reference_vid": "3b7c1febec0c872b"
+}

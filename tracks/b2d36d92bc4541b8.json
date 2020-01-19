@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBiMmQzNmQ5MmJjNDU0MWI4EAAYAg%3D%3D&sigh=mmP5Tnf_d8voS4Y8BP173w",
+ "display_mood": "Dramatic",
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b2d36d92bc4541b8",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Dan Lebowitz",
+ "title": "From the Fall",
+ "reference_vid": "b2d36d92bc4541b8",
+ "instruments": [
+  "drums",
+  "acoustic guitar",
+  "bass",
+  "electric guitar"
+ ],
+ "display_genre": "Rock",
+ "fp_ref_id": "b2d36d92bc4541b8",
+ "vid": "b2d36d92bc4541b8",
+ "category": "",
+ "streamid": "IrAVJ0RAK-VrcoUiHC-D_JjvRHjIuGnlNbcBD_3i7e6Q44BRZmE86NqxgtWTGtzr",
+ "popularity_percentile": 99,
+ "len": 119.2,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

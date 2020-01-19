@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "E6RhWeDcD8MidhP_NdEqApOuEwtMTJh0ZtbC_lKiOMSzt3ZhtV4ojxr3AmDR93eY",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=86d71cd2b80b241a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID6ARIWChA4NmQ3MWNkMmI4MGIyNDFhEAAYAg%3D%3D&sigh=TANWewNSfctRdjYT92llCA",
+ "vid": "86d71cd2b80b241a",
+ "display_category": "",
+ "title": "Bassa Island Game Loop - Latinesque",
+ "album": "None",
+ "mood": "Happy",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "reference_vid": "86d71cd2b80b241a",
+ "len": 32.75,
+ "genre": "Pop",
+ "popularity_percentile": 33,
+ "fp_ref_id": "86d71cd2b80b241a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100840",
+ "display_genre": "Pop",
+ "license_type": 6,
+ "instruments": [
+  "Drums",
+  "Bass"
+ ]
+}

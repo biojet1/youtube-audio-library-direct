@@ -1,0 +1,32 @@
+{
+ "license_type": 0,
+ "len": 123.55,
+ "track_url": "",
+ "is_new_track": false,
+ "category": "",
+ "reference_vid": "668a0b10a5d6e4a9",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA2NjhhMGIxMGE1ZDZlNGE5EAAYAg%3D%3D&sigh=SFYdvW473SB5xYlYwP5oxw",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=668a0b10a5d6e4a9",
+ "streamid": "36ROAluzJDK5Jm8INo30jb18169W4jLFn-bJ4IE1mxOESxyitzizRZR8SuipNx2L",
+ "title": "High School Hero",
+ "display_genre": "R&B & Soul",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Trumpet"
+ ],
+ "vid": "668a0b10a5d6e4a9",
+ "artist_url": "",
+ "genre": "R&B & Soul",
+ "popularity_percentile": 40,
+ "fp_ref_id": "668a0b10a5d6e4a9",
+ "display_category": "",
+ "favorite": false
+}

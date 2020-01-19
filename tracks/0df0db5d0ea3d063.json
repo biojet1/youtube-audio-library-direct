@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Freedom Trail Studio",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "downloadable": true,
+ "fp_ref_id": "0df0db5d0ea3d063",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChAwZGYwZGI1ZDBlYTNkMDYzEAAYAg%3D%3D&sigh=DVSXRrkPLRFAjJfdKYCXnA",
+ "favorite": false,
+ "genre": "Rock",
+ "category": "",
+ "vid": "0df0db5d0ea3d063",
+ "streamid": "mi5zs_CZub9Nv55Nr9qGSc5LRuc5nkBCSg21LVicaawTnMAGhISY-shWN7OMy0ns",
+ "mood": "Funky",
+ "reference_vid": "0df0db5d0ea3d063",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0df0db5d0ea3d063",
+ "title": "Maroon Clock",
+ "display_mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "license_type": 1,
+ "display_genre": "Rock",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "len": 212,
+ "album": "None",
+ "track_url": ""
+}

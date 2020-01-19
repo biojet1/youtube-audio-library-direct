@@ -1,0 +1,33 @@
+{
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 0,
+ "reference_vid": "86586068535fd4e4",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "percussion",
+  "bass",
+  "drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "86586068535fd4e4",
+ "license_type": 1,
+ "title": "In/Out",
+ "mood": "Bright",
+ "downloadable": true,
+ "len": 94,
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "86586068535fd4e4",
+ "streamid": "JAsjrq1bYabDyWA2TBvQRha34bDM1bOmGngzFig2MGK7vJzzX2fZALCKYNX9Ed6X",
+ "artist": "Public Memory",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=86586068535fd4e4",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChA4NjU4NjA2ODUzNWZkNGU0EAAYAg%3D%3D&sigh=3ur-MAAbv-S-gVmhJ1I83g",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "album": "None",
+ "track_url": ""
+}

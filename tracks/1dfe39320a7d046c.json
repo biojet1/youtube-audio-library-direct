@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1dfe39320a7d046c",
+ "track_url": "",
+ "fp_ref_id": "1dfe39320a7d046c",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Sad",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "acoustic guitar",
+  "piano",
+  "synth"
+ ],
+ "reference_vid": "1dfe39320a7d046c",
+ "display_mood": "Sad",
+ "len": 503.766,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNjZHhIWChAxZGZlMzkzMjBhN2QwNDZjEAAYAg%3D%3D&sigh=J51yPltbNfxa4622MSk60w",
+ "popularity_percentile": 12,
+ "streamid": "xzVWm7HD4Eir9JA9BZ1gwwR6VYzyTjtIk_6_BVL_qcxlvahhJtjbOzQYnPEjAVqY",
+ "license_type": 0,
+ "display_genre": "Ambient",
+ "category": "",
+ "title": "Passing Time",
+ "genre": "Ambient",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1dfe39320a7d046c"
+}

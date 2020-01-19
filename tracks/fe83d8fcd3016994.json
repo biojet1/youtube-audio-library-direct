@@ -1,0 +1,32 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChBmZTgzZDhmY2QzMDE2OTk0EAAYAg%3D%3D&sigh=ZRb_uDSAENPKOJRF3OCtpA",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fe83d8fcd3016994",
+ "reference_vid": "fe83d8fcd3016994",
+ "popularity_percentile": 99,
+ "artist": "John Deley and the 41 Players",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fe83d8fcd3016994",
+ "mood": "Inspirational",
+ "genre": "R&B & Soul",
+ "streamid": "zHsCSJPZDNdELu3U9Jp38VZ2eIwcR4IXCEtpuTHttKK1fyyWzTGCIc1p1PSd_OiA",
+ "title": "Hear the Noise",
+ "downloadable": true,
+ "category": "",
+ "len": 193.05,
+ "artist_url": "",
+ "display_genre": "R&B & Soul",
+ "fp_ref_id": "fe83d8fcd3016994",
+ "album": "None"
+}

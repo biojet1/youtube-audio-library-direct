@@ -1,0 +1,29 @@
+{
+ "genre": "Classical",
+ "display_category": "",
+ "len": 44.3,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300043",
+ "fp_ref_id": "e7a8b76cc82b8c70",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "8RWzkcRZzEGS4IhLPBvCW4yuLwTFOqt5_jb2p4ZxbIvjPa8cD64KNVcCGlyE5DPc",
+ "title": "Ashton Manor - Stings",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e7a8b76cc82b8c70",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "e7a8b76cc82b8c70",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODXAhIWChBlN2E4Yjc2Y2M4MmI4YzcwEAAYAg%3D%3D&sigh=CXpvzwnKhrYWkU95Fqg70Q",
+ "vid": "e7a8b76cc82b8c70",
+ "display_genre": "Classical",
+ "license_type": 6,
+ "mood": "Happy",
+ "instruments": [
+  "Strings"
+ ]
+}

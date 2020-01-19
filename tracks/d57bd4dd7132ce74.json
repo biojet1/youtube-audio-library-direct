@@ -1,0 +1,32 @@
+{
+ "len": 128.15,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d57bd4dd7132ce74",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "display_mood": "bright",
+ "streamid": "iDs1tzjy-cmpfGOlEYkBrITWXSeyD22poNgQUM7hCtQOUX778uJ1E4ry97nnW1mc",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBkNTdiZDRkZDcxMzJjZTc0EAAYAg%3D%3D&sigh=4poaMmZRClTH7VBmE6JQzw",
+ "title": "Animal",
+ "vid": "d57bd4dd7132ce74",
+ "artist_url": "",
+ "license_type": 0,
+ "mood": "bright",
+ "artist": "Max Surla/Media Right Productions",
+ "favorite": false,
+ "popularity_percentile": 83,
+ "display_genre": "Rock",
+ "reference_vid": "d57bd4dd7132ce74",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Rock",
+ "fp_ref_id": "d57bd4dd7132ce74",
+ "track_url": "",
+ "album": "None"
+}

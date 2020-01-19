@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=725bf97d6a2934bd",
+ "downloadable": true,
+ "reference_vid": "725bf97d6a2934bd",
+ "mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "len": 164,
+ "instruments": [
+  "percussion",
+  "keyboard",
+  "bass",
+  "Acoustic guitar",
+  "slide guitar"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA3MjViZjk3ZDZhMjkzNGJkEAAYAg%3D%3D&sigh=glQEOQ_1DiRKbwXoHZZcNQ",
+ "streamid": "EXUCvwEMl_4uQboauqdQWCxZw5vwDjJfv7pm_rCp5n6hexNXgZndFWcQeD70vTiM",
+ "genre": "Country & Folk",
+ "display_category": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "display_genre": "Country & Folk",
+ "vid": "725bf97d6a2934bd",
+ "artist": "Chris Haugen",
+ "popularity_percentile": 99,
+ "fp_ref_id": "725bf97d6a2934bd",
+ "category": "",
+ "title": "Campfire Song",
+ "album": "None"
+}

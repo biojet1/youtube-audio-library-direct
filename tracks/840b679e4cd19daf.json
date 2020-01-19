@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "streamid": "D83s3M5waceU2iDnaJh0mo_rcrYpC9xc_JX5bIO2OFCJMfbA3tYU1UNm9zEhOPcA",
+ "display_category": "",
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "reference_vid": "840b679e4cd19daf",
+ "instruments": [
+  "acoustic guitar",
+  "bass",
+  "drums",
+  "strings"
+ ],
+ "category": "",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "fp_ref_id": "840b679e4cd19daf",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA4NDBiNjc5ZTRjZDE5ZGFmEAAYAg%3D%3D&sigh=KUCatzgoMzQfH5O8Yq-hwA",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=840b679e4cd19daf",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Biz Baz Studio",
+ "mood": "Happy",
+ "title": "Hermanos Ranchero",
+ "len": 92,
+ "vid": "840b679e4cd19daf",
+ "track_url": ""
+}

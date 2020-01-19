@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "797abce1d70c4000",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=797abce1d70c4000",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "797abce1d70c4000",
+ "len": 164.7,
+ "display_mood": "Funky",
+ "streamid": "xFbXj6DNUbTqJef7ey3W_OIAqp5rj53uHQ16E0bOdsHHMIaUXCYF_O5AFeud9wgu",
+ "display_genre": "Hip Hop & Rap",
+ "title": "Crate Digger",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Hip Hop & Rap",
+ "vid": "797abce1d70c4000",
+ "artist": "Gunnar Olsen",
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Piano",
+  "Strings"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA3OTdhYmNlMWQ3MGM0MDAwEAAYAg%3D%3D&sigh=cHnYE2GuGubkpgpJJK0vTg"
+}

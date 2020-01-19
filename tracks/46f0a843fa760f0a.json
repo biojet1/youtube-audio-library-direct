@@ -1,0 +1,33 @@
+{
+ "genre": "Ambient",
+ "display_genre": "Ambient",
+ "len": 198,
+ "display_category": "",
+ "reference_vid": "46f0a843fa760f0a",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "license_type": 1,
+ "album": "None",
+ "artist": "The Whole Other",
+ "fp_ref_id": "46f0a843fa760f0a",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "streamid": "G-chYMBfc2SX_3uIuHHuyJn8aRucW_oDJd-T1FvAI0P09Lyf1Oldz70dczUNxeos",
+ "display_mood": "Sad",
+ "vid": "46f0a843fa760f0a",
+ "track_url": "",
+ "instruments": [
+  "Piano",
+  "Clarinet",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCKDBIWChA0NmYwYTg0M2ZhNzYwZjBhEAAYAg%3D%3D&sigh=bZ7ZddSL2voav-3Kgl2Fsw",
+ "category": "",
+ "title": "Breakfast Alone",
+ "mood": "Sad",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=46f0a843fa760f0a"
+}

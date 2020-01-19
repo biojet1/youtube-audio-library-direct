@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "74f52b0c0bffa9d5",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=74f52b0c0bffa9d5",
+ "popularity_percentile": 95,
+ "vid": "74f52b0c0bffa9d5",
+ "streamid": "czas-qGAs8dhFXdCpzMLhmc-aVhf-XmLSGwV1rCSqyA-ZpOI037pK0mMT2lVhH7r",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA3NGY1MmIwYzBiZmZhOWQ1EAAYAg%3D%3D&sigh=4luv20cz2BOqo94MAOqLaQ",
+ "display_category": "",
+ "title": "Exotic Battle",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Cinematic",
+ "reference_vid": "74f52b0c0bffa9d5",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100451",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Trumpet"
+ ],
+ "len": 168.583,
+ "category": ""
+}

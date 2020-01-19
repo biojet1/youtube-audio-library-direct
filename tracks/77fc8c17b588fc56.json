@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "77fc8c17b588fc56",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=77fc8c17b588fc56",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "77fc8c17b588fc56",
+ "len": 177.466,
+ "display_mood": "Funky",
+ "streamid": "dR9lqZSKk7foQFvbWpzBP4HLlyn6ItVQw4ULYwjfbPTK-kns-TAy7UpPeJu1ZY_D",
+ "display_genre": "Reggae",
+ "title": "Summon the Island",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Reggae",
+ "vid": "77fc8c17b588fc56",
+ "artist": "Silent Partner",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChA3N2ZjOGMxN2I1ODhmYzU2EAAYAg%3D%3D&sigh=VWVNjlOUHl05f2mRcKX3Gw"
+}

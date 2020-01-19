@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7f97b85006398f5c",
+ "popularity_percentile": 30,
+ "reference_vid": "7f97b85006398f5c",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "-NL1Ydi2hdbf0p-e7Q8g2l2M093p3ZBW4pm1sKpH8n1M5fm2eL6Hv0JgYEz_PthA",
+ "genre": "Alternative & Punk",
+ "len": 219.816,
+ "artist": "Audionautix",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Smells Like Grunge",
+ "display_genre": "Alternative & Punk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiuDRIWChA3Zjk3Yjg1MDA2Mzk4ZjVjEAAYAg%3D%3D&sigh=nK2v--WInVEydeQefOuz7A",
+ "artist_url": "http://audionautix.com/",
+ "fp_ref_id": "7f97b85006398f5c",
+ "track_url": "",
+ "mood": "Dark",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "7f97b85006398f5c",
+ "is_new_track": false,
+ "favorite": false
+}

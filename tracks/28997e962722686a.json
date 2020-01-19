@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=28997e962722686a",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Silent Partner",
+ "len": 111.983,
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "i_m99wOeNDK1ssaxaKoEnayq8lyDssmKf_rsr-_YRJ3D5LfVvvjddzBVQiCN-e9R",
+ "category": "",
+ "title": "Hurry Up",
+ "display_mood": "Bright",
+ "favorite": false,
+ "reference_vid": "28997e962722686a",
+ "genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChAyODk5N2U5NjI3MjI2ODZhEAAYAg%3D%3D&sigh=PCv4vcpBzx-aWmnMmQnCWQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "28997e962722686a",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "28997e962722686a"
+}

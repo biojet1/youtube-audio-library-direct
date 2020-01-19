@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "496301233fd9c822",
+ "display_category": "",
+ "fp_ref_id": "496301233fd9c822",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=496301233fd9c822",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Bright",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA0OTYzMDEyMzNmZDljODIyEAAYAg%3D%3D&sigh=EUWda-SCpOsUiPkPSPClVA",
+ "streamid": "8BVwQWYvpsfl_jzI_I8WCQfhUGxdYNlclR45hp3qtiDCIyxlH06S82Dxf1EY6jP4",
+ "genre": "Rock",
+ "vid": "496301233fd9c822",
+ "artist": "Everet Almond",
+ "display_genre": "Rock",
+ "title": "Why Did You Do It",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 168.65,
+ "display_mood": "Bright",
+ "downloadable": true
+}

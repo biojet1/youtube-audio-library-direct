@@ -1,0 +1,32 @@
+{
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "len": 117.216,
+ "display_category": "",
+ "reference_vid": "3f8ad12c963b2088",
+ "popularity_percentile": 25,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "3f8ad12c963b2088",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "tlva4rIiHAvjwgWJ35DCydKv2xg2ChRQc-uxr4qvUZUr6J85DiLesDljmkxIzPkD",
+ "display_mood": "Angry",
+ "vid": "3f8ad12c963b2088",
+ "track_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChAzZjhhZDEyYzk2M2IyMDg4EAAYAg%3D%3D&sigh=yowx022w48k8sVsdD4oQoQ",
+ "category": "",
+ "title": "Dude Bro",
+ "mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f8ad12c963b2088"
+}

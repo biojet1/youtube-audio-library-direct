@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "vid": "9c6dce1b7213ac37",
+ "album": "None",
+ "artist_channel_url": "/channel/UCBCI_QCAMe1hx8UNyvJlM_Q",
+ "artist_url": "https://www.youtube.com/channel/UCBCI_QCAMe1hx8UNyvJlM_Q",
+ "artist": "Bad Snacks",
+ "genre": "Dance & Electronic",
+ "fp_ref_id": "9c6dce1b7213ac37",
+ "streamid": "1Elr4uWyTYPw4ww8MBeviixdfbqywV7qBgdJZoaZRWDJavetm62LGty_5QUdBKax",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChA5YzZkY2UxYjcyMTNhYzM3EAAYAg%3D%3D&sigh=_95qhMRbBYmWhFu2mk_Lzw",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "title": "City Night Lights",
+ "track_url": "",
+ "len": 178,
+ "popularity_percentile": 99,
+ "reference_vid": "9c6dce1b7213ac37",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9c6dce1b7213ac37",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "percussion"
+ ],
+ "is_new_track": false
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Bass",
+  "Strings",
+  "Drums"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "GCVBK7nfC0n6ixtJtFV2AbuOGRNceJO6ozfxPemEpESPlFGqV36NIRlpYtSd_Mac",
+ "len": 58.583,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=df7aacd86c6367ae",
+ "category": "",
+ "is_new_track": false,
+ "vid": "df7aacd86c6367ae",
+ "display_genre": "Country & Folk",
+ "reference_vid": "df7aacd86c6367ae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDFAxIWChBkZjdhYWNkODZjNjM2N2FlEAAYAg%3D%3D&sigh=3FO_mNIrwlEfRBF_980OqA",
+ "display_mood": "Calm",
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400015",
+ "title": "Cowboy Sting",
+ "genre": "Country & Folk",
+ "fp_ref_id": "df7aacd86c6367ae",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "favorite": false
+}

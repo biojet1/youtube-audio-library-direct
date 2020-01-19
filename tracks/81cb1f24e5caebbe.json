@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "2tliTlhnKLpeQHcHzpHiGRnU1Za_l9yOssk105ASKKEnNOQN7lzu3f3dzmH5yc7B",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81cb1f24e5caebbe",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiUARIWChA4MWNiMWYyNGU1Y2FlYmJlEAAYAg%3D%3D&sigh=q64uQADZpA-JxnUwDhO-7g",
+ "vid": "81cb1f24e5caebbe",
+ "display_category": "",
+ "title": "Minor Mush (Sting)",
+ "album": "None",
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "John Deley and the 41 Players",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "81cb1f24e5caebbe",
+ "len": 19.716,
+ "popularity_percentile": 51,
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "81cb1f24e5caebbe",
+ "track_url": "",
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "license_type": 0
+}

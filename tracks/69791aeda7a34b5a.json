@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 110.016,
+ "fp_ref_id": "69791aeda7a34b5a",
+ "artist_url": "http://audionautix.com/",
+ "streamid": "RHKEKmKsTESurv8ietpaul1JmvVDMmHx1m0unLRDxX7TTTBquwuV2KLykM-kEUHi",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "track_url": "",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Funky",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=69791aeda7a34b5a",
+ "mood": "Funky",
+ "artist": "Audionautix",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA2OTc5MWFlZGE3YTM0YjVhEAAYAg%3D%3D&sigh=CCoqgS-hGcgQSWSV7qQ5Qw",
+ "title": "Smooth Jazz Night",
+ "reference_vid": "69791aeda7a34b5a",
+ "vid": "69791aeda7a34b5a"
+}

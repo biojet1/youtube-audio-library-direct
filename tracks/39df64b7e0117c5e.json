@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Happy",
+ "genre": "Country & Folk",
+ "streamid": "LaSVL171jdcCw9Xes_W5yL0TiA3bDq6zcMsm-gTnvXhLeJzFZeNccHBmk4ehjTaT",
+ "fp_ref_id": "39df64b7e0117c5e",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCkExIWChAzOWRmNjRiN2UwMTE3YzVlEAAYAg%3D%3D&sigh=bz7WaiXEbkw624tZ0n3z9A",
+ "mood": "Happy",
+ "vid": "39df64b7e0117c5e",
+ "display_genre": "Country & Folk",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=39df64b7e0117c5e",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "39df64b7e0117c5e",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500025",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 316.883,
+ "category": "",
+ "title": "Daily Beetle"
+}

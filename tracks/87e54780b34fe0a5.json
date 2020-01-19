@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "license_type": 1,
+ "genre": "Rock",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "vid": "87e54780b34fe0a5",
+ "artist": "Dan Lebowitz",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "87e54780b34fe0a5",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "album": "None",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA4N2U1NDc4MGIzNGZlMGE1EAAYAg%3D%3D&sigh=j265W58_hDx5TRXXMtrXZw",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Bright",
+ "title": "Simon's Song",
+ "reference_vid": "87e54780b34fe0a5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=87e54780b34fe0a5",
+ "track_url": "",
+ "len": 145,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "0zk90YdxRWnqLBnBsNmOUr_xOxhLJGmv7yBxF6SdRZkIeNkVH9_Vs4Hyq_HoCi25"
+}

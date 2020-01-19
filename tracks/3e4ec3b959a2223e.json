@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChAzZTRlYzNiOTU5YTIyMjNlEAAYAg%3D%3D&sigh=NMnf3ia6OnDGfcsqUV3PvQ",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Bass"
+ ],
+ "display_mood": "Inspirational",
+ "artist": "Max Surla/Media Right Productions",
+ "artist_channel_url": null,
+ "vid": "3e4ec3b959a2223e",
+ "reference_vid": "3e4ec3b959a2223e",
+ "genre": "Cinematic",
+ "popularity_percentile": 24,
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "track_url": "",
+ "title": "Newsreel",
+ "downloadable": true,
+ "category": "",
+ "streamid": "DzarQVTfmbFo71nIkMVBry5aYA4BlOwsoUU_ML6E5_unS5rVCtn7sDDJFQEJamSI",
+ "fp_ref_id": "3e4ec3b959a2223e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3e4ec3b959a2223e",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Inspirational",
+ "len": 127.25
+}

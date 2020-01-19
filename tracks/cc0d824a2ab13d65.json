@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "reference_vid": "cc0d824a2ab13d65",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "",
+ "display_mood": "Sad",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cc0d824a2ab13d65",
+ "fp_ref_id": "cc0d824a2ab13d65",
+ "mood": "Sad",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "len": 186.9,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChBjYzBkODI0YTJhYjEzZDY1EAAYAg%3D%3D&sigh=pwKhmhiO-6E9EAxvmGcgpQ",
+ "streamid": "p5x5S0tOsABcBJf1fa5NQ_-mIzEA-_E25I4cltYLRdT4O73pQg_CbSXmZZc2MoVD",
+ "artist": "Silent Partner",
+ "popularity_percentile": 79,
+ "title": "Days Are Long",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "license_type": 0,
+ "vid": "cc0d824a2ab13d65",
+ "track_url": "",
+ "genre": "Cinematic",
+ "category": "",
+ "favorite": false
+}

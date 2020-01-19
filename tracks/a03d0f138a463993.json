@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a03d0f138a463993",
+ "popularity_percentile": 30,
+ "reference_vid": "a03d0f138a463993",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "utrne_mWjPCD3KTz5UtsEhx3xPxnv7cujBrPc9dgCEeNvxZ1lb-A1XQoASHREAmg",
+ "genre": "Country & Folk",
+ "len": 40.716,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Happy",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Acoustic Guitar",
+  "Trumpet"
+ ],
+ "title": "Mariachi Snooze",
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMC4AhIWChBhMDNkMGYxMzhhNDYzOTkzEAAYAg%3D%3D&sigh=8L_NWMP5EYpxDzhbeeLf3A",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "a03d0f138a463993",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100166",
+ "mood": "Happy",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "a03d0f138a463993",
+ "is_new_track": false,
+ "favorite": false
+}

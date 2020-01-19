@@ -1,0 +1,29 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "len": 110.05,
+ "mood": "Happy",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA5Nzk3NzUwNjU5Y2EyNTc3EAAYAg%3D%3D&sigh=QojUfv7pHKwW7ksdtp-cng",
+ "genre": "Cinematic",
+ "streamid": "hdg-yaa_WOZrBVu3biTiJxxASMWAfE3e1FaN8u1Cn4wXvZxCkbLpaYVwrP0M7Jhx",
+ "downloadable": true,
+ "fp_ref_id": "9797750659ca2577",
+ "vid": "9797750659ca2577",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9797750659ca2577",
+ "category": "",
+ "reference_vid": "9797750659ca2577",
+ "title": "A Good Day On the African Planes",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "track_url": ""
+}

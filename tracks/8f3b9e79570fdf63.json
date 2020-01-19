@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "8f3b9e79570fdf63",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "title": "8bit Dungeon Level - Video Classica",
+ "vid": "8f3b9e79570fdf63",
+ "mood": "Dramatic",
+ "display_genre": "Dance & Electronic",
+ "len": 217.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKifDRIWChA4ZjNiOWU3OTU3MGZkZjYzEAAYAg%3D%3D&sigh=QVhG4vTS24BgG7uCTppaBw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8f3b9e79570fdf63",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200066",
+ "streamid": "7ARVrrD6cgqCxm2aoAAxZDnVBNoU8P7Xbh30KDBI2WRLT8Ortos6MKr7HnCY2CSe",
+ "reference_vid": "8f3b9e79570fdf63",
+ "instruments": [
+  "Synth"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "artist_url": "http://incompetech.com/"
+}

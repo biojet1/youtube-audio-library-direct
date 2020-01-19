@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBmNjI2YmRlYWI3MTBlNzZkEAAYAg%3D%3D&sigh=7rUOk4CtVocdOHmSPxZ5yQ",
+ "title": "Rural Stride",
+ "display_mood": "Happy",
+ "artist": "Josh Kirsch/Media Right Productions",
+ "artist_channel_url": null,
+ "genre": "Country & Folk",
+ "vid": "f626bdeab710e76d",
+ "popularity_percentile": 97,
+ "reference_vid": "f626bdeab710e76d",
+ "favorite": false,
+ "mood": "Happy",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "category": "",
+ "fp_ref_id": "f626bdeab710e76d",
+ "streamid": "DbjGowR-yr6Xdcv3mCVLVZcRKtG1DI4OuTs-4gzG_-Kjs9hgKl_DakZGemDyVDC2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f626bdeab710e76d",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 130.816
+}

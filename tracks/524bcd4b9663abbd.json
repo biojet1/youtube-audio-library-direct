@@ -1,0 +1,33 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "popularity_percentile": 0,
+ "reference_vid": "524bcd4b9663abbd",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808",
+  "electric piano"
+ ],
+ "display_category": "",
+ "fp_ref_id": "524bcd4b9663abbd",
+ "license_type": 1,
+ "title": "Throw It Back",
+ "mood": "Calm",
+ "downloadable": true,
+ "len": 112,
+ "artist_url": "https://www.youtube.com/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "vid": "524bcd4b9663abbd",
+ "streamid": "chSvLNQawVwLGGp71Hl-8zDE_9LVOspdqo2AslLIVEBr2h0jbkd-BE58FGFg8xuA",
+ "artist": "Saidbysed",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=524bcd4b9663abbd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChA1MjRiY2Q0Yjk2NjNhYmJkEAAYAg%3D%3D&sigh=T95d7mw_9l5etQU88EGhcw",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "album": "None",
+ "track_url": ""
+}

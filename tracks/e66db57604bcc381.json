@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e66db57604bcc381",
+ "category": "",
+ "title": "Lay It Down",
+ "genre": "Rock",
+ "favorite": false,
+ "reference_vid": "e66db57604bcc381",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCnDRIWChBlNjZkYjU3NjA0YmNjMzgxEAAYAg%3D%3D&sigh=2sPjMBywjOCX5Y0HeTgkyw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e66db57604bcc381",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e66db57604bcc381",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Silent Partner",
+ "len": 218.916,
+ "display_mood": "Funky",
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "-8lruQjL8smE_A85HnCjMVDzwvZqlIsRO_Mh9UjICKcHWCi3oMb8Wx5cg_7KizPl"
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 5,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChAwOWJiZDBmNzAyNGFjZjg2EAAYAg%3D%3D&sigh=M_G6185ouOkb2maYgSdREA",
+ "display_category": "",
+ "reference_vid": "09bbd0f7024acf86",
+ "title": "Thinking Back",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09bbd0f7024acf86",
+ "track_url": "",
+ "len": 163.083,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "goLUCW8z9-yT5ptr1XnFitLSgJSSDhQdX1nWO5Ie_LPTvEJTFnjTE06I5vzmNGst",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "license_type": 0,
+ "mood": "Sad",
+ "genre": "Cinematic",
+ "vid": "09bbd0f7024acf86",
+ "artist_url": "",
+ "artist": "Max Surla/Media Right Productions",
+ "category": "",
+ "fp_ref_id": "09bbd0f7024acf86",
+ "display_mood": "Sad",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Strings",
+  "Bass"
+ ],
+ "artist_channel_url": null
+}

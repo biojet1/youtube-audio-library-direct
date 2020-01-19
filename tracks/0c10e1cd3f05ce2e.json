@@ -1,0 +1,31 @@
+{
+ "mood": "Dark",
+ "title": "Bounce It",
+ "album": "None",
+ "artist": "Silent Partner",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Hip Hop & Rap",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "display_category": "",
+ "vid": "0c10e1cd3f05ce2e",
+ "streamid": "W-nQmFJErTWryzZ6i7o2ussZM8WRtInVeIQ8d5Ey7Giw58KoLLIKrd99atFKeKl4",
+ "genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC_ChIWChAwYzEwZTFjZDNmMDVjZTJlEAAYAg%3D%3D&sigh=Gz56mVr4s_Vpecp1RtXgaA",
+ "fp_ref_id": "0c10e1cd3f05ce2e",
+ "len": 172.95,
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0c10e1cd3f05ce2e",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0c10e1cd3f05ce2e",
+ "downloadable": true
+}

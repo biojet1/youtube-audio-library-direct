@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 272,
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "fp_ref_id": "948a83495cb1dfe2",
+ "reference_vid": "948a83495cb1dfe2",
+ "artist_channel_url": "/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "license_type": 1,
+ "streamid": "y-6vSs4liz3Gg-daX7WAF3f2CHv6Ifp1rkKxpStGekRp_VRpyCXWRmNLZbycrqq5",
+ "vid": "948a83495cb1dfe2",
+ "mood": "Bright",
+ "artist": "Diamond Ortiz",
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDNEBIWChA5NDhhODM0OTVjYjFkZmUyEAAYAg%3D%3D&sigh=bHZtbjt-U8g3rEzOCwsTqA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=948a83495cb1dfe2",
+ "category": "",
+ "title": "Turn Up Burn Up",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "original vocal samples",
+  "drums",
+  "808",
+  "synths"
+ ]
+}

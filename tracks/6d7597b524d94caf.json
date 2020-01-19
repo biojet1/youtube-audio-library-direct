@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEDZkNzU5N2I1MjRkOTRjYWYQABgC&sigh=EkE6qediuy6tcAZ15Ic1qg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6d7597b524d94caf",
+ "track_url": "",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6d7597b524d94caf",
+ "fp_ref_id": "6d7597b524d94caf",
+ "category": "",
+ "title": "Echinoderm Regeneration (Sting)",
+ "reference_vid": "6d7597b524d94caf",
+ "artist": "Jingle Punks",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Strings"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "4YM_Ijr_KFeiNLHcGWF7XUv3r2PAOhMDhO3hopizc2K98-Rv66Il8J6-_X2agzV6",
+ "len": 6.783,
+ "license_type": 0,
+ "is_new_track": false
+}

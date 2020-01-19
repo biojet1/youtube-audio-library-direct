@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Dance & Electronic",
+ "streamid": "n2a3YU5GTRjCE7igB74OkD5ai6QJcY6TJ163Nulbbzgp-tokcmHD2APvSJRMK1yP",
+ "reference_vid": "9f4d2913c8b7dbdf",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f4d2913c8b7dbdf",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "artist": "Audionautix",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChA5ZjRkMjkxM2M4YjdkYmRmEAAYAg%3D%3D&sigh=kgxRHnwKMs8ev9-NtryYoQ",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "display_category": "",
+ "title": "Boom",
+ "album": "None",
+ "vid": "9f4d2913c8b7dbdf",
+ "downloadable": true,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "len": 121.383,
+ "fp_ref_id": "9f4d2913c8b7dbdf",
+ "display_genre": "Dance & Electronic"
+}

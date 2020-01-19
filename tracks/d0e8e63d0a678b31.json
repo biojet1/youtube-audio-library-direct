@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Sad",
+ "title": "Dance Monster - Electronic Medium",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d0e8e63d0a678b31",
+ "reference_vid": "d0e8e63d0a678b31",
+ "mood": "Sad",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100272",
+ "album": "None",
+ "len": 200.083,
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Synth"
+ ],
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "streamid": "1SI1PjPKHNQ9BHRpFAqXnmPskcWmvLv6Q7v8PixYQXeXH2x6V4tVKZrQdjFCNf2S",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "d0e8e63d0a678b31",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "d0e8e63d0a678b31",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChBkMGU4ZTYzZDBhNjc4YjMxEAAYAg%3D%3D&sigh=W3tbsp2YZve4zGkQPxeuig"
+}

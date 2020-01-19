@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "vid": "59eaa7910521a78e",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "59eaa7910521a78e",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100686",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPixDBIWChA1OWVhYTc5MTA1MjFhNzhlEAAYAg%3D%3D&sigh=AOGLojX7PM_4HYYi0weF_A",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Electric Guitar",
+  "Drums"
+ ],
+ "title": "Chee Zee Beach - Latinesque",
+ "downloadable": true,
+ "streamid": "gEjU_L0AQyLfEt2HS7X4cDqUW9q_mey72gpveoHPCYTDFXSs8fIBWntnX6So2F18",
+ "genre": "Pop",
+ "len": 203.383,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=59eaa7910521a78e",
+ "popularity_percentile": 38,
+ "reference_vid": "59eaa7910521a78e",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Happy"
+}

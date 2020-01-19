@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "fp_ref_id": "4361e242761ef027",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "title": "Hoedown",
+ "vid": "4361e242761ef027",
+ "mood": "Bright",
+ "display_genre": "Country & Folk",
+ "len": 133.45,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChA0MzYxZTI0Mjc2MWVmMDI3EAAYAg%3D%3D&sigh=y40zlE24U_e3nXYopzpT1A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4361e242761ef027",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "qXIcn7qv40yYww3DTIy1gDOTlhY5pr-Uoj0gui_DAzcYHjPCKRJuTv3l2Ou-IVsI",
+ "reference_vid": "4361e242761ef027",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Country & Folk",
+ "artist_url": "http://audionautix.com/"
+}

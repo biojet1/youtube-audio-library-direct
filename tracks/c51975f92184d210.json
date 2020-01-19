@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "vid": "c51975f92184d210",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "c51975f92184d210",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100708",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDZDBIWChBjNTE5NzVmOTIxODRkMjEwEAAYAg%3D%3D&sigh=OCgtof06Ed9GEJseo1qbtA",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Strings"
+ ],
+ "title": "Finding the Balance",
+ "downloadable": true,
+ "streamid": "GLejv2wi_d0yVDPuQavTJMipiffsB3wISPyO8lQJKH6niSZaYJaSEKmm-2EldV_N",
+ "genre": "Cinematic",
+ "len": 208.083,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c51975f92184d210",
+ "popularity_percentile": 38,
+ "reference_vid": "c51975f92184d210",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Dramatic"
+}

@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChBmYjBlM2JmMDcxMGE1MGY5EAAYAg%3D%3D&sigh=MAyP5LaRGyrC-B64pNIeAg",
+ "title": "Jupiter One",
+ "display_mood": "Dark",
+ "artist": "Riot",
+ "artist_channel_url": null,
+ "genre": "Rock",
+ "vid": "fb0e3bf0710a50f9",
+ "popularity_percentile": 98,
+ "reference_vid": "fb0e3bf0710a50f9",
+ "favorite": false,
+ "mood": "Dark",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "category": "",
+ "fp_ref_id": "fb0e3bf0710a50f9",
+ "streamid": "E0_QilR_j6Zl-eK_Xpx7o2-3YRo8BBJl-Jcbj1NFxqCZQ0Ds_Muc55pL2ALeevr6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fb0e3bf0710a50f9",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 152.316
+}

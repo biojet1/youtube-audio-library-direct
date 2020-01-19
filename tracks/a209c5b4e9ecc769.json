@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "len": 187.016,
+ "fp_ref_id": "a209c5b4e9ecc769",
+ "streamid": "grp7nDYyDqDY7116e9dPSRjlH9oWVCdeLGJMjs6ZYpehPu9BXpcmpjYT4LAzaxlc",
+ "artist_url": "",
+ "category": "",
+ "genre": "Country & Folk",
+ "popularity_percentile": 64,
+ "vid": "a209c5b4e9ecc769",
+ "display_genre": "Country & Folk",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a209c5b4e9ecc769",
+ "album": "None",
+ "title": "Plastic or Paper",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBhMjA5YzViNGU5ZWNjNzY5EAAYAg%3D%3D&sigh=4bAxgOL0lo1q-uoc3cq7GQ",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "artist": "Wes Hutchinson",
+ "display_category": "",
+ "mood": "Inspirational",
+ "is_new_track": false,
+ "reference_vid": "a209c5b4e9ecc769",
+ "track_url": "",
+ "license_type": 1
+}

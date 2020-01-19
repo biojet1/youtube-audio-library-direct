@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "category": "",
+ "display_category": "",
+ "license_type": 1,
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "de1f754936b7846f",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "len": 129,
+ "title": "Hickory Dickory Dock",
+ "display_genre": "Children's",
+ "reference_vid": "de1f754936b7846f",
+ "artist": "The Green Orbs",
+ "streamid": "hny-C62hZUteDGilJiAiDrStCR4-mhDr51GErrmvl9IltYhQiqxR1F3wBN5nhPYG",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=de1f754936b7846f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBkZTFmNzU0OTM2Yjc4NDZmEAAYAg%3D%3D&sigh=nwmmqtw1bmiQYv3yZMIb8g",
+ "genre": "Children's",
+ "fp_ref_id": "de1f754936b7846f",
+ "album": "None",
+ "display_mood": "Happy",
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw"
+}

@@ -1,0 +1,31 @@
+{
+ "title": "Moth",
+ "favorite": false,
+ "len": 141.516,
+ "popularity_percentile": 84,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChBkOGQ4YjI0OGNkNjMzZGRhEAAYAg%3D%3D&sigh=s4YkSyVoOIGxNCRbLiRJtQ",
+ "fp_ref_id": "d8d8b248cd633dda",
+ "artist_channel_url": null,
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "artist_url": "",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "d8d8b248cd633dda",
+ "display_category": "",
+ "vid": "d8d8b248cd633dda",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8d8b248cd633dda",
+ "streamid": "X7fQnaZQKN8abQT0U7n82akci-cyvZTgP7Gz1eyD0T3UUafJbvxXJdCNW7wigaMU",
+ "artist": "Silent Partner"
+}

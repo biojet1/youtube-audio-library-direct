@@ -1,0 +1,30 @@
+{
+ "title": "Rock-a-bye Baby",
+ "favorite": false,
+ "len": 122.05,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChBkYjU5NDBmNzY4NmRkMWM2EAAYAg%3D%3D&sigh=do4fgfeOsMQbH7mc8OXq-g",
+ "fp_ref_id": "db5940f7686dd1c6",
+ "artist_channel_url": null,
+ "display_genre": "Children's",
+ "track_url": "",
+ "genre": "Children's",
+ "license_type": 0,
+ "category": "",
+ "album": "None",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "artist_url": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano"
+ ],
+ "reference_vid": "db5940f7686dd1c6",
+ "display_category": "",
+ "vid": "db5940f7686dd1c6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db5940f7686dd1c6",
+ "streamid": "jad9HFiP66yqe-SPIvCv8JvkjSUjxdJNgfRyZMaHd_jZrUu2zn1uaFdYeRWZWI9O",
+ "artist": "The Green Orbs"
+}

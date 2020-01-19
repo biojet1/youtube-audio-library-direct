@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCjAv3DfOK7rOsT79fQf2mrA",
+ "reference_vid": "63172e4269e5b56d",
+ "streamid": "U5-5CryVzt7NYlsMohe2v_dpNw-iEGP9aRcksuYvICo45KspLyVKfBXFdtGJSkqj",
+ "artist_url": "https://www.youtube.com/channel/UCjAv3DfOK7rOsT79fQf2mrA",
+ "favorite": false,
+ "fp_ref_id": "63172e4269e5b56d",
+ "len": 100,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "artist": "RAGE",
+ "mood": "Happy",
+ "vid": "63172e4269e5b56d",
+ "display_mood": "Happy",
+ "title": "Giant iPhone",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA2MzE3MmU0MjY5ZTViNTZkEAAYAg%3D%3D&sigh=abLlE3UttinJIi1LQXe6Sg",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "piano",
+  "organ",
+  "bass",
+  "drums",
+  "vocal chops"
+ ],
+ "genre": "Hip Hop & Rap",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=63172e4269e5b56d",
+ "category": ""
+}

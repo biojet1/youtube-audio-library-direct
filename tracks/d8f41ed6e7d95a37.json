@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Dark",
+ "reference_vid": "d8f41ed6e7d95a37",
+ "streamid": "gdzpoo1uxZVP1Ykj3bU4_hdsfkIO7jinTkwIZrEsyvUS429eI-2faYadbqRj16o8",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOChFBIWChBkOGY0MWVkNmU3ZDk1YTM3EAAYAg%3D%3D&sigh=jzxulmXcaNDXJ6ZLfUbBog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8f41ed6e7d95a37",
+ "len": 332.116,
+ "genre": "Ambient",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "fp_ref_id": "d8f41ed6e7d95a37",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Minor With Cricket",
+ "mood": "Dark",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Ambient",
+ "track_url": "",
+ "vid": "d8f41ed6e7d95a37"
+}

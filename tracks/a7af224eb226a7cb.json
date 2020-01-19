@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a7af224eb226a7cb",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a7af224eb226a7cb",
+ "fp_ref_id": "a7af224eb226a7cb",
+ "genre": "Rock",
+ "album": "None",
+ "title": "Taking a Beating",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "track_url": "",
+ "display_mood": "Angry",
+ "streamid": "cEpD21djBllECdQvYRfytB5dB1PpujuMw6Q7ENCe1jJy4dyct2gr9BWG4YPFoUt2",
+ "artist": "Ethan Meixsell",
+ "mood": "Angry",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a7af224eb226a7cb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChBhN2FmMjI0ZWIyMjZhN2NiEAAYAg%3D%3D&sigh=Ouqbk8CXzSqXb3CPgZFidw",
+ "display_category": "",
+ "len": 145.216,
+ "display_genre": "Rock"
+}

@@ -1,0 +1,32 @@
+{
+ "vid": "6b321e2fd502e78e",
+ "mood": "Happy",
+ "artist": "Text Me Records",
+ "track_url": "",
+ "display_category": "",
+ "streamid": "Ubf2YZJ-OErvr4tlWKcfwcHaATeA8UcRZ13NsU2haFUCaAH9_8XI4MMvLo9UFpAg",
+ "favorite": false,
+ "fp_ref_id": "6b321e2fd502e78e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6b321e2fd502e78e",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChA2YjMyMWUyZmQ1MDJlNzhlEAAYAg%3D%3D&sigh=95SiLdSEOlyERD6Is5PzZw",
+ "downloadable": true,
+ "display_genre": "Reggae",
+ "len": 175.266,
+ "is_new_track": false,
+ "license_type": 1,
+ "album": "None",
+ "category": "",
+ "artist_url": "",
+ "instruments": [
+  "Bass",
+  "Organic",
+  "Drums",
+  "Guitar"
+ ],
+ "title": "Skanada",
+ "reference_vid": "6b321e2fd502e78e",
+ "genre": "Reggae",
+ "display_mood": "Happy",
+ "popularity_percentile": 99
+}

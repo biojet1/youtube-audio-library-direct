@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "bd1ec50d7c4ef92c",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "piano",
+  "bass"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "R&B & Soul",
+ "category": "",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "streamid": "_JVJ7jByZDby-_XrMvPYW1EGAJzZEs23uTskTDaJaq8HTSho7lmAMmUN7Kwo-41i",
+ "license_type": 0,
+ "vid": "bd1ec50d7c4ef92c",
+ "popularity_percentile": 74,
+ "reference_vid": "bd1ec50d7c4ef92c",
+ "display_genre": "R&B & Soul",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 159.55,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChBiZDFlYzUwZDdjNGVmOTJjEAAYAg%3D%3D&sigh=YyXwlppMWPnJWNTbVRdJYQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bd1ec50d7c4ef92c",
+ "title": "Take That Back"
+}

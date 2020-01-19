@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "len": 178.783,
+ "fp_ref_id": "9f8b79c9012119e4",
+ "streamid": "afk58trCfwn1eVjmnyibmlD9V0RWQyACgG8lhlg3jk3x4hd1yPf1HuGZ4qGP8FYs",
+ "artist_url": "",
+ "category": "",
+ "genre": "Rock",
+ "popularity_percentile": 63,
+ "vid": "9f8b79c9012119e4",
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f8b79c9012119e4",
+ "album": "None",
+ "title": "Rise",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChA5ZjhiNzljOTAxMjExOWU0EAAYAg%3D%3D&sigh=_ViQtQ0mu2JEgphYOEntMQ",
+ "downloadable": true,
+ "display_mood": "Angry",
+ "artist": "Ethan Meixsell",
+ "display_category": "",
+ "mood": "Angry",
+ "is_new_track": false,
+ "reference_vid": "9f8b79c9012119e4",
+ "track_url": "",
+ "license_type": 0
+}

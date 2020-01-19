@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "favorite": false,
+ "len": 178.433,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a8316f8ebd735eef",
+ "category": "",
+ "streamid": "pTFwzPFYyvc5-ZHZ_zoOQNBwJbq0UUegNMHOElsDC3EBL1qGY0Dja5w6vinVZvFI",
+ "fp_ref_id": "a8316f8ebd735eef",
+ "mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChBhODMxNmY4ZWJkNzM1ZWVmEAAYAg%3D%3D&sigh=lHYSeHe8UKexvc99II3-xQ",
+ "popularity_percentile": 0,
+ "reference_vid": "a8316f8ebd735eef",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "a8316f8ebd735eef",
+ "display_genre": "Ambient",
+ "track_url": "",
+ "title": "Cooperation Road",
+ "downloadable": true,
+ "genre": "Ambient",
+ "artist": "Unicorn Heads"
+}

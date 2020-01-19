@@ -1,0 +1,32 @@
+{
+ "display_genre": "World",
+ "reference_vid": "dc0931e144f50a25",
+ "mood": "Happy",
+ "display_category": "",
+ "len": 110.466,
+ "category": "",
+ "instruments": [
+  "Strings",
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "genre": "World",
+ "track_url": "",
+ "streamid": "f0756SNlBjstPOFHuK9VdDY0l8c-Tf8Dl7MQtiXFnJ0N3-RbTraSCQD8GlEZkWKj",
+ "vid": "dc0931e144f50a25",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dc0931e144f50a25",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "fp_ref_id": "dc0931e144f50a25",
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "title": "Yucatan Peninsula",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChBkYzA5MzFlMTQ0ZjUwYTI1EAAYAg%3D%3D&sigh=s9A-38nkc8xdz6m0oXJL4A",
+ "popularity_percentile": 99,
+ "artist": "Biz Baz Studio"
+}

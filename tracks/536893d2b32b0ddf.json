@@ -1,0 +1,30 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "OQii0Djr4LczEIVYe4v6jskiuN8-rg52LqERVUbnHf87eEopy5BMt5zpE5hwemBc",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=536893d2b32b0ddf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChA1MzY4OTNkMmIzMmIwZGRmEAAYAg%3D%3D&sigh=hKT-33Am-18HqIOsA7FrRA",
+ "vid": "536893d2b32b0ddf",
+ "display_category": "",
+ "title": "Tomorrowville",
+ "album": "None",
+ "mood": "Angry",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Josh Kirsch/Media Right Productions",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Angry",
+ "reference_vid": "536893d2b32b0ddf",
+ "len": 108.016,
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 33,
+ "fp_ref_id": "536893d2b32b0ddf",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ]
+}

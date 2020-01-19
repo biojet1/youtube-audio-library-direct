@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNjNIhIWChA1MmU3YmI1NTU1NDlmNWNhEAAYAg%3D%3D&sigh=XUhLF0zUARemIU3XnMw7Ug",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=52e7bb555549f5ca",
+ "title": "Blue Danube (by Strauss)",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "track_url": "",
+ "is_new_track": false,
+ "reference_vid": "52e7bb555549f5ca",
+ "license_type": 0,
+ "artist": "Strauss",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "favorite": false,
+ "fp_ref_id": "52e7bb555549f5ca",
+ "display_genre": "Classical",
+ "len": 567.033,
+ "vid": "52e7bb555549f5ca",
+ "category": "",
+ "artist_url": "",
+ "popularity_percentile": 33,
+ "genre": "Classical",
+ "streamid": "hCF47NIsoSS4LZf3mT61eD49j6av3wlDBhl8zilw2qSddvT7qHmbnqoxIR_yfufk",
+ "artist_channel_url": null
+}

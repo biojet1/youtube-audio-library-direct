@@ -1,0 +1,31 @@
+{
+ "reference_vid": "c9d5e51373ceaaf7",
+ "popularity_percentile": 78,
+ "display_genre": "Holiday",
+ "license_type": 0,
+ "fp_ref_id": "c9d5e51373ceaaf7",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "title": "Joy to the World (Jazz)",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 169.983,
+ "artist_url": "",
+ "display_category": "",
+ "streamid": "5CUqxGfCO1sBC2YkueWg0CzNpplhnEmRZE9-y_1b4PV4RoSprXfAwxFJQ6umLv27",
+ "vid": "c9d5e51373ceaaf7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChBjOWQ1ZTUxMzczY2VhYWY3EAAYAg%3D%3D&sigh=OTAY2mKYuAHCsEBzT7kBUg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c9d5e51373ceaaf7",
+ "artist": "E's Jammy Jams",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Holiday"
+}

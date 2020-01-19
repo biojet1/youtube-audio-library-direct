@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "e32eafbd9a84f18f",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e32eafbd9a84f18f",
+ "popularity_percentile": 95,
+ "vid": "e32eafbd9a84f18f",
+ "streamid": "KKRdOe7Cx5t5DALfRbheuKF1MW2lYAriHxRJL3lxVzEtQ73qKPUqy_jJLxrvIh0f",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBlMzJlYWZiZDlhODRmMThmEAAYAg%3D%3D&sigh=LOvBCL-LwpAQf8_DesTL4Q",
+ "display_category": "",
+ "title": "Ghost Processional (Alternate)",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dark",
+ "display_genre": "Cinematic",
+ "reference_vid": "e32eafbd9a84f18f",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100219",
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "len": 106.366,
+ "category": ""
+}

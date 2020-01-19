@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "6e3f5a4369cd2d2d",
+ "category": "",
+ "license_type": 6,
+ "title": "Big Blues Bed",
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Bass"
+ ],
+ "display_mood": "Bright",
+ "album": "None",
+ "streamid": "um8ceSF7LKKERAuxZJfj55uVZTpjgJ6kKlRRqutUvt5zjXt86p0sAc4UI2vYtkYf",
+ "len": 194.35,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6e3f5a4369cd2d2d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDrCxIWChA2ZTNmNWE0MzY5Y2QyZDJkEAAYAg%3D%3D&sigh=H67BJuz7KDegtEmfyP60AA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "6e3f5a4369cd2d2d",
+ "is_new_track": false,
+ "mood": "Bright",
+ "fp_ref_id": "6e3f5a4369cd2d2d",
+ "track_url": ""
+}

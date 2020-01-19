@@ -1,0 +1,33 @@
+{
+ "len": 142,
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "XIxG87Tdti-b3jHSzAEL0_kVh8qHNTG0d9OiwX8_XuHgoWdz4dtwtPZ0sszm8vaF",
+ "genre": "Rock",
+ "vid": "e7bf5b405ac062a2",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e7bf5b405ac062a2",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "artist_channel_url": "/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "title": "Earle's Bar Room Rocker",
+ "instruments": [
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "e7bf5b405ac062a2",
+ "mood": "Bright",
+ "album": "None",
+ "reference_vid": "e7bf5b405ac062a2",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChBlN2JmNWI0MDVhYzA2MmEyEAAYAg%3D%3D&sigh=IsdQlF8dfAgmtAg-1gfzAg",
+ "display_genre": "Rock",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "artist": "Midnight North"
+}

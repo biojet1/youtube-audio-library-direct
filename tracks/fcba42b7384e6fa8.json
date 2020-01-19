@@ -1,0 +1,32 @@
+{
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChBmY2JhNDJiNzM4NGU2ZmE4EAAYAg%3D%3D&sigh=JhHHaRr_aAkxRigkq0N71w",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fcba42b7384e6fa8",
+ "reference_vid": "fcba42b7384e6fa8",
+ "popularity_percentile": 99,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fcba42b7384e6fa8",
+ "mood": "Romantic",
+ "genre": "Cinematic",
+ "streamid": "SwMssnsrQYo5A3QY1X4-9V9D4vKfj4idanKvBJ_kYqlJ6nTOj1NUS4I4KpedJY2f",
+ "title": "7th Floor Tango",
+ "downloadable": true,
+ "category": "",
+ "len": 141.816,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "fcba42b7384e6fa8",
+ "album": "None"
+}

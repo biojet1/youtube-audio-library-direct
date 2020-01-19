@@ -1,0 +1,29 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500016",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "799025f24077a8c2",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChA3OTkwMjVmMjQwNzdhOGMyEAAYAg%3D%3D&sigh=a7A4cjQiZVEC5E4vL3iPdQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=799025f24077a8c2",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Classical",
+ "instruments": [
+  "Strings"
+ ],
+ "reference_vid": "799025f24077a8c2",
+ "category": "",
+ "len": 161.983,
+ "vid": "799025f24077a8c2",
+ "display_mood": "Dramatic",
+ "artist_channel_url": null,
+ "mood": "Dramatic",
+ "license_type": 6,
+ "genre": "Classical",
+ "title": "Mary Celeste",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "streamid": "A6MCag9DmyzB93sXptOP96ksw1ZU0jaVb4-FkZ7qdYoi7vvSKDPbyk_VKgZx2GSf"
+}

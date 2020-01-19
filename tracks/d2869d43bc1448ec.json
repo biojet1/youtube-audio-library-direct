@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2869d43bc1448ec",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Kevin MacLeod",
+ "len": 176.083,
+ "display_category": "",
+ "display_genre": "Pop",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100237",
+ "streamid": "rWdkskk3aWekRJstzYRiZWrW56KsLu0-Q2KxbyGPvRlz9uF_pRkc0VSurvh4TVm-",
+ "category": "",
+ "title": "Ether Disco",
+ "display_mood": "Funky",
+ "favorite": false,
+ "reference_vid": "d2869d43bc1448ec",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChBkMjg2OWQ0M2JjMTQ0OGVjEAAYAg%3D%3D&sigh=tXe8wdQd9QFjonhIJ5Ys2w",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d2869d43bc1448ec",
+ "license_type": 6,
+ "popularity_percentile": 81,
+ "vid": "d2869d43bc1448ec"
+}

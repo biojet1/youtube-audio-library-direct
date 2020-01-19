@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4a9a37d248b7c32c",
+ "display_category": "",
+ "fp_ref_id": "4a9a37d248b7c32c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4a9a37d248b7c32c",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Calm",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChA0YTlhMzdkMjQ4YjdjMzJjEAAYAg%3D%3D&sigh=R5ShKFW2uTMvGJkgARWP0Q",
+ "streamid": "yENIunRM8KKGSy92qvd_o4gMZAot7MnaSjTinNPXB5E4-Yl9R7i4FR4pWzzf9Gck",
+ "genre": "Jazz & Blues",
+ "vid": "4a9a37d248b7c32c",
+ "artist": "Silent Partner",
+ "display_genre": "Jazz & Blues",
+ "title": "Life is Sweet",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 94.65,
+ "display_mood": "Calm",
+ "downloadable": true
+}

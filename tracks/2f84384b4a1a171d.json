@@ -1,0 +1,30 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChAyZjg0Mzg0YjRhMWExNzFkEAAYAg%3D%3D&sigh=ezL8yx7mqCpb3xOHcPXbkQ",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "2f84384b4a1a171d",
+ "downloadable": true,
+ "reference_vid": "2f84384b4a1a171d",
+ "favorite": false,
+ "fp_ref_id": "2f84384b4a1a171d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2f84384b4a1a171d",
+ "genre": "Ambient",
+ "streamid": "No7PGn9YIOSdZVCncBq42_MVUgOrql4eIJX8RFujGbQecor2zm50Z_Lg9HID_5K_",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 130,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Five Books",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth",
+  "bass"
+ ]
+}

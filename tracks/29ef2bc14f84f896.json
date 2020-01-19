@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Happy",
+ "title": "Errigal",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=29ef2bc14f84f896",
+ "reference_vid": "29ef2bc14f84f896",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100239",
+ "album": "None",
+ "len": 134.216,
+ "instruments": [
+  "Piano"
+ ],
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "streamid": "H9LCMspcL1rcOQ0yqOxeOu0Hw84IUEilh7YpWZ4f3yHfalCjEE_p0KLki7xVYqDa",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "29ef2bc14f84f896",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "29ef2bc14f84f896",
+ "category": "",
+ "genre": "Country & Folk",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAyOWVmMmJjMTRmODRmODk2EAAYAg%3D%3D&sigh=9y9hhQFbzAtUx9SGnZdYlA"
+}

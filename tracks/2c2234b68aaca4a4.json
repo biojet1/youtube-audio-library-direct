@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 134.716,
+ "reference_vid": "2c2234b68aaca4a4",
+ "display_genre": "Hip Hop & Rap",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c2234b68aaca4a4",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAyYzIyMzRiNjhhYWNhNGE0EAAYAg%3D%3D&sigh=eZSoJlf-B083wstxjFTkvA",
+ "display_mood": "Funky",
+ "fp_ref_id": "2c2234b68aaca4a4",
+ "track_url": "",
+ "genre": "Hip Hop & Rap",
+ "vid": "2c2234b68aaca4a4",
+ "artist_channel_url": null,
+ "streamid": "_5bAA5ZZMttTZyxrpy9U5_G9xz1qXdDPZaCXQ6gIuja9Cyw0b54fnm_YO6y_GWZL",
+ "license_type": 0,
+ "title": "Show your Love",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Otis McDonald",
+ "mood": "Funky"
+}

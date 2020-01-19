@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCR8WNU7NJOQYJMfQgBAUSqg",
+ "len": 289,
+ "vid": "6323a78758bbd9b3",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "6323a78758bbd9b3",
+ "album": "None",
+ "display_mood": "Dark",
+ "artist_channel_url": "/channel/UCR8WNU7NJOQYJMfQgBAUSqg",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjRERIWChA2MzIzYTc4NzU4YmJkOWIzEAAYAg%3D%3D&sigh=GWDdECmrN4P4HEmYfdWexA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6323a78758bbd9b3",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "title": "Aviated",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Nana Kwabena",
+ "reference_vid": "6323a78758bbd9b3",
+ "streamid": "mWXi6KiQCp9b2jeD5gfK-mFv64Izc_tWtphzuqxl0YxIJkvI1VLpjkVtXD3VLQ1_"
+}

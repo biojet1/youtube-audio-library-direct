@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "6b0478afe751fbdb",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Public Memory",
+ "vid": "6b0478afe751fbdb",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChA2YjA0NzhhZmU3NTFmYmRiEAAYAg%3D%3D&sigh=eAaRcLj0K51-hHYSB6EpeA",
+ "category": "",
+ "genre": "Ambient",
+ "display_mood": "Romantic",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Clouded",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6b0478afe751fbdb",
+ "reference_vid": "6b0478afe751fbdb",
+ "mood": "Romantic",
+ "streamid": "BEwS6uUemhKzZzo27_Z4HMWNDxzppVFu-ehRbnZunkDfWskqrGhpdKjjy5WxTDr2",
+ "track_url": "",
+ "album": "None",
+ "len": 190,
+ "instruments": [
+  "piano",
+  "keys",
+  "synth"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Ambient"
+}

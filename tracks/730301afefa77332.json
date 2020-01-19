@@ -1,0 +1,32 @@
+{
+ "len": 144,
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "lL_5DS_ZvvDc67q_BsyOy5bfJ_Clq8jPClX_D0ybcFWS64VPjnLaz7as2bNrFfZc",
+ "genre": "Reggae",
+ "vid": "730301afefa77332",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=730301afefa77332",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "title": "Thug Dub",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "horns"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "730301afefa77332",
+ "mood": "Calm",
+ "album": "None",
+ "reference_vid": "730301afefa77332",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChA3MzAzMDFhZmVmYTc3MzMyEAAYAg%3D%3D&sigh=b7D2MrV5hORRyWKWCL6n7A",
+ "display_genre": "Reggae",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "artist": "Quincas Moreira"
+}

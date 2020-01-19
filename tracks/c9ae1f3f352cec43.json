@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "c9ae1f3f352cec43",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "title": "Meditation Impromptu 02",
+ "vid": "c9ae1f3f352cec43",
+ "mood": "Calm",
+ "display_genre": "Ambient",
+ "len": 249.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiZDxIWChBjOWFlMWYzZjM1MmNlYzQzEAAYAg%3D%3D&sigh=TJEtc-HKKfcbkvorIFDGMA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c9ae1f3f352cec43",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100162",
+ "streamid": "JfQt8JEsUoP_kmgjOhxhy2x2WGvLF5p-DkIjsFkP4k91oVaIQHgbN7K_3LzUvKi3",
+ "reference_vid": "c9ae1f3f352cec43",
+ "instruments": [
+  "Piano"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Ambient",
+ "artist_url": "http://incompetech.com/"
+}

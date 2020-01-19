@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDNlNGM1NGE5YzA5Y2EzMWIQABgC&sigh=BZb1hIhCgjWR0oC8B8wSyw",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "display_mood": "Angry",
+ "artist": "Gunnar Olsen",
+ "artist_channel_url": null,
+ "vid": "3e4c54a9c09ca31b",
+ "reference_vid": "3e4c54a9c09ca31b",
+ "genre": "Hip Hop & Rap",
+ "popularity_percentile": 24,
+ "display_genre": "Hip Hop & Rap",
+ "favorite": false,
+ "track_url": "",
+ "title": "Slay Well (Sting)",
+ "downloadable": true,
+ "category": "",
+ "streamid": "fZ3BqivDdEPK7Ya43vsoAxgFin0Ab0U28JD8Oy_ZU-pbfSoP-xMIJ722RmpNE5IX",
+ "fp_ref_id": "3e4c54a9c09ca31b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3e4c54a9c09ca31b",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Angry",
+ "len": 7.25
+}

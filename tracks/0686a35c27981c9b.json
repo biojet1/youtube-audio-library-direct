@@ -1,0 +1,33 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDWDRIWChAwNjg2YTM1YzI3OTgxYzliEAAYAg%3D%3D&sigh=jBZDhkVLMMrHaUdGXCXSaA",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0686a35c27981c9b",
+ "reference_vid": "0686a35c27981c9b",
+ "popularity_percentile": 3,
+ "artist": "Letter Box",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0686a35c27981c9b",
+ "mood": "Dramatic",
+ "genre": "Alternative & Punk",
+ "streamid": "jexE8nlYTU_3c83tKvjrRYA5OulkxEDW5YR77gBvztjvliDKjH91sEhlMnM_sqoB",
+ "title": "Where Shall We Dine",
+ "downloadable": true,
+ "category": "",
+ "len": 224.35,
+ "artist_url": "",
+ "display_genre": "Alternative & Punk",
+ "fp_ref_id": "0686a35c27981c9b",
+ "album": "None"
+}

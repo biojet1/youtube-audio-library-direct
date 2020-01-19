@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "fp_ref_id": "9ea2d954723ba10e",
+ "artist_channel_url": null,
+ "len": 397.65,
+ "downloadable": true,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMidGBIWChA5ZWEyZDk1NDcyM2JhMTBlEAAYAg%3D%3D&sigh=s0a7KRV3MXasBA2MAdguJA",
+ "display_genre": "Country & Folk",
+ "genre": "Country & Folk",
+ "vid": "9ea2d954723ba10e",
+ "display_category": "",
+ "reference_vid": "9ea2d954723ba10e",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9ea2d954723ba10e",
+ "album": "None",
+ "track_url": "",
+ "streamid": "0aCMIjvRp-6NEgBRqCOypi_NzRu5oMY3lJ1HUQYy4RR31uLViEsm1VDdBLDpr0gz",
+ "mood": "Calm",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "title": "Cryin In My Beer",
+ "popularity_percentile": 44,
+ "category": ""
+}

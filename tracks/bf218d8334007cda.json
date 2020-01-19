@@ -1,0 +1,29 @@
+{
+ "title": "Hamster March",
+ "favorite": false,
+ "len": 35.816,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiRAhIWChBiZjIxOGQ4MzM0MDA3Y2RhEAAYAg%3D%3D&sigh=lM2htTeUS1WkYTKi3Bv5-Q",
+ "fp_ref_id": "bf218d8334007cda",
+ "artist_channel_url": null,
+ "display_genre": "Cinematic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100212",
+ "genre": "Cinematic",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Bass"
+ ],
+ "reference_vid": "bf218d8334007cda",
+ "display_category": "",
+ "vid": "bf218d8334007cda",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf218d8334007cda",
+ "streamid": "1tIwOI-VdNpCb_c6UV7RwLlLubJPeX4VKEnu9CSeSeNhvPdry_LBudn_MrgR8mrJ",
+ "artist": "Kevin MacLeod"
+}

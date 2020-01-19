@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Children's",
+ "streamid": "xdpxKdHn33rOzEQiFPHTmZijHR1opSE4KSK_RTMY7JjFgV9k6kdOv_MqwTRl_GZP",
+ "reference_vid": "8871ed8a67bd821a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100313",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8871ed8a67bd821a",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiwAhIWChA4ODcxZWQ4YTY3YmQ4MjFhEAAYAg%3D%3D&sigh=qWLlvVYyu4AXWiJs1NKwoQ",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "display_category": "",
+ "title": "Ballgame",
+ "album": "None",
+ "vid": "8871ed8a67bd821a",
+ "downloadable": true,
+ "instruments": [
+  "Organ"
+ ],
+ "favorite": false,
+ "len": 39.583,
+ "fp_ref_id": "8871ed8a67bd821a",
+ "display_genre": "Children's"
+}

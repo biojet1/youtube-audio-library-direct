@@ -1,0 +1,32 @@
+{
+ "artist": "Jingle Punks",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=32128d90a7199bed",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCTBBIWChAzMjEyOGQ5MGE3MTk5YmVkEAAYAg%3D%3D&sigh=i4a1uHZsqYj6YrvhGxAC6A",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "album": "None",
+ "track_url": "",
+ "len": 68.716,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "32128d90a7199bed",
+ "streamid": "oOC8YZUBefLBSe8lFdmA3KU_azzxl0OwQKR4UcQp0zcwILKOTj74m8l7jlur65GA",
+ "title": "Tributaries of the Bayou",
+ "artist_url": "",
+ "mood": "Happy",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "popularity_percentile": 20,
+ "reference_vid": "32128d90a7199bed",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "fp_ref_id": "32128d90a7199bed",
+ "license_type": 0
+}

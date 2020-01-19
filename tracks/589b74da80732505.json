@@ -1,0 +1,30 @@
+{
+ "display_genre": "Pop",
+ "streamid": "AKXnEFxirDDVQ59M0xcCpTmMwmEudeP7lh4UPsgccJiok0r-317SmoBUd9cFHbJl",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "589b74da80732505",
+ "instruments": [
+  "Piano",
+  "Drums"
+ ],
+ "category": "",
+ "popularity_percentile": 31,
+ "license_type": 6,
+ "fp_ref_id": "589b74da80732505",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCDBBIWChA1ODliNzRkYTgwNzMyNTA1EAAYAg%3D%3D&sigh=Je5QC_24C_FefHqwPiwWEw",
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=589b74da80732505",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "artist": "Audionautix",
+ "mood": "Happy",
+ "title": "Whoopsy",
+ "len": 66.983,
+ "vid": "589b74da80732505",
+ "track_url": ""
+}

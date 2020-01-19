@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Piano"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "X4oS97aib-JSWKAOqfAXaCHg3CE6V0QZLd0rKe7LoXSDnmkW-ETpxnQCftNZP8IE",
+ "len": 72.05,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a88b174075137c5",
+ "category": "",
+ "is_new_track": false,
+ "vid": "0a88b174075137c5",
+ "display_genre": "Classical",
+ "reference_vid": "0a88b174075137c5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCyBBIWChAwYTg4YjE3NDA3NTEzN2M1EAAYAg%3D%3D&sigh=n3ZXW9xDfK_-doPxByDjxg",
+ "display_mood": "Bright",
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100207",
+ "title": "Heartwarming",
+ "genre": "Classical",
+ "fp_ref_id": "0a88b174075137c5",
+ "mood": "Bright",
+ "artist": "Kevin MacLeod",
+ "favorite": false
+}

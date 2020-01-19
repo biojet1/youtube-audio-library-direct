@@ -1,0 +1,32 @@
+{
+ "license_type": 0,
+ "artist": "Silent Partner",
+ "is_new_track": false,
+ "fp_ref_id": "6fd827a9111a713d",
+ "artist_channel_url": null,
+ "len": 123.65,
+ "downloadable": true,
+ "display_mood": "Angry",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA2ZmQ4MjdhOTExMWE3MTNkEAAYAg%3D%3D&sigh=WOTzUCabUCuCY0lEEA4f2A",
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "vid": "6fd827a9111a713d",
+ "display_category": "",
+ "reference_vid": "6fd827a9111a713d",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6fd827a9111a713d",
+ "album": "None",
+ "track_url": "",
+ "streamid": "KBWWUMoJVuq8K0ZSxcJE43_ImZLsCH4bmRZ5neIApy-NZudJE1JdiE2rp4lC7XOE",
+ "mood": "Angry",
+ "artist_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "title": "Getting Dirty",
+ "popularity_percentile": 43,
+ "category": ""
+}

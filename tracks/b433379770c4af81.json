@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "fp_ref_id": "b433379770c4af81",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBiNDMzMzc5NzcwYzRhZjgxEAAYAg%3D%3D&sigh=rrhSxp-CXBMVGGtQdDZ4eA",
+ "streamid": "tV-GkONg1bzz2JW6GNj-cffcUrX8EH1iLNRJoaOSDyAlekWfN5V_uO19DCnKo7tW",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 135,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b433379770c4af81",
+ "favorite": false,
+ "title": "Magical Dirt",
+ "artist": "Sir Cubworth",
+ "genre": "Cinematic",
+ "vid": "b433379770c4af81",
+ "display_category": "",
+ "reference_vid": "b433379770c4af81",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums",
+  "Organ",
+  "Bass"
+ ],
+ "artist_url": "",
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Cinematic",
+ "is_new_track": false
+}

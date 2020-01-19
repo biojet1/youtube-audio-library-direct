@@ -1,0 +1,33 @@
+{
+ "mood": "Funky",
+ "artist": "The Green Orbs",
+ "vid": "c3959dee294a0a5d",
+ "display_category": "",
+ "streamid": "n_BdVOj2gb0QjgBHymo5JtgOzgUKBXN4AZ26blS9i27u7S2DUe-i5kNdq8GHW_sK",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c3959dee294a0a5d",
+ "fp_ref_id": "c3959dee294a0a5d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChBjMzk1OWRlZTI5NGEwYTVkEAAYAg%3D%3D&sigh=lRoGbs9UrrCOlwTvcW-reA",
+ "display_genre": "Children's",
+ "len": 185,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "organ",
+  "piano",
+  "synth"
+ ],
+ "reference_vid": "c3959dee294a0a5d",
+ "title": "Broccoli On My Plate",
+ "genre": "Children's",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "license_type": 1,
+ "display_mood": "Funky",
+ "popularity_percentile": 99
+}

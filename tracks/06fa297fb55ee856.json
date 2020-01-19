@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 4,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChAwNmZhMjk3ZmI1NWVlODU2EAAYAg%3D%3D&sigh=qHoAkfHmjMNP-t94pTZFuA",
+ "display_category": "",
+ "reference_vid": "06fa297fb55ee856",
+ "title": "Basement Floor",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=06fa297fb55ee856",
+ "track_url": "",
+ "len": 165.483,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "bil8p-z4WTPuUCWok-qgoNOchb51hK1JwByTKmQavVcHY0cq9chlwEAFZ82CGnzS",
+ "favorite": false,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "mood": "Funky",
+ "genre": "Hip Hop & Rap",
+ "vid": "06fa297fb55ee856",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "category": "",
+ "fp_ref_id": "06fa297fb55ee856",
+ "display_mood": "Funky",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth",
+  "organ"
+ ],
+ "artist_channel_url": null
+}

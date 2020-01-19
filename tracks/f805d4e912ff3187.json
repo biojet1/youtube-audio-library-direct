@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "f805d4e912ff3187",
+ "downloadable": true,
+ "fp_ref_id": "f805d4e912ff3187",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f805d4e912ff3187",
+ "album": "None",
+ "artist": "Audionautix",
+ "display_mood": "Angry",
+ "streamid": "tW0_ACy0kbB5epm4cphDklvF8OCN5ip-th7zcwFZpp1AIoD2rdInVg02HWegdu5I",
+ "mood": "Angry",
+ "title": "Heavy Hunter",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drum"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Rock",
+ "reference_vid": "f805d4e912ff3187",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "len": 45.516,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjfAhIWChBmODA1ZDRlOTEyZmYzMTg3EAAYAg%3D%3D&sigh=Dezr4_CylA0Yhg7ZybJRrg"
+}

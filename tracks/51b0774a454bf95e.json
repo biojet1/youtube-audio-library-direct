@@ -1,0 +1,30 @@
+{
+ "reference_vid": "51b0774a454bf95e",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "51b0774a454bf95e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=51b0774a454bf95e",
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "vid": "51b0774a454bf95e",
+ "favorite": false,
+ "display_genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChA1MWIwNzc0YTQ1NGJmOTVlEAAYAg%3D%3D&sigh=waj5UHmL5GK1cB_vYCTd5A",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "RMxwEFvHRZy-7S3RTuy7BUt-ym2F3xF5prPX3ixXvm5IeehmUHpv6zJnDXd0WppB",
+ "len": 192.05,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500008",
+ "album": "None",
+ "license_type": 6,
+ "title": "Destiny Day",
+ "genre": "Ambient",
+ "display_category": ""
+}

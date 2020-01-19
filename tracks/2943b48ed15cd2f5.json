@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2943b48ed15cd2f5",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Everet Almond",
+ "len": 114.05,
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "dPWDg9RoZ7cy2rtfCmpWyg5T5Fe1YfF3nbdCpsCQUwQDTioTS07GBLzhwsQtwIpY",
+ "category": "",
+ "title": "Heist Me",
+ "display_mood": "Dark",
+ "favorite": false,
+ "reference_vid": "2943b48ed15cd2f5",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChAyOTQzYjQ4ZWQxNWNkMmY1EAAYAg%3D%3D&sigh=wcLKnUor0W9mgbLkNPrsZA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "2943b48ed15cd2f5",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "2943b48ed15cd2f5"
+}

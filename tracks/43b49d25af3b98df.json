@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=43b49d25af3b98df",
+ "title": "Pink's Glass",
+ "is_new_track": false,
+ "mood": "Happy",
+ "downloadable": true,
+ "album": "None",
+ "len": 143.75,
+ "popularity_percentile": 41,
+ "track_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "reference_vid": "43b49d25af3b98df",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "display_genre": "Dance & Electronic",
+ "artist": "Audionautix",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChA0M2I0OWQyNWFmM2I5OGRmEAAYAg%3D%3D&sigh=-QdjAzavUjP_60eW4TDjZg",
+ "fp_ref_id": "43b49d25af3b98df",
+ "license_type": 6,
+ "favorite": false,
+ "vid": "43b49d25af3b98df",
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Happy",
+ "genre": "Dance & Electronic",
+ "streamid": "5w1dpKwZTSDBQ7hDUcZQAi6eczSbbEhONu6S_g0Ti2aAeoShrqPEhSVVbNINSU0G",
+ "display_category": ""
+}

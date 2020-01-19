@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "9eaf31133653faff",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9eaf31133653faff",
+ "fp_ref_id": "9eaf31133653faff",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "title": "Awesome Call - Rollin at 5",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Bass",
+  "Organ"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100317",
+ "display_mood": "Funky",
+ "streamid": "oeYymc5TIjqg1jLE-jalhOtLo8zxHiUIuoR0_2ELvPcZTCDCxk-CGeTYfDrb2Y2I",
+ "artist": "Kevin MacLeod",
+ "mood": "Funky",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "9eaf31133653faff",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChA5ZWFmMzExMzM2NTNmYWZmEAAYAg%3D%3D&sigh=Z0xhec6IphfAXWzZFAsx5A",
+ "display_category": "",
+ "len": 152.05,
+ "display_genre": "Dance & Electronic"
+}

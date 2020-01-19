@@ -1,0 +1,33 @@
+{
+ "mood": "Bright",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChAwZTIwZWU5NDQxMDQ2YjE3EAAYAg%3D%3D&sigh=eSJpmSDWL-Ic6A1CsH5EAA",
+ "display_mood": "Bright",
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0e20ee9441046b17",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "The Mini Vandals",
+ "title": "You're There",
+ "reference_vid": "0e20ee9441046b17",
+ "instruments": [
+  "electric guitar",
+  "organ",
+  "drums",
+  "electric piano",
+  "bass"
+ ],
+ "display_genre": "Rock",
+ "fp_ref_id": "0e20ee9441046b17",
+ "vid": "0e20ee9441046b17",
+ "category": "",
+ "streamid": "ozjChw2f9-Nmnkff-SGw0P0DUbJPciuaHEkylIWAtwyHUyWvGg_2iXOJrayX8aRA",
+ "popularity_percentile": 99,
+ "len": 116,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

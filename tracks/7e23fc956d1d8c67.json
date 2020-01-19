@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChA3ZTIzZmM5NTZkMWQ4YzY3EAAYAg%3D%3D&sigh=0tabQOaNNR-EZRXVk1Y5sw",
+ "popularity_percentile": 77,
+ "display_category": "",
+ "reference_vid": "7e23fc956d1d8c67",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7e23fc956d1d8c67",
+ "genre": "Rock",
+ "artist_url": "http://incompetech.com/",
+ "len": 175.933,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "P2v7ptYw-Z3QG-DxmchG5uc7TS1h3rxOa6bfY4eaXanWnnONO1j90eFMkcbmBupk",
+ "display_mood": "Calm",
+ "display_genre": "Rock",
+ "mood": "Calm",
+ "title": "Highlight Reel",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100205",
+ "vid": "7e23fc956d1d8c67",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "7e23fc956d1d8c67",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "album": "None"
+}

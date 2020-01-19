@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Strings",
+  "Organ"
+ ],
+ "display_mood": "Happy",
+ "vid": "7fad087239069cd4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7fad087239069cd4",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Happy",
+ "display_genre": "R&B & Soul",
+ "fp_ref_id": "7fad087239069cd4",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 57.55,
+ "track_url": "",
+ "category": "",
+ "streamid": "JJfTFJ74Vwub8iPBtoe6o9hBkgkshSpRrnqWU0YtJggVEswjyaBTP9mzoulXc0tN",
+ "title": "Sunshine in My Heart",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi9AxIWChA3ZmFkMDg3MjM5MDY5Y2Q0EAAYAg%3D%3D&sigh=mmOCqX5_SeNmVEPj1hg2TQ",
+ "popularity_percentile": 50,
+ "reference_vid": "7fad087239069cd4",
+ "artist": "Jingle Punks",
+ "genre": "R&B & Soul"
+}

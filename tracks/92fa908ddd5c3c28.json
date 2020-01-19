@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "vid": "92fa908ddd5c3c28",
+ "streamid": "d9pXOuZmyBe10chPQDBFWvM64djxN4zV6nRsBF6-G28C--T8iXOWYviOAXdfSS1H",
+ "title": "Scouting",
+ "category": "",
+ "len": 148,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChA5MmZhOTA4ZGRkNWMzYzI4EAAYAg%3D%3D&sigh=2MYueFoHZEYjzl3LbteKug",
+ "artist": "Eveningland",
+ "artist_url": "https://www.youtube.com/channel/UCi0uheSErbivC3_662UqL-w",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCi0uheSErbivC3_662UqL-w",
+ "reference_vid": "92fa908ddd5c3c28",
+ "display_mood": "Happy",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=92fa908ddd5c3c28",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "92fa908ddd5c3c28",
+ "favorite": false,
+ "mood": "Happy"
+}

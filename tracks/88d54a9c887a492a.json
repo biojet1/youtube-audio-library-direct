@@ -1,0 +1,32 @@
+{
+ "vid": "88d54a9c887a492a",
+ "downloadable": true,
+ "favorite": false,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "len": 174.383,
+ "artist_channel_url": null,
+ "fp_ref_id": "88d54a9c887a492a",
+ "display_genre": "Rock",
+ "artist": "Ethan Meixsell",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChA4OGQ1NGE5Yzg4N2E0OTJhEAAYAg%3D%3D&sigh=DVGW6oKO2ym8b2ynMqN-Hw",
+ "display_mood": "Dark",
+ "display_category": "",
+ "title": "Angel of Mercy",
+ "album": "None",
+ "reference_vid": "88d54a9c887a492a",
+ "mood": "Dark",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=88d54a9c887a492a",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_url": "",
+ "popularity_percentile": 54,
+ "genre": "Rock",
+ "streamid": "4qEf7J3zcAjtCiMwN9RvvdqxsIIB4cJfWT2yha_3Gq9_ZaX66qmVQchbDp_CdZvm"
+}

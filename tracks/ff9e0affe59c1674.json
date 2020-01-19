@@ -1,0 +1,31 @@
+{
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBmZjllMGFmZmU1OWMxNjc0EAAYAg%3D%3D&sigh=DjOzHi_zlnO6YKtF4mED7w",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "ff9e0affe59c1674",
+ "reference_vid": "ff9e0affe59c1674",
+ "popularity_percentile": 99,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ff9e0affe59c1674",
+ "mood": "Bright",
+ "genre": "Hip Hop & Rap",
+ "streamid": "CUUC5Mm3GUhERwRfP3OpIpUscBFdsjvGxN1M8I5NvFLXYDye3N5SM3G6ZsoYdXDV",
+ "title": "New Tires",
+ "downloadable": true,
+ "category": "",
+ "len": 126.85,
+ "artist_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "ff9e0affe59c1674",
+ "album": "None"
+}

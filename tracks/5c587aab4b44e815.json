@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "5c587aab4b44e815",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "5c587aab4b44e815",
+ "instruments": [
+  "synth",
+  "choir"
+ ],
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5c587aab4b44e815",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChA1YzU4N2FhYjRiNDRlODE1EAAYAg%3D%3D&sigh=oCTP4c5iP4gT0QnuOy49aw",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "5c587aab4b44e815",
+ "len": 185,
+ "mood": "Dark",
+ "streamid": "EsxZ3q8OSd38YeVL73XTv6MRYkTmvF8aWXrLnwbrZQ20z7zE2v8YqXiLnaKR4Wzh",
+ "artist": "Coyote Hearing",
+ "is_new_track": false,
+ "title": "Satan's Choir",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ"
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "c903c1f33bbeac5e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c903c1f33bbeac5e",
+ "display_mood": "Happy",
+ "fp_ref_id": "c903c1f33bbeac5e",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "title": "Morning",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChBjOTAzYzFmMzNiYmVhYzVlEAAYAg%3D%3D&sigh=E-_YwDUjdrNEn-3AZObiHQ",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Text Me Records / Hii.de",
+ "genre": "Hip Hop & Rap",
+ "len": 112.3,
+ "streamid": "DvOShQpqJrfSsicNIFIGSGHhGo-pe4UtxTgjS6OsMRnRw16C59VU4PCu7WnY6zIu",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "c903c1f33bbeac5e",
+ "album": "None",
+ "mood": "Happy"
+}

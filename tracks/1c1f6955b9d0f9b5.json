@@ -1,0 +1,32 @@
+{
+ "vid": "1c1f6955b9d0f9b5",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "1c1f6955b9d0f9b5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1c1f6955b9d0f9b5",
+ "favorite": false,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Trumpet",
+  "Piano"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100285",
+ "title": "Comparsa - Latinesque",
+ "genre": "Pop",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "display_mood": "Happy",
+ "streamid": "cv_ZmAaQkq8ikOFCOzygM9M3rfAyJlaKgi1LoBEwpXxaAGK9HdyRS3cva_dZCRm4",
+ "display_category": "",
+ "len": 159.716,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChAxYzFmNjk1NWI5ZDBmOWI1EAAYAg%3D%3D&sigh=qfBnGUgk-I2ZgfTIdzRWzA",
+ "reference_vid": "1c1f6955b9d0f9b5",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Pop"
+}

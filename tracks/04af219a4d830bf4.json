@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "favorite": false,
+ "len": 98.799,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04af219a4d830bf4",
+ "category": "",
+ "streamid": "m_-xyNN7rZ_xTUDoj00bPN0n05tqPcimmnCnkhK6ohRxTpCfwWR9FO-e2E9-X27r",
+ "fp_ref_id": "04af219a4d830bf4",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChAwNGFmMjE5YTRkODMwYmY0EAAYAg%3D%3D&sigh=J9gOoMNv0rAnAcxnbi4Qqg",
+ "popularity_percentile": 0,
+ "reference_vid": "04af219a4d830bf4",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "04af219a4d830bf4",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "Kye Kye",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Doug Maxwell/Jimmy Fontanez"
+}

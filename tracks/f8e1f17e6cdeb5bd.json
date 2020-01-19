@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 98,
+ "reference_vid": "f8e1f17e6cdeb5bd",
+ "display_genre": "Pop",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 163.616,
+ "streamid": "GJFGbgY_9s9pYVStwwM_BTx3eYPicsaTqGW-DOqaAx9K4-OZloC8hdB9Zf1BxUQF",
+ "license_type": 0,
+ "vid": "f8e1f17e6cdeb5bd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChBmOGUxZjE3ZTZjZGViNWJkEAAYAg%3D%3D&sigh=HbVJt3idmiJ4Ja6WAreuKw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f8e1f17e6cdeb5bd",
+ "title": "Blue Skies",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "display_category": "",
+ "fp_ref_id": "f8e1f17e6cdeb5bd",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Piano"
+ ],
+ "artist": "Silent Partner",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Pop",
+ "category": ""
+}

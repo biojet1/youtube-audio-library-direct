@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "vid": "88c5479c4bd61db0",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPixDBIWChA4OGM1NDc5YzRiZDYxZGIwEAAYAg%3D%3D&sigh=msL0Ne6CHt_0BCXC9auD8A",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "artist_channel_url": "/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "track_url": "",
+ "streamid": "3e-lpDzDX9uMoOFB1wjdDACjal1jSQpaUz1ECcAZbUyRHpeKwdzuG3ZGsiOmgf2e",
+ "len": 203,
+ "genre": "Dance & Electronic",
+ "artist": "Andrew Huang",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Hyped",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=88c5479c4bd61db0",
+ "reference_vid": "88c5479c4bd61db0",
+ "popularity_percentile": 99,
+ "fp_ref_id": "88c5479c4bd61db0",
+ "display_mood": "Funky"
+}

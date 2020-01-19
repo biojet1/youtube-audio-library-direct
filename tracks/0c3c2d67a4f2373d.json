@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "title": "Jazz In Paris",
+ "album": "None",
+ "artist": "Media Right Productions",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Jazz & Blues",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "display_category": "",
+ "vid": "0c3c2d67a4f2373d",
+ "streamid": "BibnEgZBfGr2K05LcfofZdIUIfFQnjb5ax1vnZOu1zzMheMCdZcpjh7O_587Iaz2",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChAwYzNjMmQ2N2E0ZjIzNzNkEAAYAg%3D%3D&sigh=0vvKY5s1NO2X1-BQ82V8fw",
+ "fp_ref_id": "0c3c2d67a4f2373d",
+ "len": 102.283,
+ "favorite": false,
+ "instruments": [
+  "acoustic guitar",
+  "bass",
+  "drums"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0c3c2d67a4f2373d",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0c3c2d67a4f2373d",
+ "downloadable": true
+}

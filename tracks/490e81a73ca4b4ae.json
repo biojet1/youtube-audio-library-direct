@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "490e81a73ca4b4ae",
+ "display_category": "",
+ "fp_ref_id": "490e81a73ca4b4ae",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=490e81a73ca4b4ae",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Angry",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChA0OTBlODFhNzNjYTRiNGFlEAAYAg%3D%3D&sigh=BnWevJ6aFpBhn3J2MaPHFw",
+ "streamid": "oT72RH0XTx5Ra1zaQ0M5RDrWpdILh8SMx0giIVVfG1iooUpH6W42Cd8VelZmmeNB",
+ "genre": "Alternative & Punk",
+ "vid": "490e81a73ca4b4ae",
+ "artist": "Letter Box",
+ "display_genre": "Alternative & Punk",
+ "title": "Everyone You Know",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 111.116,
+ "display_mood": "Angry",
+ "downloadable": true
+}

@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "adcf076dff14380b",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "category": "",
+ "artist": "Audionautix",
+ "display_category": "",
+ "streamid": "Lq0reXaHzBP8xVLqplWr0oUWJNGFei34_IdWBeSMbyka8rnefVXRSEQSZvNENwpO",
+ "license_type": 6,
+ "vid": "adcf076dff14380b",
+ "popularity_percentile": 73,
+ "reference_vid": "adcf076dff14380b",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 173.616,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChBhZGNmMDc2ZGZmMTQzODBiEAAYAg%3D%3D&sigh=bvSb-EVWffyV7MdK-z2blg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=adcf076dff14380b",
+ "title": "Thought Bot"
+}

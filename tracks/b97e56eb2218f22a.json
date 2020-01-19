@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "b97e56eb2218f22a",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "streamid": "rMdxzgVEZS4HEqHo4X6HDgFUgJBSsL13QMVZa7FKjQgUzD_XpLzdt88yfd-D_wvI",
+ "license_type": 0,
+ "vid": "b97e56eb2218f22a",
+ "popularity_percentile": 72,
+ "reference_vid": "b97e56eb2218f22a",
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 283.683,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiiERIWChBiOTdlNTZlYjIyMThmMjJhEAAYAg%3D%3D&sigh=GhkFpBE3_OkZBhqMvmdEzw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b97e56eb2218f22a",
+ "title": "Drop It"
+}

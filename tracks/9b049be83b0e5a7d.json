@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "9b049be83b0e5a7d",
+ "downloadable": true,
+ "fp_ref_id": "9b049be83b0e5a7d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9b049be83b0e5a7d",
+ "album": "None",
+ "artist": "Twin Musicom",
+ "display_mood": "Dramatic",
+ "streamid": "_e2w-1YOewRh7_epPeNqVv4qS_xDvsXdkJRVOxIT-F2zuMIW_uOM5L-02pma-MBy",
+ "mood": "Dramatic",
+ "title": "The Coal Mine",
+ "genre": "Cinematic",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "track_url": "http://www.twinmusicom.org/song/307/the-coal-mine",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "reference_vid": "9b049be83b0e5a7d",
+ "category": "",
+ "artist_url": "http://www.twinmusicom.org",
+ "display_category": "",
+ "len": 191.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChA5YjA0OWJlODNiMGU1YTdkEAAYAg%3D%3D&sigh=YNj5ub6YLqd8PlXHDOT_Kw"
+}

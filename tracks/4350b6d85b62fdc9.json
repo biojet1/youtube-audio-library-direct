@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "artist": "DJ Williams",
+ "category": "",
+ "artist_channel_url": "/channel/UC5MBYjOajpL7BwHNA85ZKAA",
+ "title": "Frank's Last Chase",
+ "album": "None",
+ "fp_ref_id": "4350b6d85b62fdc9",
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiiERIWChA0MzUwYjZkODViNjJmZGM5EAAYAg%3D%3D&sigh=_e4j5R0bXQ5GA3dXMJtR-Q",
+ "genre": "Jazz & Blues",
+ "vid": "4350b6d85b62fdc9",
+ "streamid": "xANnq4fmLKaSqUBwPN716Vkscm-GXIQhaMeQiNlyDw8n9AZHLfFbPGqvSxdzVfB4",
+ "display_category": "",
+ "display_mood": "Happy",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4350b6d85b62fdc9",
+ "reference_vid": "4350b6d85b62fdc9",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UC5MBYjOajpL7BwHNA85ZKAA",
+ "favorite": false,
+ "instruments": [
+  "electric guitar",
+  "organ",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "len": 283.2
+}

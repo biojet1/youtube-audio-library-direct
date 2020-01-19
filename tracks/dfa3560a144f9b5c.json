@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "artist": "Bird Creek",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "fp_ref_id": "dfa3560a144f9b5c",
+ "popularity_percentile": 87,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBkZmEzNTYwYTE0NGY5YjVjEAAYAg%3D%3D&sigh=tlcZbbQ4yr6HaYUZ3tVipQ",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "dfa3560a144f9b5c",
+ "streamid": "LFBIDEdUvr8GPd6e-S-HIDsqPvu4Ui6EZXKUTwcVLb-TRbBZQnNDtJZVqrq75n9w",
+ "mood": "Angry",
+ "reference_vid": "dfa3560a144f9b5c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dfa3560a144f9b5c",
+ "title": "Paintball Theme",
+ "display_mood": "Angry",
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "len": 109.383,
+ "album": "None",
+ "track_url": ""
+}

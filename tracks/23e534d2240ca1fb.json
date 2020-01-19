@@ -1,0 +1,33 @@
+{
+ "len": 97,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "track_url": "",
+ "category": "",
+ "mood": "Romantic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=23e534d2240ca1fb",
+ "title": "Carried",
+ "streamid": "CTXMv3msF7KY-0_Ck2zre0d-m4ZY-78JsYjGNdgd18aI3vE9n9evngMT0o3IoJ0j",
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChAyM2U1MzRkMjI0MGNhMWZiEAAYAg%3D%3D&sigh=NmohLTRz2knvgSR99FSpGw",
+ "license_type": 1,
+ "fp_ref_id": "23e534d2240ca1fb",
+ "display_mood": "Romantic",
+ "artist_url": "https://www.youtube.com/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "vid": "23e534d2240ca1fb",
+ "artist": "Lauren Duski",
+ "instruments": [
+  "piano",
+  "drums",
+  "bass",
+  "organ",
+  "strings"
+ ],
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "reference_vid": "23e534d2240ca1fb"
+}

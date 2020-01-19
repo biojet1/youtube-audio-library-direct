@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "mood": "Dark",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChAyMjg1MTdmYWVhNjU4Yjk1EAAYAg%3D%3D&sigh=mhvXTFVLAsjwJOq1XfTjBw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=228517faea658b95",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100789",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "228517faea658b95",
+ "fp_ref_id": "228517faea658b95",
+ "category": "",
+ "title": "Bump in the Night - Supernatural Haunting",
+ "reference_vid": "228517faea658b95",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Synth"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "IAmz4DH_h2hIMGw8ac1k6-ADJ6NmGsoxBQ9JmWgwKksxXjeQJFPu1giiWSpwmWKq",
+ "len": 111.55,
+ "license_type": 6,
+ "is_new_track": false
+}

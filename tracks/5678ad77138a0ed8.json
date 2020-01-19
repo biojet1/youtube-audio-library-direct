@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Country & Folk",
+ "streamid": "G0m25xp1CsOByWZf4RM4LyeYe1W3zA8SLq0yiNrY021-aWKcPqAYfMI0nkgTG4EJ",
+ "reference_vid": "5678ad77138a0ed8",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5678ad77138a0ed8",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Huma-Huma",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChA1Njc4YWQ3NzEzOGEwZWQ4EAAYAg%3D%3D&sigh=gLucZVDllnZtzNjyExaqYg",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "display_category": "",
+ "title": "Rotten Gardenias",
+ "album": "None",
+ "vid": "5678ad77138a0ed8",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "len": 137.05,
+ "fp_ref_id": "5678ad77138a0ed8",
+ "display_genre": "Country & Folk"
+}

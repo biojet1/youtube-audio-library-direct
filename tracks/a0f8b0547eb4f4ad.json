@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "album": "None",
+ "vid": "a0f8b0547eb4f4ad",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLC6ERIWChBhMGY4YjA1NDdlYjRmNGFkEAAYAg%3D%3D&sigh=s8c78oWq9yvT1yefmAPs4A",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "track_url": "",
+ "streamid": "-UobjsHm6dNY3apyp9CGw1KFANVlYk3OvE0ICHS1YFbKG9exlZInWVfJ70vQFT4s",
+ "len": 286,
+ "genre": "Dance & Electronic",
+ "artist": "Jeremy Blake",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Eye Do",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0f8b0547eb4f4ad",
+ "reference_vid": "a0f8b0547eb4f4ad",
+ "popularity_percentile": 99,
+ "fp_ref_id": "a0f8b0547eb4f4ad",
+ "display_mood": "Dramatic"
+}

@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChAzZTg0NGI0MzgwZWNmOTU4EAAYAg%3D%3D&sigh=s-UC3dXAiQ_ItwpprFhtKQ",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "electric guitar",
+  "synth"
+ ],
+ "display_mood": "Sad",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "3e844b4380ecf958",
+ "reference_vid": "3e844b4380ecf958",
+ "genre": "Ambient",
+ "popularity_percentile": 24,
+ "display_genre": "Ambient",
+ "favorite": false,
+ "track_url": "",
+ "title": "Red Berry",
+ "downloadable": true,
+ "category": "",
+ "streamid": "AAD8HpKqmcH8OiqcYnC4EFtEDlzIjEncWVmyi0VDRYYl0FSbmJ6JT7j1jXyO4G80",
+ "fp_ref_id": "3e844b4380ecf958",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3e844b4380ecf958",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Sad",
+ "len": 127.716
+}

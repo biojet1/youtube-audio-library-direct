@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "8cf72700de3ceb92",
+ "mood": "Dark",
+ "title": "Fresno Alley",
+ "category": "",
+ "genre": "Rock",
+ "album": "None",
+ "len": 109,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA4Y2Y3MjcwMGRlM2NlYjkyEAAYAg%3D%3D&sigh=alUSMVHbJwWkHdZPy3DWwg",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8cf72700de3ceb92",
+ "fp_ref_id": "8cf72700de3ceb92",
+ "artist": "Josh Lippi & The Overtimers",
+ "display_mood": "Dark",
+ "display_genre": "Rock",
+ "streamid": "aev4Z8yWYbYvZrJskxn6AfQCIknJr8GnPZdG_I-Svgr5pgkdrYFEFhGl6-uhKt4H",
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "display_category": "",
+ "instruments": [
+  "bass",
+  "percussion",
+  "drums",
+  "electic guitar"
+ ],
+ "vid": "8cf72700de3ceb92"
+}

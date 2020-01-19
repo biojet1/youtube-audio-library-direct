@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e85afc03f8eb6eeb",
+ "category": "",
+ "title": "Dusty Road",
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "genre": "Country & Folk",
+ "display_mood": "Calm",
+ "streamid": "TvESG4BtQ3_ffcUAEGMzcQ6nKKHA-zx6LL3F6JWVdLcr3zOl7VCbfL8-t83PUB8p",
+ "album": "None",
+ "len": 81.283,
+ "artist": "Jingle Punks",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e85afc03f8eb6eeb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj4BBIWChBlODVhZmMwM2Y4ZWI2ZWViEAAYAg%3D%3D&sigh=ZRj0767fML5xY-KJw2R3kg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e85afc03f8eb6eeb",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "e85afc03f8eb6eeb",
+ "license_type": 0,
+ "track_url": ""
+}

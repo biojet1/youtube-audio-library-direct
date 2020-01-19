@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4b04403a24a4c7e5",
+ "display_category": "",
+ "fp_ref_id": "4b04403a24a4c7e5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b04403a24a4c7e5",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Inspirational",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChA0YjA0NDAzYTI0YTRjN2U1EAAYAg%3D%3D&sigh=Ls4qZEsrOpiAWu22hdZY5Q",
+ "streamid": "wfFNLCoLNMQgvXoRjyxbAUMzPbzlKTOXLs13MVhMLYgJZ6PBsbUWUlRYs0FTJt6N",
+ "genre": "Holiday",
+ "vid": "4b04403a24a4c7e5",
+ "artist": "E's Jammy Jams",
+ "display_genre": "Holiday",
+ "title": "We Wish You a Merry Christmas (Instrumental Jazz)",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 174.55,
+ "display_mood": "Inspirational",
+ "downloadable": true
+}

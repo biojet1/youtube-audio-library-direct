@@ -1,0 +1,30 @@
+{
+ "mood": "Dark",
+ "artist": "Sir Cubworth",
+ "vid": "4bdbdc1b0a1ea6b5",
+ "display_category": "",
+ "streamid": "xeVKTOiOAbG1WSrubF9gGRbSzPYbQ1UvT4vFRcBoVRdFfi4U_yCSDvm8LQqyEzU5",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4bdbdc1b0a1ea6b5",
+ "fp_ref_id": "4bdbdc1b0a1ea6b5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA0YmRiZGMxYjBhMWVhNmI1EAAYAg%3D%3D&sigh=TJJiHlyU5BUo-ZTPOvtuUA",
+ "display_genre": "Cinematic",
+ "len": 151,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "strings",
+  "piano"
+ ],
+ "reference_vid": "4bdbdc1b0a1ea6b5",
+ "title": "Keep On Ridin'",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "license_type": 1,
+ "display_mood": "Dark",
+ "popularity_percentile": 99
+}

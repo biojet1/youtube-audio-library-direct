@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "mood": "Funky",
+ "len": 205.083,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "SKPayC9usyCzF-6KQuNTwmPAcCCnlQreHZlMNZeVI-8bz-REvFxos3rtiH1q2FOn",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjBDBIWChBlNGJiOTQyNWYxZDViYWUzEAAYAg%3D%3D&sigh=QFCXGyWR1ots1ypA9YRO3A",
+ "reference_vid": "e4bb9425f1d5bae3",
+ "title": "Leslie's Strut",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4bb9425f1d5bae3",
+ "vid": "e4bb9425f1d5bae3",
+ "artist_url": "",
+ "artist": "John Deley and the 41 Players",
+ "fp_ref_id": "e4bb9425f1d5bae3",
+ "display_mood": "Funky",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "R&B & Soul",
+ "license_type": 0,
+ "genre": "R&B & Soul"
+}

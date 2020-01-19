@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "AN1KeukgyPCoy3OnxBvG4GY6pbXlfiTzK0-pcOZtm7OlM-R_SYPVS3zJA77VpEWq",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81cb790358aa232c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChA4MWNiNzkwMzU4YWEyMzJjEAAYAg%3D%3D&sigh=ceAqk6CfAh_CniYua0GDUA",
+ "vid": "81cb790358aa232c",
+ "display_category": "",
+ "title": "Dancing on Green Grass",
+ "album": "None",
+ "mood": "Bright",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "The Green Orbs",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "reference_vid": "81cb790358aa232c",
+ "len": 114.316,
+ "popularity_percentile": 51,
+ "genre": "Children's",
+ "fp_ref_id": "81cb790358aa232c",
+ "track_url": "",
+ "display_genre": "Children's",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Piano"
+ ],
+ "license_type": 0
+}

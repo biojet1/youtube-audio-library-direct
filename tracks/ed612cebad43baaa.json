@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "QKcLiAPmi7jylNcTtjYpu6-gUw0dLinXEvm878WdZQcSouDqEO1SIhHGvMSZDKiK",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ed612cebad43baaa",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChBlZDYxMmNlYmFkNDNiYWFhEAAYAg%3D%3D&sigh=0nwcrGgonvvj8Xp8cEFi6w",
+ "vid": "ed612cebad43baaa",
+ "display_category": "",
+ "title": "Comin Round the Mountain - Modern",
+ "album": "None",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "reference_vid": "ed612cebad43baaa",
+ "len": 173.95,
+ "popularity_percentile": 52,
+ "genre": "Pop",
+ "fp_ref_id": "ed612cebad43baaa",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100817",
+ "display_genre": "Pop",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Acoustic Guitar",
+  "Drums"
+ ],
+ "license_type": 6
+}

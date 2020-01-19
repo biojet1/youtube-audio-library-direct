@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Cinematic",
+ "streamid": "YsJeLyROxkg4_BjovKIGYS2N-cZHIMk2Z4-GwMGkBYKONG2zXQpyzI51Jm_5_nQb",
+ "reference_vid": "22ef5300f5487bf4",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22ef5300f5487bf4",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAyMmVmNTMwMGY1NDg3YmY0EAAYAg%3D%3D&sigh=YlD-LEBIrepzUsPZUrZXzw",
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "display_category": "",
+ "title": "Good Night",
+ "album": "None",
+ "vid": "22ef5300f5487bf4",
+ "downloadable": true,
+ "instruments": [
+  "Strings"
+ ],
+ "favorite": false,
+ "len": 134.916,
+ "fp_ref_id": "22ef5300f5487bf4",
+ "display_genre": "Cinematic"
+}

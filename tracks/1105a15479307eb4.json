@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiWEBIWChAxMTA1YTE1NDc5MzA3ZWI0EAAYAg%3D%3D&sigh=FSt0a-AaOXvxUf4QSbwYUg",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "1105a15479307eb4",
+ "downloadable": true,
+ "reference_vid": "1105a15479307eb4",
+ "favorite": false,
+ "fp_ref_id": "1105a15479307eb4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1105a15479307eb4",
+ "genre": "Holiday",
+ "streamid": "dVTcS3xreN9TdSdMKqr9KY0d0XPW1rUEXUXFnXEIVJVwogNr0iSvieb_hIDVbyvJ",
+ "popularity_percentile": 75,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100368",
+ "mood": "Happy",
+ "len": 265.416,
+ "display_genre": "Holiday",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Deck the Halls B",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano",
+  "Drums"
+ ]
+}

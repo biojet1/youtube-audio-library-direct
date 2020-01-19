@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Mylar Melodies",
+ "artist_channel_url": "/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "downloadable": true,
+ "fp_ref_id": "8f40f73d863760c9",
+ "popularity_percentile": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDmEhIWChA4ZjQwZjczZDg2Mzc2MGM5EAAYAg%3D%3D&sigh=7K79LbfKa9Lus9jFxmRXkQ",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "8f40f73d863760c9",
+ "streamid": "QElsAeWIALCUCnOa_MvulFjYApA0FCrZUfQKfk8IR0HbQ9a-PPU5vEgmly7pGmTE",
+ "mood": "Dramatic",
+ "reference_vid": "8f40f73d863760c9",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8f40f73d863760c9",
+ "title": "Sirdar 3",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "vocal chops",
+  "bass",
+  "drum machine"
+ ],
+ "len": 308,
+ "album": "None",
+ "track_url": ""
+}

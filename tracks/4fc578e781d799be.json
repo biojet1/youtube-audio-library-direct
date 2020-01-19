@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "AL-Xv0KwR5qcgfFp0zzCEfkLwwUPFOWpjPGdfVb00B5URop9lAq2oOGUSMwJ9ZSu",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4fc578e781d799be",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA0ZmM1NzhlNzgxZDc5OWJlEAAYAg%3D%3D&sigh=oKBOveRj8rp4mNil3IqT1Q",
+ "vid": "4fc578e781d799be",
+ "display_category": "",
+ "title": "Right to Be",
+ "album": "None",
+ "mood": "Dark",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Jingle Punks",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "reference_vid": "4fc578e781d799be",
+ "len": 103.55,
+ "genre": "Hip Hop & Rap",
+ "popularity_percentile": 32,
+ "fp_ref_id": "4fc578e781d799be",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "display_mood": "Calm",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "album": "None",
+ "streamid": "tHY295a8CReDuoMnymqb06T6_dfEh_KSR6Dor_WKorjSmIUHLgnnop2aCDLab6ru",
+ "title": "There's Probably No Time",
+ "display_genre": "Classical",
+ "vid": "00034f23ed68f22c",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://chriszabriskie.com/",
+ "reference_vid": "00034f23ed68f22c",
+ "track_url": "http://chriszabriskie.com/uvp/",
+ "is_new_track": false,
+ "mood": "Calm",
+ "license_type": 6,
+ "fp_ref_id": "00034f23ed68f22c",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Chris Zabriskie",
+ "len": 312.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCFExIWChAwMDAzNGYyM2VkNjhmMjJjEAAYAg%3D%3D&sigh=BwUHT65fEJwWIuYL7bHkFQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=00034f23ed68f22c"
+}

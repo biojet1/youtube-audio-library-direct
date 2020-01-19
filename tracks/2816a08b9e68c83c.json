@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "electric guitar",
+  "trumpet"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2816a08b9e68c83c",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Silent Partner",
+ "len": 123.033,
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "U7iR6bE415dNm6eTPsAOL39kP1_wSHPsyklnv-75KjHWtbWYYeMmWl0S5Jq7fdYV",
+ "category": "",
+ "title": "Smoke",
+ "display_mood": "Funky",
+ "favorite": false,
+ "reference_vid": "2816a08b9e68c83c",
+ "genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChAyODE2YTA4YjllNjhjODNjEAAYAg%3D%3D&sigh=w14hpr9byFE5i694HBiLoQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "2816a08b9e68c83c",
+ "license_type": 0,
+ "popularity_percentile": 15,
+ "vid": "2816a08b9e68c83c"
+}

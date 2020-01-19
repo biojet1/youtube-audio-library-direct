@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChAwNGFjYzc2Yzc2MjgyMDBiEAAYAg%3D%3D&sigh=9csgGxe8o5f4r22Ii2Puhg",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "04acc76c7628200b",
+ "reference_vid": "04acc76c7628200b",
+ "popularity_percentile": 3,
+ "artist": "Riot",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04acc76c7628200b",
+ "mood": "Dramatic",
+ "genre": "Dance & Electronic",
+ "streamid": "Bn_zxl1ap0-Ld1uNVWSsn0lPJYldAyuXIBu1l5m4vLH0zogdDN4pzuV3qp2UT5jn",
+ "title": "Talk To Me",
+ "downloadable": true,
+ "category": "",
+ "len": 120.85,
+ "artist_url": "",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "04acc76c7628200b",
+ "album": "None"
+}

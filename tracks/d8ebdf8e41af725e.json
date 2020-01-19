@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "d8ebdf8e41af725e",
+ "display_category": "",
+ "fp_ref_id": "d8ebdf8e41af725e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8ebdf8e41af725e",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Calm",
+ "instruments": [
+  "acoustic guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChBkOGViZGY4ZTQxYWY3MjVlEAAYAg%3D%3D&sigh=wu2VVhfWtvD3nIy0ywZ8IQ",
+ "streamid": "nB13UNt0lfSn2D9bx0eqxYU6vxbnkDD-cshdrVPHiTRP_rZ_vPxok3TpiWsCEctL",
+ "genre": "Country & Folk",
+ "vid": "d8ebdf8e41af725e",
+ "artist": "Dan Henig",
+ "display_genre": "Country & Folk",
+ "title": "Wood",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 97,
+ "display_mood": "Calm",
+ "downloadable": true
+}

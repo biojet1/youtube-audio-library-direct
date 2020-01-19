@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPClAxIWChA3Yzk0ZjIyNmFiMTE3MWI2EAAYAg%3D%3D&sigh=uT32KuCdcPhFGMlH4M_nVQ",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c94f226ab1171b6",
+ "title": "Prelude No. 19",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "display_category": "",
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "is_new_track": false,
+ "reference_vid": "7c94f226ab1171b6",
+ "license_type": 6,
+ "artist": "Chris Zabriskie",
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "fp_ref_id": "7c94f226ab1171b6",
+ "display_genre": "Classical",
+ "len": 54.483,
+ "vid": "7c94f226ab1171b6",
+ "category": "",
+ "artist_url": "http://chriszabriskie.com/",
+ "popularity_percentile": 34,
+ "genre": "Classical",
+ "streamid": "ogT4W5qH7iqeivDDohAZirFqRA5h-fsiDRdH4314HRY0_ri-qlLY9Lm5_8cTc75f",
+ "artist_channel_url": null
+}

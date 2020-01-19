@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Bright",
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA2ZDRiZGJjZmFhNTU4YWYxEAAYAg%3D%3D&sigh=vP-81BjvduYq_SD9vB-bMg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6d4bdbcfaa558af1",
+ "track_url": "",
+ "genre": "Jazz & Blues",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6d4bdbcfaa558af1",
+ "fp_ref_id": "6d4bdbcfaa558af1",
+ "category": "",
+ "title": "Bengo Latino",
+ "reference_vid": "6d4bdbcfaa558af1",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Trumpet",
+  "Piano"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "nAEGPLbmTg0D_hcQ_E0oGkQL9v_OJN7uJRdZvC-3iYLwWye9pMXMjzpGDvXMz0nO",
+ "len": 100.816,
+ "license_type": 0,
+ "is_new_track": false
+}

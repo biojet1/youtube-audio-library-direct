@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth"
+ ],
+ "display_mood": "Calm",
+ "vid": "6ba99c444de99376",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6ba99c444de99376",
+ "is_new_track": false,
+ "license_type": 6,
+ "mood": "Calm",
+ "display_genre": "Ambient",
+ "fp_ref_id": "6ba99c444de99376",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "http://chriszabriskie.com/",
+ "favorite": false,
+ "len": 510.383,
+ "track_url": "http://chriszabriskie.com/stuntisland/",
+ "category": "",
+ "streamid": "mM9O7n1COlP6yKovrX4dS0iPWh4bz4YHgbmqAJSIJingV3qug0-C9aKPuJl-byyG",
+ "title": "Land on the Golden Gate",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLCQHxIWChA2YmE5OWM0NDRkZTk5Mzc2EAAYAg%3D%3D&sigh=bLg50On0lIXK7Awh36eV9g",
+ "popularity_percentile": 50,
+ "reference_vid": "6ba99c444de99376",
+ "artist": "Chris Zabriskie",
+ "genre": "Ambient"
+}

@@ -1,0 +1,32 @@
+{
+ "display_genre": "Cinematic",
+ "license_type": 0,
+ "genre": "Cinematic",
+ "artist_url": "",
+ "vid": "f4aeb400ed16ad8b",
+ "artist": "Jingle Punks",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f4aeb400ed16ad8b",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings",
+  "Trumpet"
+ ],
+ "album": "None",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi6BBIWChBmNGFlYjQwMGVkMTZhZDhiEAAYAg%3D%3D&sigh=0q7nopkvocfsQHRC003tFw",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Dramatic",
+ "title": "Extinction Level Event",
+ "reference_vid": "f4aeb400ed16ad8b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f4aeb400ed16ad8b",
+ "track_url": "",
+ "len": 73.35,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "Zi4IcMmGQ_C2pncEsanCY_BC9LejGEMgkTE3nfFQLnnnxCIzTVnQ21TWTs_TjBiG"
+}

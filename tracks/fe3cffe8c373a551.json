@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "fe3cffe8c373a551",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Quincas Moreira",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC8CxIWChBmZTNjZmZlOGMzNzNhNTUxEAAYAg%3D%3D&sigh=p8M72ALUAJBwtlRAEWrMHg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fe3cffe8c373a551",
+ "len": 188,
+ "mood": "Funky",
+ "title": "Brooklin",
+ "vid": "fe3cffe8c373a551",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "genre": "Hip Hop & Rap",
+ "display_mood": "Funky",
+ "album": "None",
+ "instruments": [
+  "bass",
+  "drums",
+  "horns",
+  "synth"
+ ],
+ "popularity_percentile": 99,
+ "reference_vid": "fe3cffe8c373a551",
+ "streamid": "Gz64WOdZypIJ0iHmVBVeePwJteG9GB0ni34DpgvpfPfqu16ovV90sRdIMNR5J-KK"
+}

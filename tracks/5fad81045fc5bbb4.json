@@ -1,0 +1,30 @@
+{
+ "vid": "5fad81045fc5bbb4",
+ "display_mood": "Happy",
+ "title": "Life of Riley",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPirDhIWChA1ZmFkODEwNDVmYzViYmI0EAAYAg%3D%3D&sigh=ZSW7rG3XM3Qr7Fh2XNuI7A",
+ "display_genre": "Pop",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5fad81045fc5bbb4",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400054",
+ "popularity_percentile": 61,
+ "genre": "Pop",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "favorite": false,
+ "reference_vid": "5fad81045fc5bbb4",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "PWSlVWNyXcUOh-SuAeUBT9GfLzT9AP7NZHlPwUsdMy2sol9yJp2RLJ3BUHiGcoPB",
+ "artist_url": "http://incompetech.com/",
+ "len": 235.383,
+ "fp_ref_id": "5fad81045fc5bbb4",
+ "license_type": 6,
+ "is_new_track": false
+}

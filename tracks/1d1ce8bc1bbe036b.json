@@ -1,0 +1,33 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 190,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChAxZDFjZThiYzFiYmUwMzZiEAAYAg%3D%3D&sigh=bNqqP4xQg6Gr3-TjiI538g",
+ "genre": "Dance & Electronic",
+ "streamid": "3PpKn1xPKjwWT1-Z2EUCGlytvS_tqoWz09dQMdk0EqoEzrmQu2fumR7yBeQja4ph",
+ "downloadable": true,
+ "fp_ref_id": "1d1ce8bc1bbe036b",
+ "vid": "1d1ce8bc1bbe036b",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "instruments": [
+  "synth",
+  "piano",
+  "bass",
+  "acoustic guitar",
+  "drum"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1d1ce8bc1bbe036b",
+ "category": "",
+ "reference_vid": "1d1ce8bc1bbe036b",
+ "title": "Portal Trip",
+ "artist": "Asher Fulero",
+ "track_url": ""
+}

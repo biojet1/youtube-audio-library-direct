@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "99bc95f40c81f9c2",
+ "mood": "Sad",
+ "reference_vid": "99bc95f40c81f9c2",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA5OWJjOTVmNDBjODFmOWMyEAAYAg%3D%3D&sigh=NW6T2T8jNRwU3OePYBSDBg",
+ "len": 146.783,
+ "favorite": false,
+ "display_mood": "Sad",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "99bc95f40c81f9c2",
+ "streamid": "nJbjZklbEn0xCYrjz8NLZHLq7SgbPlTtSmgLrv3fv1UYzwEXlCzQ71h8ldWAQwql",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=99bc95f40c81f9c2",
+ "title": "Long Road Ahead",
+ "display_genre": "Ambient",
+ "artist": "Kevin MacLeod",
+ "genre": "Ambient",
+ "downloadable": true,
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Drums"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100588",
+ "is_new_track": false
+}

@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "e5rCKbzMLkJtUE-3njhYgcgBAWwadaRroMkSinHTayBvoSYcEyNONaAfKzsBWIbp",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA2MTYwNmRhNzhlMzIwYjU4EAAYAg%3D%3D&sigh=uXCd2sbGxRW60oteQnPDRw",
+ "album": "None",
+ "artist": "ALBIS",
+ "mood": "Inspirational",
+ "len": 123.35,
+ "reference_vid": "61606da78e320b58",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "vid": "61606da78e320b58",
+ "title": "Eden",
+ "fp_ref_id": "61606da78e320b58",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=61606da78e320b58",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap"
+}

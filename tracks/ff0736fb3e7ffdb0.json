@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChBmZjA3MzZmYjNlN2ZmZGIwEAAYAg%3D%3D&sigh=9If4mjueh5YHm2jXMAHD4g",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "ff0736fb3e7ffdb0",
+ "reference_vid": "ff0736fb3e7ffdb0",
+ "popularity_percentile": 99,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ff0736fb3e7ffdb0",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "streamid": "undeeD548CIY0hGm0vrGCLEFShf9oIBFl76dJyWjpOvukNXawYmqtkV2voZdnLZl",
+ "title": "Butchers",
+ "downloadable": true,
+ "category": "",
+ "len": 96.116,
+ "artist_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "ff0736fb3e7ffdb0",
+ "album": "None"
+}

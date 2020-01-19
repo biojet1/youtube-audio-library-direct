@@ -1,0 +1,30 @@
+{
+ "title": "Medusa",
+ "favorite": false,
+ "len": 79.283,
+ "popularity_percentile": 85,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjpBBIWChBjNzIwYjlhMTgzMThlMDRkEAAYAg%3D%3D&sigh=qaikIK0CPE0cjw77VbO-yw",
+ "fp_ref_id": "c720b9a18318e04d",
+ "artist_channel_url": null,
+ "display_genre": "Ambient",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100804",
+ "genre": "Ambient",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "reference_vid": "c720b9a18318e04d",
+ "display_category": "",
+ "vid": "c720b9a18318e04d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c720b9a18318e04d",
+ "streamid": "G-cCodMe8f0mEp2CeUWuiEqzqUpDcldmiaGP3A1JqmIDWpda0Mh_hMvDdY27O6Vo",
+ "artist": "Kevin MacLeod"
+}

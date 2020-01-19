@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "mnNb1mb8YcGwBxQ1Llt6SpWYucSkJHbYVk9OEWguLsEvXK1DA98X0qVhhiCeY21g",
+ "len": 140.716,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab0d6b2a59cc84de",
+ "category": "",
+ "is_new_track": false,
+ "vid": "ab0d6b2a59cc84de",
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "ab0d6b2a59cc84de",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBhYjBkNmIyYTU5Y2M4NGRlEAAYAg%3D%3D&sigh=hAt7b2-FqQaSmsFhKieKPg",
+ "display_mood": "Angry",
+ "artist_url": "",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "",
+ "title": "Coincidental Fabric",
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "ab0d6b2a59cc84de",
+ "mood": "Angry",
+ "artist": "Silent Partner",
+ "favorite": false
+}

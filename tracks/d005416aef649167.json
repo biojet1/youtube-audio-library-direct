@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d005416aef649167",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Riot",
+ "len": 107.25,
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "FMzd6lioF9wF2dqhh-LJlUd9O5A3Y_w-p9ctI2DcuC1z59ptXJz3suuls0PLGoEn",
+ "category": "",
+ "title": "Target Practice",
+ "display_mood": "Dark",
+ "favorite": false,
+ "reference_vid": "d005416aef649167",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChBkMDA1NDE2YWVmNjQ5MTY3EAAYAg%3D%3D&sigh=0Iw8bHO-UK19sIEeSXJ_ag",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "d005416aef649167",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "d005416aef649167"
+}

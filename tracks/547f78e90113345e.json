@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Jazz & Blues",
+ "streamid": "fxIUcWZzC2MWyTthvp_CCAiE5u5ZpvW5qrDJsMjtPHecGr2o_fRnO2D3LK5w0eZh",
+ "reference_vid": "547f78e90113345e",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=547f78e90113345e",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "John Deley and the 41 Players",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA1NDdmNzhlOTAxMTMzNDVlEAAYAg%3D%3D&sigh=Epn_s46eC0OwZcQVEtfRrQ",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "display_category": "",
+ "title": "Saint Gary",
+ "album": "None",
+ "vid": "547f78e90113345e",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "favorite": false,
+ "len": 139.216,
+ "fp_ref_id": "547f78e90113345e",
+ "display_genre": "Jazz & Blues"
+}

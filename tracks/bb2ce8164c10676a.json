@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bb2ce8164c10676a",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "pq_Wlo2EOa_5NdpFwCTq-CMgTjxHIATdLZhMAzYU6iiewsezkMFWuGSLJMLIkodK",
+ "genre": "Rock",
+ "vid": "bb2ce8164c10676a",
+ "reference_vid": "bb2ce8164c10676a",
+ "fp_ref_id": "bb2ce8164c10676a",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBiYjJjZTgxNjRjMTA2NzZhEAAYAg%3D%3D&sigh=6ynVkuLr3VaVMTJvcZJFvg",
+ "artist_url": "https://www.youtube.com/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "artist_channel_url": "/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "artist": "JHS Pedals",
+ "title": "Summer",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Rock",
+ "len": 140,
+ "mood": "Bright"
+}

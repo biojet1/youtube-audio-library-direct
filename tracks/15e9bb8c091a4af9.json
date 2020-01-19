@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=15e9bb8c091a4af9",
+ "downloadable": true,
+ "reference_vid": "15e9bb8c091a4af9",
+ "mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "license_type": 1,
+ "len": 99,
+ "instruments": [
+  "synth",
+  "bass",
+  "guitars",
+  "drums"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChAxNWU5YmI4YzA5MWE0YWY5EAAYAg%3D%3D&sigh=992lqTyF9Ew4wRxoUStHoA",
+ "streamid": "te_KX_Lg0UHRfSJ7X_qI740ZB1p3nRi8HGW2dO540L1Sqevm1JLoD5U2FwuujPaQ",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "display_genre": "Dance & Electronic",
+ "vid": "15e9bb8c091a4af9",
+ "artist": "Rondo Brothers",
+ "popularity_percentile": 99,
+ "fp_ref_id": "15e9bb8c091a4af9",
+ "category": "",
+ "title": "Mr. Tea",
+ "album": "None"
+}

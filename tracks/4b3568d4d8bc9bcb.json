@@ -1,0 +1,30 @@
+{
+ "display_genre": "Cinematic",
+ "vid": "4b3568d4d8bc9bcb",
+ "title": "Cool Vibes - Film Noire",
+ "mood": "Calm",
+ "reference_vid": "4b3568d4d8bc9bcb",
+ "popularity_percentile": 46,
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "len": 218.383,
+ "fp_ref_id": "4b3568d4d8bc9bcb",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100863",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Synth"
+ ],
+ "streamid": "SPxOC1KHShCuY7h4TuPLv_N7UXEsnoXBTyDMw824fSqGLfHwS1TnaMInzhLsh-Pp",
+ "display_mood": "Calm",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b3568d4d8bc9bcb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCnDRIWChA0YjM1NjhkNGQ4YmM5YmNiEAAYAg%3D%3D&sigh=7bySGfUwrbfdcSyBsknK6w",
+ "genre": "Cinematic"
+}

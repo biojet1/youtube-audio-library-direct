@@ -1,0 +1,33 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Strings",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBmN2JjYWUyYzE4MmRjZjJjEAAYAg%3D%3D&sigh=LxRAFkbYu7fChYN-Tzv-pw",
+ "title": "Movin",
+ "display_mood": "Funky",
+ "artist": "MK2",
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "vid": "f7bcae2c182dcf2c",
+ "popularity_percentile": 97,
+ "reference_vid": "f7bcae2c182dcf2c",
+ "favorite": false,
+ "mood": "Funky",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "fp_ref_id": "f7bcae2c182dcf2c",
+ "streamid": "tQp90VTcarUHTiAMGK2draanwY55mK6v0CSbgR7TXMN8DvUqpQxLEljFg0wd8_2p",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f7bcae2c182dcf2c",
+ "license_type": 1,
+ "artist_url": "",
+ "album": "None",
+ "len": 94.483
+}

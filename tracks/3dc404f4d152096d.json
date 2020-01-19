@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChAzZGM0MDRmNGQxNTIwOTZkEAAYAg%3D%3D&sigh=GiHQHRilXj5CNYEWfI0o_Q",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Dark",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "3dc404f4d152096d",
+ "reference_vid": "3dc404f4d152096d",
+ "genre": "Ambient",
+ "popularity_percentile": 24,
+ "display_genre": "Ambient",
+ "favorite": false,
+ "track_url": "",
+ "title": "Don't Look",
+ "downloadable": true,
+ "category": "",
+ "streamid": "Q9ofPoYXrA25Wbs_Uc0fa9Ht-rz6pzcZ4gUerGVtpjh16BCDF5fQXWD5K5VkM3FM",
+ "fp_ref_id": "3dc404f4d152096d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3dc404f4d152096d",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Dark",
+ "len": 213.65
+}

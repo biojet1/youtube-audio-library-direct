@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "fp_ref_id": "11085b3ec92d0f04",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "title": "Second Nature",
+ "vid": "11085b3ec92d0f04",
+ "mood": "Calm",
+ "display_genre": "Ambient",
+ "len": 156.516,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChAxMTA4NWIzZWM5MmQwZjA0EAAYAg%3D%3D&sigh=1sfFjtfCdJMk_6Ou8Rb4zQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=11085b3ec92d0f04",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "kaCEyzaoubJZYOIS83sL2Y0glKZ_twgyDaZpwF-KJqZR1QTndzbRfTcbE5HZjd9L",
+ "reference_vid": "11085b3ec92d0f04",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Ambient",
+ "artist_url": "http://audionautix.com/"
+}

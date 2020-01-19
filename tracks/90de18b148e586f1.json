@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist": "Silent Partner",
+ "is_new_track": false,
+ "fp_ref_id": "90de18b148e586f1",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "title": "Pushing the Stone",
+ "vid": "90de18b148e586f1",
+ "mood": "Funky",
+ "display_genre": "Rock",
+ "len": 115.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChA5MGRlMThiMTQ4ZTU4NmYxEAAYAg%3D%3D&sigh=OpAeN2Fn4jLq8JJYVQS9-g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=90de18b148e586f1",
+ "display_category": "",
+ "category": "",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "IS1PIYvPL06oecbDMweHV3hFVdgyYNMGtTqMRaYDV1Dg8Qr24jFvQjgO2_sHM4hr",
+ "reference_vid": "90de18b148e586f1",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Rock",
+ "artist_url": ""
+}

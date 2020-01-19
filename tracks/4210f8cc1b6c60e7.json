@@ -1,0 +1,32 @@
+{
+ "genre": "Country & Folk",
+ "display_genre": "Country & Folk",
+ "len": 146.716,
+ "display_category": "",
+ "reference_vid": "4210f8cc1b6c60e7",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "4210f8cc1b6c60e7",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "dtDz6O-tsPa4WBgdIJheQaA1mEqkEdtX3NMAZ8AiQ8j8uX-7Xnw1aaeMhjJvMhZE",
+ "display_mood": "Calm",
+ "vid": "4210f8cc1b6c60e7",
+ "track_url": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA0MjEwZjhjYzFiNmM2MGU3EAAYAg%3D%3D&sigh=NvvTmQ85bWo6cnwRsdrT5Q",
+ "category": "",
+ "title": "Soul Search",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4210f8cc1b6c60e7"
+}

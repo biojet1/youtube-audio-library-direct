@@ -1,0 +1,31 @@
+{
+ "mood": "Romantic",
+ "title": "Family Tradition",
+ "album": "None",
+ "artist": "Silent Partner",
+ "popularity_percentile": 5,
+ "category": "",
+ "display_genre": "Country & Folk",
+ "is_new_track": false,
+ "display_mood": "Romantic",
+ "display_category": "",
+ "vid": "0a404c27cb9fcfb3",
+ "streamid": "CtESHqYkG4X1RwEGJuEvs5sIJzsgAIGFVXApYDBa6oTgRxjGeqN1r2VKzBayBIER",
+ "genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChAwYTQwNGMyN2NiOWZjZmIzEAAYAg%3D%3D&sigh=r5S93L_BAu-nRKpvb40SZg",
+ "fp_ref_id": "0a404c27cb9fcfb3",
+ "len": 91.533,
+ "favorite": false,
+ "instruments": [
+  "organ",
+  "electric guitar",
+  "bass"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0a404c27cb9fcfb3",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a404c27cb9fcfb3",
+ "downloadable": true
+}

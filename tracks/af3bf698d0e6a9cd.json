@@ -1,0 +1,31 @@
+{
+ "genre": "Rock",
+ "display_category": "",
+ "len": 133.95,
+ "track_url": "",
+ "fp_ref_id": "af3bf698d0e6a9cd",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "rs-0u15AkErrfjVcvUgFddMokjx_yirVUxM7xTXYLeuXOPH1CIxEFzWRyQXIIwr5",
+ "title": "Sun Spots",
+ "artist": "Silent Partner",
+ "is_new_track": false,
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=af3bf698d0e6a9cd",
+ "display_mood": "Angry",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 69,
+ "category": "",
+ "reference_vid": "af3bf698d0e6a9cd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBhZjNiZjY5OGQwZTZhOWNkEAAYAg%3D%3D&sigh=Gd8QQmljepA-xfuqd4_Xcw",
+ "vid": "af3bf698d0e6a9cd",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "mood": "Angry",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ]
+}

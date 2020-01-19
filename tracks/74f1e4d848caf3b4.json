@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChA3NGYxZTRkODQ4Y2FmM2I0EAAYAg%3D%3D&sigh=5lM7j2n8NvTKdvMbg5cogg",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "74f1e4d848caf3b4",
+ "downloadable": true,
+ "reference_vid": "74f1e4d848caf3b4",
+ "favorite": false,
+ "fp_ref_id": "74f1e4d848caf3b4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=74f1e4d848caf3b4",
+ "genre": "Ambient",
+ "streamid": "sdNzdNSl3QU6fJO6I6OONUAQA2MXGXpaLyMTFMV3MNYi0GpQ-0iQKOHlt7xuorX5",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 136,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Bardo",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth"
+ ]
+}

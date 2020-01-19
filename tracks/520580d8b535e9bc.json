@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChA1MjA1ODBkOGI1MzVlOWJjEAAYAg%3D%3D&sigh=le5IEtbTDGbEfuFf7IKQIg",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=520580d8b535e9bc",
+ "title": "Back In Town",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "display_category": "",
+ "track_url": "",
+ "is_new_track": false,
+ "reference_vid": "520580d8b535e9bc",
+ "license_type": 0,
+ "artist": "Silent Partner",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "favorite": false,
+ "fp_ref_id": "520580d8b535e9bc",
+ "display_genre": "Hip Hop & Rap",
+ "len": 111.283,
+ "vid": "520580d8b535e9bc",
+ "category": "",
+ "artist_url": "",
+ "popularity_percentile": 33,
+ "genre": "Hip Hop & Rap",
+ "streamid": "EbEXZsHqC28px7UbO5hlmOSDYoH1pFmIUqrMayZyh0nukopB2e62O52OInHkCJaU",
+ "artist_channel_url": null
+}

@@ -1,0 +1,29 @@
+{
+ "artist": "Jesse Gallagher",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c61487ed97821462",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChBjNjE0ODdlZDk3ODIxNDYyEAAYAg%3D%3D&sigh=zizrGDpEKesOfPEBCwTFuw",
+ "genre": "Ambient",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "album": "None",
+ "track_url": "",
+ "len": 176,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCD5hjK3sDzk2W-jw9roHuVw",
+ "vid": "c61487ed97821462",
+ "streamid": "lTI-F6PTTnaqzCX1egO3Ho20l-dwaWmpMzxesSZaecN9NppFt4O4Ol5pPrvTX2vA",
+ "title": "Obelisks",
+ "artist_url": "https://www.youtube.com/channel/UCD5hjK3sDzk2W-jw9roHuVw",
+ "mood": "Calm",
+ "downloadable": true,
+ "display_genre": "Ambient",
+ "popularity_percentile": 99,
+ "reference_vid": "c61487ed97821462",
+ "instruments": [
+  "synth"
+ ],
+ "fp_ref_id": "c61487ed97821462",
+ "license_type": 1
+}

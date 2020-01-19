@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "ae401186f8d5d78c",
+ "category": "",
+ "title": "A Little Faith - Bitter Suite",
+ "display_genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "genre": "Classical",
+ "display_mood": "Sad",
+ "streamid": "0fJE2BDTXMuLnkPuA6MdJ3fDs_S01V8ATL1XtZ70kk4suunBdp8ZDFFznkoBk8jO",
+ "album": "None",
+ "len": 87.983,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ae401186f8d5d78c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNinBRIWChBhZTQwMTE4NmY4ZDVkNzhjEAAYAg%3D%3D&sigh=JYOZH1kfSm2OSRMrCzacnA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "ae401186f8d5d78c",
+ "is_new_track": false,
+ "mood": "Sad",
+ "fp_ref_id": "ae401186f8d5d78c",
+ "license_type": 6,
+ "track_url": "http://www.amazon.com/Bitter-Suite-Kevin-MacLeod/dp/B00QGC7TI2"
+}

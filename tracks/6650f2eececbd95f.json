@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "artist": "Twin Musicom",
+ "is_new_track": false,
+ "fp_ref_id": "6650f2eececbd95f",
+ "artist_channel_url": null,
+ "len": 74.516,
+ "downloadable": true,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDCBBIWChA2NjUwZjJlZWNlY2JkOTVmEAAYAg%3D%3D&sigh=VdVm1IzsyUtcY5bsqXZA4w",
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "vid": "6650f2eececbd95f",
+ "display_category": "",
+ "reference_vid": "6650f2eececbd95f",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6650f2eececbd95f",
+ "album": "None",
+ "track_url": "",
+ "streamid": "o4OBJa6Zgr8i-wGmFKj6NDoMHS4Q5wR4vtugOOcwK_YupqchV0X10cVS-Dse0NUU",
+ "mood": "Calm",
+ "artist_url": "http://www.twinmusicom.org/",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Synth"
+ ],
+ "title": "Gimme Five",
+ "popularity_percentile": 44,
+ "category": ""
+}

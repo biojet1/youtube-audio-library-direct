@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "vid": "3bf6d71bb095636f",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "3bf6d71bb095636f",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100247",
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj9DRIWChAzYmY2ZDcxYmIwOTU2MzZmEAAYAg%3D%3D&sigh=06VqdmmagdgDa0Ib3B929A",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Piano",
+  "Bass"
+ ],
+ "title": "Earth Prelude",
+ "downloadable": true,
+ "streamid": "IMvJtNJZbwsuWnYUC_ttuWXndu_6cOaAKtN5kTsKTjJ6KtMosuXTs6BhIFBYFsk5",
+ "genre": "Classical",
+ "len": 229.183,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3bf6d71bb095636f",
+ "popularity_percentile": 38,
+ "reference_vid": "3bf6d71bb095636f",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Calm"
+}

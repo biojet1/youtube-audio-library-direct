@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "The 126ers",
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "downloadable": true,
+ "fp_ref_id": "e4ead9baddbfbd00",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChBlNGVhZDliYWRkYmZiZDAwEAAYAg%3D%3D&sigh=T-4hDzRLk2Er4DtJlsM1Og",
+ "favorite": false,
+ "genre": "Pop",
+ "category": "",
+ "vid": "e4ead9baddbfbd00",
+ "streamid": "FQv_Rc8qHgAFzidV_CXfHGN02Nfk_ueXr61u7dUHlD4k3D5mW7QL3OQi4zLr6yXQ",
+ "mood": "Happy",
+ "reference_vid": "e4ead9baddbfbd00",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4ead9baddbfbd00",
+ "title": "Honey and Milk",
+ "display_mood": "Happy",
+ "artist_url": "",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "display_category": "",
+ "instruments": [
+  "Keyboards",
+  "Bass",
+  "Guitar",
+  "Drums"
+ ],
+ "len": 179,
+ "album": "None",
+ "track_url": ""
+}

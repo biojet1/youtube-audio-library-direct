@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "PR6qUpfiwGeqnpkadbZc6D6EUKirLplAPJkRCkWUsrz3pmExj7GCqiPeqIBCPzal",
+ "len": 131.716,
+ "category": "",
+ "license_type": 6,
+ "title": "Feel Good Rock",
+ "genre": "Rock",
+ "display_category": "",
+ "vid": "4449821f1f736f7e",
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "favorite": false,
+ "display_genre": "Rock",
+ "display_mood": "Happy",
+ "fp_ref_id": "4449821f1f736f7e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4449821f1f736f7e",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Electric Guitar"
+ ],
+ "reference_vid": "4449821f1f736f7e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChA0NDQ5ODIxZjFmNzM2ZjdlEAAYAg%3D%3D&sigh=5Nl9aqUtUFdn2-AYy8Uvjg",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 56
+}

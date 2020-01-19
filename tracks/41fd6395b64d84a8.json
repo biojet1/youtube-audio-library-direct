@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Cinematic",
+ "category": "",
+ "fp_ref_id": "41fd6395b64d84a8",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "News Theme",
+ "vid": "41fd6395b64d84a8",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDLARIWChA0MWZkNjM5NWI2NGQ4NGE4EAAYAg%3D%3D&sigh=gpbRaMvPEJdyc3YGT5n8LQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41fd6395b64d84a8",
+ "display_category": "",
+ "len": 26.05,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "3XGyYHeMkHdCEnU0HU49tioZhcuD-cVHtZkZQOtdNJ00HhoP0jh9CD9vzG419hBk",
+ "reference_vid": "41fd6395b64d84a8",
+ "instruments": [
+  "Trumpet",
+  "Drums",
+  "Bass"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Cinematic"
+}

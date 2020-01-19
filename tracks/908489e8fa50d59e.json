@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Angry",
+ "reference_vid": "908489e8fa50d59e",
+ "streamid": "EVFaLLvszBCiSw1HWIAuCzK3o5ChDlxilHTaIUZLEmJOx0LgyNj7REIYdAu4HDfq",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA5MDg0ODllOGZhNTBkNTllEAAYAg%3D%3D&sigh=ualXDym3Rbvn3NWP29STXQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=908489e8fa50d59e",
+ "len": 151.533,
+ "genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "display_category": "",
+ "fp_ref_id": "908489e8fa50d59e",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Iron Curtain",
+ "mood": "Angry",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Rock",
+ "track_url": "",
+ "vid": "908489e8fa50d59e"
+}

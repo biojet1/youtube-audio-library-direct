@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "d2700cc27cdd1c8e",
+ "display_category": "",
+ "fp_ref_id": "d2700cc27cdd1c8e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2700cc27cdd1c8e",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChBkMjcwMGNjMjdjZGQxYzhlEAAYAg%3D%3D&sigh=Apb3v2qAfK7TtIURnPKmjQ",
+ "streamid": "irR6RcMl1Jo8FzCKR_UuFWrrVZPRUU81PILJ4AgxDIf9c5gMa85MUrZ2_J3mNjjP",
+ "genre": "Dance & Electronic",
+ "vid": "d2700cc27cdd1c8e",
+ "artist": "White Hex",
+ "display_genre": "Dance & Electronic",
+ "title": "Relapse",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 180,
+ "display_mood": "Dark",
+ "downloadable": true
+}

@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=369c56faf0e1d162",
+ "len": 95.183,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChAzNjljNTZmYWYwZTFkMTYyEAAYAg%3D%3D&sigh=ZEZMneIcSW8htYTWklQshA",
+ "fp_ref_id": "369c56faf0e1d162",
+ "vid": "369c56faf0e1d162",
+ "title": "For the Fallen",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100704",
+ "reference_vid": "369c56faf0e1d162",
+ "license_type": 6,
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "streamid": "rGHbLEcbjO37ImQWoSeoFr3S5ZiWNDR7gtT1JMeZtZx9Xfyg9S1y6aAcbcvp__Y3",
+ "category": ""
+}

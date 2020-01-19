@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "7T35F4gd5N97VZFotTJqpALE0L3u3QpoySxRtlARJcZH-xnJEZeditHaXKW8v_Ct",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=536c4afcfaea47ee",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPhVEhYKEDUzNmM0YWZjZmFlYTQ3ZWUQABgC&sigh=RYI4kmfepiwFfpB_oOccyg",
+ "vid": "536c4afcfaea47ee",
+ "display_category": "",
+ "title": "Church Bell Celebration (Sting)",
+ "album": "None",
+ "mood": "Dramatic",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Doug Maxwell/Media Right Productions",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "536c4afcfaea47ee",
+ "len": 11.316,
+ "genre": "Classical",
+ "popularity_percentile": 33,
+ "fp_ref_id": "536c4afcfaea47ee",
+ "track_url": "",
+ "display_genre": "Classical",
+ "license_type": 0,
+ "instruments": [
+  "Organ"
+ ]
+}

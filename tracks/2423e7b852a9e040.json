@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAyNDIzZTdiODUyYTllMDQwEAAYAg%3D%3D&sigh=mTtJDGD2ASyOB7_4Qc2JTQ",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "2423e7b852a9e040",
+ "downloadable": true,
+ "reference_vid": "2423e7b852a9e040",
+ "favorite": false,
+ "fp_ref_id": "2423e7b852a9e040",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2423e7b852a9e040",
+ "genre": "Hip Hop & Rap",
+ "streamid": "1-6E6F73Ez-c68ipX8YxWWMBuBgPxYRIRzS9JfFZt9waFEyRuaJookQcvincyw-i",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Happy",
+ "len": 134,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Good Old Days",
+ "artist": "Dyalla",
+ "category": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion",
+  "vocal chops"
+ ]
+}

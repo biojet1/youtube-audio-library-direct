@@ -1,0 +1,33 @@
+{
+ "mood": "Inspirational",
+ "reference_vid": "a9fcfef5df9cbf4a",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChBhOWZjZmVmNWRmOWNiZjRhEAAYAg%3D%3D&sigh=1JC-553h5YCjg_ofQvek_Q",
+ "display_mood": "Inspirational",
+ "title": "Family Montage",
+ "artist": "Biz Baz Studio",
+ "is_new_track": false,
+ "len": 125,
+ "genre": "Rock",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "a9fcfef5df9cbf4a",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a9fcfef5df9cbf4a",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "license_type": 1,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "acoustic guitar",
+  "strings"
+ ],
+ "fp_ref_id": "a9fcfef5df9cbf4a",
+ "streamid": "yWwy1V82uXG4Sx1N-nK8JY0CwDVmT4OROKlAaMP50TnU9lESAzosEvD7g6AlBXtt"
+}

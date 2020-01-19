@@ -1,0 +1,31 @@
+{
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "len": 183,
+ "mood": "Inspirational",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChA3Y2NkOWUyMzU4MTRmOWY5EAAYAg%3D%3D&sigh=ogSMBxXYNMxcGvBQlsHj6A",
+ "genre": "Cinematic",
+ "streamid": "dU8tihCjf1Xbz00KuApGsl5M8cJYwCAbWEOzxM6-4vsWtZFxKghl1iOPir54pGFo",
+ "downloadable": true,
+ "fp_ref_id": "7ccd9e235814f9f9",
+ "vid": "7ccd9e235814f9f9",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "instruments": [
+  "Synth",
+  "Strings",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7ccd9e235814f9f9",
+ "category": "",
+ "reference_vid": "7ccd9e235814f9f9",
+ "title": "Magical Gravity",
+ "artist": "Asher Fulero",
+ "track_url": ""
+}

@@ -1,0 +1,32 @@
+{
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 157.45,
+ "fp_ref_id": "7c184cbecdfa648a",
+ "artist_url": "",
+ "streamid": "3W5LZJTOBwuyzq_--7Jf0oyJ8t46RxOgCPoSQs1M7YgZOmBKmC00zBnTOGJep73k",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Reggae",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "track_url": "",
+ "popularity_percentile": 49,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Dark",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c184cbecdfa648a",
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "display_genre": "Reggae",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjKCRIWChA3YzE4NGNiZWNkZmE2NDhhEAAYAg%3D%3D&sigh=vecKS81byaz2u3Xor2cBGg",
+ "title": "Coast",
+ "reference_vid": "7c184cbecdfa648a",
+ "vid": "7c184cbecdfa648a"
+}

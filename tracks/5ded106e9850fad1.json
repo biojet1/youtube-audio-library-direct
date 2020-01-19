@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "vid": "5ded106e9850fad1",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 0,
+ "display_category": "",
+ "fp_ref_id": "5ded106e9850fad1",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChA1ZGVkMTA2ZTk4NTBmYWQxEAAYAg%3D%3D&sigh=Jo4HWR06qxN6Oi4cRVwjNA",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Piano"
+ ],
+ "title": "Club Thump",
+ "downloadable": true,
+ "streamid": "4Uq80iTIsGtSU3x8ZXaP3KH7Ql2peehd3Dy_tKx3cClC_in4wgjZqa0Xttz6KzSX",
+ "genre": "Dance & Electronic",
+ "len": 175.516,
+ "artist": "Gunnar Olsen",
+ "display_mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ded106e9850fad1",
+ "popularity_percentile": 37,
+ "reference_vid": "5ded106e9850fad1",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Inspirational"
+}

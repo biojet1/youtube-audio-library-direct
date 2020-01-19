@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100189",
+ "downloadable": true,
+ "streamid": "mMva8_tYdKmN3k6QbjnGeNnD58oQLyLeXAreW0O__FosglSoMaoBvsVMIchmAl3b",
+ "len": 193.25,
+ "category": "",
+ "license_type": 6,
+ "title": "Jesu, Joy of Man's Desiring",
+ "genre": "Holiday",
+ "display_category": "",
+ "vid": "271844b9737147de",
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "display_genre": "Holiday",
+ "display_mood": "Happy",
+ "fp_ref_id": "271844b9737147de",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=271844b9737147de",
+ "instruments": [
+  "Piano",
+  "Organ",
+  "Strings"
+ ],
+ "reference_vid": "271844b9737147de",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChAyNzE4NDRiOTczNzE0N2RlEAAYAg%3D%3D&sigh=uzKYD17_Ly9IbAwEavusyQ",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 56
+}

@@ -1,0 +1,33 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "wrXhrGrqQNDqZhM0oH2qcqA6k1AtE1qZAeweIyKicTgCqGGkkY6VGGwzOyFWpQ-l",
+ "len": 122.583,
+ "category": "",
+ "license_type": 0,
+ "title": "Glass Hero",
+ "genre": "Pop",
+ "display_category": "",
+ "vid": "8fcee42afb896455",
+ "album": "None",
+ "mood": "Inspirational",
+ "artist": "Bird Creek",
+ "favorite": false,
+ "display_genre": "Pop",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "8fcee42afb896455",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8fcee42afb896455",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Piano",
+  "Electric Guitar"
+ ],
+ "reference_vid": "8fcee42afb896455",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChA4ZmNlZTQyYWZiODk2NDU1EAAYAg%3D%3D&sigh=YnI9tRaZHvvh98Z0AwWWFA",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

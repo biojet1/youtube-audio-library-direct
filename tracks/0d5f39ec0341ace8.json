@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "title": "Left U Into",
+ "album": "None",
+ "artist": "Otis McDonald",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Hip Hop & Rap",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "display_category": "",
+ "vid": "0d5f39ec0341ace8",
+ "streamid": "m2DMQzscJiYk6ifEor9zStm4ubboyfssACJ5Im0yPTJDKraIrBIwpgNbCo5BQ4I5",
+ "genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChAwZDVmMzllYzAzNDFhY2U4EAAYAg%3D%3D&sigh=0mLRvWMOEJ-vf-xh37gfEw",
+ "fp_ref_id": "0d5f39ec0341ace8",
+ "len": 106.516,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0d5f39ec0341ace8",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d5f39ec0341ace8",
+ "downloadable": true
+}

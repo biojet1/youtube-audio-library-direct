@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": "/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "fp_ref_id": "4faef4fa2ffd4632",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCKDBIWChA0ZmFlZjRmYTJmZmQ0NjMyEAAYAg%3D%3D&sigh=mr2zbgWYSa43XgblolgoFA",
+ "streamid": "QMNRjaK9HCOWwpwnxLR-gmSCNhjluj99lFTIeREZRDvOr1e1EHXcnnB4UAO3sVHy",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 198,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4faef4fa2ffd4632",
+ "favorite": false,
+ "title": "Let It Happen",
+ "artist": "South London HiFi",
+ "genre": "Dance & Electronic",
+ "vid": "4faef4fa2ffd4632",
+ "display_category": "",
+ "reference_vid": "4faef4fa2ffd4632",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "is_new_track": false
+}

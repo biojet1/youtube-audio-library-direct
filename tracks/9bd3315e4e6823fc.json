@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9bd3315e4e6823fc",
+ "category": "",
+ "license_type": 0,
+ "title": "Spider Juice",
+ "display_genre": "Alternative & Punk",
+ "genre": "Alternative & Punk",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Trumpet"
+ ],
+ "display_mood": "Funky",
+ "album": "None",
+ "streamid": "PHR0MWxKP6FwQQpj6WzxtCk46ZMGesI1_65r7c8u6m3yKuqNNmLYuqBR-kElssHb",
+ "len": 110.283,
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9bd3315e4e6823fc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA5YmQzMzE1ZTRlNjgyM2ZjEAAYAg%3D%3D&sigh=D5b9ArWWTbrSbJj-dnbnqw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9bd3315e4e6823fc",
+ "is_new_track": false,
+ "mood": "Funky",
+ "fp_ref_id": "9bd3315e4e6823fc",
+ "track_url": ""
+}

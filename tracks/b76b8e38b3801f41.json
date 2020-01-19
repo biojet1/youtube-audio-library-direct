@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "b76b8e38b3801f41",
+ "mood": "Bright",
+ "reference_vid": "b76b8e38b3801f41",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChBiNzZiOGUzOGIzODAxZjQxEAAYAg%3D%3D&sigh=shwPKgDEMcV_d1GVK0ELbQ",
+ "len": 99.35,
+ "favorite": false,
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b76b8e38b3801f41",
+ "streamid": "AJkLLXd1So2CzLXB85Vw_kYg7ga8X6-qeaxK4P-uXoMYlsu0eunoLHrxaEvkVrdW",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b76b8e38b3801f41",
+ "title": "River Crossing",
+ "display_genre": "Country & Folk",
+ "artist": "ALBIS",
+ "genre": "Country & Folk",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

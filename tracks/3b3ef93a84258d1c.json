@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChAzYjNlZjkzYTg0MjU4ZDFjEAAYAg%3D%3D&sigh=ggSXtc5vaREwzUOMp5WaGg",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "3b3ef93a84258d1c",
+ "downloadable": true,
+ "reference_vid": "3b3ef93a84258d1c",
+ "favorite": false,
+ "fp_ref_id": "3b3ef93a84258d1c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b3ef93a84258d1c",
+ "genre": "Cinematic",
+ "streamid": "jDxdBl-z5NPI2RyCx5nyfT8L7udfNYufQ4ZEP0VO3w2xwLZfxECfd8enoTvNLU9X",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 171.416,
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Dark City",
+ "artist": "Audionautix",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Strings"
+ ]
+}

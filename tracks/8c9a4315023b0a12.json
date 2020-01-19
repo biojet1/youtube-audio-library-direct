@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Happy",
+ "genre": "Jazz & Blues",
+ "streamid": "tuK2h2mtkHmwljz1ntte3gU57KOEZYLyT7xxgIs23qRTh8BLoMaFl4GAztW-IFpw",
+ "fp_ref_id": "8c9a4315023b0a12",
+ "artist": "E's Jammy Jams",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChA4YzlhNDMxNTAyM2IwYTEyEAAYAg%3D%3D&sigh=O7L0q_MmOFiQLLKmTEGMvQ",
+ "mood": "Happy",
+ "vid": "8c9a4315023b0a12",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8c9a4315023b0a12",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "album": "None",
+ "reference_vid": "8c9a4315023b0a12",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 152.183,
+ "category": "",
+ "title": "Arabian Sand"
+}

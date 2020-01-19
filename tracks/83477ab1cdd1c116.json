@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 140,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChA4MzQ3N2FiMWNkZDFjMTE2EAAYAg%3D%3D&sigh=bMquIskLD3Tta-LSXs6EMA",
+ "genre": "Pop",
+ "streamid": "tbrm6jOwRAC84v-hwF28NQo0XW_1mDCqo_2FmIWMf8m1q6lXdmXMxAWPSpFbd6ZD",
+ "downloadable": true,
+ "fp_ref_id": "83477ab1cdd1c116",
+ "vid": "83477ab1cdd1c116",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Pop",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "instruments": [
+  "Guitar",
+  "Drums",
+  "Bass",
+  "Keyboards"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=83477ab1cdd1c116",
+ "category": "",
+ "reference_vid": "83477ab1cdd1c116",
+ "title": "Black Moons",
+ "artist": "The 126ers",
+ "track_url": ""
+}

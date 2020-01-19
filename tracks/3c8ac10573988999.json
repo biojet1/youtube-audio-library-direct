@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAzYzhhYzEwNTczOTg4OTk5EAAYAg%3D%3D&sigh=YMeAghvOoxzxcxKrcaSENQ",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "3c8ac10573988999",
+ "downloadable": true,
+ "reference_vid": "3c8ac10573988999",
+ "favorite": false,
+ "fp_ref_id": "3c8ac10573988999",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3c8ac10573988999",
+ "genre": "Hip Hop & Rap",
+ "streamid": "HYLStcU0gTUuq-HCUVc2Xm0Cp70Nc9I2L-juAcajGN6XglyvyV3YIzWUr-TFD2Zx",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Happy",
+ "len": 112,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Homer Said",
+ "artist": "Dyalla",
+ "category": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion",
+  "vocal chops"
+ ]
+}

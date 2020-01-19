@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ebc75955fe4868da",
+ "fp_ref_id": "ebc75955fe4868da",
+ "len": 119.266,
+ "artist": "Text Me Records / Grandbankss",
+ "mood": "Calm",
+ "reference_vid": "ebc75955fe4868da",
+ "vid": "ebc75955fe4868da",
+ "title": "Soul",
+ "downloadable": true,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Drums",
+  "Guitar",
+  "Synth"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCvWuOz2bCBzZbrn2CTCyFHg",
+ "streamid": "UKpFBoi53wTFkuxdCAIzY9R1OgXuEu43YBS-WqAERjfMmmHWZSLJPTkatc_ErQuU",
+ "display_genre": "R&B & Soul",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBlYmM3NTk1NWZlNDg2OGRhEAAYAg%3D%3D&sigh=1G7_qDhw5Z6dDhA5Sn7k3A"
+}

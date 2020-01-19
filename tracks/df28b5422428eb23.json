@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "artist": "Ethan Meixsell",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "len": 151.383,
+ "reference_vid": "df28b5422428eb23",
+ "fp_ref_id": "df28b5422428eb23",
+ "display_genre": "Rock",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "df28b5422428eb23",
+ "category": "",
+ "title": "Demise",
+ "genre": "Rock",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=df28b5422428eb23",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChBkZjI4YjU0MjI0MjhlYjIzEAAYAg%3D%3D&sigh=TAlSSKbFPbYeLeB7FXn66Q",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "0598HkRsg5eWUZJbjdK5Tj5cNj0UFF5szsf7Dh-_c1Tx8VSNbLb4i7ZNlETzlRE6"
+}

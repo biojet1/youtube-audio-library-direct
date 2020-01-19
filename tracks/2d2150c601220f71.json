@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Happy",
+ "title": "Bushwick Tarentella Loop",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2d2150c601220f71",
+ "reference_vid": "2d2150c601220f71",
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300003",
+ "album": "None",
+ "len": 80.45,
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "display_genre": "Pop",
+ "streamid": "huyAhTdiUPoqO2afEUdbx7QBXGA7c3itENSkQ-hUhKx24N3WDL92DEAYXG33YZV6",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "2d2150c601220f71",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "2d2150c601220f71",
+ "category": "",
+ "genre": "Pop",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDxBBIWChAyZDIxNTBjNjAxMjIwZjcxEAAYAg%3D%3D&sigh=oiDjvVaqcPKEclnKLb1pFA"
+}

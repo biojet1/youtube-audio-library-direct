@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b1d5d8c3147294e9",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "category": "",
+ "title": "Germ Warfare",
+ "track_url": "",
+ "vid": "b1d5d8c3147294e9",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "len": 199,
+ "instruments": [
+  "bass",
+  "synth",
+  "drums",
+  "electric guitar"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "HyE1__dRTmd_1yM0q8CYZ7AhOsB-c2QFRBM-BwQ5W_RQ0xdoA5Tv77I_TmzJ1oKp",
+ "display_genre": "Rock",
+ "artist": "Jeremy Korpas",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "reference_vid": "b1d5d8c3147294e9",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChBiMWQ1ZDhjMzE0NzI5NGU5EAAYAg%3D%3D&sigh=IiXn5zNbYz8W2p4h1DlDYw",
+ "fp_ref_id": "b1d5d8c3147294e9",
+ "genre": "Rock",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "license_type": 1
+}

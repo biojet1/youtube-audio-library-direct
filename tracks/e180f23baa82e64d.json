@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Bright",
+ "artist_url": "",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "e180f23baa82e64d",
+ "display_category": "",
+ "fp_ref_id": "e180f23baa82e64d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e180f23baa82e64d",
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "title": "Goddess of War",
+ "favorite": false,
+ "license_type": 1,
+ "len": 97,
+ "display_mood": "Bright",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChBlMTgwZjIzYmFhODJlNjRkEAAYAg%3D%3D&sigh=qYQugI8E0-VoLXrd2U0beA",
+ "streamid": "YXRPuwhy04Nyh_mWpQlQs3BYY2AX88Xnz2jZJj4Rbj5IRF039tEto0WmrrjqL26a",
+ "genre": "Cinematic",
+ "vid": "e180f23baa82e64d",
+ "artist": "Unicorn Heads"
+}

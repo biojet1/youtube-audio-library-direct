@@ -1,0 +1,30 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "len": 104,
+ "mood": "Happy",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChAxN2RkY2Y5YWE1MmE2ZmI2EAAYAg%3D%3D&sigh=BqCCbwtEF0Nh8cKYZ-C8Dw",
+ "genre": "Cinematic",
+ "streamid": "OovPXmrTnjT7pM3sYM793LHUtnD1fRgKhqz-cJ_qs7dF772OmxwtyJpkSW6n1Aag",
+ "downloadable": true,
+ "fp_ref_id": "17ddcf9aa52a6fb6",
+ "vid": "17ddcf9aa52a6fb6",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "instruments": [
+  "acoustic guitar",
+  "piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=17ddcf9aa52a6fb6",
+ "category": "",
+ "reference_vid": "17ddcf9aa52a6fb6",
+ "title": "Mr. Sunny Face",
+ "artist": "Wayne Jones",
+ "track_url": ""
+}

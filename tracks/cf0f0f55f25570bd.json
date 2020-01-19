@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cf0f0f55f25570bd",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Riot",
+ "len": 126.516,
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "l7fyfDoldFenHXbz1syEDQwdKS1UVS2sajEiUnHEBHNHtDIXYrtMCPirFcE5j--w",
+ "category": "",
+ "title": "Blizzards",
+ "display_mood": "Calm",
+ "favorite": false,
+ "reference_vid": "cf0f0f55f25570bd",
+ "genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBjZjBmMGY1NWYyNTU3MGJkEAAYAg%3D%3D&sigh=G7KuyKC_eOBmmodIIMC0uw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "cf0f0f55f25570bd",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "cf0f0f55f25570bd"
+}

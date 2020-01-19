@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "YbhjJQofSJ-kjb9SPnPnDi-4eyQoivUzftjyLM2LkqxofZno2JLYJF0_qNtbSk52",
+ "len": 179.166,
+ "category": "",
+ "license_type": 0,
+ "title": "Moving Over",
+ "genre": "Rock",
+ "display_category": "",
+ "vid": "8fffc4b98f32af81",
+ "album": "None",
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "favorite": false,
+ "display_genre": "Rock",
+ "display_mood": "Dark",
+ "fp_ref_id": "8fffc4b98f32af81",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8fffc4b98f32af81",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  ""
+ ],
+ "reference_vid": "8fffc4b98f32af81",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChA4ZmZmYzRiOThmMzJhZjgxEAAYAg%3D%3D&sigh=ZIby0tSXK4pUbTDQpgAG0g",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "a1a4473c6dfb9b72",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Cinematic",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "lSWNaLNA0Jk021nQfoPu9ES08996SrJFeSECg7d7bzwHGtC8UEGZQQZgd0aR8lZk",
+ "license_type": 6,
+ "vid": "a1a4473c6dfb9b72",
+ "popularity_percentile": 73,
+ "reference_vid": "a1a4473c6dfb9b72",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 65.183,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100775",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj7AxIWChBhMWE0NDczYzZkZmI5YjcyEAAYAg%3D%3D&sigh=9RubgKpjix17LJvIIQ8kQw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a1a4473c6dfb9b72",
+ "title": "Constancy Part 1 - The Descent"
+}

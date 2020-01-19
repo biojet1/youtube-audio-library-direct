@@ -1,0 +1,31 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "vid": "0c9279e851759add",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDGDRIWChAwYzkyNzllODUxNzU5YWRkEAAYAg%3D%3D&sigh=sMlrqoemWmh4xMHs5KTr9A",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "artist_channel_url": "/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "track_url": "",
+ "streamid": "d3suf-ESGR3HxLkm9br7CdWNsz4ZuJWgxuuCOCe5haepP-WMAa1Uyo2ExE8AuHSd",
+ "len": 222,
+ "genre": "Dance & Electronic",
+ "artist": "Andrew Huang",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Club",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0c9279e851759add",
+ "reference_vid": "0c9279e851759add",
+ "popularity_percentile": 99,
+ "fp_ref_id": "0c9279e851759add",
+ "display_mood": "Bright"
+}

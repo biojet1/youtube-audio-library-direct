@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c4d8831010b4f5a1",
+ "downloadable": true,
+ "reference_vid": "c4d8831010b4f5a1",
+ "mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "license_type": 1,
+ "len": 129,
+ "instruments": [
+  "synth",
+  "horn",
+  "drums",
+  "organ"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBjNGQ4ODMxMDEwYjRmNWExEAAYAg%3D%3D&sigh=vKYQcK3pA6cwtnuho1RdUQ",
+ "streamid": "qrxEs6oHTKVZwVT_iAd568hqBPNk0j7_-adKgDbD_1x56yElGzpsdOELNlELMV-V",
+ "genre": "Classical",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "display_genre": "Classical",
+ "vid": "c4d8831010b4f5a1",
+ "artist": "Dan Bodan",
+ "popularity_percentile": 99,
+ "fp_ref_id": "c4d8831010b4f5a1",
+ "category": "",
+ "title": "City Plaza",
+ "album": "None"
+}

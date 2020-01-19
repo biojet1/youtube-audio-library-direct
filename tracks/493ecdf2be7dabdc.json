@@ -1,0 +1,31 @@
+{
+ "genre": "Country & Folk",
+ "display_genre": "Country & Folk",
+ "len": 160,
+ "display_category": "",
+ "reference_vid": "493ecdf2be7dabdc",
+ "popularity_percentile": 99,
+ "artist_url": "",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Dan Lebowitz",
+ "fp_ref_id": "493ecdf2be7dabdc",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "streamid": "SWqMMmepkB3MXsmT9FDF6IsMkt16GTEwVhpwc6DJTbRIxF42UrQK0ymZ0VCnBTvX",
+ "display_mood": "Calm",
+ "vid": "493ecdf2be7dabdc",
+ "track_url": "",
+ "instruments": [
+  "electric guitar",
+  "acoustic guitar",
+  "strings"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChA0OTNlY2RmMmJlN2RhYmRjEAAYAg%3D%3D&sigh=13Zao5N6bQ11awfwtoSfXQ",
+ "category": "",
+ "title": "Wave in the Atmosphere",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=493ecdf2be7dabdc"
+}

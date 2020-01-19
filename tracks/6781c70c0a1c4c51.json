@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6781c70c0a1c4c51",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDJDBIWChA2NzgxYzcwYzBhMWM0YzUxEAAYAg%3D%3D&sigh=IGFYpztsOMk1pmKsNEUCEg",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "6781c70c0a1c4c51",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "vid": "6781c70c0a1c4c51",
+ "downloadable": true,
+ "title": "A Flash in the Pan",
+ "reference_vid": "6781c70c0a1c4c51",
+ "artist_url": "http://www.twinmusicom.org/",
+ "len": 206.116,
+ "artist": "Twin Musicom",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "oIwapZA3mlYZSBL1EsUE8quUy5_1aH_g36yTG9NdIJmvKoQQBQOtpQehOmOGBZJA",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Guitar",
+  "Drums"
+ ],
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "vid": "bc679e580ba5d1da",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bc679e580ba5d1da",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChBiYzY3OWU1ODBiYTVkMWRhEAAYAg%3D%3D&sigh=CQqpwFDfVkJ0AINCXFipQw",
+ "is_new_track": false,
+ "reference_vid": "bc679e580ba5d1da",
+ "display_mood": "Funky",
+ "favorite": false,
+ "category": "",
+ "title": "First",
+ "streamid": "EZEq6_y-lTXnjpYMe4raOJ0nPCGiMeLbc15EtGa7r48Qn--Jmz_Y6fyUje7YqyVc",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 210.166,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Text Me Records",
+ "instruments": [
+  "Rhodes",
+  "Drums. Electric Guitar",
+  "Bass"
+ ],
+ "fp_ref_id": "bc679e580ba5d1da"
+}

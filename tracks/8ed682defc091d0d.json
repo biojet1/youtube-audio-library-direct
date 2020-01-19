@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "HQW61F9-IHNuVUa-pg7UwBv-FfqdqvllcJOs4M9DnDYTi-Vvy8bJTOY--g9gH2SL",
+ "len": 153.216,
+ "category": "",
+ "license_type": 0,
+ "title": "Vindicated",
+ "genre": "Rock",
+ "display_category": "",
+ "vid": "8ed682defc091d0d",
+ "album": "None",
+ "mood": "Dark",
+ "artist": "Ethan Meixsell",
+ "favorite": false,
+ "display_genre": "Rock",
+ "display_mood": "Dark",
+ "fp_ref_id": "8ed682defc091d0d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ed682defc091d0d",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "8ed682defc091d0d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChA4ZWQ2ODJkZWZjMDkxZDBkEAAYAg%3D%3D&sigh=uWkZqwbKRPOGCcKyYDEUww",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

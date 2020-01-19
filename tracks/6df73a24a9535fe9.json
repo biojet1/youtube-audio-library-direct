@@ -1,0 +1,29 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200044",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "6df73a24a9535fe9",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCfThIWChA2ZGY3M2EyNGE5NTM1ZmU5EAAYAg%3D%3D&sigh=nzAQMAbGaVRbvbd4kx0cCg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6df73a24a9535fe9",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Ambient",
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "6df73a24a9535fe9",
+ "category": "",
+ "len": 1282.583,
+ "vid": "6df73a24a9535fe9",
+ "display_mood": "Calm",
+ "artist_channel_url": null,
+ "mood": "Calm",
+ "license_type": 6,
+ "genre": "Ambient",
+ "title": "Drone in D",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "streamid": "JwDtdjFvNGH3l11hjkG8c6sS-SHFlAbVa2Q7A_yvHx4GlCatXUaRbYI6aehC6kwX"
+}

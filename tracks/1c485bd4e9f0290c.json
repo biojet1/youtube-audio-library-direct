@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1c485bd4e9f0290c",
+ "fp_ref_id": "1c485bd4e9f0290c",
+ "artist_url": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1c485bd4e9f0290c",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Organ"
+ ],
+ "len": 115.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChAxYzQ4NWJkNGU5ZjAyOTBjEAAYAg%3D%3D&sigh=sPrx6j7DSf9qhwXEsqAflg",
+ "album": "None",
+ "title": "Put It On The Floor",
+ "popularity_percentile": 11,
+ "streamid": "b_moBI8KlaABzA7FW8NHl9PENHyjjMUzyBjGb0_E8pXQiqlHK5HlOoXDdt8A9Pee",
+ "mood": "Happy",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "favorite": false,
+ "vid": "1c485bd4e9f0290c",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "display_category": "",
+ "artist": "Otis McDonald"
+}

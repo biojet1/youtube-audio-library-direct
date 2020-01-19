@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "93f973d880e001c1",
+ "mood": "Calm",
+ "reference_vid": "93f973d880e001c1",
+ "popularity_percentile": 72,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChA5M2Y5NzNkODgwZTAwMWMxEAAYAg%3D%3D&sigh=I64-_3Kyjbta1ON1wi9tGg",
+ "len": 176.716,
+ "favorite": false,
+ "display_mood": "Calm",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "93f973d880e001c1",
+ "streamid": "XoF2uTA0um__bJeGiXbSE6u2QMkQOaN7O4DbGX4yG1ZuzIHdHfE2pxnoHJY8dsbF",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=93f973d880e001c1",
+ "title": "Cylinder Four",
+ "display_genre": "Ambient",
+ "artist": "Chris Zabriskie",
+ "genre": "Ambient",
+ "downloadable": true,
+ "instruments": [
+  "Synth"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://chriszabriskie.com/",
+ "track_url": "http://chriszabriskie.com/cylinders/",
+ "is_new_track": false
+}

@@ -1,0 +1,31 @@
+{
+ "genre": "Rock",
+ "display_category": "",
+ "len": 134.516,
+ "track_url": "",
+ "fp_ref_id": "2c20a766b9d11b1d",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "6IZiV4qaZfICELnLXji1wLHb0YVEv4N90E5rOmiRaV5rEBOJoS_BbYung9WAu1Hu",
+ "title": "Kat and Tanner",
+ "artist": "Twin Musicom",
+ "is_new_track": false,
+ "artist_url": "http://www.twinmusicom.org/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c20a766b9d11b1d",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "2c20a766b9d11b1d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAyYzIwYTc2NmI5ZDExYjFkEAAYAg%3D%3D&sigh=vkAqJ80zpuY85QqQHGgR_A",
+ "vid": "2c20a766b9d11b1d",
+ "display_genre": "Rock",
+ "license_type": 6,
+ "mood": "Bright",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Electric Guitar"
+ ]
+}

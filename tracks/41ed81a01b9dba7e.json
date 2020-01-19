@@ -1,0 +1,30 @@
+{
+ "genre": "Country & Folk",
+ "display_genre": "Country & Folk",
+ "len": 207.25,
+ "display_category": "",
+ "reference_vid": "41ed81a01b9dba7e",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "41ed81a01b9dba7e",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "Jam14y74dGwUr_oF5-lVS4hLw85YbCP1-FwHqDNQr6rivOqjQ9YpFLdiXFUYk57g",
+ "display_mood": "Romantic",
+ "vid": "41ed81a01b9dba7e",
+ "track_url": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjRDBIWChA0MWVkODFhMDFiOWRiYTdlEAAYAg%3D%3D&sigh=CPQHvGCO5tBEbVgvbdH2Ww",
+ "category": "",
+ "title": "Succotash",
+ "mood": "Romantic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41ed81a01b9dba7e"
+}

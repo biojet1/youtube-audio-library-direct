@@ -1,0 +1,29 @@
+{
+ "reference_vid": "246168ce3b27fd30",
+ "display_mood": "Bright",
+ "fp_ref_id": "246168ce3b27fd30",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=246168ce3b27fd30",
+ "mood": "Bright",
+ "artist": "Kevin MacLeod",
+ "vid": "246168ce3b27fd30",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjgDBIWChAyNDYxNjhjZTNiMjdmZDMwEAAYAg%3D%3D&sigh=poiW3OchL4Y9kiLZ5H3eGw",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Piano"
+ ],
+ "downloadable": true,
+ "streamid": "QRGsV5fSGDjlt9VXxa7OOM9s2IpehZ8Qwii0Wh9fORIZnlMDaQeCA-fs4SUkBIaG",
+ "len": 209.016,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100702",
+ "album": "None",
+ "license_type": 6,
+ "title": "Fig Leaf Rag - distressed",
+ "genre": "Cinematic",
+ "display_category": ""
+}

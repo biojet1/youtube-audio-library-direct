@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "streamid": "BhtiODOEyVIo7mwlPPWeGR3IPpOeHYiZxz9IG8TxzYs_n_2KpkFFuT5HxBzsKpMt",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bfce6b2a5cd99aaf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBiZmNlNmIyYTVjZDk5YWFmEAAYAg%3D%3D&sigh=ZrF2R3qbRL0xYAE0sYloZQ",
+ "vid": "bfce6b2a5cd99aaf",
+ "display_category": "",
+ "title": "Cop A Feel",
+ "album": "None",
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Audionautix",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "reference_vid": "bfce6b2a5cd99aaf",
+ "len": 148.616,
+ "popularity_percentile": 51,
+ "genre": "R&B & Soul",
+ "fp_ref_id": "bfce6b2a5cd99aaf",
+ "track_url": "",
+ "display_genre": "R&B & Soul",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "license_type": 6
+}

@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "aa310a8cb33ab916",
+ "album": "None",
+ "popularity_percentile": 67,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChBhYTMxMGE4Y2IzM2FiOTE2EAAYAg%3D%3D&sigh=iBEx-iavWM0DPs-Ajb6v3Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aa310a8cb33ab916",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Drums"
+ ],
+ "reference_vid": "aa310a8cb33ab916",
+ "category": "",
+ "len": 195.516,
+ "vid": "aa310a8cb33ab916",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "mood": "Bright",
+ "license_type": 0,
+ "genre": "Jazz & Blues",
+ "title": "Gypsy Dance",
+ "is_new_track": false,
+ "artist": "Topher Mohr and Alex Elena",
+ "streamid": "Y3P03soo2mZ5a4zL8p8G1gxMkopV-t4n333VinzspSB0dhVXGoDvEZBGqdGz83Az"
+}

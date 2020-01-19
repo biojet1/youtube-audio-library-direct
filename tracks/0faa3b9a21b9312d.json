@@ -1,0 +1,29 @@
+{
+ "mood": "Happy",
+ "title": "The Enthusiast Polka",
+ "album": "None",
+ "artist": "Unites States Marine Band ",
+ "popularity_percentile": 7,
+ "category": "",
+ "display_genre": "Classical",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "display_category": "",
+ "vid": "0faa3b9a21b9312d",
+ "streamid": "T3nqExKLZAGnvHF4OaFtopu69oNi7-ghK-L2BbFioZlXHOENWjYsvVnwx8yeFaiG",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChAwZmFhM2I5YTIxYjkzMTJkEAAYAg%3D%3D&sigh=bs8bkMg6x1VAGz1sEumgig",
+ "fp_ref_id": "0faa3b9a21b9312d",
+ "len": 128.083,
+ "favorite": false,
+ "instruments": [
+  "Trumpet"
+ ],
+ "artist_channel_url": null,
+ "license_type": 1,
+ "artist_url": "",
+ "reference_vid": "0faa3b9a21b9312d",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0faa3b9a21b9312d",
+ "downloadable": true
+}

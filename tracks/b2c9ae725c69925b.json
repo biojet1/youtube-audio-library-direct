@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "synth",
+  "drums",
+  "drum machine",
+  "bass"
+ ],
+ "reference_vid": "b2c9ae725c69925b",
+ "streamid": "V5-WEJxfZmSi7Z0zh_Myu3u6ZCChYT7t6AowklTyCz-5AKujohoMXvkV-5DqiKa3",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b2c9ae725c69925b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBiMmM5YWU3MjVjNjk5MjViEAAYAg%3D%3D&sigh=BaGUGOprPQkdNflLdk9LSw",
+ "len": 130,
+ "is_new_track": false,
+ "mood": "Funky",
+ "vid": "b2c9ae725c69925b",
+ "title": "Loafers Without Socks",
+ "display_mood": "Funky",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "favorite": false,
+ "fp_ref_id": "b2c9ae725c69925b",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "artist": "Jeremy Korpas"
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "27ac3133ba8687dd",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=27ac3133ba8687dd",
+ "display_mood": "Bright",
+ "fp_ref_id": "27ac3133ba8687dd",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Synth",
+  "Drums",
+  "Piano"
+ ],
+ "title": "Girl",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChAyN2FjMzEzM2JhODY4N2RkEAAYAg%3D%3D&sigh=tb7R2xgUMA_LUXEu3Bkllg",
+ "display_genre": "Pop",
+ "artist": "Text Me Records / Leviathe",
+ "genre": "Pop",
+ "len": 106.3,
+ "streamid": "yadIEFW4D2BfUboGjEBEgBoKFuU9cEZUFwKNdCJSzyTrli9aNdAjaQ15vXEvEez_",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "27ac3133ba8687dd",
+ "album": "None",
+ "mood": "Bright"
+}

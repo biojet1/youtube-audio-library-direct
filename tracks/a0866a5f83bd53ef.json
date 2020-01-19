@@ -1,0 +1,29 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 165,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCQ3QtdsILJ8zuXpvqlRXfsw",
+ "fp_ref_id": "a0866a5f83bd53ef",
+ "reference_vid": "a0866a5f83bd53ef",
+ "artist_channel_url": "/channel/UCQ3QtdsILJ8zuXpvqlRXfsw",
+ "license_type": 1,
+ "streamid": "y43pJgFL0ovDVjmU1mllIAexEPlWzshhTqXmMTTbPB7OwvMgYkzsjxXH1wRbhe9h",
+ "vid": "a0866a5f83bd53ef",
+ "mood": "Dramatic",
+ "artist": "HOVATOFF",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBhMDg2NmE1ZjgzYmQ1M2VmEAAYAg%3D%3D&sigh=VeOjQWXKDhMszt6vQEGPtA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0866a5f83bd53ef",
+ "category": "",
+ "title": "Sangre",
+ "genre": "Cinematic",
+ "instruments": [
+  "synth"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "mood": "Happy",
+ "len": 97.983,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "2PZuU7JNtngVsN8JiCxqqcJubs1auNAg_EjmL0s0Y6tZsV5BPInOeQxiuOoBnUAu",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChBlNWUzYjk2MGU3OTI0YmM5EAAYAg%3D%3D&sigh=Eb9imIyJEheej3bay_5MEg",
+ "reference_vid": "e5e3b960e7924bc9",
+ "title": "Rumba Sabor",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e5e3b960e7924bc9",
+ "vid": "e5e3b960e7924bc9",
+ "artist_url": "",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "fp_ref_id": "e5e3b960e7924bc9",
+ "display_mood": "Happy",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Bass",
+  "Piano"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "license_type": 0,
+ "genre": "Country & Folk"
+}

@@ -1,0 +1,30 @@
+{
+ "display_category": "",
+ "genre": "Cinematic",
+ "is_new_track": false,
+ "artist": "Wayne Jones",
+ "title": "Tango de la Noche",
+ "streamid": "H3ZnD2fazzA1zKHgM515IFw9g7A-Cd8EqhWUb4qqYEjq1WRCmfdrrry5KpSE4rA9",
+ "downloadable": true,
+ "album": "None",
+ "len": 107,
+ "fp_ref_id": "f9ba671a73992180",
+ "vid": "f9ba671a73992180",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "display_mood": "Romantic",
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f9ba671a73992180",
+ "instruments": [
+  "piano",
+  "strings"
+ ],
+ "license_type": 1,
+ "mood": "Romantic",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "reference_vid": "f9ba671a73992180",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChBmOWJhNjcxYTczOTkyMTgwEAAYAg%3D%3D&sigh=0hzYE4l-GDSHKlGQ1kpLJA",
+ "category": "",
+ "popularity_percentile": 99
+}

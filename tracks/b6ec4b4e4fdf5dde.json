@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "b6ec4b4e4fdf5dde",
+ "mood": "Funky",
+ "reference_vid": "b6ec4b4e4fdf5dde",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChBiNmVjNGI0ZTRmZGY1ZGRlEAAYAg%3D%3D&sigh=jsr-uy4fbjrW4HI9fsmc5w",
+ "len": 91.483,
+ "favorite": false,
+ "display_mood": "Funky",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b6ec4b4e4fdf5dde",
+ "streamid": "3HIly-QgXazwaswUs6jrVHH3o4vcSM27Tg1oexWKkIzQ0cOIdIiypotPjQzF61T_",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6ec4b4e4fdf5dde",
+ "title": "Find My Way Home",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Otis McDonald",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "electric guitar"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

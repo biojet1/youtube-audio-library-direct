@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "fp_ref_id": "aff5831e608956ee",
+ "popularity_percentile": 82,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBhZmY1ODMxZTYwODk1NmVlEAAYAg%3D%3D&sigh=vMQLrpvUh_dbEOlTfkn36Q",
+ "favorite": false,
+ "genre": "Rock",
+ "category": "",
+ "vid": "aff5831e608956ee",
+ "streamid": "Dx4G3hR3GV8RaDA48Syt7PuPyfeEJDfRBY70d8cEPybOIZ8pAoZ8dNYJxec4C2iC",
+ "mood": "Angry",
+ "reference_vid": "aff5831e608956ee",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aff5831e608956ee",
+ "title": "Pentagram",
+ "display_mood": "Angry",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "display_genre": "Rock",
+ "display_category": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "len": 150.183,
+ "album": "None",
+ "track_url": ""
+}

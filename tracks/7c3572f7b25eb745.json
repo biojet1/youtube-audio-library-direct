@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 164,
+ "display_mood": "Dark",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "fp_ref_id": "7c3572f7b25eb745",
+ "reference_vid": "7c3572f7b25eb745",
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "license_type": 1,
+ "streamid": "lGal3cvwG5vJOYLx2FEzMBt0oZJ5DKkkhclYUgYI5wdHbFGSmiTceU6okTW9S1oE",
+ "vid": "7c3572f7b25eb745",
+ "mood": "Dark",
+ "artist": "Dan Bodan",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA3YzM1NzJmN2IyNWViNzQ1EAAYAg%3D%3D&sigh=4mChFTxuul_FNxh3n8MXxg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c3572f7b25eb745",
+ "category": "",
+ "title": "Khreshchatyk",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "drums",
+  "horn",
+  "synth",
+  "organ"
+ ]
+}

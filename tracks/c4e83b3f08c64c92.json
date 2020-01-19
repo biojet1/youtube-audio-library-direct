@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "c4e83b3f08c64c92",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c4e83b3f08c64c92",
+ "display_mood": "Happy",
+ "fp_ref_id": "c4e83b3f08c64c92",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bells"
+ ],
+ "title": "Groomin",
+ "artist_channel_url": "/channel/UCOQyfUmWPaf5uA40I0Zrn2A",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChBjNGU4M2IzZjA4YzY0YzkyEAAYAg%3D%3D&sigh=rDGMh4ErEG8fOkUYr5OD7A",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Text Me Records / Social Work",
+ "genre": "Hip Hop & Rap",
+ "len": 171.666,
+ "streamid": "-Gj0R5pfHQWW-PUtjvp8qnJ6SD5cfiwTtSEGru7hpIeKbWrk_sUxOd1yN2PauGgr",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "c4e83b3f08c64c92",
+ "album": "None",
+ "mood": "Happy"
+}

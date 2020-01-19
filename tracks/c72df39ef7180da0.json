@@ -1,0 +1,31 @@
+{
+ "reference_vid": "c72df39ef7180da0",
+ "popularity_percentile": 77,
+ "display_genre": "R&B & Soul",
+ "license_type": 0,
+ "fp_ref_id": "c72df39ef7180da0",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano"
+ ],
+ "title": "Sandbox",
+ "downloadable": true,
+ "mood": "Romantic",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 163.466,
+ "artist_url": "",
+ "display_category": "",
+ "streamid": "GvYB-s-6bnuR4RXH5DsNdt5LRxGnZTic2phBqU2PAIYMUduJkYNQyOL7yuGcGDXr",
+ "vid": "c72df39ef7180da0",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChBjNzJkZjM5ZWY3MTgwZGEwEAAYAg%3D%3D&sigh=hT59nz_xNY7iZQz8d-rK0w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c72df39ef7180da0",
+ "artist": "Silent Partner",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "category": "",
+ "genre": "R&B & Soul"
+}

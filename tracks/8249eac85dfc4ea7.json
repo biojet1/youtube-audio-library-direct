@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8249eac85dfc4ea7",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "category": "",
+ "title": "Digital Secrets",
+ "track_url": "",
+ "vid": "8249eac85dfc4ea7",
+ "mood": "Bright",
+ "is_new_track": false,
+ "len": 349,
+ "instruments": [
+  "synth",
+  "keys",
+  "bass",
+  "drums",
+  "strings"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "HcdbeuIIQldUfiHFTT-wrNRIuHfKAUohMTecvIoEQS5t1tmtTbxmLUA7JAirYKwV",
+ "display_genre": "Dance & Electronic",
+ "artist": "Unicorn Heads",
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "reference_vid": "8249eac85dfc4ea7",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMimFRIWChA4MjQ5ZWFjODVkZmM0ZWE3EAAYAg%3D%3D&sigh=flDz6zwQSW4HYH-JXr_T5A",
+ "fp_ref_id": "8249eac85dfc4ea7",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "license_type": 1
+}

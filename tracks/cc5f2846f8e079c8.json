@@ -1,0 +1,32 @@
+{
+ "streamid": "jZucAtuKNqUmRHoBo5Ev9O2Ti3htlNTCyhqMjdMKRSMmYeEy6DqcbirxDAkliWiK",
+ "genre": "Jazz & Blues",
+ "fp_ref_id": "cc5f2846f8e079c8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cc5f2846f8e079c8",
+ "favorite": false,
+ "reference_vid": "cc5f2846f8e079c8",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "vid": "cc5f2846f8e079c8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChBjYzVmMjg0NmY4ZTA3OWM4EAAYAg%3D%3D&sigh=SnKGc9NmNTnF_8swkPtpXg",
+ "artist_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "John Deley and the 41 Players",
+ "title": "Watercolors",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 0,
+ "display_genre": "Jazz & Blues",
+ "mood": "Inspirational",
+ "len": 193.85,
+ "popularity_percentile": 80
+}

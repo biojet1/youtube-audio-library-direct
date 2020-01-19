@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=232a305af09c8031",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "juJ6JKY5XZt5MGUW1jv8JMf-HCz3PkUFVgywjEDCHACrYMku2RMsWZ27oHi_Vj2k",
+ "genre": "Rock",
+ "vid": "232a305af09c8031",
+ "reference_vid": "232a305af09c8031",
+ "fp_ref_id": "232a305af09c8031",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChAyMzJhMzA1YWYwOWM4MDMxEAAYAg%3D%3D&sigh=Z1QwHk3CcAPQug7IACu1gA",
+ "artist_url": "https://www.youtube.com/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "acoustic guitar",
+  "bass"
+ ],
+ "artist_channel_url": "/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "artist": "JHS Pedals",
+ "title": "Home",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Rock",
+ "len": 139,
+ "mood": "Bright"
+}

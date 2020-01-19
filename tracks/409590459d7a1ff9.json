@@ -1,0 +1,32 @@
+{
+ "genre": "Jazz & Blues",
+ "display_genre": "Jazz & Blues",
+ "len": 197.883,
+ "display_category": "",
+ "reference_vid": "409590459d7a1ff9",
+ "popularity_percentile": 25,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "409590459d7a1ff9",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "bYxUyNJ0WJy_WLcwOPq1jZ8DW2N-CZMbVXKB5c6FgQcURh3TY3sskh9ESaRaYIwm",
+ "display_mood": "Calm",
+ "vid": "409590459d7a1ff9",
+ "track_url": "",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "piano"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiDDBIWChA0MDk1OTA0NTlkN2ExZmY5EAAYAg%3D%3D&sigh=2Sn55ynCnz9uoFjPsNtUqw",
+ "category": "",
+ "title": "Bet On It",
+ "mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=409590459d7a1ff9"
+}

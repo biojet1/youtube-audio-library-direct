@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 192,
+ "display_mood": "Funky",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "7f0669d79b18419b",
+ "reference_vid": "7f0669d79b18419b",
+ "artist_channel_url": "/channel/UCej6bRv8lR48AEbQvdb_9Cg",
+ "license_type": 1,
+ "streamid": "rTyEEpTLEFN0Fo_d4_dfgmZvXyq0fjUnXvBrzliqsOEmszZEHj8UUrG-OLz46mfc",
+ "vid": "7f0669d79b18419b",
+ "mood": "Funky",
+ "artist": "Otis McDonald",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChA3ZjA2NjlkNzliMTg0MTliEAAYAg%3D%3D&sigh=3dUiuMSjMyGLoN-G-yBX0w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7f0669d79b18419b",
+ "category": "",
+ "title": "Hello Mr. Princeton",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Guitar",
+  "Drums",
+  "Bass",
+  "Synth,"
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "artist": "Ethan Meixsell",
+ "mood": "Dramatic",
+ "vid": "efc97bf63c78ce01",
+ "streamid": "mxQ-PmYXqMr4vxtbgkRmRdEmCL4K1WznIFPLOJmMucrlL3tsfNap32RNBsyHXPpt",
+ "display_category": "",
+ "track_url": "",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=efc97bf63c78ce01",
+ "fp_ref_id": "efc97bf63c78ce01",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKhGEhYKEGVmYzk3YmY2M2M3OGNlMDEQABgC&sigh=L201PoUJyAuCrbWvTpmJ8w",
+ "len": 9.616,
+ "display_genre": "Rock",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "reference_vid": "efc97bf63c78ce01",
+ "title": "Dead Reckoning (Sting)",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "artist_url": "",
+ "category": "",
+ "display_mood": "Dramatic",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 0
+}

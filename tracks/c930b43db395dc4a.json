@@ -1,0 +1,32 @@
+{
+ "vid": "c930b43db395dc4a",
+ "display_mood": "Happy",
+ "title": "Whistling Down the Road",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBjOTMwYjQzZGIzOTVkYzRhEAAYAg%3D%3D&sigh=P8TLBwWr40bvEfuX9wFKxg",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "mood": "Happy",
+ "artist": "Silent Partner",
+ "reference_vid": "c930b43db395dc4a",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c930b43db395dc4a",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 78,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "genre": "Country & Folk",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "swo0ZBlbiUmKDlesk-dZQU28MZ-9EX2aLrg_ax3uF66EqTi07glg7HSrqFF61UPt",
+ "artist_url": "",
+ "len": 129.983,
+ "fp_ref_id": "c930b43db395dc4a",
+ "license_type": 0,
+ "is_new_track": false
+}

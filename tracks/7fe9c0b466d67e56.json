@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "display_mood": "Calm",
+ "vid": "7fe9c0b466d67e56",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7fe9c0b466d67e56",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Calm",
+ "display_genre": "Ambient",
+ "fp_ref_id": "7fe9c0b466d67e56",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 158.183,
+ "track_url": "",
+ "category": "",
+ "streamid": "f2xMBU2rvldQJDNCRZ0KjptZVk2N-0UNKiCpccoq2kdG-ME0-Q9Ff6KFXpB6bR0E",
+ "title": "Under Water",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChA3ZmU5YzBiNDY2ZDY3ZTU2EAAYAg%3D%3D&sigh=Q2ZElJ39XfjIFGKFgHypkw",
+ "popularity_percentile": 50,
+ "reference_vid": "7fe9c0b466d67e56",
+ "artist": "Silent Partner",
+ "genre": "Ambient"
+}

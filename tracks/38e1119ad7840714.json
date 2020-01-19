@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "artist": "The Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "title": "Fuzzy and True",
+ "album": "None",
+ "fp_ref_id": "38e1119ad7840714",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChAzOGUxMTE5YWQ3ODQwNzE0EAAYAg%3D%3D&sigh=smRWAUtn13VGLmavXBccvw",
+ "genre": "Rock",
+ "vid": "38e1119ad7840714",
+ "streamid": "CdH7DLhh71tGWqeLB7Foi9CXryV3MFT-cS2dXqaw4ptYAzhTWhwngXK_uyZx9fg2",
+ "display_category": "",
+ "display_mood": "Bright",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=38e1119ad7840714",
+ "reference_vid": "38e1119ad7840714",
+ "is_new_track": false,
+ "mood": "Bright",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "favorite": false,
+ "instruments": [
+  "electric guitar",
+  "acoustic guitar",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "len": 96
+}

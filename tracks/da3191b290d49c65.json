@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "da3191b290d49c65",
+ "category": "",
+ "title": "Sunrise",
+ "display_genre": "Ambient",
+ "instruments": [
+  "piano",
+  "keys",
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "genre": "Ambient",
+ "display_mood": "Calm",
+ "streamid": "qcD7U2oSqGxR4tTlVOM8tQXfZPdqpRsfkJx-fHYdDIxuc1y92NSh-XHX7NRPEDwI",
+ "album": "None",
+ "len": 159,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=da3191b290d49c65",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChBkYTMxOTFiMjkwZDQ5YzY1EAAYAg%3D%3D&sigh=eKAkVf_5zvmNzLZddfUFZg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "da3191b290d49c65",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "da3191b290d49c65",
+ "license_type": 1,
+ "track_url": ""
+}

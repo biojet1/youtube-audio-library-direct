@@ -1,0 +1,29 @@
+{
+ "license_type": 6,
+ "mood": "Happy",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCKDBIWChAzNDg0ODVlZjQ1ZWQ1YzA4EAAYAg%3D%3D&sigh=JZFbwBOpdc6MG5qQBFlG9g",
+ "title": "Manic Polka",
+ "vid": "348485ef45ed5c08",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "-oEb0eqe4hc-UokQ3FHWoSolgpsUdeTv5RBhyrkow4t8mb4YjTRPHoWQdJUhpEP7",
+ "artist_channel_url": null,
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=348485ef45ed5c08",
+ "instruments": [
+  "Drums"
+ ],
+ "display_mood": "Happy",
+ "len": 198.05,
+ "genre": "Country & Folk",
+ "fp_ref_id": "348485ef45ed5c08",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100168",
+ "album": "None",
+ "display_genre": "Country & Folk",
+ "reference_vid": "348485ef45ed5c08",
+ "downloadable": true,
+ "display_category": "",
+ "favorite": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 76
+}

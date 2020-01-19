@@ -1,0 +1,30 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChA0MDkyMGU5YjVjODQyYWE2EAAYAg%3D%3D&sigh=QgKmhJGCG4Lbgobk13KWvg",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "40920e9b5c842aa6",
+ "downloadable": true,
+ "reference_vid": "40920e9b5c842aa6",
+ "favorite": false,
+ "fp_ref_id": "40920e9b5c842aa6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40920e9b5c842aa6",
+ "genre": "Ambient",
+ "streamid": "Sy38wW6cnp3ek3tn385_eUhm2JszwK8-FxkrAYENt39Nxgx9eX3wj9uFMQzj-ypJ",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 166,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Three Elements",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth",
+  "electric piano"
+ ]
+}

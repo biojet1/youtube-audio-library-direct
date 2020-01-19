@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "is_new_track": false,
+ "reference_vid": "a421a94e1d3bc2ed",
+ "display_category": "",
+ "fp_ref_id": "a421a94e1d3bc2ed",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a421a94e1d3bc2ed",
+ "artist_channel_url": "/channel/UCK0ePBXwnDZuZjF6xy3l77A",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Happy",
+ "instruments": [
+  "piano",
+  "synth",
+  "drums",
+  "bass",
+  "vocal chops"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBhNDIxYTk0ZTFkM2JjMmVkEAAYAg%3D%3D&sigh=NiG0JkQk1YHrROVpPVNvdg",
+ "streamid": "1WV1811WOcI33uyjTIzbYdZUA1on1x8CecFZzqm_xs_gbqJ9mWl4worTK9A3QXRK",
+ "genre": "Dance & Electronic",
+ "vid": "a421a94e1d3bc2ed",
+ "artist": "Dan Henig",
+ "display_genre": "Dance & Electronic",
+ "title": "Arpy",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 116,
+ "display_mood": "Happy",
+ "downloadable": true
+}

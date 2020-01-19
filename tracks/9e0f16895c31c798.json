@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "title": "Measured Paces",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9e0f16895c31c798",
+ "reference_vid": "9e0f16895c31c798",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100164",
+ "album": "None",
+ "len": 72.85,
+ "instruments": [
+  "Piano"
+ ],
+ "display_category": "",
+ "display_genre": "Ambient",
+ "streamid": "UQGdgMkadzOMZe2C27tJouvXxP_0FH5yWerZQ9gOqnI9nfCU1s98BgORAuQnJHvm",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "9e0f16895c31c798",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "9e0f16895c31c798",
+ "category": "",
+ "genre": "Ambient",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCyBBIWChA5ZTBmMTY4OTVjMzFjNzk4EAAYAg%3D%3D&sigh=kfzxomeUzkZhRM6ng4y21g"
+}

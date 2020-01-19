@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "57e11f48a9f5423e",
+ "mood": "Funky",
+ "title": "Wolf Kisses",
+ "category": "",
+ "genre": "R&B & Soul",
+ "album": "None",
+ "len": 200,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChA1N2UxMWY0OGE5ZjU0MjNlEAAYAg%3D%3D&sigh=z7sQ9ZWbpwOSCKDlwzvD8w",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57e11f48a9f5423e",
+ "fp_ref_id": "57e11f48a9f5423e",
+ "artist": "Otis McDonald",
+ "display_mood": "Funky",
+ "display_genre": "R&B & Soul",
+ "streamid": "t3t5a9BuzoJZ_IwNmSwUvRPc2L25aYx47Y4MldkPBWH1MAQFRBIqoLwGMS9LYfAV",
+ "artist_channel_url": "/channel/UCej6bRv8lR48AEbQvdb_9Cg",
+ "display_category": "",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Guitar",
+  "Piano"
+ ],
+ "vid": "57e11f48a9f5423e"
+}

@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9da1ee78da162cb1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDoIRIWChA5ZGExZWU3OGRhMTYyY2IxEAAYAg%3D%3D&sigh=Pp2w7XenoqhbTGZuYx9Xgw",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9da1ee78da162cb1",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "vid": "9da1ee78da162cb1",
+ "downloadable": true,
+ "title": "Can-Can (by Offenbach)",
+ "reference_vid": "9da1ee78da162cb1",
+ "artist_url": "",
+ "len": 554.016,
+ "artist": "Offenbach",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "FSOSSVEmDa83NGNu9dYul6Cwx7I91WK-36kpTFJZQlQsIayOv4GIqab7_lgBKlO0",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "genre": "Classical",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

@@ -1,0 +1,32 @@
+{
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "len": 161.05,
+ "display_category": "",
+ "reference_vid": "436e917bcca13c29",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Max Surla/Media Right Productions",
+ "fp_ref_id": "436e917bcca13c29",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "mGeJt60yRg7-f1Zfj_5A_bJBbHATKXAZun-KcqqVUP_csEyP57W75ES_swpDagps",
+ "display_mood": "Dramatic",
+ "vid": "436e917bcca13c29",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Synth",
+  "Strings"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChA0MzZlOTE3YmNjYTEzYzI5EAAYAg%3D%3D&sigh=_Hqj0KWRqNaPuOwpltIvrw",
+ "category": "",
+ "title": "Run",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=436e917bcca13c29"
+}

@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDyDhIWChAwMjdlNTg3NTBmODQ0NWMxEAAYAg%3D%3D&sigh=6hu31z5S3U9slI73QdHlhQ",
+ "title": "Marrionette",
+ "favorite": false,
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "027e58750f8445c1",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ],
+ "track_url": "",
+ "display_genre": "Rock",
+ "artist": "Letter Box",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Rock",
+ "popularity_percentile": 1,
+ "reference_vid": "027e58750f8445c1",
+ "streamid": "v1vjBLxUR-dmr0zWiJC4FFvyPhbRSRJs6KfH-2T2u8Nvdur6YxTHxk2tseJq3HHW",
+ "artist_url": "",
+ "len": 244.783,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=027e58750f8445c1",
+ "vid": "027e58750f8445c1",
+ "category": ""
+}

@@ -1,0 +1,30 @@
+{
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100180",
+ "fp_ref_id": "d275dbcd25f41848",
+ "display_genre": "Ambient",
+ "title": "Land of Phantoms",
+ "downloadable": true,
+ "genre": "Ambient",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "favorite": false,
+ "len": 119.95,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d275dbcd25f41848",
+ "category": "",
+ "streamid": "h_vGJyvvo6dXNtZDmBSQlz5srP1OsIw3XmJeoGl3D3l5Efj4uI7Wv1LIDtmwAzrv",
+ "vid": "d275dbcd25f41848",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChBkMjc1ZGJjZDI1ZjQxODQ4EAAYAg%3D%3D&sigh=TnTP_zKDlpGEbGDov4Suew",
+ "popularity_percentile": 37,
+ "reference_vid": "d275dbcd25f41848"
+}

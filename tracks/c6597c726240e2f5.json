@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBjNjU5N2M3MjYyNDBlMmY1EAAYAg%3D%3D&sigh=SnFdz8ye6m9iPeqBsD38VQ",
+ "genre": "Rock",
+ "streamid": "tA5T-jPdWFMQLZqNvZeyW2X0uVPU1aLwXf3p9e2grLcvUxu_yx9OOvzpZNHmFRp-",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "vid": "c6597c726240e2f5",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c6597c726240e2f5",
+ "fp_ref_id": "c6597c726240e2f5",
+ "reference_vid": "c6597c726240e2f5",
+ "mood": "Dramatic",
+ "license_type": 0,
+ "artist_url": "",
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Electric Guitar"
+ ],
+ "len": 120.383,
+ "popularity_percentile": 77,
+ "artist": "Silent Partner",
+ "category": "",
+ "track_url": "",
+ "title": "Hemispheres",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Rock"
+}

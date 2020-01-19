@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "20c519f9564c0384",
+ "track_url": "",
+ "fp_ref_id": "20c519f9564c0384",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Sad",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Bass"
+ ],
+ "reference_vid": "20c519f9564c0384",
+ "display_mood": "Sad",
+ "len": 235.933,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPirDhIWChAyMGM1MTlmOTU2NGMwMzg0EAAYAg%3D%3D&sigh=WADsZFvdBVjoQad2isVykA",
+ "popularity_percentile": 13,
+ "streamid": "mY5EXGiDOCzWW6tXko73mwd6-jCAQVmmElrdyqi_0qb1gJPsnsKFw0xu-uI99d9I",
+ "license_type": 0,
+ "display_genre": "R&B & Soul",
+ "category": "",
+ "title": "Under The Radar",
+ "genre": "R&B & Soul",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=20c519f9564c0384"
+}

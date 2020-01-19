@@ -1,0 +1,33 @@
+{
+ "display_mood": "Happy",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Trumpet",
+  "Organ"
+ ],
+ "album": "None",
+ "streamid": "Mv3aky-PEP2k6AJ2BTcOBh1wAAslWHCTrG6wnRgPYsp4iclLrdytS0ZGKOGmqSmP",
+ "title": "Bitters At The Saloon",
+ "display_genre": "Jazz & Blues",
+ "vid": "bca340e182a4a714",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "bca340e182a4a714",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 0,
+ "fp_ref_id": "bca340e182a4a714",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Bird Creek",
+ "len": 108.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBiY2EzNDBlMTgyYTRhNzE0EAAYAg%3D%3D&sigh=eEsyubGbHRvAwogp5xhotw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bca340e182a4a714"
+}

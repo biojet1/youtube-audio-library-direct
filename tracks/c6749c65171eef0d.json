@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "c6749c65171eef0d",
+ "display_category": "",
+ "fp_ref_id": "c6749c65171eef0d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c6749c65171eef0d",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBjNjc0OWM2NTE3MWVlZjBkEAAYAg%3D%3D&sigh=vmFrWRrDyhy5Eq_bRxaSSg",
+ "streamid": "zAiKUYeyMfUcKExwg9BVWL5Qa8LNbeT1uvFQsN6KXgyYfbJHq-eKfAwHjBGiP2AD",
+ "genre": "Dance & Electronic",
+ "vid": "c6749c65171eef0d",
+ "artist": "White Hex",
+ "display_genre": "Dance & Electronic",
+ "title": "The Void",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 116,
+ "display_mood": "Dark",
+ "downloadable": true
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "favorite": false,
+ "len": 176.499,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9884c82cd7a3ae05",
+ "category": "",
+ "streamid": "u6AoXWL7d5F19YZi5XLriImvIVZ5B3i-bHBoXGbf1-uroNPgItOi9pO_jK5iZ7-M",
+ "fp_ref_id": "9884c82cd7a3ae05",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChA5ODg0YzgyY2Q3YTNhZTA1EAAYAg%3D%3D&sigh=7Pd6EKCz-Ojf-hjhLdiSaA",
+ "popularity_percentile": 0,
+ "reference_vid": "9884c82cd7a3ae05",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Guitar",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "9884c82cd7a3ae05",
+ "display_genre": "Ambient",
+ "track_url": "",
+ "title": "Bubble Walk",
+ "downloadable": true,
+ "genre": "Ambient",
+ "artist": "Aaron Lieberman"
+}

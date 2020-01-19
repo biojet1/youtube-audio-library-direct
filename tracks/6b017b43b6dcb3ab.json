@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "mood": "Happy",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "6b017b43b6dcb3ab",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDuChIWChA2YjAxN2I0M2I2ZGNiM2FiEAAYAg%3D%3D&sigh=iF9V-FwrK7K1CN3GQ5Qz-w",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "category": "",
+ "genre": "Rock",
+ "reference_vid": "6b017b43b6dcb3ab",
+ "downloadable": true,
+ "streamid": "4NOeaBg-FBKKr_hGf3J4jaMQk9jy9IYDaubg5C_UbImDJkiIBA5jrDvdH56ZcsXR",
+ "track_url": "",
+ "vid": "6b017b43b6dcb3ab",
+ "len": 178,
+ "license_type": 1,
+ "title": "Texas Napkin",
+ "is_new_track": false,
+ "artist": "Freedom Trail Studio",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6b017b43b6dcb3ab",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw"
+}

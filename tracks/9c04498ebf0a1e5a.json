@@ -1,0 +1,33 @@
+{
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ",
+ "fp_ref_id": "9c04498ebf0a1e5a",
+ "artist_channel_url": "/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ",
+ "reference_vid": "9c04498ebf0a1e5a",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 204,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChA5YzA0NDk4ZWJmMGExZTVhEAAYAg%3D%3D&sigh=r-2Y7AopXhvxMtqhBsfWmg",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9c04498ebf0a1e5a",
+ "instruments": [
+  "keys",
+  "mallets",
+  "piano",
+  "synth",
+  "bells"
+ ],
+ "title": "All I've Ever Felt All At Once",
+ "genre": "Cinematic",
+ "streamid": "_YubE4g2mOAEFWSLtqfAedPCDnH_2FfER6PKYA4k50asiB79UURCN8fkPA2t0YRv",
+ "vid": "9c04498ebf0a1e5a",
+ "display_genre": "Cinematic",
+ "mood": "Inspirational",
+ "license_type": 1,
+ "artist": "Late Night Feeler"
+}

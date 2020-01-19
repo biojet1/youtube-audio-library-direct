@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "6432aab903013b30",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6432aab903013b30",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "6432aab903013b30",
+ "display_category": "",
+ "license_type": 1,
+ "downloadable": true,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "title": "Greed",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "artist_url": "",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChA2NDMyYWFiOTAzMDEzYjMwEAAYAg%3D%3D&sigh=lniSy_XH8WZ_16I-tQ3Dvw",
+ "display_genre": "Pop",
+ "artist": "Text Me Records / Jorge Hernandez",
+ "genre": "Pop",
+ "len": 88.7,
+ "streamid": "g9QumE_kGpBf1mCBtJnza3Eq5S60cVjejiRFXegp1zJKR8azZBTQQqlSjbgCuqm2",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "6432aab903013b30",
+ "album": "None",
+ "mood": "Dramatic"
+}

@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "mood": "Happy",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=72083d9e9cd662e1",
+ "len": 96.516,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChA3MjA4M2Q5ZTljZDY2MmUxEAAYAg%3D%3D&sigh=T-9S7JQoKIgPal-XVIj2sw",
+ "fp_ref_id": "72083d9e9cd662e1",
+ "vid": "72083d9e9cd662e1",
+ "title": "Piano Store",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "72083d9e9cd662e1",
+ "license_type": 0,
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "streamid": "OXnvCP2j4hy4oUv36hcT2zYXZfyga7hA8oqTrpUeJYrFcUiSR2EZ9TtAbqpaqrgC",
+ "category": ""
+}

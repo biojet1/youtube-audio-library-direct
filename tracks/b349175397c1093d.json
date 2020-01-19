@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "is_new_track": false,
+ "reference_vid": "b349175397c1093d",
+ "display_category": "",
+ "fp_ref_id": "b349175397c1093d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b349175397c1093d",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dark",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChBiMzQ5MTc1Mzk3YzEwOTNkEAAYAg%3D%3D&sigh=7JI0wintT65wepVxqtP-pw",
+ "streamid": "s8Z6fpdrKqO23K35ANq0Vf6x0wjoB16jjXIU9HNOwcdwbFiba_QTgOlSbI77aneT",
+ "genre": "Dance & Electronic",
+ "vid": "b349175397c1093d",
+ "artist": "White Hex",
+ "display_genre": "Dance & Electronic",
+ "title": "Searching For You",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 1,
+ "len": 99,
+ "display_mood": "Dark",
+ "downloadable": true
+}

@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 234.516,
+ "category": "",
+ "title": "Pendulum Waltz",
+ "display_genre": "Classical",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=61b2c4faa7a52d19",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "61b2c4faa7a52d19",
+ "fp_ref_id": "61b2c4faa7a52d19",
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCkDhIWChA2MWIyYzRmYWE3YTUyZDE5EAAYAg%3D%3D&sigh=4gwEzTfNllqKAQnVFAkBdA",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "vid": "61b2c4faa7a52d19",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "popularity_percentile": 71,
+ "display_mood": "Dramatic",
+ "streamid": "ysjRaY8caCURL_1S2t_yZQoEXVy3KtZP6Ub-xzkAg-TSKXFFmlkCqA12uOtAWkd5"
+}

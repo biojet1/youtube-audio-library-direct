@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4166c06d251e08ab",
+ "popularity_percentile": 30,
+ "reference_vid": "4166c06d251e08ab",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "IB_HUbWhqz4lt4KEu3LotAf9sDy6UXT3QOgY15JiIQ7MKNiiMMASuzQq4lw9pZh6",
+ "genre": "Cinematic",
+ "len": 320.05,
+ "artist": "Kevin MacLeod",
+ "display_mood": "Angry",
+ "downloadable": true,
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums"
+ ],
+ "title": "Exotics",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDEExIWChA0MTY2YzA2ZDI1MWUwOGFiEAAYAg%3D%3D&sigh=ZZe61wpNNm4nHXum0YnItQ",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "4166c06d251e08ab",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100233",
+ "mood": "Angry",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "4166c06d251e08ab",
+ "is_new_track": false,
+ "favorite": false
+}

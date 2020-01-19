@@ -1,0 +1,31 @@
+{
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=326a9d1b0636133c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChAzMjZhOWQxYjA2MzYxMzNjEAAYAg%3D%3D&sigh=uTQfS3bEtyYIchKo_CtBoQ",
+ "genre": "Rock",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Sad",
+ "album": "None",
+ "track_url": "",
+ "len": 143.85,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "326a9d1b0636133c",
+ "streamid": "58Zr8w6apc7Ea-4GbIg0I6R3qpEIT_-CHFmUWtl2Vcjk7SPITo03VfW_3JsWSX4s",
+ "title": "Museums",
+ "artist_url": "",
+ "mood": "Sad",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "popularity_percentile": 20,
+ "reference_vid": "326a9d1b0636133c",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "fp_ref_id": "326a9d1b0636133c",
+ "license_type": 0
+}

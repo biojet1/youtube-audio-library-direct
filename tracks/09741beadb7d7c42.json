@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "09741beadb7d7c42",
+ "mood": "Bright",
+ "title": "8 Year Anniversary",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "len": 187,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChAwOTc0MWJlYWRiN2Q3YzQyEAAYAg%3D%3D&sigh=mnWLaFkPtqlbdwDvFngThw",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09741beadb7d7c42",
+ "fp_ref_id": "09741beadb7d7c42",
+ "artist": "Diamond Ortiz",
+ "display_mood": "Bright",
+ "display_genre": "Dance & Electronic",
+ "streamid": "dleBfEeeZxAGoVwkRvToiOlKEfweFXJdTYROXypkcXAOPV2NHtc97EsShYMlvhLB",
+ "artist_channel_url": "/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "display_category": "",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "guitar"
+ ],
+ "vid": "09741beadb7d7c42"
+}

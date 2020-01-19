@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1f2d408ce3c5b967",
+ "track_url": "",
+ "fp_ref_id": "1f2d408ce3c5b967",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Jingle Punks",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Synth"
+ ],
+ "reference_vid": "1f2d408ce3c5b967",
+ "display_mood": "Happy",
+ "len": 68.933,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCTBBIWChAxZjJkNDA4Y2UzYzViOTY3EAAYAg%3D%3D&sigh=UhH9IkQ3deZ17kuVGLOEOg",
+ "popularity_percentile": 12,
+ "streamid": "ozZTXVw_AFqFy_QVnij6T_wXlhAsmxIjtK-tP8axT86JcrYHcp0_dqakkalCi0Sn",
+ "license_type": 0,
+ "display_genre": "Pop",
+ "category": "",
+ "title": "Enuff Para Mi",
+ "genre": "Pop",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1f2d408ce3c5b967"
+}

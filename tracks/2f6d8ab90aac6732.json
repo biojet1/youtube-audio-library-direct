@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 18,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 213.85,
+ "reference_vid": "2f6d8ab90aac6732",
+ "display_genre": "Dance & Electronic",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2f6d8ab90aac6732",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChAyZjZkOGFiOTBhYWM2NzMyEAAYAg%3D%3D&sigh=bt-JBiZ7Ngc9rp1o_U74hw",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "2f6d8ab90aac6732",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "vid": "2f6d8ab90aac6732",
+ "artist_channel_url": null,
+ "streamid": "ARR9ejC8ojb3M2GMJ2GAeMS1gAdbyEH3sULr-mnfqe-GXQkLDyRvbNm7A_tXGmXx",
+ "license_type": 1,
+ "title": "Take You Home Tonight",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Vibe Tracks",
+ "mood": "Inspirational"
+}

@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "reference_vid": "e415684f0c73f004",
+ "streamid": "mOITfvNREdg7flqfbcY9M4MIFKUxHwd197glgvpNULEnQteqYAz6GTxY1rrRC2Ki",
+ "artist_url": "https://www.youtube.com/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "favorite": false,
+ "fp_ref_id": "e415684f0c73f004",
+ "len": 212,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Classical",
+ "artist": "Asher Fulero",
+ "mood": "Calm",
+ "vid": "e415684f0c73f004",
+ "display_mood": "Calm",
+ "title": "Pastoral",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChBlNDE1Njg0ZjBjNzNmMDA0EAAYAg%3D%3D&sigh=MeYXldTwWPOrVBwpWji-QQ",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "piano",
+  "keys",
+  "percussion",
+  "electric piano"
+ ],
+ "genre": "Classical",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e415684f0c73f004",
+ "category": ""
+}

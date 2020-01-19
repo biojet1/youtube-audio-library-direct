@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Dramatic",
+ "genre": "Cinematic",
+ "streamid": "0oFUtBOy_p4kaVjmDpHa6xwJgsY4q8aVd_66pDDeY5S9EsxuFtFpKWRqSVHiyUs8",
+ "fp_ref_id": "79b2600209808e34",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjODRIWChA3OWIyNjAwMjA5ODA4ZTM0EAAYAg%3D%3D&sigh=9n4qBWT-HsRnqmWhfJ5RdA",
+ "mood": "Dramatic",
+ "vid": "79b2600209808e34",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=79b2600209808e34",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "reference_vid": "79b2600209808e34",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100449",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 223.083,
+ "category": "",
+ "title": "Infados"
+}

@@ -1,0 +1,31 @@
+{
+ "reference_vid": "43ac447e657cc6cf",
+ "popularity_percentile": 78,
+ "display_genre": "Rock",
+ "license_type": 6,
+ "fp_ref_id": "43ac447e657cc6cf",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "title": "Chipper - Happy Rock",
+ "downloadable": true,
+ "mood": "Happy",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 85.083,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "streamid": "aH8LuuHQkAWJgsjQ_d-4-ZwCSv7MF4HtGY6CeZg7HEzGoqBY2iNA_8ciW0EiQ2Vk",
+ "vid": "43ac447e657cc6cf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiYBRIWChA0M2FjNDQ3ZTY1N2NjNmNmEAAYAg%3D%3D&sigh=2XvRwALRsIVIY6-TM9jaVw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=43ac447e657cc6cf",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100295",
+ "album": "None",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Rock"
+}

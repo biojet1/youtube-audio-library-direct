@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Bright",
+ "genre": "Country & Folk",
+ "streamid": "JElrEYD9kOnLAby_gEiG0KRWPzLHK6zww78rGHm3wReZDchmEWCy3DcQJh0kZjB4",
+ "fp_ref_id": "8ac9a1cfef7c9e20",
+ "artist": "Wes Hutchinson",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChA4YWM5YTFjZmVmN2M5ZTIwEAAYAg%3D%3D&sigh=44FAF-cUwZigCAa1B_z_dw",
+ "mood": "Bright",
+ "vid": "8ac9a1cfef7c9e20",
+ "display_genre": "Country & Folk",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ac9a1cfef7c9e20",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "album": "None",
+ "reference_vid": "8ac9a1cfef7c9e20",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 181.216,
+ "category": "",
+ "title": "Ghosts of California"
+}

@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "title": "Blues Blast",
+ "album": "None",
+ "artist": "John Deley",
+ "popularity_percentile": 5,
+ "category": "",
+ "display_genre": "Jazz & Blues",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "vid": "0b4cc6bf3651f7b8",
+ "streamid": "9q-cH_my5YtvA8DdjdFHUHIKCsujNvY6svGj_aOaANLGVhY139ONRpAdDhA1hf3X",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChAwYjRjYzZiZjM2NTFmN2I4EAAYAg%3D%3D&sigh=LiGKv1WufMud7oB1Ju7LTw",
+ "fp_ref_id": "0b4cc6bf3651f7b8",
+ "len": 179.9,
+ "favorite": false,
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0b4cc6bf3651f7b8",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b4cc6bf3651f7b8",
+ "downloadable": true
+}

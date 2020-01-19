@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "06d2d96a050ca0a4",
+ "artist_url": "https://www.youtube.com/channel/UCE8in8drPryPgRY9IDZB1XQ",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "06d2d96a050ca0a4",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "808",
+  "electric guitar"
+ ],
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=06d2d96a050ca0a4",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChAwNmQyZDk2YTA1MGNhMGE0EAAYAg%3D%3D&sigh=8xvBiItc2nco11z2lOaT0w",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "vid": "06d2d96a050ca0a4",
+ "len": 117,
+ "mood": "Dramatic",
+ "streamid": "zi-IPOOjTQhwat2VFstpvykM9OBIrKxbFVtPvvMCCeKivPEl8wJhgjinfdAiePGV",
+ "artist": "Alge",
+ "is_new_track": false,
+ "title": "Can't Stan Decimals",
+ "genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCE8in8drPryPgRY9IDZB1XQ"
+}

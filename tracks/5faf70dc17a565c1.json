@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "_ud09FMn7cN9TfRKReEcTs_mfDLa2SsCJKdfHmsYRvDBfMKLmr0Vzb-ZHP_Xd5zp",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIieAxIWChA1ZmFmNzBkYzE3YTU2NWMxEAAYAg%3D%3D&sigh=dF-c-v7jXMaUJCCEUfwc_w",
+ "album": "None",
+ "artist": "United States Marine Band",
+ "mood": "Inspirational",
+ "len": 53.983,
+ "reference_vid": "5faf70dc17a565c1",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "vid": "5faf70dc17a565c1",
+ "title": "America the Beautiful",
+ "fp_ref_id": "5faf70dc17a565c1",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5faf70dc17a565c1",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 1,
+ "display_genre": "Classical"
+}

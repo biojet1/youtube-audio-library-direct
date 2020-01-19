@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "artist": "Audionautix",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0732a8813334efc1",
+ "artist_channel_url": null,
+ "display_category": "",
+ "display_mood": "Happy",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChAwNzMyYTg4MTMzMzRlZmMxEAAYAg%3D%3D&sigh=jjUMPePrBCsbeqtpZ8U4vw",
+ "len": 146.616,
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "display_genre": "Jazz & Blues",
+ "reference_vid": "0732a8813334efc1",
+ "is_new_track": false,
+ "title": "Boogie Woogie Bed",
+ "track_url": "",
+ "popularity_percentile": 42,
+ "streamid": "dIQKt92b0KqYHIxkXYPlMigiPUwjezqfiz0rDLCJ12SW_zhFI0PAynqJSEYq_t5U",
+ "genre": "Jazz & Blues",
+ "vid": "0732a8813334efc1",
+ "favorite": false,
+ "fp_ref_id": "0732a8813334efc1"
+}

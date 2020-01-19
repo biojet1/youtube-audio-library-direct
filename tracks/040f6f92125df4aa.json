@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCXDRIWChAwNDBmNmY5MjEyNWRmNGFhEAAYAg%3D%3D&sigh=j3jspVR9mHFnMKU3E8dPRQ",
+ "title": "Don't Hate Me",
+ "favorite": false,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "fp_ref_id": "040f6f92125df4aa",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "track_url": "",
+ "display_genre": "Pop",
+ "artist": "Jingle Punks",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Pop",
+ "popularity_percentile": 2,
+ "reference_vid": "040f6f92125df4aa",
+ "streamid": "LHTEp5I7Dr3BSHeE0HMXlHbc22znFPyyHWdiV7ZQ4_qN7jc6zuJnDhjZ667H1B6U",
+ "artist_url": "",
+ "len": 216.25,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=040f6f92125df4aa",
+ "vid": "040f6f92125df4aa",
+ "category": ""
+}

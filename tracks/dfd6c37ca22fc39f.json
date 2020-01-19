@@ -1,0 +1,29 @@
+{
+ "reference_vid": "dfd6c37ca22fc39f",
+ "popularity_percentile": 78,
+ "display_genre": "Holiday",
+ "license_type": 6,
+ "fp_ref_id": "dfd6c37ca22fc39f",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "title": "Noel",
+ "downloadable": true,
+ "mood": "Happy",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 52.95,
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "streamid": "w-4xJZEiyIN5C97QFSREKkwzqYS2VUG20ILgsNlxlwSo1GD_Sao0Kf_182M79mvb",
+ "vid": "dfd6c37ca22fc39f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCWAxIWChBkZmQ2YzM3Y2EyMmZjMzlmEAAYAg%3D%3D&sigh=tVrbact3sV7qJ9CseqBR4A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dfd6c37ca22fc39f",
+ "artist": "Audionautix",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Holiday"
+}

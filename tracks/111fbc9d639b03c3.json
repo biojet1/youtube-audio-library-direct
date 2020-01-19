@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "display_genre": "Ambient",
+ "category": "",
+ "fp_ref_id": "111fbc9d639b03c3",
+ "artist": "Chris Zabriskie",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Cylinder Three",
+ "vid": "111fbc9d639b03c3",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChAxMTFmYmM5ZDYzOWIwM2MzEAAYAg%3D%3D&sigh=R_QhwPufi8SrNTXWiN2Yfg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=111fbc9d639b03c3",
+ "display_category": "",
+ "len": 166.316,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://chriszabriskie.com/cylinders/",
+ "downloadable": true,
+ "streamid": "Q7A5QoFvlAlaAdXrBLB6t32pIeqKGjtqysmin65cgUyaJYNXD1xjB35urHzi9vvl",
+ "reference_vid": "111fbc9d639b03c3",
+ "instruments": [
+  "Organ",
+  "Synth"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://chriszabriskie.com/",
+ "genre": "Ambient"
+}

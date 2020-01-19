@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "strings",
+  "piano",
+  "drums",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=26499c6a4000c77c",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "len": 176.866,
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "3MUMDzJb1Z_jie3U7yCenPePnErTO6IXtCCX6H9-OqIHcqjh6lS0AiWBhE5Z5GEN",
+ "category": "",
+ "title": "Deep Horrors",
+ "display_mood": "Dark",
+ "favorite": false,
+ "reference_vid": "26499c6a4000c77c",
+ "genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChAyNjQ5OWM2YTQwMDBjNzdjEAAYAg%3D%3D&sigh=YtM8-16JIEM77uf0EetDUg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "26499c6a4000c77c",
+ "license_type": 0,
+ "popularity_percentile": 15,
+ "vid": "26499c6a4000c77c"
+}

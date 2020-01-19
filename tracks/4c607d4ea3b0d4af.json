@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "streamid": "RStOolVjAXMASDGdJMf7z-cxsIAbHVlC4_PkZBMuG1Ul14hV6ib7TvqEeWG9SK-8",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "4c607d4ea3b0d4af",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "category": "",
+ "popularity_percentile": 30,
+ "license_type": 0,
+ "fp_ref_id": "4c607d4ea3b0d4af",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiDDBIWChA0YzYwN2Q0ZWEzYjBkNGFmEAAYAg%3D%3D&sigh=iA6H5kAocEconGsKxqvQUQ",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4c607d4ea3b0d4af",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "artist": "Dougie Wood",
+ "mood": "Funky",
+ "title": "Boo Boogie",
+ "len": 197.683,
+ "vid": "4c607d4ea3b0d4af",
+ "track_url": ""
+}

@@ -1,0 +1,33 @@
+{
+ "len": 106,
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "9u4uFViNt00_MGEQzAeH8-Wukw-dgaOgdCxVEepRUZIvLIyclsBl_grVTFDQmGUD",
+ "genre": "Classical",
+ "vid": "4316c293cb211224",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4316c293cb211224",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "artist_channel_url": "/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "title": "Invitation to the Castle Ball",
+ "instruments": [
+  "bassoon",
+  "violins",
+  "harpsicord",
+  "cellos",
+  "violas"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "4316c293cb211224",
+ "mood": "Bright",
+ "album": "None",
+ "reference_vid": "4316c293cb211224",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA0MzE2YzI5M2NiMjExMjI0EAAYAg%3D%3D&sigh=J6tBlkoQqxkmNzqXvqCKrg",
+ "display_genre": "Classical",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "artist": "Doug Maxwell"
+}

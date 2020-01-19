@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b7ac056036264d19",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "category": "",
+ "title": "Klondike",
+ "track_url": "",
+ "vid": "b7ac056036264d19",
+ "mood": "Dark",
+ "is_new_track": false,
+ "len": 160,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "6oG1yZYZdUr3b2wvHwHUlZ8T1mZUrasDwCNafKyIJzD5hCI-lMEF3sy64_U6QeV9",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Audio Hertz",
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "reference_vid": "b7ac056036264d19",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChBiN2FjMDU2MDM2MjY0ZDE5EAAYAg%3D%3D&sigh=44wv0F6CON7b2id7VFtACw",
+ "fp_ref_id": "b7ac056036264d19",
+ "genre": "Hip Hop & Rap",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "license_type": 1
+}

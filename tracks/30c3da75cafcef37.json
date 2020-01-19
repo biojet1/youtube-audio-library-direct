@@ -1,0 +1,29 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 105.65,
+ "fp_ref_id": "30c3da75cafcef37",
+ "artist_url": "http://chriszabriskie.com/",
+ "streamid": "lyboKE1GW-E2UnU1nQKbC8O61sTkpH_uozU6wHUMaghhp1CAITBPHDD6uRCTit2u",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Ambient",
+ "instruments": [
+  "Piano"
+ ],
+ "track_url": "http://chriszabriskie.com/cylinders/",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Calm",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=30c3da75cafcef37",
+ "mood": "Calm",
+ "artist": "Chris Zabriskie",
+ "display_genre": "Ambient",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChAzMGMzZGE3NWNhZmNlZjM3EAAYAg%3D%3D&sigh=wdDwj6tgCIdk1i-d7-5mJg",
+ "title": "Cylinder Six",
+ "reference_vid": "30c3da75cafcef37",
+ "vid": "30c3da75cafcef37"
+}

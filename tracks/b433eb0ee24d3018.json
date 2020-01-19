@@ -1,0 +1,30 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "b433eb0ee24d3018",
+ "mood": "Bright",
+ "title": "Santorini 2",
+ "category": "",
+ "genre": "Pop",
+ "album": "None",
+ "len": 95,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChBiNDMzZWIwZWUyNGQzMDE4EAAYAg%3D%3D&sigh=7F4Wp719rQUmxoP8maHCDQ",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b433eb0ee24d3018",
+ "fp_ref_id": "b433eb0ee24d3018",
+ "artist": "Vibe Mountain",
+ "display_mood": "Bright",
+ "display_genre": "Pop",
+ "streamid": "YrsjOZ8BewW1QBgZAaeSka28JNsII_7RRnwJt9vgT0uQ3R06usKEVqs7mpiyV_Ab",
+ "artist_channel_url": "/channel/UCqR-pY7pgaX2eNymgooqUwQ",
+ "display_category": "",
+ "instruments": [
+  "synths",
+  "drums"
+ ],
+ "vid": "b433eb0ee24d3018"
+}

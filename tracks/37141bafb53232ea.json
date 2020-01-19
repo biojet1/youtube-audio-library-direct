@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "37141bafb53232ea",
+ "display_genre": "Pop",
+ "artist": "Audionautix",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAzNzE0MWJhZmI1MzIzMmVhEAAYAg%3D%3D&sigh=yV5f_F1xVJtkKzOPrswyUQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=37141bafb53232ea",
+ "len": 183.583,
+ "mood": "Romantic",
+ "title": "Emily Walks Away",
+ "vid": "37141bafb53232ea",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Pop",
+ "display_mood": "Romantic",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Synth",
+  "Strings"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "37141bafb53232ea",
+ "streamid": "a-i3NCVrNeOgg0oJ_VPJGKtxCsX6Ir2rQw9vw0jpsnOoXq-B7wAOlso8WzGYDUym"
+}

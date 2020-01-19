@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "9d96b546373dd477",
+ "instruments": [
+  "Synth"
+ ],
+ "artist_url": "http://chriszabriskie.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Ambient",
+ "category": "",
+ "artist": "Chris Zabriskie",
+ "display_category": "",
+ "streamid": "89E_fJm1R6M8AQo9xHEhiay9wSDsWkjZ0WnmB8JJSL5t3j2xLRA2KoX9S2T7jb3_",
+ "license_type": 6,
+ "vid": "9d96b546373dd477",
+ "popularity_percentile": 74,
+ "reference_vid": "9d96b546373dd477",
+ "display_genre": "Ambient",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 340.083,
+ "track_url": "http://chriszabriskie.com/divider/",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDgFBIWChA5ZDk2YjU0NjM3M2RkNDc3EAAYAg%3D%3D&sigh=MRKmZxs2ZazNrkkXShQ3Gg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9d96b546373dd477",
+ "title": "Candlepower"
+}

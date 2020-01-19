@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "c7ff1e12a69ba429",
+ "category": "",
+ "license_type": 6,
+ "title": "Cool Hard Facts - Exhilarate",
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "display_mood": "Bright",
+ "album": "None",
+ "streamid": "9T55xX2VD42k0FFqWZFYi61-oZXdBqTzfG8mo1qBT79ieA7dBAeDAmk-AUVPoyyA",
+ "len": 136.616,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c7ff1e12a69ba429",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChBjN2ZmMWUxMmE2OWJhNDI5EAAYAg%3D%3D&sigh=wcvjXwqFffNHQtosunXuFw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "c7ff1e12a69ba429",
+ "is_new_track": false,
+ "mood": "Bright",
+ "fp_ref_id": "c7ff1e12a69ba429",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100280"
+}

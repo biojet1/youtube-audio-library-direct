@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums",
+  "Strings"
+ ],
+ "album": "None",
+ "streamid": "8au6Uwb2qAiIokZTfFCl7ZmILXKiKAIT30lEMGnhhImStlHcCaM_7GmQGTpRPYkg",
+ "title": "Aurea Carmina",
+ "display_genre": "Dance & Electronic",
+ "vid": "2d4d1c770fefbc82",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "2d4d1c770fefbc82",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006",
+ "is_new_track": false,
+ "mood": "Funky",
+ "license_type": 6,
+ "fp_ref_id": "2d4d1c770fefbc82",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Kevin MacLeod",
+ "len": 211.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjwDBIWChAyZDRkMWM3NzBmZWZiYzgyEAAYAg%3D%3D&sigh=sJj5c2L31phZ-YGNy7iqCA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2d4d1c770fefbc82"
+}

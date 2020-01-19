@@ -1,0 +1,29 @@
+{
+ "streamid": "i3VfJROxkYGZHGDfcyH0Udfmqixj62XXMkJ5Ew0dyW22_tOc1iKxen6j7Z6PP6hN",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChBlNGM1YjNiNDEzOTg1YTFiEAAYAg%3D%3D&sigh=KLXLfmkLT9pH6VoXiVZ_7w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4c5b3b413985a1b",
+ "favorite": false,
+ "genre": "Cinematic",
+ "title": "Samurai Showdown",
+ "mood": "Dramatic",
+ "category": "",
+ "vid": "e4c5b3b413985a1b",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "e4c5b3b413985a1b",
+ "len": 163,
+ "display_mood": "Dramatic",
+ "artist": "Sir Cubworth",
+ "downloadable": true,
+ "fp_ref_id": "e4c5b3b413985a1b",
+ "album": "None",
+ "instruments": [
+  "drums"
+ ]
+}

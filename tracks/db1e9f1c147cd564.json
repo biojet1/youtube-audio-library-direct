@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "db1e9f1c147cd564",
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Classical",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "98EO3sZCeKyQ08jWoxKHH4uqiHgxXywwoZRu7PfWugEVlw5ecj_pjORb4WybzXf2",
+ "license_type": 6,
+ "vid": "db1e9f1c147cd564",
+ "popularity_percentile": 73,
+ "reference_vid": "db1e9f1c147cd564",
+ "display_genre": "Classical",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 28.183,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100421",
+ "downloadable": true,
+ "display_mood": "Sad",
+ "mood": "Sad",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODaARIWChBkYjFlOWYxYzE0N2NkNTY0EAAYAg%3D%3D&sigh=ywcHFKVj89Usf64PG68Vug",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=db1e9f1c147cd564",
+ "title": "Flighty Theme"
+}

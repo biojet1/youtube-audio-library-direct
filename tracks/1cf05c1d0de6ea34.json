@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1cf05c1d0de6ea34",
+ "fp_ref_id": "1cf05c1d0de6ea34",
+ "artist_url": "",
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1cf05c1d0de6ea34",
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "len": 211.3,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjwDBIWChAxY2YwNWMxZDBkZTZlYTM0EAAYAg%3D%3D&sigh=5WNY5KvTEO7gZsnebVXEnQ",
+ "album": "None",
+ "title": "Roll The Top Down",
+ "popularity_percentile": 11,
+ "streamid": "LAJ-LG2QIE7y2kNU2fSPHUwUgN0wSR_IlvflAP90ZIe22tx8TtjhMnLR6kp3CwAs",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "favorite": false,
+ "vid": "1cf05c1d0de6ea34",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Gunnar Olsen"
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "61b11e3145d9b819",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=61b11e3145d9b819",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChA2MWIxMWUzMTQ1ZDliODE5EAAYAg%3D%3D&sigh=9VPIZcGBGrUkLR_YbfUw6g",
+ "is_new_track": false,
+ "reference_vid": "61b11e3145d9b819",
+ "display_mood": "Dark",
+ "favorite": false,
+ "category": "",
+ "title": "Where The Trap Is",
+ "streamid": "-X7xz3NzyH6HIvIhKyAB59IkuDR0pQUvJKJk58MzQ91HcDKrKt5vWYrKcTRlzNV8",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 147,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Audio Hertz",
+ "instruments": [
+  "synth",
+  "808",
+  "bass",
+  "drums"
+ ],
+ "fp_ref_id": "61b11e3145d9b819"
+}

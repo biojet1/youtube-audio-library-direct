@@ -1,0 +1,33 @@
+{
+ "vid": "5a66deb0ec278db0",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5a66deb0ec278db0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a66deb0ec278db0",
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ",
+  "Trumpet"
+ ],
+ "track_url": "",
+ "title": "Down 'N Dirty (Sting)",
+ "genre": "R&B & Soul",
+ "mood": "Funky",
+ "artist": "Jingle Punks",
+ "display_mood": "Funky",
+ "streamid": "6PFkFUzWrJAuXZmVw5pSrcwkoDsBBVqVjDfDps52jD8VR1oN9rzeamVA-23HbMTo",
+ "display_category": "",
+ "len": 5.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDVhNjZkZWIwZWMyNzhkYjAQABgC&sigh=Eot5ZC5VBQRJo69xqYZEWA",
+ "reference_vid": "5a66deb0ec278db0",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "R&B & Soul"
+}

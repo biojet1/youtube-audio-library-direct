@@ -1,0 +1,31 @@
+{
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "vid": "8324290de369e595",
+ "display_category": "",
+ "streamid": "TKce6Q3QDvs7VGTIc5OQIu4WpviwKeiIOGbLcmtLJHnJtUbsmxFLezc-AuiB4fIJ",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8324290de369e595",
+ "fp_ref_id": "8324290de369e595",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA4MzI0MjkwZGUzNjllNTk1EAAYAg%3D%3D&sigh=ceyZxXXhJ66x_WAn1d7FQg",
+ "display_genre": "Hip Hop & Rap",
+ "len": 163.216,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "reference_vid": "8324290de369e595",
+ "title": "Bell Trap",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Dark",
+ "popularity_percentile": 52
+}

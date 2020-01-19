@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChAzZjJjZGQwN2ExMmJhYjQ0EAAYAg%3D%3D&sigh=z1nGxBboWfICdaQemmpxdA",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "display_mood": "Inspirational",
+ "artist": "E's Jammy Jams",
+ "artist_channel_url": null,
+ "vid": "3f2cdd07a12bab44",
+ "reference_vid": "3f2cdd07a12bab44",
+ "genre": "Holiday",
+ "popularity_percentile": 24,
+ "display_genre": "Holiday",
+ "favorite": false,
+ "track_url": "",
+ "title": "Deck the Halls (Instrumental Jazz)",
+ "downloadable": true,
+ "category": "",
+ "streamid": "xenczstA_wQTmDkYS3jqr0LMHXk6FUH_U9y0OtOaGt85cWeu3O2uYBjPzrghKOl3",
+ "fp_ref_id": "3f2cdd07a12bab44",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f2cdd07a12bab44",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Inspirational",
+ "len": 145.616
+}

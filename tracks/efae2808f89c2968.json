@@ -1,0 +1,31 @@
+{
+ "artist": "Jingle Punks",
+ "mood": "Sad",
+ "vid": "efae2808f89c2968",
+ "streamid": "Kht9gty3Lo17Bi67gS6HXg8mU15qU20S4ASQC_LIvl_gaWKXd8G4wQS3wN-p9lKh",
+ "display_category": "",
+ "track_url": "",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=efae2808f89c2968",
+ "fp_ref_id": "efae2808f89c2968",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChBlZmFlMjgwOGY4OWMyOTY4EAAYAg%3D%3D&sigh=1ihBp3ibcONr_wtUiDavXw",
+ "len": 88.05,
+ "display_genre": "Ambient",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Ambient",
+ "reference_vid": "efae2808f89c2968",
+ "title": "Ambient Ambulance",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "",
+ "category": "",
+ "display_mood": "Sad",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 0
+}

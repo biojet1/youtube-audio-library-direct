@@ -1,0 +1,29 @@
+{
+ "title": "Redwood Trail",
+ "favorite": false,
+ "len": 118.35,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBmMjFiZTA2MDE1MzhiMGY1EAAYAg%3D%3D&sigh=NqYuJhACyFnzXvh3tSznuQ",
+ "fp_ref_id": "f21be0601538b0f5",
+ "artist_channel_url": null,
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "genre": "Country & Folk",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "reference_vid": "f21be0601538b0f5",
+ "display_category": "",
+ "vid": "f21be0601538b0f5",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f21be0601538b0f5",
+ "streamid": "P-5-9JWb-UMojt9DO145A4wghgAnY3tNJbMjOhpAya07N0lg1V96lU78mdWe7tUi",
+ "artist": "Audionautix"
+}

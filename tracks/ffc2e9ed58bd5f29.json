@@ -1,0 +1,31 @@
+{
+ "display_mood": "Romantic",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMA-EhYKEGZmYzJlOWVkNThiZDVmMjkQABgC&sigh=8sZUOhe6VS60SGk8qV9EEg",
+ "instruments": [
+  "Trumpet",
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "ffc2e9ed58bd5f29",
+ "reference_vid": "ffc2e9ed58bd5f29",
+ "popularity_percentile": 99,
+ "artist": "Doug Maxwell/Media Right Productions",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ffc2e9ed58bd5f29",
+ "mood": "Romantic",
+ "genre": "Jazz & Blues",
+ "streamid": "I-2t-0JgmHqkDgoHvUsk4qHnkbxJLTuseCS_c1g1_yODfXKt7p897TGDIYcUyH-J",
+ "title": "1940's Slow Dance (Sting)",
+ "downloadable": true,
+ "category": "",
+ "len": 8.483,
+ "artist_url": "",
+ "display_genre": "Jazz & Blues",
+ "fp_ref_id": "ffc2e9ed58bd5f29",
+ "album": "None"
+}

@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "5e4ca9dfc434c5fe",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "5e4ca9dfc434c5fe",
+ "instruments": [
+  "synth"
+ ],
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5e4ca9dfc434c5fe",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChA1ZTRjYTlkZmM0MzRjNWZlEAAYAg%3D%3D&sigh=Ifh19bAWDYSgmFd0q9X-zw",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "5e4ca9dfc434c5fe",
+ "len": 96,
+ "mood": "Dark",
+ "streamid": "EpjvcnpMJLyDzJEWGXTUCXDJ4zesSIgCpjaqUW5g7DWhwpjaGsLs_r2gHsXnf-pY",
+ "artist": "Coyote Hearing",
+ "is_new_track": false,
+ "title": "Bed Bugs",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ"
+}

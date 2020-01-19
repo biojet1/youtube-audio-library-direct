@@ -1,0 +1,33 @@
+{
+ "artist": "Topher Mohr and Alex Elena",
+ "display_category": "",
+ "genre": "Pop",
+ "vid": "ed304fd18df575a0",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Synth",
+  "Drums",
+  "Organ"
+ ],
+ "reference_vid": "ed304fd18df575a0",
+ "artist_url": "",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "album": "None",
+ "category": "",
+ "license_type": 0,
+ "display_genre": "Pop",
+ "track_url": "",
+ "artist_channel_url": null,
+ "fp_ref_id": "ed304fd18df575a0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ed304fd18df575a0",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChBlZDMwNGZkMThkZjU3NWEwEAAYAg%3D%3D&sigh=NePmJaIxHF_XK1la74ajeA",
+ "streamid": "4noE0CAGkPJBwNgchZU-reM2qxhFO047iB3JYNNqdKw8ygJGwsv96XdOjHpC_jDN",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 191.916,
+ "title": "Reasons to Smile",
+ "favorite": false
+}

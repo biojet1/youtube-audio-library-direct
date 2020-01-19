@@ -1,0 +1,31 @@
+{
+ "display_mood": "Angry",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "r6bZBZ6YIb9eAaM0iwcQObbqf2tm4Kbj9I341R8QsUma02LG6-gSvBDTwb-eNzFA",
+ "title": "Granite",
+ "display_genre": "Rock",
+ "vid": "bca666e45520b6b7",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "bca666e45520b6b7",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Angry",
+ "license_type": 0,
+ "fp_ref_id": "bca666e45520b6b7",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Ethan Meixsell",
+ "len": 133.383,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBiY2E2NjZlNDU1MjBiNmI3EAAYAg%3D%3D&sigh=db_pHd807mn0fqFRdP3M9w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bca666e45520b6b7"
+}

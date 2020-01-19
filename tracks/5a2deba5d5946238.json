@@ -1,0 +1,30 @@
+{
+ "display_genre": "Dance & Electronic",
+ "license_type": 1,
+ "genre": "Dance & Electronic",
+ "artist_url": "",
+ "vid": "5a2deba5d5946238",
+ "artist": "Coyote Hearing",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "5a2deba5d5946238",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "instruments": [
+  "Drum Machine",
+  "Synth"
+ ],
+ "album": "None",
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChA1YTJkZWJhNWQ1OTQ2MjM4EAAYAg%3D%3D&sigh=YCx-NvPW7lrdwNlKrBCjlQ",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Happy",
+ "title": "Happy Feet",
+ "reference_vid": "5a2deba5d5946238",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a2deba5d5946238",
+ "track_url": "",
+ "len": 153.7,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "CbCc0oDdwcYmQPkl9hsBFZ3ueUyyC5j-IG2p0xy1pqmlMw2r5sD43ZWrhiO-lBW6"
+}

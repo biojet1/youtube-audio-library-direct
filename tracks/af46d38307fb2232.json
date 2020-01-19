@@ -1,0 +1,33 @@
+{
+ "reference_vid": "af46d38307fb2232",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "af46d38307fb2232",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=af46d38307fb2232",
+ "mood": "Dramatic",
+ "artist": "MK2",
+ "vid": "af46d38307fb2232",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEGFmNDZkMzgzMDdmYjIyMzIQABgC&sigh=WSbytcHDCL7dao5Wkk-nkg",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Electric Guitar",
+  "Strings",
+  "Brass"
+ ],
+ "downloadable": true,
+ "streamid": "e8lcyX_SibqWl09sdooDaEFJwIwS7U7Umd-Rw-nrZmnbRAGiUGz0seTwGsRp9Bfn",
+ "len": 10.25,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Hero Theme (Sting)",
+ "genre": "Cinematic",
+ "display_category": ""
+}

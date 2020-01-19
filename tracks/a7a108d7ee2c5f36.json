@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "genre": "Cinematic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "electric guitar",
+  "percussion",
+  "drums"
+ ],
+ "reference_vid": "a7a108d7ee2c5f36",
+ "streamid": "bLnUjOIbaT85M-Ny7XkfKnqhPxGbc3tYtrBVrxffJOG-6A0OFN-9nVi4ZNV0cxK7",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a7a108d7ee2c5f36",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChBhN2ExMDhkN2VlMmM1ZjM2EAAYAg%3D%3D&sigh=Nd5b0Ip74kTIFwo8dXHvrA",
+ "len": 153,
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "vid": "a7a108d7ee2c5f36",
+ "title": "Should We Go?",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "favorite": false,
+ "fp_ref_id": "a7a108d7ee2c5f36",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "artist": "Jeremy Korpas"
+}

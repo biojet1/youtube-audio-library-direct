@@ -1,0 +1,31 @@
+{
+ "genre": "Hip Hop & Rap",
+ "display_genre": "Hip Hop & Rap",
+ "len": 130.25,
+ "display_category": "",
+ "reference_vid": "42b9cb1799a7110f",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Otis McDonald",
+ "fp_ref_id": "42b9cb1799a7110f",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "ycTp6DeKQUszD_HM0hnvBxOF1hNCHhAx9dUuzQTiiMp4aRcZ8PTJC9mvHg0fdM_I",
+ "display_mood": "Funky",
+ "vid": "42b9cb1799a7110f",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChA0MmI5Y2IxNzk5YTcxMTBmEAAYAg%3D%3D&sigh=HiDcpJ-Rh49tPKGpHmgTVg",
+ "category": "",
+ "title": "Roller Blades",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=42b9cb1799a7110f"
+}

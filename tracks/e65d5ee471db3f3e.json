@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e65d5ee471db3f3e",
+ "category": "",
+ "title": "Friction Looks",
+ "genre": "Rock",
+ "favorite": false,
+ "reference_vid": "e65d5ee471db3f3e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChBlNjVkNWVlNDcxZGIzZjNlEAAYAg%3D%3D&sigh=abEqJetkh0N31xgK22zt2A",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e65d5ee471db3f3e",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e65d5ee471db3f3e",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Silent Partner",
+ "len": 112.316,
+ "display_mood": "Bright",
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "uhfRD_91RuDFTBwvTlRCniWHhF9whpFtquwBP2qssCSluZ1k3rQAGYC7HB03SfVn"
+}

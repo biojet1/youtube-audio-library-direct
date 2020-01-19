@@ -1,0 +1,33 @@
+{
+ "vid": "16c1ff5d0d1d5227",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "16c1ff5d0d1d5227",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=16c1ff5d0d1d5227",
+ "favorite": false,
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Trumpet",
+  "Piano"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200091",
+ "title": "Disco con Tutti",
+ "genre": "Jazz & Blues",
+ "mood": "Funky",
+ "artist": "Kevin MacLeod",
+ "display_mood": "Funky",
+ "streamid": "I2H9ppFXcuVKfTNEyxSnQsOfY-1pmE2wyyNKafBF1vj0dAAcobTgyh862yIav4kN",
+ "display_category": "",
+ "len": 236.35,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCzDhIWChAxNmMxZmY1ZDBkMWQ1MjI3EAAYAg%3D%3D&sigh=CO3gFGKf9vmQT1jWQiY5Gw",
+ "reference_vid": "16c1ff5d0d1d5227",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Jazz & Blues"
+}

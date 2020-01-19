@@ -1,0 +1,31 @@
+{
+ "artist": "Lish Grooves",
+ "display_category": "",
+ "genre": "Rock",
+ "vid": "a53d1fd7b3ed79fd",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "reference_vid": "a53d1fd7b3ed79fd",
+ "artist_url": "https://www.youtube.com/channel/UCic-oq3pWq4hfUVbxP7zxMQ",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Rock",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCic-oq3pWq4hfUVbxP7zxMQ",
+ "fp_ref_id": "a53d1fd7b3ed79fd",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a53d1fd7b3ed79fd",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBhNTNkMWZkN2IzZWQ3OWZkEAAYAg%3D%3D&sigh=SByvYx0ZQE5oZ9VWVx4xPQ",
+ "streamid": "rWqASOJeopS9rKH56n2HYvKcJb781AFuJ354mE50Mx-Q0NQ3wewl56rYWsW6OeFY",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 144,
+ "title": "Glass",
+ "favorite": false
+}

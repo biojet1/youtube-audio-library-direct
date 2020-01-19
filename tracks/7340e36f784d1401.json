@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "vid": "7340e36f784d1401",
+ "title": "Fly Away",
+ "mood": "Funky",
+ "reference_vid": "7340e36f784d1401",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 165.15,
+ "fp_ref_id": "7340e36f784d1401",
+ "is_new_track": false,
+ "artist": "Otis McDonald",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Acoustic Guitar"
+ ],
+ "streamid": "JrxYscWiclBLUYAEPhWve_cU3ygAj_ieVEHFeb0ftfQtUROUPmr6Qkh0i-MDnF1f",
+ "display_mood": "Funky",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7340e36f784d1401",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChA3MzQwZTM2Zjc4NGQxNDAxEAAYAg%3D%3D&sigh=qURjhE8DNHNLw9WPlvnNfw",
+ "genre": "Pop"
+}

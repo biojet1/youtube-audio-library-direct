@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChAwMTBlMWY0NDE5NDc2MGZhEAAYAg%3D%3D&sigh=6ucx5NF8i3htzQBOR9Pv2g",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=010e1f44194760fa",
+ "title": "Impending Boom",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100198",
+ "is_new_track": false,
+ "reference_vid": "010e1f44194760fa",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Strings"
+ ],
+ "favorite": false,
+ "fp_ref_id": "010e1f44194760fa",
+ "display_genre": "Classical",
+ "len": 156.983,
+ "vid": "010e1f44194760fa",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 34,
+ "genre": "Classical",
+ "streamid": "0Yc6c5b13XEy6sbUNwnoHPtOXb6JAMWd2Y0toLTo65R-JfH0QdY_CjdqHpTCRgaF",
+ "artist_channel_url": null
+}

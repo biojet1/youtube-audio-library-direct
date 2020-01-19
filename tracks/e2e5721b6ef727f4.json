@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Classical",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Trumpet"
+ ],
+ "album": "None",
+ "streamid": "lVO8w-wxE1HnDPBDN5CU3M9XBQA3hg5v4xS2YDY5qlPt4il4mf_TJsdi_CWKFDcA",
+ "title": "Suspense Action",
+ "display_genre": "Classical",
+ "vid": "e2e5721b6ef727f4",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "e2e5721b6ef727f4",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 6,
+ "fp_ref_id": "e2e5721b6ef727f4",
+ "display_category": "",
+ "popularity_percentile": 74,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 136.516,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChBlMmU1NzIxYjZlZjcyN2Y0EAAYAg%3D%3D&sigh=NBPcirHHuCvCFYHVRh4Vjg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e2e5721b6ef727f4"
+}

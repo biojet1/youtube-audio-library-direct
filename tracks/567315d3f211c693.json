@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "567315d3f211c693",
+ "category": "",
+ "title": "Feather Waltz",
+ "display_genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "genre": "Classical",
+ "display_mood": "Calm",
+ "streamid": "Sn5U6ne4fsefT2CA2vf2tjO7DW188ZTtEJNgloZAnDtZ0b1EH-V9heY0ouxkLFv0",
+ "album": "None",
+ "len": 90.066,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=567315d3f211c693",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChA1NjczMTVkM2YyMTFjNjkzEAAYAg%3D%3D&sigh=ul9Ljn6ZAAoNJi6XMt347Q",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "567315d3f211c693",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "567315d3f211c693",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100658"
+}

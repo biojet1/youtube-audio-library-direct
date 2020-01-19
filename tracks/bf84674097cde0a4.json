@@ -1,0 +1,29 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "bf84674097cde0a4",
+ "mood": "Happy",
+ "title": "Wild Pogo",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "len": 130,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBiZjg0Njc0MDk3Y2RlMGE0EAAYAg%3D%3D&sigh=A51l_NrVJ-hp31OKWgpVuA",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf84674097cde0a4",
+ "fp_ref_id": "bf84674097cde0a4",
+ "artist": "Francis Preve",
+ "display_mood": "Happy",
+ "display_genre": "Dance & Electronic",
+ "streamid": "zwmLRx_VOzEXs9vYIq3KGSLqnlSTl_6jW3IEOMxVuYFJWooggTznX747-S4xXMu9",
+ "artist_channel_url": "/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "display_category": "",
+ "instruments": [
+  "synth"
+ ],
+ "vid": "bf84674097cde0a4"
+}

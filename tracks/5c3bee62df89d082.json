@@ -1,0 +1,32 @@
+{
+ "vid": "5c3bee62df89d082",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5c3bee62df89d082",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5c3bee62df89d082",
+ "favorite": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "track_url": "",
+ "title": "Magic Marker",
+ "genre": "Dance & Electronic",
+ "mood": "Inspirational",
+ "artist": "Silent Partner",
+ "display_mood": "Inspirational",
+ "streamid": "F21mX7t1qBtanJhL81wzOU3OIGDCo6tJ77KOSHWzYdBcna_r0ql4NI0ALNbYTiKT",
+ "display_category": "",
+ "len": 164.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA1YzNiZWU2MmRmODlkMDgyEAAYAg%3D%3D&sigh=UxcWNVg95yGBIA6H6u8OOA",
+ "reference_vid": "5c3bee62df89d082",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Dance & Electronic"
+}

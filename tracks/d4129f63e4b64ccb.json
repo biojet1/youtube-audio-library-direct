@@ -1,0 +1,30 @@
+{
+ "artist": "ann annie",
+ "display_category": "",
+ "genre": "Cinematic",
+ "vid": "d4129f63e4b64ccb",
+ "instruments": [
+  "synth",
+  "piano"
+ ],
+ "reference_vid": "d4129f63e4b64ccb",
+ "artist_url": "https://www.youtube.com/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "fp_ref_id": "d4129f63e4b64ccb",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d4129f63e4b64ccb",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLC6ERIWChBkNDEyOWY2M2U0YjY0Y2NiEAAYAg%3D%3D&sigh=DXlL8AOjNAjX-AbRe8KUgQ",
+ "streamid": "VuvBfAVQuZpJzJ4aTSA9NLBx-sEiypk8aHN3KH3mjS_PiC9zuf-XxhOrh0gtUQIg",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 286,
+ "title": "Windswept",
+ "favorite": false
+}

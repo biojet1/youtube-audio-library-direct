@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Dark",
+ "display_category": "",
+ "fp_ref_id": "77b3de12eaf99548",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=77b3de12eaf99548",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "77b3de12eaf99548",
+ "len": 215.55,
+ "display_mood": "Dark",
+ "streamid": "W4EIjrDsZYjcpr9mX_jstkfq_P3ATgywiwo3pTrfL8uW25jgIr8EejEDAlzOLYSf",
+ "display_genre": "Ambient",
+ "title": "A Walk Into Space",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Ambient",
+ "vid": "77b3de12eaf99548",
+ "artist": "Topher Mohr and Alex Elena",
+ "instruments": [
+  "Electric Guitar",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiPDRIWChA3N2IzZGUxMmVhZjk5NTQ4EAAYAg%3D%3D&sigh=CIg2ONRZlNtLRhNRpG3ZBQ"
+}

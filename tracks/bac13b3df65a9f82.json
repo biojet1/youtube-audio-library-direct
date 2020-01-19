@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "reference_vid": "bac13b3df65a9f82",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBiYWMxM2IzZGY2NWE5ZjgyEAAYAg%3D%3D&sigh=2IzhGi5ucztbtXKm5fCDKg",
+ "display_mood": "Dramatic",
+ "title": "Journeyman",
+ "artist": "Aakash Gandhi",
+ "is_new_track": false,
+ "len": 140,
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "bac13b3df65a9f82",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bac13b3df65a9f82",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "license_type": 1,
+ "instruments": [
+  "strings",
+  "piano",
+  "drums"
+ ],
+ "fp_ref_id": "bac13b3df65a9f82",
+ "streamid": "BcSwAO-LHFhtMWC98i1G05pkKQKOZFBkddiWGzHRDXa-XNkqwruLT3qduXPD7j7I"
+}

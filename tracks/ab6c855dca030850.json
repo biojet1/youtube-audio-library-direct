@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "vid": "ab6c855dca030850",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab6c855dca030850",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChBhYjZjODU1ZGNhMDMwODUwEAAYAg%3D%3D&sigh=SJGgJPD6O1t24lDOU2EPdQ",
+ "is_new_track": false,
+ "reference_vid": "ab6c855dca030850",
+ "display_mood": "Dark",
+ "favorite": false,
+ "category": "",
+ "title": "Subterranean Howl",
+ "streamid": "a9rkoQi_SJUtG6PpaLAZnnAl-sxxEnkncG1ypzLZBe5RfzmrI7ZUYna8z3qeTcwl",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCjEK32QlJe0Dy4nXxelXrww",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "len": 183,
+ "album": "None",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "ELPHNT",
+ "instruments": [
+  "bass",
+  "synth"
+ ],
+ "fp_ref_id": "ab6c855dca030850"
+}

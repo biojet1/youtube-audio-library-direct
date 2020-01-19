@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "YTKySuwpZUXWPQf7T3Fm1d140rALH_hL1MNkslSEiS6j_3v4epElEW0eTN_MEJAz",
+ "title": "Everybody Poops",
+ "display_genre": "Country & Folk",
+ "vid": "30cbe935b5f4159d",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "30cbe935b5f4159d",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Happy",
+ "license_type": 6,
+ "fp_ref_id": "30cbe935b5f4159d",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 125.85,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChAzMGNiZTkzNWI1ZjQxNTlkEAAYAg%3D%3D&sigh=OcsGwaO3oFODwHrgjN9nZA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=30cbe935b5f4159d"
+}

@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "reference_vid": "3c57d14f77d00e83",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "hemj1-lfpdw8G8cPRyLOS3KEWkaL8nP_i50RtYGHIy9e1g1FE_JiimCxNrqy2rMA",
+ "display_mood": "Happy",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ],
+ "display_genre": "Rock",
+ "title": "Home",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "3c57d14f77d00e83",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChAzYzU3ZDE0Zjc3ZDAwZTgzEAAYAg%3D%3D&sigh=7zotAqXqt_wGCp-Igwiz-g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3c57d14f77d00e83",
+ "artist": "Letter Box",
+ "len": 213.416,
+ "track_url": "",
+ "fp_ref_id": "3c57d14f77d00e83",
+ "mood": "Happy",
+ "is_new_track": false,
+ "popularity_percentile": 23,
+ "display_category": ""
+}

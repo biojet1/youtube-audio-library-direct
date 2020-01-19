@@ -1,0 +1,32 @@
+{
+ "title": "Above It All",
+ "is_new_track": false,
+ "artist": "Jingle Punks",
+ "streamid": "5l_voDI7gnL0V7HgkGNEM5EOTNzgxoA5LwAuxpTPOuGS2qURtljQpHI4aI-oJlug",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Country & Folk",
+ "vid": "2ea2238bb33a5075",
+ "display_mood": "Happy",
+ "len": 67.766,
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "reference_vid": "2ea2238bb33a5075",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Organ",
+  "Bass"
+ ],
+ "category": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ea2238bb33a5075",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiLBBIWChAyZWEyMjM4YmIzM2E1MDc1EAAYAg%3D%3D&sigh=9jek_xEA-uQC3P7tpgGTYg",
+ "favorite": false,
+ "fp_ref_id": "2ea2238bb33a5075",
+ "album": "None",
+ "popularity_percentile": 18,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

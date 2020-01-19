@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "95b2af3e0dd7bdc2",
+ "artist": "Chris Zabriskie",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Prelude No. 3",
+ "vid": "95b2af3e0dd7bdc2",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChA5NWIyYWYzZTBkZDdiZGMyEAAYAg%3D%3D&sigh=pNeEpmDM3e50-EDYo6kpTw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95b2af3e0dd7bdc2",
+ "display_category": "",
+ "len": 90.35,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "downloadable": true,
+ "streamid": "yS0imKTLqu48PlyIa_FQJrB2Lx9CeUBamUeuCb0ejiCDg6fFoR0ijqVdu2XC5oRP",
+ "reference_vid": "95b2af3e0dd7bdc2",
+ "instruments": [
+  "Piano"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://chriszabriskie.com/",
+ "genre": "Classical"
+}

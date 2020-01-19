@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "fa60b1f26d712a9f",
+ "display_genre": "Cinematic",
+ "artist": "Audionautix",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChBmYTYwYjFmMjZkNzEyYTlmEAAYAg%3D%3D&sigh=osulm2oGr5Youo9ea3EyeQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fa60b1f26d712a9f",
+ "len": 186.083,
+ "mood": "Dark",
+ "title": "Search And Destory",
+ "vid": "fa60b1f26d712a9f",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Cinematic",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "fa60b1f26d712a9f",
+ "streamid": "QZsjBbYCj2uiVLjp3kotr6ZMbHqORJHk_ahSQQVzifpH0RtyKreBfppQXWDF-6V3"
+}

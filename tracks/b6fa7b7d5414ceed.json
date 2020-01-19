@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "b6fa7b7d5414ceed",
+ "mood": "Happy",
+ "reference_vid": "b6fa7b7d5414ceed",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBiNmZhN2I3ZDU0MTRjZWVkEAAYAg%3D%3D&sigh=YNlxtSrvJz9MsdSe6lj-5Q",
+ "len": 130.316,
+ "favorite": false,
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b6fa7b7d5414ceed",
+ "streamid": "FG3kta-3Qw41T2uXqaITxonxC8E7Z_1PTgTWXR4GYM6UKDSWc2rc8rRGRPAIb9g-",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6fa7b7d5414ceed",
+ "title": "Tracks Of My Fears",
+ "display_genre": "R&B & Soul",
+ "artist": "John Deley and the 41 Players",
+ "genre": "R&B & Soul",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Piano",
+  "Drums"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

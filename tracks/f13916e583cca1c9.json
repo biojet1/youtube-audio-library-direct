@@ -1,0 +1,30 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChBmMTM5MTZlNTgzY2NhMWM5EAAYAg%3D%3D&sigh=aLj2M79MXCFkCRfJyfhK6A",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "f13916e583cca1c9",
+ "downloadable": true,
+ "reference_vid": "f13916e583cca1c9",
+ "favorite": false,
+ "fp_ref_id": "f13916e583cca1c9",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f13916e583cca1c9",
+ "genre": "Ambient",
+ "streamid": "89TwDeTFBRTWiYBqDF03fHOgGGq4ME1f97pY5TaitKsKMMqLKQD6goIJe1DuAu6J",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 134,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Temple of The Mind",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth",
+  "electric guitar"
+ ]
+}

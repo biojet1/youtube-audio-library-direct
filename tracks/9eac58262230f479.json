@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9eac58262230f479",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChA5ZWFjNTgyNjIyMzBmNDc5EAAYAg%3D%3D&sigh=MtV8J_JZBB3LiG3yRRU_TA",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9eac58262230f479",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_genre": "Rock",
+ "vid": "9eac58262230f479",
+ "downloadable": true,
+ "title": "Sea of Sand",
+ "reference_vid": "9eac58262230f479",
+ "artist_url": "",
+ "len": 138.816,
+ "artist": "Ethan Meixsell",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "yxdYZiAzvmK-rETOdSsc2oaGCuZhTlptwN1Yv2yLpZaXaTCCT5Eq1WWwD9GTrh6t",
+ "album": "None",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "genre": "Rock",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

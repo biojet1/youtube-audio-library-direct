@@ -1,0 +1,31 @@
+{
+ "streamid": "8tD9WUDta6EUilDS5n7FbzhTtlXqrfMpO1NTHnGNC25BPUXazx6Q4S2sDS94-9N5",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChBjMDY0NzA2NTYyZjUyMzRmEAAYAg%3D%3D&sigh=1S8q9wnh2itWyKxuPf4WTQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c064706562f5234f",
+ "favorite": false,
+ "genre": "Cinematic",
+ "title": "Earthly Destiny",
+ "mood": "Dramatic",
+ "category": "",
+ "vid": "c064706562f5234f",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "c064706562f5234f",
+ "len": 168,
+ "display_mood": "Dramatic",
+ "artist": "Sir Cubworth",
+ "downloadable": true,
+ "fp_ref_id": "c064706562f5234f",
+ "album": "None",
+ "instruments": [
+  "strings",
+  "organ",
+  "synth"
+ ]
+}

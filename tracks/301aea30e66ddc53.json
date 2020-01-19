@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 185.15,
+ "fp_ref_id": "301aea30e66ddc53",
+ "artist_url": "http://www.twinmusicom.org",
+ "streamid": "z5dvJafM4ZiNCNdHH3mxl86D2ZfHUD-n3c0yt4lS3WGK6A82MNctPJ0gqR4_hFsn",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "track_url": "http://www.twinmusicom.org/song/304/in-the-past",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Dark",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=301aea30e66ddc53",
+ "mood": "Dark",
+ "artist": "Twin Musicom",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChAzMDFhZWEzMGU2NmRkYzUzEAAYAg%3D%3D&sigh=kA0S0-NaETGoXAFZlq3Ufg",
+ "title": "In the Past",
+ "reference_vid": "301aea30e66ddc53",
+ "vid": "301aea30e66ddc53"
+}

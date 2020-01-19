@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "artist": "Jeremy Korpas",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "downloadable": true,
+ "fp_ref_id": "7d8882b5d7b326c7",
+ "popularity_percentile": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA3ZDg4ODJiNWQ3YjMyNmM3EAAYAg%3D%3D&sigh=uWoRDzdeQnlwnqQe1SnfuQ",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "7d8882b5d7b326c7",
+ "streamid": "kyQVY5pgJVH7RNEXRGtx_J8jU7G9QcDG-G6xLc3OVo2t7DyD8i15iEgMc0Tp31y4",
+ "mood": "Bright",
+ "reference_vid": "7d8882b5d7b326c7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7d8882b5d7b326c7",
+ "title": "Sprinkles",
+ "display_mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "drum machine",
+  "drums",
+  "synth"
+ ],
+ "len": 123,
+ "album": "None",
+ "track_url": ""
+}

@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d49c54c8681a2e42",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPhVEhYKEGQ0OWM1NGM4NjgxYTJlNDIQABgC&sigh=5vcR3fakst_0K2JhBUgmUQ",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "d49c54c8681a2e42",
+ "mood": "Angry",
+ "display_mood": "Angry",
+ "is_new_track": false,
+ "display_genre": "Rock",
+ "vid": "d49c54c8681a2e42",
+ "downloadable": true,
+ "title": "Rock Intro 4",
+ "reference_vid": "d49c54c8681a2e42",
+ "artist_url": "http://audionautix.com/",
+ "len": 11.55,
+ "artist": "Audionautix",
+ "license_type": 6,
+ "track_url": "",
+ "streamid": "p3Wrdi6A9QQNUGAf9upOrE-JdsEqJWdgOe3z4lv0cw9jaDc5G3IAqr-rsv1WcL9k",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "genre": "Rock",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

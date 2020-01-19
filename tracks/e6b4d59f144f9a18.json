@@ -1,0 +1,31 @@
+{
+ "display_mood": "Angry",
+ "is_new_track": false,
+ "len": 145.483,
+ "mood": "Angry",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChBlNmI0ZDU5ZjE0NGY5YTE4EAAYAg%3D%3D&sigh=xEOw9Ch1X3SGJP0pn5m_aA",
+ "genre": "Rock",
+ "streamid": "gMqVtTzhjliC2cT0gQz14qq-Q6pymEAUaqBFgWLMxPwgNaI5UmhEfnbZPkgfS931",
+ "downloadable": true,
+ "fp_ref_id": "e6b4d59f144f9a18",
+ "vid": "e6b4d59f144f9a18",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Rock",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e6b4d59f144f9a18",
+ "category": "",
+ "reference_vid": "e6b4d59f144f9a18",
+ "title": "Exhilarate",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300028"
+}

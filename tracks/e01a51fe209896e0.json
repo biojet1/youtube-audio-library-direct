@@ -1,0 +1,33 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChBlMDFhNTFmZTIwOTg5NmUwEAAYAg%3D%3D&sigh=aoWxPhmdVNumtVHubZBqXA",
+ "instruments": [
+  "bass",
+  "drums",
+  "electric guitar",
+  "synth",
+  "piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "e01a51fe209896e0",
+ "reference_vid": "e01a51fe209896e0",
+ "popularity_percentile": 99,
+ "artist": "Drew Banga",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e01a51fe209896e0",
+ "mood": "Happy",
+ "genre": "R&B & Soul",
+ "streamid": "5OAxHGX-GGpa8T-dESOsDTt6AfKFqeIoGKN6LTw8ZeH5PEqGpuV58uCsiqr3bQlZ",
+ "title": "Groove",
+ "downloadable": true,
+ "category": "",
+ "len": 136,
+ "artist_url": "https://www.youtube.com/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "display_genre": "R&B & Soul",
+ "fp_ref_id": "e01a51fe209896e0",
+ "album": "None"
+}

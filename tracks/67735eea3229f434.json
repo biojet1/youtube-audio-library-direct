@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=67735eea3229f434",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "len": 168.016,
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "streamid": "FGDNHiqS5s9verj7R8SVaGEc3Zaj4Ppc0csarna53H2Qzz9NayhhvT69I4VIks74",
+ "category": "",
+ "title": "Texas Techno",
+ "display_mood": "Happy",
+ "favorite": false,
+ "reference_vid": "67735eea3229f434",
+ "genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA2NzczNWVlYTMyMjlmNDM0EAAYAg%3D%3D&sigh=soHlegszxeqitZ1HKpU2_w",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "67735eea3229f434",
+ "license_type": 6,
+ "popularity_percentile": 82,
+ "vid": "67735eea3229f434"
+}

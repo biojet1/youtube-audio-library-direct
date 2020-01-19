@@ -1,0 +1,30 @@
+{
+ "mood": "Funky",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChAxNmRiMWQzZDE5NTQzM2EwEAAYAg%3D%3D&sigh=hP7-2R04Ru9TbUB4aB6W4w",
+ "display_mood": "Funky",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=16db1d3d195433a0",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Chasms",
+ "title": "Sudden Vision",
+ "reference_vid": "16db1d3d195433a0",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "16db1d3d195433a0",
+ "vid": "16db1d3d195433a0",
+ "category": "",
+ "streamid": "6lkeBpMGy8lqK6ergQx-DeD014lg1O1rCbkY5jqTJSKaZdmxhT0ZU1-IfTJI9OW9",
+ "popularity_percentile": 99,
+ "len": 103,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

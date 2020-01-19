@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCDBBIWChA1ZWUzYzljNjU1YTkwMTA4EAAYAg%3D%3D&sigh=IWKJ8Hy9y5INUA6o1BF-Sg",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "5ee3c9c655a90108",
+ "reference_vid": "5ee3c9c655a90108",
+ "popularity_percentile": 99,
+ "artist": "Drew Banga",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ee3c9c655a90108",
+ "mood": "Dark",
+ "genre": "Hip Hop & Rap",
+ "streamid": "6H0-3UOV7640Ek0gFPuQNSjCCIgfXi7eeB-VTAzq_d6AOybGEccnbVMLpfhADh1R",
+ "title": "Lose Yourself",
+ "downloadable": true,
+ "category": "",
+ "len": 66,
+ "artist_url": "https://www.youtube.com/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "5ee3c9c655a90108",
+ "album": "None"
+}

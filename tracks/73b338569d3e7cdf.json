@@ -1,0 +1,32 @@
+{
+ "display_genre": "Jazz & Blues",
+ "vid": "73b338569d3e7cdf",
+ "title": "Country Blues",
+ "mood": "Bright",
+ "reference_vid": "73b338569d3e7cdf",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 116.45,
+ "fp_ref_id": "73b338569d3e7cdf",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "streamid": "kveA4RNnamD4DiURbusICi6NxXIf3DXDoTP5uG5P8q7uZHILvmbY6HdUO22Z3c42",
+ "display_mood": "Bright",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73b338569d3e7cdf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA3M2IzMzg1NjlkM2U3Y2RmEAAYAg%3D%3D&sigh=4Y4BRkc7RsZqS7FtIkmPGg",
+ "genre": "Jazz & Blues"
+}

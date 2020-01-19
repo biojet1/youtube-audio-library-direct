@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "7K-XOaBzoBGFMcKQwwXa8CSqGcapVjBTPf3CficznHcxxQYIXWS-35ThRJigm6Sl",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=035435fb6863dcba",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChAwMzU0MzVmYjY4NjNkY2JhEAAYAg%3D%3D&sigh=_UOhI3TWWKvrHup1hBUuLw",
+ "vid": "035435fb6863dcba",
+ "display_category": "",
+ "title": "Impromptu in Blue",
+ "album": "None",
+ "mood": "Sad",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Sad",
+ "reference_vid": "035435fb6863dcba",
+ "len": 128.083,
+ "genre": "Classical",
+ "popularity_percentile": 33,
+ "fp_ref_id": "035435fb6863dcba",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100456",
+ "display_genre": "Classical",
+ "license_type": 6,
+ "instruments": [
+  "Piano"
+ ]
+}

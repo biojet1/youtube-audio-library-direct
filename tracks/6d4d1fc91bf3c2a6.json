@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "Ko1FC5aJjM690OLzVyOMw53UHZPhZ-XvDAN5Nafdlh303QJy7apHTEiCSiZ494jf",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6d4d1fc91bf3c2a6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChA2ZDRkMWZjOTFiZjNjMmE2EAAYAg%3D%3D&sigh=-BgSTDJNf4xjwZFnPu9Bdg",
+ "vid": "6d4d1fc91bf3c2a6",
+ "display_category": "",
+ "title": "Dance of the Sugar Plum Fairy",
+ "album": "None",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "reference_vid": "6d4d1fc91bf3c2a6",
+ "len": 119.916,
+ "popularity_percentile": 51,
+ "genre": "Holiday",
+ "fp_ref_id": "6d4d1fc91bf3c2a6",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100270",
+ "display_genre": "Holiday",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Piano"
+ ],
+ "license_type": 6
+}

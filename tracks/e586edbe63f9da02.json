@@ -1,0 +1,29 @@
+{
+ "streamid": "wfbuvHf81YDEB78Mm0zr9wjlkxz5kGqSlG_f5mcFQY9K2hYX0wOcOkGMFSfAGcHR",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBlNTg2ZWRiZTYzZjlkYTAyEAAYAg%3D%3D&sigh=wFS0gyrsZfvo20oyiQobuw",
+ "display_mood": "Happy",
+ "display_category": "",
+ "reference_vid": "e586edbe63f9da02",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e586edbe63f9da02",
+ "downloadable": true,
+ "len": 126.283,
+ "instruments": [
+  "Trumpet"
+ ],
+ "favorite": false,
+ "fp_ref_id": "e586edbe63f9da02",
+ "album": "None",
+ "artist_url": "",
+ "license_type": 1,
+ "artist": "United States Marine Band",
+ "popularity_percentile": 90,
+ "category": "",
+ "title": "Thomas Jefferson March",
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "e586edbe63f9da02",
+ "display_genre": "Classical"
+}

@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "d9c9d05a9a196d6b",
+ "mood": "Funky",
+ "title": "Royale",
+ "category": "",
+ "genre": "Rock",
+ "album": "None",
+ "len": 106,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBkOWM5ZDA1YTlhMTk2ZDZiEAAYAg%3D%3D&sigh=8bdr22MMeSioAwQ81hVKMA",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d9c9d05a9a196d6b",
+ "fp_ref_id": "d9c9d05a9a196d6b",
+ "artist": "Josh Lippi & The Overtimers",
+ "display_mood": "Funky",
+ "display_genre": "Rock",
+ "streamid": "jxRFOueKYSaaCVhL9rTEVq7D42K_Q0AfHO0v9Dh2JdiDwWzeKq_qh252jwOjH6dM",
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "display_category": "",
+ "instruments": [
+  "piano",
+  "organ",
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "vid": "d9c9d05a9a196d6b"
+}

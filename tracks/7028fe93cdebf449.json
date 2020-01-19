@@ -1,0 +1,29 @@
+{
+ "genre": "Classical",
+ "display_category": "",
+ "len": 152.983,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200072",
+ "fp_ref_id": "7028fe93cdebf449",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "zKeUJspZQXoVYao_fLIhlVP59WnDmgeUspg--XKpoK-nxJC8Ccney4yy0ddjZhyj",
+ "title": "Hall of the Mountain King",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7028fe93cdebf449",
+ "display_mood": "Dramatic",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "7028fe93cdebf449",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChA3MDI4ZmU5M2NkZWJmNDQ5EAAYAg%3D%3D&sigh=2vF5o8ypisyEdEAixO8EwQ",
+ "vid": "7028fe93cdebf449",
+ "display_genre": "Classical",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "instruments": [
+  "Strings"
+ ]
+}

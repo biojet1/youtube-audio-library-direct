@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "d2e9e1e35ce7882d",
+ "display_genre": "R&B & Soul",
+ "artist": "Jingle Punks",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMA-EhYKEGQyZTllMWUzNWNlNzg4MmQQABgC&sigh=kjdpNpp-HHkzSyuCrXTuRQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2e9e1e35ce7882d",
+ "len": 8.816,
+ "mood": "Funky",
+ "title": "Timed Out (Sting)",
+ "vid": "d2e9e1e35ce7882d",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 0,
+ "artist_url": "",
+ "genre": "R&B & Soul",
+ "display_mood": "Funky",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "d2e9e1e35ce7882d",
+ "streamid": "DAZm9PgxPq2wOyI-I4ebgDR86FRHTHoLi1jIjQxPonoHTJiJlVwgbfdQz8zR6PTZ"
+}

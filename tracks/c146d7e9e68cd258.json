@@ -1,0 +1,31 @@
+{
+ "streamid": "g-BoBE_kfwtAucGYOn-TEMW6OKLNuJbUZ_Qvo79AKvSIO1oRn9fHwU2KQBDyI_ui",
+ "genre": "Rock",
+ "fp_ref_id": "c146d7e9e68cd258",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c146d7e9e68cd258",
+ "favorite": false,
+ "reference_vid": "c146d7e9e68cd258",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Bright",
+ "display_category": "",
+ "vid": "c146d7e9e68cd258",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChBjMTQ2ZDdlOWU2OGNkMjU4EAAYAg%3D%3D&sigh=91VjO34Vbxc55q3363Ehxg",
+ "artist_url": "http://www.twinmusicom.org/",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Twin Musicom",
+ "title": "Green Monday",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 6,
+ "display_genre": "Rock",
+ "mood": "Bright",
+ "len": 121.916,
+ "popularity_percentile": 81
+}

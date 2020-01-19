@@ -1,0 +1,32 @@
+{
+ "display_genre": "Children's",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "artist": "Wayne Jones",
+ "reference_vid": "1fcf689c7977c026",
+ "genre": "Children's",
+ "streamid": "Ed14cXdHbe7JJFv-iAJJGivLeM9h9W2LDkhae2dFmnFVF037Ml20ciGRn4W2dcFf",
+ "len": 97.766,
+ "display_category": "",
+ "fp_ref_id": "1fcf689c7977c026",
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChAxZmNmNjg5Yzc5NzdjMDI2EAAYAg%3D%3D&sigh=yXqciUQJT0RqfwvtjlB-wg",
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "vid": "1fcf689c7977c026",
+ "display_mood": "Happy",
+ "favorite": false,
+ "mood": "Happy",
+ "downloadable": true,
+ "album": "None",
+ "title": "Goat",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1fcf689c7977c026",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "track_url": "",
+ "popularity_percentile": 99,
+ "category": ""
+}

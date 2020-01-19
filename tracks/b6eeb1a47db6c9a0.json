@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6eeb1a47db6c9a0",
+ "fp_ref_id": "b6eeb1a47db6c9a0",
+ "len": 161.2,
+ "artist": "Coyote Hearing",
+ "mood": "Funky",
+ "reference_vid": "b6eeb1a47db6c9a0",
+ "vid": "b6eeb1a47db6c9a0",
+ "title": "Drakula Funk",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Drum Machine",
+  "Synth"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "streamid": "innfVpEagZFFHucrdLzK1zPMolwPZCBKP_WvYhXvrVdD-1Q2IZKZpWixc9t3epo_",
+ "display_genre": "Dance & Electronic",
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChBiNmVlYjFhNDdkYjZjOWEwEAAYAg%3D%3D&sigh=WMPw7zd05ZASs4VgQDEpTA"
+}

@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "fp_ref_id": "17468a822d8fb447",
+ "artist_channel_url": "/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "reference_vid": "17468a822d8fb447",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 166,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChAxNzQ2OGE4MjJkOGZiNDQ3EAAYAg%3D%3D&sigh=RNS7VVjAuFtbtT2huodJnw",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=17468a822d8fb447",
+ "instruments": [
+  "piano",
+  "drums",
+  "bass"
+ ],
+ "title": "Happy Birthday Bouncy",
+ "genre": "Jazz & Blues",
+ "streamid": "sZyNHUEx06FdGpO1bv4bYcAs0DbSyFNY25avBoyvFiApANk8Ns-XxrmoCGoF5PjR",
+ "vid": "17468a822d8fb447",
+ "display_genre": "Jazz & Blues",
+ "mood": "Happy",
+ "license_type": 1,
+ "artist": "E's Jammy Jams"
+}

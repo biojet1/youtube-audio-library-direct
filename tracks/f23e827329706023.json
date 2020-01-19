@@ -1,0 +1,29 @@
+{
+ "mood": "Calm",
+ "artist": "Sir Cubworth",
+ "vid": "f23e827329706023",
+ "display_category": "",
+ "streamid": "Y3vvv3Xcl68_m5bYPE5mAqOfXa8VHItxwntYlJ7usn2bJuGZnB4hPf6UXbJl85As",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f23e827329706023",
+ "fp_ref_id": "f23e827329706023",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCUDhIWChBmMjNlODI3MzI5NzA2MDIzEAAYAg%3D%3D&sigh=5lmEpmJSGT63pO4FInMnBQ",
+ "display_genre": "Classical",
+ "len": 232,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "piano"
+ ],
+ "reference_vid": "f23e827329706023",
+ "title": "Simple Sonata",
+ "genre": "Classical",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "license_type": 1,
+ "display_mood": "Calm",
+ "popularity_percentile": 99
+}

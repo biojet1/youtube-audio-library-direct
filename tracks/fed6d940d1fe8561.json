@@ -1,0 +1,29 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBmZWQ2ZDk0MGQxZmU4NTYxEAAYAg%3D%3D&sigh=BUTHd_A0BK77nAGsJJUL6A",
+ "instruments": [
+  "piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fed6d940d1fe8561",
+ "reference_vid": "fed6d940d1fe8561",
+ "popularity_percentile": 99,
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fed6d940d1fe8561",
+ "mood": "Happy",
+ "genre": "Cinematic",
+ "streamid": "xPhZyvS3dyd_TDGuqk9uhgZCktBhsJ1oxpZ8U1YNksFZf-o1cbZwKl1LbEzMT2w2",
+ "title": "If I Had a Chicken",
+ "downloadable": true,
+ "category": "",
+ "len": 150.283,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "fed6d940d1fe8561",
+ "album": "None"
+}

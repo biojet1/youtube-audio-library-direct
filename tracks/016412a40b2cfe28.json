@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 212,
+ "display_mood": "Calm",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "016412a40b2cfe28",
+ "reference_vid": "016412a40b2cfe28",
+ "artist_channel_url": "/channel/UCej6bRv8lR48AEbQvdb_9Cg",
+ "license_type": 1,
+ "streamid": "3WFH-YCrId2Jll7fwmHX3jG_d0sqot8eaow5sVgDAfqOHIBfeMQugXqMUseZVXwh",
+ "vid": "016412a40b2cfe28",
+ "mood": "Calm",
+ "artist": "Otis McDonald",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChAwMTY0MTJhNDBiMmNmZTI4EAAYAg%3D%3D&sigh=4Y6EB2hdd6_rJGeiMjN8vQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=016412a40b2cfe28",
+ "category": "",
+ "title": "Thirty First Dream",
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Guitar",
+  "Synth"
+ ]
+}

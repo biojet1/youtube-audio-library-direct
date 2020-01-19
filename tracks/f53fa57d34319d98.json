@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Trumpet"
+ ],
+ "len": 204.716,
+ "fp_ref_id": "f53fa57d34319d98",
+ "streamid": "sFLVNqH4r_-CR7hJizN9OgvGm3lCS2tJsB8WBm6i0jJPcJxZieKkJHFvgTWdgh3y",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Rock",
+ "popularity_percentile": 64,
+ "vid": "f53fa57d34319d98",
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f53fa57d34319d98",
+ "album": "None",
+ "title": "Hot Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChBmNTNmYTU3ZDM0MzE5ZDk4EAAYAg%3D%3D&sigh=t01lURdQv91Ir1tCsghujg",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Dramatic",
+ "is_new_track": false,
+ "reference_vid": "f53fa57d34319d98",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100201",
+ "license_type": 6
+}

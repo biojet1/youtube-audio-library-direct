@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "22583c2d041105b7",
+ "track_url": "",
+ "fp_ref_id": "22583c2d041105b7",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Riot",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "reference_vid": "22583c2d041105b7",
+ "display_mood": "Dark",
+ "len": 114.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChAyMjU4M2MyZDA0MTEwNWI3EAAYAg%3D%3D&sigh=tdsuDD9zdmZOKRT1jNfd2w",
+ "popularity_percentile": 13,
+ "streamid": "jgu1hRcSqKGIj-jbmJjoZQCbz1rY5Q3-mR5oEYg93d5Ya5J5o6TgrukkW5Zcxv-E",
+ "license_type": 0,
+ "display_genre": "Rock",
+ "category": "",
+ "title": "Donations",
+ "genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22583c2d041105b7"
+}

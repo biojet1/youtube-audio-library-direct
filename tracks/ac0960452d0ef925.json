@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ac0960452d0ef925",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCPAuEhYKEGFjMDk2MDQ1MmQwZWY5MjUQABgC&sigh=W9h_7_W9bRS6zftYcWvFsw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac0960452d0ef925",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "R&B & Soul",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Organ",
+  "Drums"
+ ],
+ "reference_vid": "ac0960452d0ef925",
+ "category": "",
+ "len": 6.95,
+ "vid": "ac0960452d0ef925",
+ "display_mood": "Funky",
+ "artist_channel_url": null,
+ "mood": "Funky",
+ "license_type": 0,
+ "genre": "R&B & Soul",
+ "title": "Cruise (Sting)",
+ "is_new_track": false,
+ "artist": "John Deley and the 41 Players",
+ "streamid": "6YEa5Sf0pnQWNGwSDVaq84qCdwyY5FBYMaMufBt5ZOpcVoBhGgFPG0H17XGaUMxN"
+}

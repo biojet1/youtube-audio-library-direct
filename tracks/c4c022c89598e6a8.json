@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBjNGMwMjJjODk1OThlNmE4EAAYAg%3D%3D&sigh=yb4-75eNKVj54sfn7pXodQ",
+ "popularity_percentile": 76,
+ "display_category": "",
+ "reference_vid": "c4c022c89598e6a8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c4c022c89598e6a8",
+ "genre": "Rock",
+ "artist_url": "",
+ "len": 120.083,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "XLl3kGOXWAYnk2QroEk14ZwSluT2oIH6bcGzP5RQWcdDLkC0fZ8LMNplyIP0rr1z",
+ "display_mood": "Dark",
+ "display_genre": "Rock",
+ "mood": "Dark",
+ "title": "The Coming Storm",
+ "license_type": 0,
+ "track_url": "",
+ "vid": "c4c022c89598e6a8",
+ "artist": "Ethan Meixsell",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "c4c022c89598e6a8",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "album": "None"
+}

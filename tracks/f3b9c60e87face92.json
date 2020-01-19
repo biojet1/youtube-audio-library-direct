@@ -1,0 +1,32 @@
+{
+ "display_genre": "Reggae",
+ "license_type": 0,
+ "genre": "Reggae",
+ "artist_url": "",
+ "vid": "f3b9c60e87face92",
+ "artist": "Jingle Punks",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f3b9c60e87face92",
+ "artist_channel_url": null,
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums",
+  "Organ"
+ ],
+ "album": "None",
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBmM2I5YzYwZTg3ZmFjZTkyEAAYAg%3D%3D&sigh=H9rjhw8l2UHw6genHdlbBw",
+ "popularity_percentile": 95,
+ "display_category": "",
+ "mood": "Happy",
+ "title": "Dub Spirit",
+ "reference_vid": "f3b9c60e87face92",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f3b9c60e87face92",
+ "track_url": "",
+ "len": 94.683,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "O9BZpXvAuUjId4Pv8KUqaSL6kH8WOLaQtt50tV_CDEp1lvwxRLoFgC0RXIUHwtwI"
+}

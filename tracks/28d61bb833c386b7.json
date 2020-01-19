@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=28d61bb833c386b7",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "John Deley and the 41 Players",
+ "len": 173.05,
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "STj_7Py9nP6MLXIn7laXR2lUD-8VuNLa0cPs80TVbXzJwJJA2sZHaXXXr4ADcpMd",
+ "category": "",
+ "title": "Ersatz Bossa",
+ "display_mood": "Calm",
+ "favorite": false,
+ "reference_vid": "28d61bb833c386b7",
+ "genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChAyOGQ2MWJiODMzYzM4NmI3EAAYAg%3D%3D&sigh=k0fIlF9uPI8s42F6S2n-gw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "28d61bb833c386b7",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "28d61bb833c386b7"
+}

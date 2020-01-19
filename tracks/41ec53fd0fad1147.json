@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "mood": "Funky",
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChA0MWVjNTNmZDBmYWQxMTQ3EAAYAg%3D%3D&sigh=C0LQavwwN8j7Qxxivs0PKA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41ec53fd0fad1147",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "41ec53fd0fad1147",
+ "fp_ref_id": "41ec53fd0fad1147",
+ "category": "",
+ "title": "Thump",
+ "reference_vid": "41ec53fd0fad1147",
+ "artist": "Audionautix",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "ZGBG5WvlR1HvEhxSHs3-mdqQ7ky7zfrsoIZpPFDrktywxGQrV6aNNgVNbhtgXIps",
+ "len": 114.383,
+ "license_type": 6,
+ "is_new_track": false
+}

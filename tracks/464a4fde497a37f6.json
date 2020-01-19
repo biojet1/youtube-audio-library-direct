@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "reference_vid": "464a4fde497a37f6",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=464a4fde497a37f6",
+ "fp_ref_id": "464a4fde497a37f6",
+ "mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Synth"
+ ],
+ "len": 267.283,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPilEBIWChA0NjRhNGZkZTQ5N2EzN2Y2EAAYAg%3D%3D&sigh=5S7a4YNBeGIIs43SHNWIYw",
+ "streamid": "RHImL92ambRclxDJtR-2dVBmoaIOGP1XYiM7usnYwxUe_hTi3y1RAh4rovJD1ceS",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 80,
+ "title": "Mermaid",
+ "display_category": "",
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "vid": "464a4fde497a37f6",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100671",
+ "genre": "Ambient",
+ "category": "",
+ "favorite": false
+}

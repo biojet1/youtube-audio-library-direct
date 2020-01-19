@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Dance & Electronic",
+ "streamid": "MnJjR9mXec7GbYTbnTbDXK606Z6k6qoLujCmJELJy0b954HwHq9bAexUtZXFrgzH",
+ "reference_vid": "1b93263ec5562838",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500028",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b93263ec5562838",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChAxYjkzMjYzZWM1NTYyODM4EAAYAg%3D%3D&sigh=YW3cM0lEgqP1LhdvEz6PuQ",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "display_category": "",
+ "title": "Carnivale Intrigue",
+ "album": "None",
+ "vid": "1b93263ec5562838",
+ "downloadable": true,
+ "instruments": [
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "favorite": false,
+ "len": 199.65,
+ "fp_ref_id": "1b93263ec5562838",
+ "display_genre": "Dance & Electronic"
+}

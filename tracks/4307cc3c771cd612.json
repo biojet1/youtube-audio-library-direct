@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "http://www.twinmusicom.org/",
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "mood": "Bright",
+ "artist": "Twin Musicom",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4307cc3c771cd612",
+ "len": 21.65,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIikARIWChA0MzA3Y2MzYzc3MWNkNjEyEAAYAg%3D%3D&sigh=wHe4-oF2ZhsSGXMntbPJVA",
+ "fp_ref_id": "4307cc3c771cd612",
+ "vid": "4307cc3c771cd612",
+ "title": "Hit the Lights",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "4307cc3c771cd612",
+ "license_type": 6,
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "streamid": "py5mmWxTFWJ9zni9tmIMihW-G2XeTlOQj8J78uRhfk2LICvwlWEt8s4N7P5KCDEk",
+ "category": ""
+}

@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "eN1SjI6UWMhIaokowoBFgw4yG_hPuyJC7lgwnDL5c3HehKRJmSgI7wDmVMt1L_Zp",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81f803e28aa3ccff",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj9DRIWChA4MWY4MDNlMjhhYTNjY2ZmEAAYAg%3D%3D&sigh=xckkPqx8h38gvKjumRlVKA",
+ "vid": "81f803e28aa3ccff",
+ "display_category": "",
+ "title": "Tremsz",
+ "album": "None",
+ "mood": "Dark",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Gunnar Olsen",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "reference_vid": "81f803e28aa3ccff",
+ "len": 229.666,
+ "popularity_percentile": 51,
+ "genre": "Dance & Electronic",
+ "fp_ref_id": "81f803e28aa3ccff",
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth"
+ ],
+ "license_type": 0
+}

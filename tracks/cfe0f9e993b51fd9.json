@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cfe0f9e993b51fd9",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Puddle of Infinity",
+ "len": 212.016,
+ "display_category": "",
+ "display_genre": "Ambient",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "bheLAKCsb3Xd83sE127XBIs5o3FiUJZM7d6-7Vlf1r5E5sc_iJH8cHBL3hZhAIqX",
+ "category": "",
+ "title": "Cloud Wheels, Castle Builder",
+ "display_mood": "Calm",
+ "favorite": false,
+ "reference_vid": "cfe0f9e993b51fd9",
+ "genre": "Ambient",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChBjZmUwZjllOTkzYjUxZmQ5EAAYAg%3D%3D&sigh=AstyTGAvM11CTgNG71hGrg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "cfe0f9e993b51fd9",
+ "license_type": 1,
+ "popularity_percentile": 81,
+ "vid": "cfe0f9e993b51fd9"
+}

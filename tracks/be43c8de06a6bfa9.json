@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UC_v-LoMHkq9yiSv-OfsTeBQ",
+ "len": 136,
+ "vid": "be43c8de06a6bfa9",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "synth",
+  "drums"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "be43c8de06a6bfa9",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UC_v-LoMHkq9yiSv-OfsTeBQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChBiZTQzYzhkZTA2YTZiZmE5EAAYAg%3D%3D&sigh=3Hhpk1Kbgljt23Gi-I-LiA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=be43c8de06a6bfa9",
+ "mood": "Dramatic",
+ "genre": "Rock",
+ "title": "Ready-Set-Go!",
+ "display_genre": "Rock",
+ "artist": "Magic In The Other",
+ "reference_vid": "be43c8de06a6bfa9",
+ "streamid": "SiKIwwXcyTaKvv5Toh43AsrnSzuhKQwLU-U-V4RvwvzmiyH9tNlvorwWKpSJMUpk"
+}

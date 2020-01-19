@@ -1,0 +1,32 @@
+{
+ "display_mood": "Angry",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBmZDIwZDc3NTFlMGRhNDg0EAAYAg%3D%3D&sigh=I3DboXIkoVYnmCdPAWA2MA",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fd20d7751e0da484",
+ "reference_vid": "fd20d7751e0da484",
+ "popularity_percentile": 99,
+ "artist": "MK2",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fd20d7751e0da484",
+ "mood": "Angry",
+ "genre": "Hip Hop & Rap",
+ "streamid": "ChYUpPKKQoyXM8vT9ho1gUqTgAC23kyTQ4TRH5ex7YCvPIZ2cWwm0NzbjgxJlQ0D",
+ "title": "Move Out",
+ "downloadable": true,
+ "category": "",
+ "len": 135.55,
+ "artist_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "fd20d7751e0da484",
+ "album": "None"
+}

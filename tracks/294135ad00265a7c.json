@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Piano",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=294135ad00265a7c",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "John Deley and the 41 Players",
+ "len": 176.716,
+ "display_category": "",
+ "display_genre": "R&B & Soul",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "gwaS_jvAGvcqXyqY_1bazTlstMZ9j8OgYyHd6fUOOJv-5a-ARGLj5Jc6YeT5ipHM",
+ "category": "",
+ "title": "Dock Rock",
+ "display_mood": "Happy",
+ "favorite": false,
+ "reference_vid": "294135ad00265a7c",
+ "genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChAyOTQxMzVhZDAwMjY1YTdjEAAYAg%3D%3D&sigh=uHM02LUhDK75Zxcyzq06nA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "294135ad00265a7c",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "294135ad00265a7c"
+}

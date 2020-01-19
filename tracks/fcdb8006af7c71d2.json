@@ -1,0 +1,33 @@
+{
+ "genre": "R&B & Soul",
+ "display_genre": "R&B & Soul",
+ "len": 137,
+ "display_category": "",
+ "reference_vid": "fcdb8006af7c71d2",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Quincas Moreira",
+ "fp_ref_id": "fcdb8006af7c71d2",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "streamid": "FFRxHNxKLO4IibFhpzlmF-Kd5qzlY1DT9X-ZeibZKLuZiHeeF4V6CvDpT4-ul5VR",
+ "display_mood": "Happy",
+ "vid": "fcdb8006af7c71d2",
+ "track_url": "",
+ "instruments": [
+  "organ",
+  "horns",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChBmY2RiODAwNmFmN2M3MWQyEAAYAg%3D%3D&sigh=sPPaOgi3PHHOet8meTCyhQ",
+ "category": "",
+ "title": "Bluesed and Abused",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fcdb8006af7c71d2"
+}

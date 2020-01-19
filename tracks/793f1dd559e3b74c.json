@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Dramatic",
+ "display_category": "",
+ "fp_ref_id": "793f1dd559e3b74c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=793f1dd559e3b74c",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "793f1dd559e3b74c",
+ "len": 139.083,
+ "display_mood": "Dramatic",
+ "streamid": "7d-hzLZfKNhvLD5e1U7j2EBd-c_gDEOwyz1VXXMv0kpFcRaIc6FPRm30q7-IITuf",
+ "display_genre": "Dance & Electronic",
+ "title": "Pump",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Dance & Electronic",
+ "vid": "793f1dd559e3b74c",
+ "artist": "Gunnar Olsen",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA3OTNmMWRkNTU5ZTNiNzRjEAAYAg%3D%3D&sigh=8sJ0Eg8WGuJFKid6NaP0TQ"
+}

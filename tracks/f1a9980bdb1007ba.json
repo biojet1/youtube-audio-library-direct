@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "f1a9980bdb1007ba",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Classical",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f1a9980bdb1007ba",
+ "popularity_percentile": 95,
+ "vid": "f1a9980bdb1007ba",
+ "streamid": "cCSuqUmSyLHvETC4gyqlS7GJr1xtnT13ygyU5AAnM5sGasSUYuE5MrywqO5N5O0z",
+ "artist": "United States Marine Band",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBmMWE5OTgwYmRiMTAwN2JhEAAYAg%3D%3D&sigh=G0I7RCN8P-Mai6-JYgEz5g",
+ "display_category": "",
+ "title": "Star Spangled Banner",
+ "album": "None",
+ "license_type": 1,
+ "mood": "Dramatic",
+ "display_genre": "Classical",
+ "reference_vid": "f1a9980bdb1007ba",
+ "artist_url": "",
+ "track_url": "",
+ "instruments": [
+  "Trumpet",
+  "Drums"
+ ],
+ "len": 127.35,
+ "category": ""
+}

@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Inspirational",
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA2ZGI2ZjYzZmUzYmJkMTFmEAAYAg%3D%3D&sigh=bRWLn0N-Pt6KCacLWGZLCg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6db6f63fe3bbd11f",
+ "track_url": "",
+ "genre": "Holiday",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6db6f63fe3bbd11f",
+ "fp_ref_id": "6db6f63fe3bbd11f",
+ "category": "",
+ "title": "O Christmas Tree (Vocals)",
+ "reference_vid": "6db6f63fe3bbd11f",
+ "artist": "Jingle Punks",
+ "display_genre": "Holiday",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "qnX7xLbWw8eQy0on7Jd7PuWHLEJwVWZQ0yECGiPyIdOWiu8o4rR-LC_nw-hbtVJd",
+ "len": 163.283,
+ "license_type": 0,
+ "is_new_track": false
+}

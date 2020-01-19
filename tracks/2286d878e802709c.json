@@ -1,0 +1,33 @@
+{
+ "vid": "2286d878e802709c",
+ "mood": "Inspirational",
+ "artist": "Text Me Records / Bobby Renz",
+ "track_url": "",
+ "display_category": "",
+ "streamid": "mVRF4frdTyuiXaEkS-PVSmGDWyIR3hzZ6hp3Jn-q6AF06AqxbW821jJ88nqYU6DQ",
+ "favorite": false,
+ "fp_ref_id": "2286d878e802709c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2286d878e802709c",
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChAyMjg2ZDg3OGU4MDI3MDljEAAYAg%3D%3D&sigh=rMFJxFmc5SWUgjpXx3de1Q",
+ "downloadable": true,
+ "display_genre": "Pop",
+ "len": 153.433,
+ "is_new_track": false,
+ "license_type": 1,
+ "album": "None",
+ "category": "",
+ "artist_url": "",
+ "instruments": [
+  "Bass",
+  "strings",
+  "organ",
+  "Drums",
+  "Synth"
+ ],
+ "title": "Undeniable",
+ "reference_vid": "2286d878e802709c",
+ "genre": "Pop",
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99
+}

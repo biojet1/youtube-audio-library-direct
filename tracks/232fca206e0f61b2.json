@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "232fca206e0f61b2",
+ "track_url": "",
+ "fp_ref_id": "232fca206e0f61b2",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "Puddle of Infinity",
+ "instruments": [
+  "Electric Guitar",
+  "Synth",
+  "Bass"
+ ],
+ "reference_vid": "232fca206e0f61b2",
+ "display_mood": "Inspirational",
+ "len": 192.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChAyMzJmY2EyMDZlMGY2MWIyEAAYAg%3D%3D&sigh=-oN98s4NP5ddA2r9caHE5Q",
+ "popularity_percentile": 13,
+ "streamid": "ciRgpDmKDZKtOykmOtuAF3AiVY2jFftm2mHtUJ47w1oNOVdQgKYTep8OKhled3nz",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "category": "",
+ "title": "We Will Be",
+ "genre": "Cinematic",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=232fca206e0f61b2"
+}

@@ -1,0 +1,29 @@
+{
+ "mood": "Calm",
+ "artist_channel_url": "/channel/UC1zIiKvJIi7aYl2N68pWF8g",
+ "artist_url": "https://www.youtube.com/channel/UC1zIiKvJIi7aYl2N68pWF8g",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiiDBIWChA0ZmUxMjRiYTViYmEwNzVmEAAYAg%3D%3D&sigh=Yvnq1syimkoiaAJ6mxiD9Q",
+ "display_mood": "Calm",
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4fe124ba5bba075f",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "DivKid",
+ "title": "Dreamer",
+ "reference_vid": "4fe124ba5bba075f",
+ "instruments": [
+  "synth"
+ ],
+ "display_genre": "Ambient",
+ "fp_ref_id": "4fe124ba5bba075f",
+ "vid": "4fe124ba5bba075f",
+ "category": "",
+ "streamid": "6Uy7XohmK4QYEOEetngksCoUYmALHcYXG8zWBNfXAcSokPzqjs3xIYVRdfY_FKN3",
+ "popularity_percentile": 99,
+ "len": 201.2,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

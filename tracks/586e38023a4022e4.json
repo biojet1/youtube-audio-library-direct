@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCjAv3DfOK7rOsT79fQf2mrA",
+ "reference_vid": "586e38023a4022e4",
+ "streamid": "H8FzwIaUdm0ePq5iPN53YfWkMQWVmHek5s9Sj1SBsXq8hSBAhVBZEj5i1thMelcS",
+ "artist_url": "https://www.youtube.com/channel/UCjAv3DfOK7rOsT79fQf2mrA",
+ "favorite": false,
+ "fp_ref_id": "586e38023a4022e4",
+ "len": 129,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "artist": "RAGE",
+ "mood": "Dramatic",
+ "vid": "586e38023a4022e4",
+ "display_mood": "Dramatic",
+ "title": "Hiatus",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChA1ODZlMzgwMjNhNDAyMmU0EAAYAg%3D%3D&sigh=w_HF1LLSmAb4vYlK7Vv81g",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "808",
+  "bass",
+  "drums"
+ ],
+ "genre": "Hip Hop & Rap",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=586e38023a4022e4",
+ "category": ""
+}

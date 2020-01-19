@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Sad",
+ "genre": "Rock",
+ "streamid": "0rvq_y-_r4ibJVmv8Eqw5U8cfraMmaSow2C2APBULuUWLPScZEKkdhZJQAGlcAJ6",
+ "fp_ref_id": "7b8d72ff4fa465d8",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC8CxIWChA3YjhkNzJmZjRmYTQ2NWQ4EAAYAg%3D%3D&sigh=iSxPOJSmmPRizWwcytb5gw",
+ "mood": "Sad",
+ "vid": "7b8d72ff4fa465d8",
+ "display_genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7b8d72ff4fa465d8",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano"
+ ],
+ "album": "None",
+ "reference_vid": "7b8d72ff4fa465d8",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100841",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 188.05,
+ "category": "",
+ "title": "I Feel You"
+}

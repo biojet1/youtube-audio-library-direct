@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": "/channel/UC0OnsB1dH_tEEyfihBlq4bg",
+ "fp_ref_id": "7a63a22327461456",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj6DhIWChA3YTYzYTIyMzI3NDYxNDU2EAAYAg%3D%3D&sigh=joQPs6LZ3G-AUKirAvPpqQ",
+ "streamid": "icJO8l7DF-6Q3oyPqHXxfxBk58wxx9xAfA_AVJZverHZtYxwBTDgYy5PTkrdar4m",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 245,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7a63a22327461456",
+ "favorite": false,
+ "title": "Manchester Dream",
+ "artist": "Bruno E.",
+ "genre": "Alternative & Punk",
+ "vid": "7a63a22327461456",
+ "display_category": "",
+ "reference_vid": "7a63a22327461456",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Acoustic Guitar"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UC0OnsB1dH_tEEyfihBlq4bg",
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Alternative & Punk",
+ "is_new_track": false
+}

@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "5567b636f55ae722",
+ "category": "",
+ "title": "Blue Sizzle - Madness Paranoia",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "genre": "Ambient",
+ "display_mood": "Dark",
+ "streamid": "4NWoUK9SCz90eWp2oSWI0F8ZaPGFi3OzNCZncBp5-pnmiL0jjq8qLpyA8kNrZThI",
+ "album": "None",
+ "len": 146.083,
+ "artist": "Kevin MacLeod",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5567b636f55ae722",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA1NTY3YjYzNmY1NWFlNzIyEAAYAg%3D%3D&sigh=UjRrM3UvvZ9yJlsU6e8mbg",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "5567b636f55ae722",
+ "is_new_track": false,
+ "mood": "Dark",
+ "fp_ref_id": "5567b636f55ae722",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100385"
+}

@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100532",
+ "downloadable": true,
+ "streamid": "UcmNWYftOvJMNhlg6ga58ZIpe98w7Y1DoFiTWSpdd0BENFNlshtPWkG775y2DQcO",
+ "len": 126.616,
+ "category": "",
+ "license_type": 6,
+ "title": "Dreamy Flashback",
+ "genre": "Cinematic",
+ "display_category": "",
+ "vid": "d882f7c7be0ce6f2",
+ "album": "None",
+ "mood": "Inspirational",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "d882f7c7be0ce6f2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d882f7c7be0ce6f2",
+ "instruments": [
+  "Bass",
+  "Piano"
+ ],
+ "reference_vid": "d882f7c7be0ce6f2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBkODgyZjdjN2JlMGNlNmYyEAAYAg%3D%3D&sigh=Ii_n6bPm4mtS2NmxEza-Tg",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 56
+}

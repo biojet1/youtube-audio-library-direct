@@ -1,0 +1,30 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100565",
+ "artist_url": "http://incompetech.com/",
+ "fp_ref_id": "118d8a0fd9ef5c04",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIieAxIWChAxMThkOGEwZmQ5ZWY1YzA0EAAYAg%3D%3D&sigh=hHjHvYXnafZrwOdlhw0y4Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=118d8a0fd9ef5c04",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "118d8a0fd9ef5c04",
+ "category": "",
+ "len": 53.95,
+ "vid": "118d8a0fd9ef5c04",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "mood": "Bright",
+ "license_type": 6,
+ "genre": "Country & Folk",
+ "title": "Corncob - Country",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "streamid": "t6Rwk3HXJsXR4nFIlmpiYIfPHCTRHPlNQMuzKbohmjuRX63AzHB44SOCGKMgkmvn"
+}

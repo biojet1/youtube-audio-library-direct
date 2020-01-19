@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "mood": "Calm",
+ "artist": "E's Jammy Jams",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7099ddca532ffe3c",
+ "len": 163.216,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA3MDk5ZGRjYTUzMmZmZTNjEAAYAg%3D%3D&sigh=HHyT4yryNyqqNty0_EKiPw",
+ "fp_ref_id": "7099ddca532ffe3c",
+ "vid": "7099ddca532ffe3c",
+ "title": "Love Struck",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "7099ddca532ffe3c",
+ "license_type": 1,
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "streamid": "CJYqM9M9kNwX6luXktsgf1NaPD2oHiX7c9DhqJLLiP_bvizT30y_ENPa6TKYwj1b",
+ "category": ""
+}

@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 112.733,
+ "reference_vid": "2ccf4f916d76a7b7",
+ "display_genre": "Rock",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2ccf4f916d76a7b7",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Strings",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAyY2NmNGY5MTZkNzZhN2I3EAAYAg%3D%3D&sigh=CflNKGV7-wQWjCAEGhybQQ",
+ "display_mood": "Funky",
+ "fp_ref_id": "2ccf4f916d76a7b7",
+ "track_url": "",
+ "genre": "Rock",
+ "vid": "2ccf4f916d76a7b7",
+ "artist_channel_url": null,
+ "streamid": "-w9eiX4GCU4YBF3zyYjcEbL-SiTAEp37bC63AFIz0AAjRXg2P8EuEAKvN8Uz20rI",
+ "license_type": 0,
+ "title": "Riding",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "ALBIS",
+ "mood": "Funky"
+}

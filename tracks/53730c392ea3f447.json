@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "Np6oFqBm1kzX5r-mIUZTaFg0yuB9HJJ9O3VxmExLEaoxVu7AQ3plzkg0O9idl-s1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=53730c392ea3f447",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKhGEhYKEDUzNzMwYzM5MmVhM2Y0NDcQABgC&sigh=cBLUbbKVX32Jfmyhz_lyww",
+ "vid": "53730c392ea3f447",
+ "display_category": "",
+ "title": "Bark (Sting)",
+ "album": "None",
+ "mood": "Calm",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "John Deley and the 41 Players",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "reference_vid": "53730c392ea3f447",
+ "len": 9.25,
+ "genre": "Reggae",
+ "popularity_percentile": 33,
+ "fp_ref_id": "53730c392ea3f447",
+ "track_url": "",
+ "display_genre": "Reggae",
+ "license_type": 0,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Drums"
+ ]
+}

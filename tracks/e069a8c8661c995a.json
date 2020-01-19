@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "vid": "e069a8c8661c995a",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Rock",
+ "fp_ref_id": "e069a8c8661c995a",
+ "streamid": "-tBWn6YKq8awj2gaLAhU45fFWKgTB9yQ0eMkzvHkCIyMJMGCAn74-pGh9Zkd7pdH",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChBlMDY5YThjODY2MWM5OTVhEAAYAg%3D%3D&sigh=bXcdQ3dCue2iC4cBo5ejGQ",
+ "display_category": "",
+ "display_genre": "Rock",
+ "category": "",
+ "downloadable": true,
+ "title": "Sunshine",
+ "track_url": "",
+ "len": 141,
+ "popularity_percentile": 99,
+ "reference_vid": "e069a8c8661c995a",
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e069a8c8661c995a",
+ "instruments": [
+  "acoustic bass",
+  "electric guitar",
+  "drums",
+  "bass"
+ ],
+ "is_new_track": false
+}

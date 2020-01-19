@@ -1,0 +1,33 @@
+{
+ "downloadable": true,
+ "reference_vid": "cb274940b5079231",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cb274940b5079231",
+ "fp_ref_id": "cb274940b5079231",
+ "mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth",
+  "Acoustic Guitar"
+ ],
+ "len": 109.35,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBjYjI3NDk0MGI1MDc5MjMxEAAYAg%3D%3D&sigh=xn4h-g-orSzHzpCdqdycWw",
+ "streamid": "00NYg-4xKmAYrG0qDInvdpZ1EqsjhOWK8zvgF9-gaGJHJqV9Pt24QA00TW5oaTvO",
+ "artist": "Josh Kirsch/Media Right Productions",
+ "popularity_percentile": 79,
+ "title": "Prog Climation",
+ "display_category": "",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "vid": "cb274940b5079231",
+ "track_url": "",
+ "genre": "Rock",
+ "category": "",
+ "favorite": false
+}

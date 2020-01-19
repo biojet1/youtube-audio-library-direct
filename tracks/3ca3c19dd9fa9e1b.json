@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "reference_vid": "3ca3c19dd9fa9e1b",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "HIa2bhbAV1fWywaR66fBpfT1wNhubHWLK8FA7-fPzaWIAgIWeyjMG0tft_JVPiOE",
+ "display_mood": "Funky",
+ "genre": "Reggae",
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "display_genre": "Reggae",
+ "title": "Kiss for a Dance (Sting)",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "3ca3c19dd9fa9e1b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDNjYTNjMTlkZDlmYTllMWIQABgC&sigh=9pbbmaswQHcphhKUXGde7g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3ca3c19dd9fa9e1b",
+ "artist": "Jingle Punks",
+ "len": 4.75,
+ "track_url": "",
+ "fp_ref_id": "3ca3c19dd9fa9e1b",
+ "mood": "Funky",
+ "is_new_track": false,
+ "popularity_percentile": 24,
+ "display_category": ""
+}

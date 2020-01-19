@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a48cef5ce9613fc7",
+ "category": "",
+ "title": "Flight Plan",
+ "genre": "Cinematic",
+ "favorite": false,
+ "reference_vid": "a48cef5ce9613fc7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChBhNDhjZWY1Y2U5NjEzZmM3EAAYAg%3D%3D&sigh=D1oHC_vTvFiwfLeiSlvZWA",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "fp_ref_id": "a48cef5ce9613fc7",
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "vid": "a48cef5ce9613fc7",
+ "instruments": [
+  "strings",
+  "violin",
+  "cello"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Coyote Hearing",
+ "len": 168,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "streamid": "9Ur_wtKkJulpZSTxTJmNkvc13SOgHbUxxbqdx2sMKRyO8N8ziqVNmVN6dF9ypUyN"
+}

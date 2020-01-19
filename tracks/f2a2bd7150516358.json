@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "vid": "f2a2bd7150516358",
+ "streamid": "mErq5rnJKhvNNwEVEdwzcadAUu5P6kVZqQbC9yVl5nfkWhll92YyF3Y7CJ9F3VoH",
+ "title": "King's Men",
+ "category": "",
+ "len": 109,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBmMmEyYmQ3MTUwNTE2MzU4EAAYAg%3D%3D&sigh=7CDzhdnCh6PydSsRuyW_iw",
+ "artist": "Biz Baz Studio",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "reference_vid": "f2a2bd7150516358",
+ "display_mood": "Dark",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f2a2bd7150516358",
+ "instruments": [
+  "strings",
+  "horns",
+  "synth",
+  "drums"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "f2a2bd7150516358",
+ "favorite": false,
+ "mood": "Dark"
+}

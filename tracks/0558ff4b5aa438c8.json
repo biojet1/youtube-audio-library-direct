@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0558ff4b5aa438c8",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "lX9SQmYnfXf5TKTthjNW0dYsypTeh_tFv-cihq2maWhp8lkmWchTCxUhQQTHPPw1",
+ "genre": "Pop",
+ "vid": "0558ff4b5aa438c8",
+ "reference_vid": "0558ff4b5aa438c8",
+ "fp_ref_id": "0558ff4b5aa438c8",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChAwNTU4ZmY0YjVhYTQzOGM4EAAYAg%3D%3D&sigh=qfWUCIfc_jbNsjpN0X4yUA",
+ "artist_url": "https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "artist_channel_url": "/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "artist": "Slenderbeats",
+ "title": "Breathe",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Pop",
+ "len": 129,
+ "mood": "Calm"
+}

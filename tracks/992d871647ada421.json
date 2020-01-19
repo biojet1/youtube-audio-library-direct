@@ -1,0 +1,32 @@
+{
+ "genre": "Rock",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Silent Partner",
+ "fp_ref_id": "992d871647ada421",
+ "display_mood": "Bright",
+ "display_genre": "Rock",
+ "vid": "992d871647ada421",
+ "mood": "Bright",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChA5OTJkODcxNjQ3YWRhNDIxEAAYAg%3D%3D&sigh=5K5rt6HbChpiXC-HxaeiZA",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "On The Table",
+ "category": "",
+ "len": 158.916,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=992d871647ada421",
+ "reference_vid": "992d871647ada421",
+ "streamid": "Kz7HrBZXCDiPIZPsVCHwGIjuxYBdiSgk5raZgVFqIvBo7at-0TLUhg-jlYmo089l"
+}

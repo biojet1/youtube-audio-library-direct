@@ -1,0 +1,32 @@
+{
+ "vid": "5c1bcecb7e713551",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5c1bcecb7e713551",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5c1bcecb7e713551",
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "organ"
+ ],
+ "track_url": "",
+ "title": "Tuesday Dub",
+ "genre": "Reggae",
+ "mood": "Funky",
+ "artist": "Silent Partner",
+ "display_mood": "Funky",
+ "streamid": "7gl591c3asiOkLirsd_5bmZp_tGoXarqXmPj1iM5UhDbEGMyEXUnwF2I7JoTCydj",
+ "display_category": "",
+ "len": 98.05,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChA1YzFiY2VjYjdlNzEzNTUxEAAYAg%3D%3D&sigh=gBYpl9cPhGgPflpIWUX58w",
+ "reference_vid": "5c1bcecb7e713551",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Reggae"
+}

@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100834",
+ "artist_channel_url": null,
+ "len": 212.916,
+ "mood": "Happy",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=31c91e65e87a38ca",
+ "title": "Dubakupado",
+ "streamid": "fiTzwQsnBfB9_qpljVUzzpOvOE8ZleMZZn4dS60kTeD7YZU8EUa4isAkPDbrljKr",
+ "genre": "Reggae",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChAzMWM5MWU2NWU4N2EzOGNhEAAYAg%3D%3D&sigh=F33XHrujTPCAzibzBWG5uw",
+ "license_type": 6,
+ "fp_ref_id": "31c91e65e87a38ca",
+ "display_mood": "Happy",
+ "vid": "31c91e65e87a38ca",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums"
+ ],
+ "display_genre": "Reggae",
+ "favorite": false,
+ "reference_vid": "31c91e65e87a38ca"
+}

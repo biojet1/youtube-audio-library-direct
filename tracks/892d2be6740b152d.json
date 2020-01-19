@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 44.083,
+ "category": "",
+ "title": "The Big Decision",
+ "display_genre": "Classical",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=892d2be6740b152d",
+ "instruments": [
+  "Strings",
+  "Trumpet"
+ ],
+ "album": "None",
+ "reference_vid": "892d2be6740b152d",
+ "fp_ref_id": "892d2be6740b152d",
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODXAhIWChA4OTJkMmJlNjc0MGIxNTJkEAAYAg%3D%3D&sigh=RewmwOiZ5Pz27znX5pBHpQ",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "vid": "892d2be6740b152d",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "popularity_percentile": 71,
+ "display_mood": "Dramatic",
+ "streamid": "43CskXo4aNWcikZ2fr8CXx-javielTpgYfzQj9yt_d1GVOLjDKcaedaJkkTsQCjI"
+}

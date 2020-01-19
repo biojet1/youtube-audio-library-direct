@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4a2754e14c46e604",
+ "display_category": "",
+ "fp_ref_id": "4a2754e14c46e604",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4a2754e14c46e604",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Happy",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "electric guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA0YTI3NTRlMTRjNDZlNjA0EAAYAg%3D%3D&sigh=mIXuXyW-1VZ0QfNboh6lVA",
+ "streamid": "NTJhKILJdIKkIVnSo-N9uHLvTk1s1GzW6qZJbpWd75Fi9tW5LV07GyHoJHnBCJkw",
+ "genre": "Cinematic",
+ "vid": "4a2754e14c46e604",
+ "artist": "Silent Partner",
+ "display_genre": "Cinematic",
+ "title": "Hold On a Minute",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 146.316,
+ "display_mood": "Happy",
+ "downloadable": true
+}

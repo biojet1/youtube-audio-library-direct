@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "Fx8uG-56a_zL9GVyEwO4KGtcxUUwFUcqfgZw9bFUutmo0ScEtIPOx-EY9L47DYVj",
+ "len": 10.616,
+ "category": "",
+ "license_type": 6,
+ "title": "African Drums (Sting)",
+ "genre": "Classical",
+ "display_category": "",
+ "vid": "31e1271e47f8b471",
+ "album": "None",
+ "mood": "Happy",
+ "artist": "Twin Musicom",
+ "favorite": false,
+ "display_genre": "Classical",
+ "display_mood": "Happy",
+ "fp_ref_id": "31e1271e47f8b471",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=31e1271e47f8b471",
+ "instruments": [
+  "Drums"
+ ],
+ "reference_vid": "31e1271e47f8b471",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEDMxZTEyNzFlNDdmOGI0NzEQABgC&sigh=AJV0vDJwcLsqwTkblyltcw",
+ "artist_channel_url": null,
+ "artist_url": "http://www.twinmusicom.org/",
+ "popularity_percentile": 56
+}

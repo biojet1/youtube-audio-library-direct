@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "streamid": "6DPvE1c99MTMp9OPdErGhkOtv-BEa81NHV-bVlMw8l3ZTqTGKbih2McXgiUCMOdC",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7249312f692b2c94",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChA3MjQ5MzEyZjY5MmIyYzk0EAAYAg%3D%3D&sigh=uvCALtXrk6reGv5vxfaaYg",
+ "vid": "7249312f692b2c94",
+ "display_category": "",
+ "title": "Forever Believe",
+ "album": "None",
+ "mood": "Calm",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Audionautix",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "reference_vid": "7249312f692b2c94",
+ "len": 162.35,
+ "genre": "Pop",
+ "popularity_percentile": 33,
+ "fp_ref_id": "7249312f692b2c94",
+ "track_url": "",
+ "display_genre": "Pop",
+ "license_type": 6,
+ "instruments": [
+  "Synth",
+  "Acoustic Guitar",
+  "Bass"
+ ]
+}

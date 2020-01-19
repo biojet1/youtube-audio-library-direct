@@ -1,0 +1,31 @@
+{
+ "title": "Jupiter",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "UoBvK7Sx2Gha1HKSXaZWOX4OqD9PZJWKfv_uC8LGaC_0vP32IPO05O-qg-S5ECfJ",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Dance & Electronic",
+ "vid": "2f2be1cf8ca15b44",
+ "display_mood": "Bright",
+ "len": 155.45,
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "reference_vid": "2f2be1cf8ca15b44",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "category": "",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2f2be1cf8ca15b44",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChAyZjJiZTFjZjhjYTE1YjQ0EAAYAg%3D%3D&sigh=IpAVtunfu4aq5nGoGs0Pqg",
+ "favorite": false,
+ "fp_ref_id": "2f2be1cf8ca15b44",
+ "album": "None",
+ "popularity_percentile": 18,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

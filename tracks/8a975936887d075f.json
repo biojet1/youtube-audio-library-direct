@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Inspirational",
+ "genre": "Hip Hop & Rap",
+ "streamid": "Pnqn8VWsCfRX04Q1KNd4qt1LABEC8HWqHQOJrztoJp_2Q8wA6DoQFvbWeP4LsBxR",
+ "fp_ref_id": "8a975936887d075f",
+ "artist": "Otis McDonald",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChA4YTk3NTkzNjg4N2QwNzVmEAAYAg%3D%3D&sigh=linICVQYa7K83ZPb_C3atQ",
+ "mood": "Inspirational",
+ "vid": "8a975936887d075f",
+ "display_genre": "Hip Hop & Rap",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a975936887d075f",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Organ"
+ ],
+ "album": "None",
+ "reference_vid": "8a975936887d075f",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 165.3,
+ "category": "",
+ "title": "Phife for Life"
+}

@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://www.twinmusicom.org",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Bright",
+ "genre": "Jazz & Blues",
+ "streamid": "5ok6I3ubop6mDLMM9-5zshenKMgA5hofAFYyLOe3bl3k4BfTqZg2assbnOOsmKfQ",
+ "fp_ref_id": "8347490b41d84f70",
+ "artist": "Twin Musicom",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID3AhIWChA4MzQ3NDkwYjQxZDg0ZjcwEAAYAg%3D%3D&sigh=0BXSzEq6TvZo6XorKgvT4w",
+ "mood": "Bright",
+ "vid": "8347490b41d84f70",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8347490b41d84f70",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Synth"
+ ],
+ "album": "None",
+ "reference_vid": "8347490b41d84f70",
+ "track_url": "http://www.twinmusicom.org/song/289/hat-the-jazz",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 48.05,
+ "category": "",
+ "title": "Hat the Jazz"
+}

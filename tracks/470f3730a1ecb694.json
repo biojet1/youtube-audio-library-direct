@@ -1,0 +1,30 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100301",
+ "mood": "Happy",
+ "len": 355.683,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "32LuCIdyyNB8CfZuP7HRAfjTsDUycOjNAFOeLVD44CjRhjvPKaGvUpwBydf-JSqX",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjVFRIWChA0NzBmMzczMGExZWNiNjk0EAAYAg%3D%3D&sigh=4pYGpxqg7eQgiXRWcjFGyg",
+ "reference_vid": "470f3730a1ecb694",
+ "title": "Canon in D Major",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=470f3730a1ecb694",
+ "vid": "470f3730a1ecb694",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "470f3730a1ecb694",
+ "display_mood": "Happy",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Piano"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Classical",
+ "license_type": 6,
+ "genre": "Classical"
+}

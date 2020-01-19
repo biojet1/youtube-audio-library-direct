@@ -1,0 +1,32 @@
+{
+ "title": "Alison",
+ "artist": "Audionautix",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChAzNjU3NDE3NjQzZDIwZDk0EAAYAg%3D%3D&sigh=PInFiMcQI1ckY9rorBG2gw",
+ "artist_url": "http://audionautix.com/",
+ "vid": "3657417643d20d94",
+ "mood": "Romantic",
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 175.783,
+ "instruments": [
+  "Electric Guitar",
+  "Piano",
+  "Drums",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3657417643d20d94",
+ "display_mood": "Romantic",
+ "streamid": "_z9dHRCWNPrpNv93qWG8lZ_b1rf3BagF2MksZTSlTReX3SZKZpAkyldaiTWlgJTS",
+ "artist_channel_url": null,
+ "fp_ref_id": "3657417643d20d94",
+ "genre": "Rock",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 89,
+ "display_genre": "Rock",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "3657417643d20d94"
+}

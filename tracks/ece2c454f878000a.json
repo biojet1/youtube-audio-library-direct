@@ -1,0 +1,33 @@
+{
+ "reference_vid": "ece2c454f878000a",
+ "popularity_percentile": 78,
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "fp_ref_id": "ece2c454f878000a",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "title": "Day of Chaos",
+ "downloadable": true,
+ "mood": "Dark",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 249.683,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "streamid": "5SxuWvOMtucuj5M-pP1ou1ewRfItyxyQjR6xQey1rb__mXyyEPO0457M5wXL7hlS",
+ "vid": "ece2c454f878000a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiZDxIWChBlY2UyYzQ1NGY4NzgwMDBhEAAYAg%3D%3D&sigh=lWBdUCPN5XCb-Ir7pz4YSA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ece2c454f878000a",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300040",
+ "album": "None",
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "category": "",
+ "genre": "Ambient"
+}

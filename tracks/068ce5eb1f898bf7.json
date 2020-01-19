@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "fp_ref_id": "068ce5eb1f898bf7",
+ "popularity_percentile": 82,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKifDRIWChAwNjhjZTVlYjFmODk4YmY3EAAYAg%3D%3D&sigh=tICCO_65cA60Y3RaZgVnVA",
+ "favorite": false,
+ "genre": "Cinematic",
+ "category": "",
+ "vid": "068ce5eb1f898bf7",
+ "streamid": "NBJ3rN6YPctHpzJ3JDdGwbWjm5n7KEjCIcB_ywPflu2ZSkrP1z97S2FUrZQhfj4i",
+ "mood": "Angry",
+ "reference_vid": "068ce5eb1f898bf7",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=068ce5eb1f898bf7",
+ "title": "Future Gladiator",
+ "display_mood": "Angry",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "instruments": [
+  "Synth",
+  "Bass"
+ ],
+ "len": 217.016,
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200051"
+}

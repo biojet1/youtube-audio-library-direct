@@ -1,0 +1,33 @@
+{
+ "fp_ref_id": "8ea01340cdb89bce",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Jazz & Blues",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "lGvh_bu8Vu1KsNtOFTb58TZrgr0dPTVmOl2i6oaiah6Q-QkBye6mIIUwALS6o7zA",
+ "license_type": 6,
+ "vid": "8ea01340cdb89bce",
+ "popularity_percentile": 74,
+ "reference_vid": "8ea01340cdb89bce",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 193.016,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100763",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChA4ZWEwMTM0MGNkYjg5YmNlEAAYAg%3D%3D&sigh=KPsWAAdTW5RXfnSR9sImpA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ea01340cdb89bce",
+ "title": "Aces High - Funkorama"
+}

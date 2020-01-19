@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "a9dd5a4850ea02f8",
+ "display_genre": "Classical",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDMCxIWChBhOWRkNWE0ODUwZWEwMmY4EAAYAg%3D%3D&sigh=w11qWg1zV0sadyaBlwtZyA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a9dd5a4850ea02f8",
+ "len": 190.283,
+ "mood": "Calm",
+ "title": "Enchanted Valley",
+ "vid": "a9dd5a4850ea02f8",
+ "category": "",
+ "downloadable": true,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200093",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Classical",
+ "display_mood": "Calm",
+ "album": "None",
+ "instruments": [
+  "Strings"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "a9dd5a4850ea02f8",
+ "streamid": "ezt9YMYgY_CkCpLP-1p3tGW5IgKX0F1meeCkOkhuAEeTiV2WNKwlmgNo1FusySmR"
+}

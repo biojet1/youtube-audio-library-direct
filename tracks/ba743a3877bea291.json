@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Cinematic",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "album": "None",
+ "streamid": "jmC2Q8WslO4WD_Ezbgpq7Mf0v-G4hsCICwkTphqab-qAjfYQAKs1JdzYGgcJoWrs",
+ "title": "Blank Holes",
+ "display_genre": "Cinematic",
+ "vid": "ba743a3877bea291",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "ba743a3877bea291",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 0,
+ "fp_ref_id": "ba743a3877bea291",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Jingle Punks",
+ "len": 73.883,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi6BBIWChBiYTc0M2EzODc3YmVhMjkxEAAYAg%3D%3D&sigh=f0pEgFDI0QJeUcwJIAUGvg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ba743a3877bea291"
+}

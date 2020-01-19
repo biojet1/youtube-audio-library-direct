@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "reference_vid": "afacd1b511c715e2",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=afacd1b511c715e2",
+ "fp_ref_id": "afacd1b511c715e2",
+ "mood": "Dramatic",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Trumpet"
+ ],
+ "len": 92.816,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChBhZmFjZDFiNTExYzcxNWUyEAAYAg%3D%3D&sigh=5WgHkszrGuT4HNWpao7R4Q",
+ "streamid": "OozIlB1oVAHqLMnxrnfr32e960tEvxeSgKfl3G4jtV-iGG25oYnxNq19zwjzi0YW",
+ "artist": "Audionautix",
+ "popularity_percentile": 80,
+ "title": "Intense Suspense",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "vid": "afacd1b511c715e2",
+ "track_url": "",
+ "genre": "Cinematic",
+ "category": "",
+ "favorite": false
+}

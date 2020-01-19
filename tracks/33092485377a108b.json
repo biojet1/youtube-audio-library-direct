@@ -1,0 +1,32 @@
+{
+ "artist": "Topher Mohr and Alex Elena",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=33092485377a108b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChAzMzA5MjQ4NTM3N2ExMDhiEAAYAg%3D%3D&sigh=97kwB51mbgno8SIkcHseZg",
+ "genre": "Rock",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Angry",
+ "album": "None",
+ "track_url": "",
+ "len": 173.65,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "33092485377a108b",
+ "streamid": "h3eAsk2YpYilX_IKr_vrlzKTdwBxU-OfMd6PagokVXQxmZXXoON061euTxumvhWe",
+ "title": "Garage",
+ "artist_url": "",
+ "mood": "Angry",
+ "downloadable": true,
+ "display_genre": "Rock",
+ "popularity_percentile": 20,
+ "reference_vid": "33092485377a108b",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ"
+ ],
+ "fp_ref_id": "33092485377a108b",
+ "license_type": 0
+}

@@ -1,0 +1,32 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "36fd226c5704f4f7",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "36fd226c5704f4f7",
+ "title": "One Night Away",
+ "mood": "Bright",
+ "len": 201,
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "artist": "Patrick Patrikios",
+ "fp_ref_id": "36fd226c5704f4f7",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "license_type": 1,
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops"
+ ],
+ "streamid": "ZBX9cokQk9U9RY3WwB-szxNVYXDT2tk0f1gBYo2wK4f9GcTs9mAFkng3rj7NR2AX",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=36fd226c5704f4f7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiiDBIWChAzNmZkMjI2YzU3MDRmNGY3EAAYAg%3D%3D&sigh=mSteVTsq-VZ4PWGC6NNzyw"
+}

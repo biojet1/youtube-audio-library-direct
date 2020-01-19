@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "streamid": "UIP4T6x-idrE8PPSu_PpEdEu7FI_6LamsuXj7_Xp4LWt0f65spfk5AgjWfG4GiPy",
+ "display_category": "",
+ "artist_channel_url": "/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "reference_vid": "93982e9bec1fcfe0",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "electric guitar"
+ ],
+ "category": "",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "fp_ref_id": "93982e9bec1fcfe0",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChA5Mzk4MmU5YmVjMWZjZmUwEAAYAg%3D%3D&sigh=DcZDLvgFuCLJEB3w6kJA0w",
+ "artist_url": "https://www.youtube.com/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=93982e9bec1fcfe0",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "artist": "William Rosati",
+ "mood": "Funky",
+ "title": "Baby",
+ "len": 119,
+ "vid": "93982e9bec1fcfe0",
+ "track_url": ""
+}

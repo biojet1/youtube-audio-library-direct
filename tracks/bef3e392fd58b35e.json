@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "bef3e392fd58b35e",
+ "instruments": [
+  "Piano",
+  "Organ"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Holiday",
+ "category": "",
+ "artist": "Jingle Punks",
+ "display_category": "",
+ "streamid": "PbpacsdQEwSwkGLqHgk5Erd9Nkh9R8G6jaEEi0vzLlFQoMu6yUeon0ZKsmAGEhKP",
+ "license_type": 0,
+ "vid": "bef3e392fd58b35e",
+ "popularity_percentile": 74,
+ "reference_vid": "bef3e392fd58b35e",
+ "display_genre": "Holiday",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 195.583,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChBiZWYzZTM5MmZkNThiMzVlEAAYAg%3D%3D&sigh=tDiCYZzWf51QBhw3B82Raw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bef3e392fd58b35e",
+ "title": "O Come All Ye Faithful (Instrumental)"
+}

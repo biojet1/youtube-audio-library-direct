@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "bb946763648d2fef",
+ "display_genre": "Pop",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "len": 175,
+ "streamid": "L53CleRUlSvKoCWfjo8e5hCUJw9qMkWrN-cFzZp1csyLIpYLjYFcwVps0Oi043Xh",
+ "license_type": 1,
+ "vid": "bb946763648d2fef",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjXChIWChBiYjk0Njc2MzY0OGQyZmVmEAAYAg%3D%3D&sigh=TsfQgupokHz4KRee4H4dvA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bb946763648d2fef",
+ "title": "Victim to Victor",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "display_category": "",
+ "fp_ref_id": "bb946763648d2fef",
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw?internalcountrycode=US",
+ "instruments": [
+  "bass",
+  "drums",
+  "piano",
+  "strings",
+  "synth"
+ ],
+ "artist": "RKVC",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Pop",
+ "category": ""
+}

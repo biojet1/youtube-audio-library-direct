@@ -1,0 +1,32 @@
+{
+ "len": 100,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChAzMGNmOGEwODM4YTE2NDVlEAAYAg%3D%3D&sigh=WnmU2TniMUZgcDY5vUsiSQ",
+ "reference_vid": "30cf8a0838a1645e",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "display_genre": "Rock",
+ "track_url": "",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums",
+  "electric guitar"
+ ],
+ "title": "The Saloon",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Josh Lippi & The Overtimers",
+ "streamid": "kZtf_rCp8IFWs5oVoQex8id_NA-yE9TXigCUCJ52NlKmNfLXIvOYJcGjcrc1Ns_x",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=30cf8a0838a1645e",
+ "fp_ref_id": "30cf8a0838a1645e",
+ "album": "None",
+ "vid": "30cf8a0838a1645e",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCnJoBJAmgihRWlyV5QgSujA",
+ "favorite": false
+}

@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Cinematic",
+ "streamid": "dHdnEYTaDK5LEy1c28wHxzw973sTIa_bVrzFRcoJP4uUFYoHQ95Kk-lcLDzKzAsX",
+ "reference_vid": "b2a398b5a10dd94c",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100705",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b2a398b5a10dd94c",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChBiMmEzOThiNWExMGRkOTRjEAAYAg%3D%3D&sigh=H2ozDHBRMAas4eHO4IyR7w",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "title": "Clenched Teeth - The Descent",
+ "album": "None",
+ "vid": "b2a398b5a10dd94c",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Strings"
+ ],
+ "favorite": false,
+ "len": 91.183,
+ "fp_ref_id": "b2a398b5a10dd94c",
+ "display_genre": "Cinematic"
+}

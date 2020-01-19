@@ -1,0 +1,31 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "cc86724f0d3f0b11",
+ "category": "",
+ "title": "Past Life",
+ "display_genre": "Pop",
+ "instruments": [
+  "piano",
+  "acoustic gutiar",
+  "drums"
+ ],
+ "genre": "Pop",
+ "display_mood": "Inspirational",
+ "streamid": "eq2FYNfjPKwpq0u8mySn94zUN7kB-e5vKvIPe8Npd3z6mXZYbn6PpPkuYDmtojxL",
+ "album": "None",
+ "len": 118,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cc86724f0d3f0b11",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBjYzg2NzI0ZjBkM2YwYjExEAAYAg%3D%3D&sigh=7HVfGrOlxEw803pZz4dWCw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "cc86724f0d3f0b11",
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "fp_ref_id": "cc86724f0d3f0b11",
+ "license_type": 1,
+ "track_url": ""
+}

@@ -1,0 +1,32 @@
+{
+ "len": 123.45,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4f8a964db6741011",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Synth",
+  "Organ"
+ ],
+ "display_mood": "Dramatic",
+ "streamid": "dZsk4YYhplwfhS8P4plSMhtGgsRvXxUNVDKPTX9fuyUz11lCD-NZ88i9LR0ZCRnn",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA0ZjhhOTY0ZGI2NzQxMDExEAAYAg%3D%3D&sigh=HCo6Ybpp7jaZzU2fpAQ5AQ",
+ "title": "Space Adventure",
+ "vid": "4f8a964db6741011",
+ "artist_url": "",
+ "license_type": 0,
+ "mood": "Dramatic",
+ "artist": "The Green Orbs",
+ "favorite": false,
+ "popularity_percentile": 32,
+ "display_genre": "Children's",
+ "reference_vid": "4f8a964db6741011",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Children's",
+ "fp_ref_id": "4f8a964db6741011",
+ "track_url": "",
+ "album": "None"
+}

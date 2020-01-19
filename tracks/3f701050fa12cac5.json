@@ -1,0 +1,32 @@
+{
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "len": 80.35,
+ "display_category": "",
+ "reference_vid": "3f701050fa12cac5",
+ "popularity_percentile": 25,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Kung Pao O'Malley",
+ "fp_ref_id": "3f701050fa12cac5",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "YqwG_dsEdlPI_y4-1j8mvpc-NLcKE_tnpIpCaAJgUJsvUq5aI4vwTi0A_KkLZSZT",
+ "display_mood": "Bright",
+ "vid": "3f701050fa12cac5",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDxBBIWChAzZjcwMTA1MGZhMTJjYWM1EAAYAg%3D%3D&sigh=p6RX_cLdysDyZC2bsuhsEw",
+ "category": "",
+ "title": "Party House (Glub Glub Water Dance)",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f701050fa12cac5"
+}

@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "fp_ref_id": "5a1e961565f3b7dd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDvDxIWChA1YTFlOTYxNTY1ZjNiN2RkEAAYAg%3D%3D&sigh=ZsNDeIkPU4ShM_Sp2Z6zhg",
+ "streamid": "onBKrDdFq_MY-4DSSBMJn1mFU5mLc4CyQqoS0oBRgG9UiFNi_hpyyaJVlR43jmye",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 260,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a1e961565f3b7dd",
+ "favorite": false,
+ "title": "Reconciliation",
+ "artist": "Asher Fulero",
+ "genre": "Cinematic",
+ "vid": "5a1e961565f3b7dd",
+ "display_category": "",
+ "reference_vid": "5a1e961565f3b7dd",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "artist_url": "",
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Cinematic",
+ "is_new_track": false
+}

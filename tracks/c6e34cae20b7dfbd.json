@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChBjNmUzNGNhZTIwYjdkZmJkEAAYAg%3D%3D&sigh=rKiL9Fz_5OHdx67O9hvkPQ",
+ "genre": "Rock",
+ "streamid": "NvgF4nOmtp0nnPADH3yEQPbYyLJxJxc1i1I4y_cESKAtsA1u7GwixuiUCy1egg3x",
+ "display_category": "",
+ "display_mood": "Angry",
+ "vid": "c6e34cae20b7dfbd",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c6e34cae20b7dfbd",
+ "fp_ref_id": "c6e34cae20b7dfbd",
+ "reference_vid": "c6e34cae20b7dfbd",
+ "mood": "Angry",
+ "license_type": 0,
+ "artist_url": "",
+ "favorite": false,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Synth",
+  "Drums"
+ ],
+ "len": 130.515,
+ "popularity_percentile": 77,
+ "artist": "John Deley and the 41 Players",
+ "category": "",
+ "track_url": "",
+ "title": "Transmission",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Rock"
+}

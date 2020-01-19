@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 1,
+ "vid": "12b6b2cab28a7773",
+ "fp_ref_id": "12b6b2cab28a7773",
+ "album": "None",
+ "streamid": "-MLKcKgnBOdjvQpof43AOCk3TJxi3ofg4mVpkPdt_zGtRNkQrNucXOp0-IyWO44Q",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "artist": "United States Naval Academy ",
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=12b6b2cab28a7773",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPicExIWChAxMmI2YjJjYWIyOGE3NzczEAAYAg%3D%3D&sigh=WkSTl2eQKG-nz8PSgmt8cw",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 315.383,
+ "reference_vid": "12b6b2cab28a7773",
+ "title": "The Battle Hymn of the Republic",
+ "favorite": false,
+ "track_url": ""
+}

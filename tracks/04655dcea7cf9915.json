@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChAwNDY1NWRjZWE3Y2Y5OTE1EAAYAg%3D%3D&sigh=WNnK6lflRRT-Qqsv7wkz4Q",
+ "title": "Do Do",
+ "favorite": false,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "fp_ref_id": "04655dcea7cf9915",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Piano",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "track_url": "",
+ "display_genre": "R&B & Soul",
+ "artist": "Everet Almond",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "R&B & Soul",
+ "popularity_percentile": 2,
+ "reference_vid": "04655dcea7cf9915",
+ "streamid": "KYPOXLFCZEQzYoz70cj4fgWPGQY2iG_eFQhg1RP-FzowlzGzq8ICYJYryTLejvUz",
+ "artist_url": "",
+ "len": 139.383,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04655dcea7cf9915",
+ "vid": "04655dcea7cf9915",
+ "category": ""
+}

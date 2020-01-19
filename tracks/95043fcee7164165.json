@@ -1,0 +1,32 @@
+{
+ "mood": "Dark",
+ "artist": "Dyalla",
+ "vid": "95043fcee7164165",
+ "display_category": "",
+ "streamid": "4mdpr1oZ74Q0ydkjXIUrUyjUq29wfSNn9r_HMs59CVhIOs2-Bx73iSvgFJwgHeVk",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95043fcee7164165",
+ "fp_ref_id": "95043fcee7164165",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChA5NTA0M2ZjZWU3MTY0MTY1EAAYAg%3D%3D&sigh=3fIW7ZBD6N5QicCWLKCXwQ",
+ "display_genre": "Hip Hop & Rap",
+ "len": 183,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "synth",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "reference_vid": "95043fcee7164165",
+ "title": "Fleas",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "license_type": 1,
+ "display_mood": "Dark",
+ "popularity_percentile": 99
+}

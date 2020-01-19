@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 36,
+ "is_new_track": false,
+ "vid": "335c856981d5b1a8",
+ "downloadable": true,
+ "fp_ref_id": "335c856981d5b1a8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=335c856981d5b1a8",
+ "album": "None",
+ "artist": "Audionautix",
+ "display_mood": "Angry",
+ "streamid": "drc9wkXyOLKPLY_-bhCW5LTpznPGzC9VlsV4lE5wSde0P5MNSnihEbnAbJf1SMw8",
+ "mood": "Angry",
+ "title": "Zombie Rock",
+ "genre": "Alternative & Punk",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Alternative & Punk",
+ "reference_vid": "335c856981d5b1a8",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "len": 218.516,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCnDRIWChAzMzVjODU2OTgxZDViMWE4EAAYAg%3D%3D&sigh=X8nmxPEmLNFOjLeJJJBJ0g"
+}

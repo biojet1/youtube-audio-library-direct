@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "5b25800f6b781230",
+ "artist_url": "https://www.youtube.com/channel/UCQdkiVaW24oJIwne-UP3DBg",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "5b25800f6b781230",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5b25800f6b781230",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDuBRIWChA1YjI1ODAwZjZiNzgxMjMwEAAYAg%3D%3D&sigh=IHyuClwFYGn5E99rqP-y7g",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "5b25800f6b781230",
+ "len": 96,
+ "mood": "Dark",
+ "streamid": "l_ioINI7dh37cguWiLs1bXtkciFkZXD3HAh09Wr2yWhipMiX1mq7TjytUXbuJnFi",
+ "artist": "Andrew Langdon",
+ "is_new_track": false,
+ "title": "On The Hunt",
+ "genre": "Dance & Electronic",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCQdkiVaW24oJIwne-UP3DBg"
+}

@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "mood": "Bright",
+ "artist": "Jingle Punks",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=720ab01c597c8bf4",
+ "len": 67.05,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiLBBIWChA3MjBhYjAxYzU5N2M4YmY0EAAYAg%3D%3D&sigh=YMiC2XFwQWuMi3LNBJA7eg",
+ "fp_ref_id": "720ab01c597c8bf4",
+ "vid": "720ab01c597c8bf4",
+ "title": "Path to Follow",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "720ab01c597c8bf4",
+ "license_type": 0,
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Drums"
+ ],
+ "streamid": "I1lZtNqNpbvh6-wvHNQR8yT3GWcQtR7-jwYv7-TMYgdJbLKShLGMSOt3hriWndoA",
+ "category": ""
+}

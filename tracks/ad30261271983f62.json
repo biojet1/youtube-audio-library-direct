@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ad30261271983f62",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEGFkMzAyNjEyNzE5ODNmNjIQABgC&sigh=z44IpAMOg214h4yIY4cYug",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ad30261271983f62",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "reference_vid": "ad30261271983f62",
+ "category": "",
+ "len": 10.616,
+ "vid": "ad30261271983f62",
+ "display_mood": "Dramatic",
+ "artist_channel_url": null,
+ "mood": "Dramatic",
+ "license_type": 0,
+ "genre": "Cinematic",
+ "title": "Galactic Damages (Sting)",
+ "is_new_track": false,
+ "artist": "Jingle Punks",
+ "streamid": "Bc9kz4oL76KVWc7_rjXvJ8nElPk6L8Ko2tnZW160078NYUF_JkphjDjT4Wz3jU6m"
+}

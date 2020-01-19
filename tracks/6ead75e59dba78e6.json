@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "artist": "RalphReal",
+ "category": "",
+ "artist_channel_url": "/channel/UCi3aMUXw9M3lFet7IVkBkew",
+ "title": "Steel",
+ "album": "None",
+ "fp_ref_id": "6ead75e59dba78e6",
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChA2ZWFkNzVlNTlkYmE3OGU2EAAYAg%3D%3D&sigh=EXnqmGk_Z9Dx3KfmtECB6Q",
+ "genre": "Hip Hop & Rap",
+ "vid": "6ead75e59dba78e6",
+ "streamid": "fREXLelxeHuw_lWik2Xj7B5PLInHcLMBrhOceztLTshkfeomLAuMrd1zaNmjEWLR",
+ "display_category": "",
+ "display_mood": "Calm",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6ead75e59dba78e6",
+ "reference_vid": "6ead75e59dba78e6",
+ "is_new_track": false,
+ "mood": "Calm",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCi3aMUXw9M3lFet7IVkBkew",
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "808"
+ ],
+ "len": 210.733
+}

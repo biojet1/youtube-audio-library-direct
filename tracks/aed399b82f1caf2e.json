@@ -1,0 +1,32 @@
+{
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "track_url": "",
+ "fp_ref_id": "aed399b82f1caf2e",
+ "display_genre": "Cinematic",
+ "title": "Ask Rufus",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Audionautix",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "len": 16.183,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aed399b82f1caf2e",
+ "category": "",
+ "streamid": "tLXr7-ImCBGAgsZsEzATp6PsFykEqOG_u4D_lGh3P5vGNvtBQfa0EW3JB4FRYtcC",
+ "vid": "aed399b82f1caf2e",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIB9EhYKEGFlZDM5OWI4MmYxY2FmMmUQABgC&sigh=lnuM5WDf2phfczWMs5PlQw",
+ "popularity_percentile": 37,
+ "reference_vid": "aed399b82f1caf2e"
+}

@@ -1,0 +1,31 @@
+{
+ "reference_vid": "324da55e69842cb4",
+ "display_mood": "Happy",
+ "fp_ref_id": "324da55e69842cb4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=324da55e69842cb4",
+ "mood": "Happy",
+ "artist": "Audionautix",
+ "vid": "324da55e69842cb4",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjfAhIWChAzMjRkYTU1ZTY5ODQyY2I0EAAYAg%3D%3D&sigh=YwAK1Ai4iWCRN7bwfpRtgw",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "C8AwmwE-8BEPezPgdrOH7-SJUB8QocZ5zVEktwBOMz2Ppv5EVTMr8C1seWCZ1Wyt",
+ "len": 45.55,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 6,
+ "title": "Jenny's Theme",
+ "genre": "Country & Folk",
+ "display_category": ""
+}

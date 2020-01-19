@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist": "Jingle Punks",
+ "is_new_track": false,
+ "fp_ref_id": "8ede6789cec4815e",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "title": "O Christmas Tree (Instrumental)",
+ "vid": "8ede6789cec4815e",
+ "mood": "Inspirational",
+ "display_genre": "Holiday",
+ "len": 163.283,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA4ZWRlNjc4OWNlYzQ4MTVlEAAYAg%3D%3D&sigh=pQJXk24E3_4be45elaagEg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ede6789cec4815e",
+ "display_category": "",
+ "category": "",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "ZoT1jdQCu3IBQCbXlbKNEbEZByLAj4hyZJPyOjAyrFy67dPuV2YsDaeFw1mflGrk",
+ "reference_vid": "8ede6789cec4815e",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "popularity_percentile": 56,
+ "downloadable": true,
+ "genre": "Holiday",
+ "artist_url": ""
+}

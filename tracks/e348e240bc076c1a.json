@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "e348e240bc076c1a",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Acoustic Guitar"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "streamid": "gjIcUDJrz5G_wkTX2nXdCurt7Y3ASnUm6GhCse2avKMXab49i2wFe_RysVBfWnWZ",
+ "license_type": 6,
+ "vid": "e348e240bc076c1a",
+ "popularity_percentile": 73,
+ "reference_vid": "e348e240bc076c1a",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 245.516,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100242",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj6DhIWChBlMzQ4ZTI0MGJjMDc2YzFhEAAYAg%3D%3D&sigh=dXbd1KoZg-LlgLT8BWn61w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e348e240bc076c1a",
+ "title": "El Magicia"
+}

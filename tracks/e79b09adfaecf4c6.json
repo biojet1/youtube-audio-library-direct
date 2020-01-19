@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e79b09adfaecf4c6",
+ "category": "",
+ "title": "Tobaggan",
+ "genre": "Hip Hop & Rap",
+ "favorite": false,
+ "reference_vid": "e79b09adfaecf4c6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChBlNzliMDlhZGZhZWNmNGM2EAAYAg%3D%3D&sigh=YDUsPi8DaI3DWbM4ziPSqw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e79b09adfaecf4c6",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e79b09adfaecf4c6",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "electric guitar"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "len": 122.883,
+ "display_mood": "Dark",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "ocCVFZHOYQmET-rDmacr4hDWPIN7zyLmDT9y4DojYGPlOTuXmQF21YL4DR2qwy-H"
+}

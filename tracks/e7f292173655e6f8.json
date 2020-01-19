@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "e7f292173655e6f8",
+ "category": "",
+ "title": "Grassy Hill",
+ "display_genre": "Alternative & Punk",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "genre": "Alternative & Punk",
+ "display_mood": "Bright",
+ "streamid": "uf56m4aSYTgLDPP1pL-Z4KeuF0Eut0RInY_iud_GrPPxnxsUXaIiKLvVBuvWJqdc",
+ "album": "None",
+ "len": 105.85,
+ "artist": "Huma-Huma",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e7f292173655e6f8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBlN2YyOTIxNzM2NTVlNmY4EAAYAg%3D%3D&sigh=OMcrF5oSsUJ3NZZjF50-dQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 92,
+ "vid": "e7f292173655e6f8",
+ "is_new_track": false,
+ "mood": "Bright",
+ "fp_ref_id": "e7f292173655e6f8",
+ "license_type": 0,
+ "track_url": ""
+}

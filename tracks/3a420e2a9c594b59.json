@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "reference_vid": "3a420e2a9c594b59",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "ELrKUXjzPHDGxMZUwGJ5ht8xVvbAs47WvH0zvGGtSavOwevbBPLfka6XauXOHU1Y",
+ "display_mood": "Bright",
+ "genre": "Rock",
+ "instruments": [
+  "Electric Guitar",
+  "Bass Drums"
+ ],
+ "display_genre": "Rock",
+ "title": "Led Foot",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "3a420e2a9c594b59",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChAzYTQyMGUyYTljNTk0YjU5EAAYAg%3D%3D&sigh=fG0jFFuhp2rPcwKayaOU_A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3a420e2a9c594b59",
+ "artist": "Ethan Meixsell",
+ "len": 144.983,
+ "track_url": "",
+ "fp_ref_id": "3a420e2a9c594b59",
+ "mood": "Bright",
+ "is_new_track": false,
+ "popularity_percentile": 23,
+ "display_category": ""
+}

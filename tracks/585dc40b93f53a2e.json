@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "license_type": 1,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "585dc40b93f53a2e",
+ "downloadable": true,
+ "fp_ref_id": "585dc40b93f53a2e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=585dc40b93f53a2e",
+ "album": "None",
+ "artist": "The U.S. Marine Corps Band",
+ "display_mood": "Bright",
+ "streamid": "2L8EdBZdphZNoKBWqEaoSPy7UVYTBs3y56e80GNNpc07Llf3_2qXQE0bNGOTK1zu",
+ "mood": "Bright",
+ "title": "Officers Call",
+ "genre": "Classical",
+ "instruments": [
+  "Trumpet"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Classical",
+ "reference_vid": "585dc40b93f53a2e",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 10.216,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEDU4NWRjNDBiOTNmNTNhMmUQABgC&sigh=THT5dsa4FXjEHfXfqL_O-g"
+}

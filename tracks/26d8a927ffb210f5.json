@@ -1,0 +1,29 @@
+{
+ "mood": "Dramatic",
+ "artist": "Sir Cubworth",
+ "vid": "26d8a927ffb210f5",
+ "display_category": "",
+ "streamid": "ph3bXpGz-tF6IaOrwGGHQsrXrkfydP4iOap2JDSYP_ys2AXpjvT53zcmT1TSN-bJ",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=26d8a927ffb210f5",
+ "fp_ref_id": "26d8a927ffb210f5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChAyNmQ4YTkyN2ZmYjIxMGY1EAAYAg%3D%3D&sigh=lnSiTzB8vSmToU0pociL4g",
+ "display_genre": "Classical",
+ "len": 145,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "strings"
+ ],
+ "reference_vid": "26d8a927ffb210f5",
+ "title": "Ceremonial Prelude",
+ "genre": "Classical",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "license_type": 1,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99
+}

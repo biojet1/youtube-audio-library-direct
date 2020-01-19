@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Sad",
+ "artist_url": "",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "e3f84acba2444168",
+ "display_category": "",
+ "fp_ref_id": "e3f84acba2444168",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e3f84acba2444168",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "title": "Not Forgotten",
+ "favorite": false,
+ "license_type": 1,
+ "len": 116,
+ "display_mood": "Sad",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBlM2Y4NGFjYmEyNDQ0MTY4EAAYAg%3D%3D&sigh=HaNeEb0rEhb3ef-kuik9RQ",
+ "streamid": "XhTwW71O8xQlYvha64bzKrxbDdaP5_BLJRMsd6X8Mnc0KhfaITiS13NzN2-_Pb_4",
+ "genre": "Country & Folk",
+ "vid": "e3f84acba2444168",
+ "artist": "Dan Lebowitz"
+}

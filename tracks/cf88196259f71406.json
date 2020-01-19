@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 263,
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "fp_ref_id": "cf88196259f71406",
+ "reference_vid": "cf88196259f71406",
+ "artist_channel_url": "/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "license_type": 1,
+ "streamid": "SDflFPNDtUwWt2BqM-aF1YtXeTgYaGRpEPDgOuBQvnBWMBbczd4KzPgXcw5RQ-jS",
+ "vid": "cf88196259f71406",
+ "mood": "Bright",
+ "artist": "Diamond Ortiz",
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiGEBIWChBjZjg4MTk2MjU5ZjcxNDA2EAAYAg%3D%3D&sigh=3vMUN-jkGacDb4zM58plBw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cf88196259f71406",
+ "category": "",
+ "title": "That Part",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "808",
+  "drums",
+  "original vocal samples",
+  "synths"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "instruments": [
+  "Piano"
+ ],
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100485",
+ "fp_ref_id": "9d8ad075ba244bb6",
+ "display_genre": "Classical",
+ "title": "Memory Lane",
+ "downloadable": true,
+ "genre": "Classical",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Romantic",
+ "favorite": false,
+ "len": 110.983,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9d8ad075ba244bb6",
+ "category": "",
+ "streamid": "s6nrXvwH5HDRKXXKBX3elTKhVFXmR4miulreoF3L6J-JKupTElbk_Q-_rkGVGORD",
+ "vid": "9d8ad075ba244bb6",
+ "mood": "Romantic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA5ZDhhZDA3NWJhMjQ0YmI2EAAYAg%3D%3D&sigh=r7wZ2Qob8NkyLedyQi2dlw",
+ "popularity_percentile": 37,
+ "reference_vid": "9d8ad075ba244bb6"
+}

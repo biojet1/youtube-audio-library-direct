@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "92e128de10c61aa4",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Pop",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=92e128de10c61aa4",
+ "popularity_percentile": 95,
+ "vid": "92e128de10c61aa4",
+ "streamid": "OqdYYxyB12S9CI1sHkZawuOuD8m23zwRaKAsJX5aJHXHX6KfxJoTACwpYTxQyG_Q",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChA5MmUxMjhkZTEwYzYxYWE0EAAYAg%3D%3D&sigh=_Vo8KqfRXDT6Pjvvvlsasw",
+ "display_category": "",
+ "title": "Atlantean Twilight",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Calm",
+ "display_genre": "Pop",
+ "reference_vid": "92e128de10c61aa4",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100322",
+ "instruments": [
+  "Piano"
+ ],
+ "len": 171.15,
+ "category": ""
+}

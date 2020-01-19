@@ -1,0 +1,32 @@
+{
+ "streamid": "Qg2z2KZLsjRXXjP3RUFDcYHcheOzL8viM6eEP2KBFPkihpeZQPtORhytzpv5zvxJ",
+ "is_new_track": false,
+ "downloadable": true,
+ "len": 235.616,
+ "track_url": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2977827ab53dc873",
+ "display_category": "",
+ "reference_vid": "2977827ab53dc873",
+ "title": "Italian Morning",
+ "popularity_percentile": 65,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPirDhIWChAyOTc3ODI3YWI1M2RjODczEAAYAg%3D%3D&sigh=G7Q65NVi_9z31ZuqAbVVuA",
+ "artist_channel_url": null,
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "category": "",
+ "display_mood": "Happy",
+ "favorite": false,
+ "fp_ref_id": "2977827ab53dc873",
+ "artist": "Twin Musicom",
+ "vid": "2977827ab53dc873",
+ "artist_url": "http://www.twinmusicom.org/",
+ "genre": "Pop",
+ "license_type": 6,
+ "display_genre": "Pop"
+}

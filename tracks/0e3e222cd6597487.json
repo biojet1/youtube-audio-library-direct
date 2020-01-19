@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0e3e222cd6597487",
+ "title": "Funky (Sting)",
+ "is_new_track": false,
+ "mood": "Funky",
+ "downloadable": true,
+ "album": "None",
+ "len": 14.55,
+ "popularity_percentile": 41,
+ "track_url": "",
+ "artist_channel_url": null,
+ "category": "",
+ "reference_vid": "0e3e222cd6597487",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "display_genre": "Rock",
+ "artist": "Twin Musicom",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCLBtEhYKEDBlM2UyMjJjZDY1OTc0ODcQABgC&sigh=8niYHiWz4itnLlDYaCZsEA",
+ "fp_ref_id": "0e3e222cd6597487",
+ "license_type": 6,
+ "favorite": false,
+ "vid": "0e3e222cd6597487",
+ "artist_url": "http://www.twinmusicom.org/",
+ "display_mood": "Funky",
+ "genre": "Rock",
+ "streamid": "IgChn2erGwlhO-OHtPPzeNqHU8UXx-cyx1WGrP3rFp4nW4zIes6-OqoG_qSXD7tj",
+ "display_category": ""
+}

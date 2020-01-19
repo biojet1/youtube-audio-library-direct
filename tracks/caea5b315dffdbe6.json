@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 102.616,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBjYWVhNWIzMTVkZmZkYmU2EAAYAg%3D%3D&sigh=K0RFHzQPLpgmUA2_vkI8yA",
+ "genre": "Cinematic",
+ "streamid": "sXoYhP9rtfZ7mvChgqAHLPgYTN6pJao0OfAc4k0ZwGBFQL6_QDkC-0tBzmWd8ur5",
+ "downloadable": true,
+ "fp_ref_id": "caea5b315dffdbe6",
+ "vid": "caea5b315dffdbe6",
+ "album": "None",
+ "license_type": 6,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=caea5b315dffdbe6",
+ "category": "",
+ "reference_vid": "caea5b315dffdbe6",
+ "title": "Industrial Music Box",
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100812"
+}

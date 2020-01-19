@@ -1,0 +1,33 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "len": 131,
+ "mood": "Happy",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBmNDJmNzQ5ZDMyNTk0ZjkzEAAYAg%3D%3D&sigh=UkLndjr-eEpH69ugK4dC1w",
+ "genre": "Country & Folk",
+ "streamid": "GaaKa7xLIgdI7KWduojJ8XlMEEgyOcpP6Wa0-eXdFzU2FlnJQ-yqdKDtyszVAEHR",
+ "downloadable": true,
+ "fp_ref_id": "f42f749d32594f93",
+ "vid": "f42f749d32594f93",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Country & Folk",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCwhJTv7O8EmDwyvqMBLHcHg",
+ "instruments": [
+  "drums",
+  "upright piano",
+  "Acoustic guitars",
+  "electric bass",
+  "claps"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f42f749d32594f93",
+ "category": "",
+ "reference_vid": "f42f749d32594f93",
+ "title": "A Walk in the Park",
+ "artist": "Doug Maxwell",
+ "track_url": ""
+}

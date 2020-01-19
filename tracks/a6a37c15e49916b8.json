@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "artist": "Audionautix",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a6a37c15e49916b8",
+ "artist_channel_url": null,
+ "display_category": "",
+ "display_mood": "Happy",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCTBBIWChBhNmEzN2MxNWU0OTkxNmI4EAAYAg%3D%3D&sigh=vfUcfQpvKMHLyyXLVaF9qQ",
+ "len": 68.616,
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "display_genre": "Children's",
+ "reference_vid": "a6a37c15e49916b8",
+ "is_new_track": false,
+ "title": "You So Zany",
+ "track_url": "",
+ "popularity_percentile": 42,
+ "streamid": "7nNGLCYu9szojLTaEEV0QZpYtf86iQey8CvsBeZ4tr82huf-s7ZE7CJv5vIpC7s9",
+ "genre": "Children's",
+ "vid": "a6a37c15e49916b8",
+ "favorite": false,
+ "fp_ref_id": "a6a37c15e49916b8"
+}

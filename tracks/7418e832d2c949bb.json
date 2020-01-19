@@ -1,0 +1,31 @@
+{
+ "display_genre": "Jazz & Blues",
+ "vid": "7418e832d2c949bb",
+ "title": "Soul and Mind",
+ "mood": "Calm",
+ "reference_vid": "7418e832d2c949bb",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 139.383,
+ "fp_ref_id": "7418e832d2c949bb",
+ "is_new_track": false,
+ "artist": "E's Jammy Jams",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "streamid": "TTvKiVTcUBSmGQQdWCFIexP81CZIOzCIwJOLKyLS16khVqMzSTEvqEsqMDBa53Wd",
+ "display_mood": "Calm",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7418e832d2c949bb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA3NDE4ZTgzMmQyYzk0OWJiEAAYAg%3D%3D&sigh=TaIqVLB8IWf0kDJG1QsjVw",
+ "genre": "Jazz & Blues"
+}

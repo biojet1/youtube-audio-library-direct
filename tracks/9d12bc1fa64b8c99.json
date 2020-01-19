@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9d12bc1fa64b8c99",
+ "category": "",
+ "license_type": 6,
+ "title": "Prelude No. 4",
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "display_mood": "Calm",
+ "album": "None",
+ "streamid": "7tJChyhIAqoB94C_eLMQXPxxB0Y_q9mGO1v4XM1bByiUB7HczlKk_zmH3Hwn8OUW",
+ "len": 89.283,
+ "artist": "Chris Zabriskie",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9d12bc1fa64b8c99",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi3BRIWChA5ZDEyYmMxZmE2NGI4Yzk5EAAYAg%3D%3D&sigh=1kEXrpIseHjQ_dHmh2_WuA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "9d12bc1fa64b8c99",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "9d12bc1fa64b8c99",
+ "track_url": "http://chriszabriskie.com/preludes/"
+}

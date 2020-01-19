@@ -1,0 +1,32 @@
+{
+ "mood": "Calm",
+ "album": "None",
+ "vid": "886b2b09b3783525",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDmEhIWChA4ODZiMmIwOWIzNzgzNTI1EAAYAg%3D%3D&sigh=J9EFJUYEtyP9q_2YJ2lpFg",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "track_url": "",
+ "streamid": "3WDhVgTYtKJZiOLdduJ1IVPirElITnIQFRlMM5VpQ8GNWuNANZ3Lu5wnpEvlQ4WC",
+ "len": 308,
+ "genre": "Pop",
+ "artist": "Jeremy Blake",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Let's Go Home",
+ "instruments": [
+  "electric guitar",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=886b2b09b3783525",
+ "reference_vid": "886b2b09b3783525",
+ "popularity_percentile": 99,
+ "fp_ref_id": "886b2b09b3783525",
+ "display_mood": "Calm"
+}

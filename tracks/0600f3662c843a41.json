@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChAwNjAwZjM2NjJjODQzYTQxEAAYAg%3D%3D&sigh=jSBANz-raJ0MqyHvfUC_kA",
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0600f3662c843a41",
+ "reference_vid": "0600f3662c843a41",
+ "popularity_percentile": 3,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0600f3662c843a41",
+ "mood": "Dark",
+ "genre": "Cinematic",
+ "streamid": "LgHyhKtjYLe_lIh2Ud1Rgk4kjX2MrL0NqZbIZC0AFn_qDYHPy3XvMHMEOEXd490y",
+ "title": "Time Stops",
+ "downloadable": true,
+ "category": "",
+ "len": 169.35,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "0600f3662c843a41",
+ "album": "None"
+}

@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA0MDZmYjhmYzdlZjJlNjk2EAAYAg%3D%3D&sigh=SYV-MOSB-QF4wYhNIbEvmg",
+ "instruments": [
+  "Synth",
+  "Piano"
+ ],
+ "display_mood": "Calm",
+ "artist": "JR Tundra",
+ "artist_channel_url": null,
+ "vid": "406fb8fc7ef2e696",
+ "reference_vid": "406fb8fc7ef2e696",
+ "genre": "Ambient",
+ "popularity_percentile": 25,
+ "display_genre": "Ambient",
+ "favorite": false,
+ "track_url": "",
+ "title": "Enochian Magic",
+ "downloadable": true,
+ "category": "",
+ "streamid": "pynp9UN9aMZTz_C0u8oGMbJEG722d7goAr8cJpdUGsLOA2co7gZF9ZnCfjn9Xox4",
+ "fp_ref_id": "406fb8fc7ef2e696",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=406fb8fc7ef2e696",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Calm",
+ "len": 145.316
+}

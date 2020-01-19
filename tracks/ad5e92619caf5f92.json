@@ -1,0 +1,29 @@
+{
+ "display_category": "",
+ "genre": "Classical",
+ "is_new_track": false,
+ "artist": "Aaron Kenny",
+ "title": "Beneath the Moonlight",
+ "streamid": "vc7sbn0PHowjv215vXVNU2QbeEZ3R8ejpDesFxxlFUKoDWTl1-C4JRN54arPDMLb",
+ "downloadable": true,
+ "album": "None",
+ "len": 128,
+ "fp_ref_id": "ad5e92619caf5f92",
+ "vid": "ad5e92619caf5f92",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "display_mood": "Romantic",
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ad5e92619caf5f92",
+ "instruments": [
+  "Piano"
+ ],
+ "license_type": 1,
+ "mood": "Romantic",
+ "display_genre": "Classical",
+ "track_url": "",
+ "reference_vid": "ad5e92619caf5f92",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBhZDVlOTI2MTljYWY1ZjkyEAAYAg%3D%3D&sigh=sw8r_CFlHZXOERXA10FN9w",
+ "category": "",
+ "popularity_percentile": 99
+}

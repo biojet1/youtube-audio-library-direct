@@ -1,0 +1,31 @@
+{
+ "len": 55.316,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0db6a31c989a8efd",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Strings"
+ ],
+ "display_mood": "Dramatic",
+ "streamid": "7c1mCEy5Y95kB4SFcNxKWnbP1qun_7kYyNEz-3RAyAGfxylQFwvJYcKNW9KfSirF",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNitAxIWChAwZGI2YTMxYzk4OWE4ZWZkEAAYAg%3D%3D&sigh=iR5h6tMMMLsDNjlekKbbKA",
+ "title": "Mechanolith",
+ "vid": "0db6a31c989a8efd",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "popularity_percentile": 54,
+ "display_genre": "Cinematic",
+ "reference_vid": "0db6a31c989a8efd",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Cinematic",
+ "fp_ref_id": "0db6a31c989a8efd",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100879",
+ "album": "None"
+}

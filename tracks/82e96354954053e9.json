@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "reference_vid": "82e96354954053e9",
+ "streamid": "s-s0cho23CACXjS0jLTtiaeoo_ozjt6luIBbqBYodBY_7eIfAAXeDtAilMEeYiBS",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjdDRIWChA4MmU5NjM1NDk1NDA1M2U5EAAYAg%3D%3D&sigh=7fXM9Nd_evMELiFIE02BbA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=82e96354954053e9",
+ "len": 225.95,
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "82e96354954053e9",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Blown Away - Netherworld Shanty",
+ "mood": "Dark",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Dance & Electronic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200100",
+ "vid": "82e96354954053e9"
+}

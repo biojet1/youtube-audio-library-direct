@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=45c1bbe072cbabc2",
+ "license_type": 6,
+ "is_new_track": false,
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "fp_ref_id": "45c1bbe072cbabc2",
+ "popularity_percentile": 88,
+ "reference_vid": "45c1bbe072cbabc2",
+ "len": 168.283,
+ "track_url": "",
+ "mood": "Bright",
+ "album": "None",
+ "streamid": "xH9D2p_BdfVGfgCzjl3NHW1DY8vTM4kKtFkHazawl3zchPS8Mki-jFCKj-DJszhq",
+ "genre": "Pop",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "title": "Smooth Sailing",
+ "category": "",
+ "display_category": "",
+ "display_genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChA0NWMxYmJlMDcyY2JhYmMyEAAYAg%3D%3D&sigh=rNXBXJXHVKrQ7b_A1cZH7A",
+ "vid": "45c1bbe072cbabc2",
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "artist": "Audionautix",
+ "artist_channel_url": null
+}

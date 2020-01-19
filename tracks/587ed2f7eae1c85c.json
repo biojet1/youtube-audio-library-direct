@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Cinematic",
+ "category": "",
+ "fp_ref_id": "587ed2f7eae1c85c",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Exciting Trailer",
+ "vid": "587ed2f7eae1c85c",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjJBBIWChA1ODdlZDJmN2VhZTFjODVjEAAYAg%3D%3D&sigh=-pURAb5LF0VpV1c4C0xhoA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=587ed2f7eae1c85c",
+ "display_category": "",
+ "len": 75.083,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100494",
+ "downloadable": true,
+ "streamid": "DCwPiztWutrT3650lDxOgbsWCZoNSWfBSWIV3cjMzty_UemuSwdy34KvSVZe9gqc",
+ "reference_vid": "587ed2f7eae1c85c",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Strings"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Cinematic"
+}

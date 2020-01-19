@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "album": "None",
+ "reference_vid": "b0e2deb1e41a6cdc",
+ "popularity_percentile": 66,
+ "category": "",
+ "vid": "b0e2deb1e41a6cdc",
+ "title": "A Mission - Scoring Action",
+ "mood": "Dramatic",
+ "len": 44.15,
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "b0e2deb1e41a6cdc",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100343",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Strings"
+ ],
+ "streamid": "Dcs7uppc3Pshw-Gj6FVHJeyilh0ccA_8snCOOUiVrkeBowjm-k9tZ1Xba3rktRmh",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "genre": "Classical",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b0e2deb1e41a6cdc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODXAhIWChBiMGUyZGViMWU0MWE2Y2RjEAAYAg%3D%3D&sigh=bX9zQ4r_LKjYELOah70zDQ"
+}

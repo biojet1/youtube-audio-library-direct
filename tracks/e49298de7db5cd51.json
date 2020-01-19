@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "artist": "Chris Zabriskie",
+ "instruments": [
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e49298de7db5cd51",
+ "artist_channel_url": null,
+ "display_category": "",
+ "display_mood": "Calm",
+ "artist_url": "http://chriszabriskie.com/",
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCyBBIWChBlNDkyOThkZTdkYjVjZDUxEAAYAg%3D%3D&sigh=aQsiHBfAyYktVQJRORXZhw",
+ "len": 72.683,
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "display_genre": "Classical",
+ "reference_vid": "e49298de7db5cd51",
+ "is_new_track": false,
+ "title": "Prelude No. 22",
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "popularity_percentile": 42,
+ "streamid": "akUS7kNgVpbODoFT8zUJF2SGeYMoH-mokrAihy9AnIQvrxjtezmfXu31mDbYOA41",
+ "genre": "Classical",
+ "vid": "e49298de7db5cd51",
+ "favorite": false,
+ "fp_ref_id": "e49298de7db5cd51"
+}

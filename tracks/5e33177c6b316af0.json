@@ -1,0 +1,33 @@
+{
+ "len": 117,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "track_url": "",
+ "category": "",
+ "mood": "Funky",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5e33177c6b316af0",
+ "title": "Fridaze",
+ "streamid": "xODkPaLD_qjd6y5zuYCcHWaxbBXOmzGvlGdjpbaUITaQNJrQ-AzWRNEfbFTL51N9",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChA1ZTMzMTc3YzZiMzE2YWYwEAAYAg%3D%3D&sigh=WHOo_rBLDwxGmS7MQKnz4Q",
+ "license_type": 1,
+ "fp_ref_id": "5e33177c6b316af0",
+ "display_mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "vid": "5e33177c6b316af0",
+ "artist": "Lauren Duski",
+ "instruments": [
+  "piano",
+  "acoustic guitar",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "reference_vid": "5e33177c6b316af0"
+}

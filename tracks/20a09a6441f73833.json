@@ -1,0 +1,33 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=20a09a6441f73833",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "category": "",
+ "title": "Perihelion",
+ "track_url": "",
+ "vid": "20a09a6441f73833",
+ "mood": "Bright",
+ "is_new_track": false,
+ "len": 159,
+ "instruments": [
+  "bass",
+  "strings",
+  "piano",
+  "synth",
+  "percussion"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "dleU_cPOrMUep425zF70zHVEaQAnOcmysnK2zEJDXn4GR45rOHyow_oNi8MeFHtR",
+ "display_genre": "Cinematic",
+ "artist": "Cooper Cannell",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "reference_vid": "20a09a6441f73833",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChAyMGEwOWE2NDQxZjczODMzEAAYAg%3D%3D&sigh=U9CQ-DYmKimluzSEwfqATg",
+ "fp_ref_id": "20a09a6441f73833",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "license_type": 1
+}

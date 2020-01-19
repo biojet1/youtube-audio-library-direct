@@ -1,0 +1,32 @@
+{
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "favorite": false,
+ "fp_ref_id": "23f940a9c7452347",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "streamid": "jyrkZUo6N-NePM77WfJKeYrf1U0PU4LI9HRXRNKaQFZO4xzdLXSVhJdAGmFI0zxI",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=23f940a9c7452347",
+ "album": "None",
+ "mood": "Dramatic",
+ "downloadable": true,
+ "artist": "Everet Almond",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 118.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChAyM2Y5NDBhOWM3NDUyMzQ3EAAYAg%3D%3D&sigh=wPGGz8QXsw6Z1aYeOraCTQ",
+ "reference_vid": "23f940a9c7452347",
+ "popularity_percentile": 14,
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "track_url": "",
+ "title": "Double Agent",
+ "category": "",
+ "vid": "23f940a9c7452347"
+}

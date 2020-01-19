@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "fp_ref_id": "5ceadc46f650a9e9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChA1Y2VhZGM0NmY2NTBhOWU5EAAYAg%3D%3D&sigh=NEEP8Q8EFHZvZlY1xyR56A",
+ "streamid": "KKNeLgRcMA3_qUOhL6_XYHgTqONeF_oAqdBZjbVwEfsBBcz0356JGEo9zdengGFC",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 153,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5ceadc46f650a9e9",
+ "favorite": false,
+ "title": "Puffer",
+ "artist": "Rondo Brothers",
+ "genre": "Dance & Electronic",
+ "vid": "5ceadc46f650a9e9",
+ "display_category": "",
+ "reference_vid": "5ceadc46f650a9e9",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "is_new_track": false
+}

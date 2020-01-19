@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "b90dd49db111be64",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Country & Folk",
+ "category": "",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "streamid": "cO2o1KobeeOgd8ISRqgsEnQWwNkVBkifCewxct1iRqkGqDZF6thGLiXlSZuscNuB",
+ "license_type": 0,
+ "vid": "b90dd49db111be64",
+ "popularity_percentile": 72,
+ "reference_vid": "b90dd49db111be64",
+ "display_genre": "Country & Folk",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 137.25,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Sad",
+ "mood": "Sad",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChBiOTBkZDQ5ZGIxMTFiZTY0EAAYAg%3D%3D&sigh=Vkjl7ekDRXKsNVT-AsbWYg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b90dd49db111be64",
+ "title": "Scapes"
+}

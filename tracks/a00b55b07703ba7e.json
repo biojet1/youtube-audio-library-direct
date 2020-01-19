@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "mood": "Happy",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBhMDBiNTViMDc3MDNiYTdlEAAYAg%3D%3D&sigh=k6bAUl8aoEWFEA0LrBchmg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a00b55b07703ba7e",
+ "track_url": "",
+ "genre": "Jazz & Blues",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "a00b55b07703ba7e",
+ "fp_ref_id": "a00b55b07703ba7e",
+ "category": "",
+ "title": "Panama Hat",
+ "reference_vid": "a00b55b07703ba7e",
+ "artist": "Audionautix",
+ "display_genre": "Jazz & Blues",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "h6KFpQNccxKIVh--xSHqTQd_JgwPn4kWWfU5Spfq_PJI18Vg2-lprL-gXQik32Rq",
+ "len": 109.116,
+ "license_type": 6,
+ "is_new_track": false
+}

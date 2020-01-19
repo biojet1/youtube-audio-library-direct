@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "513b050fdc891660",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=513b050fdc891660",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChA1MTNiMDUwZmRjODkxNjYwEAAYAg%3D%3D&sigh=oOeHY5fv3zxk_Tg852icSA",
+ "is_new_track": false,
+ "reference_vid": "513b050fdc891660",
+ "display_mood": "Calm",
+ "favorite": false,
+ "category": "",
+ "title": "Strawberri",
+ "streamid": "xoEk82uXovWhMoaKHMD0sr0cYTlq_JTzvGt3hP59EetaK-Yr6Q4GFHikQ9yuG_Uj",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 95.233,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Text Me Records / Leviathe",
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "synth"
+ ],
+ "fp_ref_id": "513b050fdc891660"
+}

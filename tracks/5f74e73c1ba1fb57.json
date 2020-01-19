@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "vid": "5f74e73c1ba1fb57",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 0,
+ "display_category": "",
+ "fp_ref_id": "5f74e73c1ba1fb57",
+ "track_url": "",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA1Zjc0ZTczYzFiYTFmYjU3EAAYAg%3D%3D&sigh=c6fHSbWHyDFYXuT6ZI08mA",
+ "artist_url": "",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Organ",
+  "Drums",
+  "Strings"
+ ],
+ "title": "Barton Springs",
+ "downloadable": true,
+ "streamid": "qrpeNZtSTclgXyjaRUlfgnVZ76IaDuhh3fHUR3JSO770BmvoIoEER3HwqHMZ5qS0",
+ "genre": "Cinematic",
+ "len": 106.416,
+ "artist": "Bird Creek",
+ "display_mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5f74e73c1ba1fb57",
+ "popularity_percentile": 37,
+ "reference_vid": "5f74e73c1ba1fb57",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Inspirational"
+}

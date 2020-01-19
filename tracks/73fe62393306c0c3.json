@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "title": "That Slapper",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Otis McDonald",
+ "vid": "73fe62393306c0c3",
+ "mood": "Dark",
+ "genre": "Ambient",
+ "reference_vid": "73fe62393306c0c3",
+ "track_url": "",
+ "streamid": "u8cxMOqms3j1Po3p8aHjMtXHsnmwKB370JPgNbC-x9STPbieya24FV92rIAwh7cN",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73fe62393306c0c3",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCKDBIWChA3M2ZlNjIzOTMzMDZjMGMzEAAYAg%3D%3D&sigh=MoC6c9e5osFgX9NvlTHXRw",
+ "instruments": [
+  "Synth",
+  "Bass"
+ ],
+ "display_mood": "Dark",
+ "fp_ref_id": "73fe62393306c0c3",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 198.933,
+ "display_genre": "Ambient"
+}

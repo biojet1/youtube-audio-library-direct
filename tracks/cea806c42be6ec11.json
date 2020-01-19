@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "vid": "cea806c42be6ec11",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCvWuOz2bCBzZbrn2CTCyFHg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cea806c42be6ec11",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjtDRIWChBjZWE4MDZjNDJiZTZlYzExEAAYAg%3D%3D&sigh=I2L1qcXBOQMzyNexdFEqlQ",
+ "is_new_track": false,
+ "reference_vid": "cea806c42be6ec11",
+ "display_mood": "Calm",
+ "favorite": false,
+ "category": "",
+ "title": "Sixteen Twenty Five",
+ "streamid": "0Q9vmZEEOsvDlSgEmqGSpSdSA2ApHHG13nD_GosOjhFzKVpxOSlOjlRZ_HXsFaob",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 227.933,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Text Me Records / Grandbankss",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Guitar"
+ ],
+ "fp_ref_id": "cea806c42be6ec11"
+}

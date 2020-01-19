@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Dramatic",
+ "display_category": "",
+ "fp_ref_id": "77b27c50913a77e1",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=77b27c50913a77e1",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "77b27c50913a77e1",
+ "len": 202.85,
+ "display_mood": "Dramatic",
+ "streamid": "gs9T_l2RMxqtHHfPQMvGhlwSb5bbvGdzRM1Ej7AG75emgp3p0wqYjYR3IS_YuYUw",
+ "display_genre": "Country and Folk",
+ "title": "Cheating Juarez",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Country and Folk",
+ "vid": "77b27c50913a77e1",
+ "artist": "John Deley and the 41 Players",
+ "instruments": [
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCqDBIWChA3N2IyN2M1MDkxM2E3N2UxEAAYAg%3D%3D&sigh=zjiaynzB0zytFh7yCb4ZNQ"
+}

@@ -1,0 +1,31 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 104,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChAwNDcxMjA3MjA1NDEyNDNlEAAYAg%3D%3D&sigh=U1D6Y5nqUomLyCHO0kus0w",
+ "genre": "Cinematic",
+ "streamid": "athZpHtAzZ5oGLM2m8uyD1huF6RNDjFzf0Yd2mmEoBAlnPKM3a25eS51PoZZqpv0",
+ "downloadable": true,
+ "fp_ref_id": "047120720541243e",
+ "vid": "047120720541243e",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "instruments": [
+  "Strings",
+  "Horn",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=047120720541243e",
+ "category": "",
+ "reference_vid": "047120720541243e",
+ "title": "The New Order",
+ "artist": "Aaron Kenny",
+ "track_url": ""
+}

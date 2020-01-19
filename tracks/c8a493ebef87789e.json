@@ -1,0 +1,33 @@
+{
+ "display_genre": "Pop",
+ "streamid": "wnU75iL0n07V9jvzc6JMiAzf3J2eBjFTacBJsRiiGboVFyN_r130TB5pY6N23d1m",
+ "display_category": "",
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "reference_vid": "c8a493ebef87789e",
+ "instruments": [
+  "Bass",
+  "Guitar",
+  "Keyboards",
+  "Piano",
+  "Drums"
+ ],
+ "category": "",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "fp_ref_id": "c8a493ebef87789e",
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChBjOGE0OTNlYmVmODc3ODllEAAYAg%3D%3D&sigh=ZZHhF4UhHUV7JpJFWnXQ9Q",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c8a493ebef87789e",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Inspirational",
+ "artist": "The 126ers",
+ "mood": "Inspirational",
+ "title": "Lovely Afternoon Breeze",
+ "len": 154,
+ "vid": "c8a493ebef87789e",
+ "track_url": ""
+}

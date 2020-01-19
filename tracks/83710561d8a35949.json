@@ -1,0 +1,32 @@
+{
+ "mood": "Romantic",
+ "artist": "The Green Orbs",
+ "vid": "83710561d8a35949",
+ "display_category": "",
+ "streamid": "IsJaNINpuRP8w6l8ojl0fRYKeiKmCHcexY64di3UcXQhjLbkpJRglXjHiHhjQOjQ",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=83710561d8a35949",
+ "fp_ref_id": "83710561d8a35949",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA4MzcxMDU2MWQ4YTM1OTQ5EAAYAg%3D%3D&sigh=lIp78XgF1CK7shT0m2DEaQ",
+ "display_genre": "Children's",
+ "len": 145.616,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Acoustic Guitar"
+ ],
+ "reference_vid": "83710561d8a35949",
+ "title": "Sand Castles",
+ "genre": "Children's",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Romantic",
+ "popularity_percentile": 52
+}

@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA0NTdmODg5ZTdhM2ZmMmFjEAAYAg%3D%3D&sigh=BOlyJMtB0nTc6A4MwkUCOA",
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "6wcbemlQZAHplTrSVZD8nTlU6H-TayftnF1FpvR5xqXd8SJNUje8LdJVPia2DVK3",
+ "artist": "Bird Creek",
+ "len": 118.816,
+ "genre": "Jazz & Blues",
+ "mood": "Happy",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "457f889e7a3ff2ac",
+ "reference_vid": "457f889e7a3ff2ac",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=457f889e7a3ff2ac",
+ "fp_ref_id": "457f889e7a3ff2ac",
+ "display_mood": "Happy",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Moonlight Haze",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano"
+ ]
+}

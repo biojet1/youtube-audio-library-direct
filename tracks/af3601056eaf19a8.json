@@ -1,0 +1,33 @@
+{
+ "reference_vid": "af3601056eaf19a8",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "af3601056eaf19a8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=af3601056eaf19a8",
+ "mood": "Inspirational",
+ "artist": "Silent Partner",
+ "vid": "af3601056eaf19a8",
+ "favorite": false,
+ "display_genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChBhZjM2MDEwNTZlYWYxOWE4EAAYAg%3D%3D&sigh=wpEe18yceHPefNCK76SFYw",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar",
+  "synth"
+ ],
+ "downloadable": true,
+ "streamid": "yS5jnPuAf36JFeOf3zlXSq2Kn_OW8gIBmBblzLK6jDagz4wxVQMjjjzKNqBbarOq",
+ "len": 134.266,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 0,
+ "title": "Abracadabra",
+ "genre": "Country & Folk",
+ "display_category": ""
+}

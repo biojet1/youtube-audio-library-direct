@@ -1,0 +1,31 @@
+{
+ "genre": "Alternative & Punk",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Silent Partner",
+ "fp_ref_id": "98e847d6e3ddacd9",
+ "display_mood": "Angry",
+ "display_genre": "Alternative & Punk",
+ "vid": "98e847d6e3ddacd9",
+ "mood": "Angry",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChA5OGU4NDdkNmUzZGRhY2Q5EAAYAg%3D%3D&sigh=SpQ9XRvdzujJyYbSkyFkZw",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Pomade",
+ "category": "",
+ "len": 117.35,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=98e847d6e3ddacd9",
+ "reference_vid": "98e847d6e3ddacd9",
+ "streamid": "HhpdxCoZOv-CTwR7YsgP-siFXySOfTXYk1GFCdbMncTkxQ6wjN5RzaXi0cpYeutA"
+}

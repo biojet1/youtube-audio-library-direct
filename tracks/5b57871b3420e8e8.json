@@ -1,0 +1,31 @@
+{
+ "vid": "5b57871b3420e8e8",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5b57871b3420e8e8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5b57871b3420e8e8",
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "piano",
+  "bass"
+ ],
+ "track_url": "",
+ "title": "Big Wheel",
+ "genre": "Pop",
+ "mood": "Happy",
+ "artist": "Silent Partner",
+ "display_mood": "Happy",
+ "streamid": "bIqb68tLrYIVl-GT0ktFsu8Gpl_xV2yI8BSbqJYDPyXJYtbSgqsFos36fePNCfL8",
+ "display_category": "",
+ "len": 163.283,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA1YjU3ODcxYjM0MjBlOGU4EAAYAg%3D%3D&sigh=lHgLt1g58rPaseA-BB1ctQ",
+ "reference_vid": "5b57871b3420e8e8",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Pop"
+}

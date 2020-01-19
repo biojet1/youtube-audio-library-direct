@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "reference_vid": "ee59e28c3351c6fb",
+ "streamid": "tZx8KIhpkMqoNUlt6qR-nlpResH6Csm8CAKGThCZZ1obiNeS0Xd5_z5HCylmdv8r",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNCDBBIWChBlZTU5ZTI4YzMzNTFjNmZiEAAYAg%3D%3D&sigh=iucbMY2_RsE0CUQCxAYRJA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ee59e28c3351c6fb",
+ "len": 66.983,
+ "genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "display_category": "",
+ "fp_ref_id": "ee59e28c3351c6fb",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Feral Chase",
+ "mood": "Dark",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Cinematic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100229",
+ "vid": "ee59e28c3351c6fb"
+}

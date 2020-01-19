@@ -1,0 +1,31 @@
+{
+ "artist": "Kevin MacLeod",
+ "mood": "Funky",
+ "vid": "d8852621ba43e9d0",
+ "streamid": "2Gl1LMJ4Ka4PYWbkO1dJoQ0pU_mgU4PHJ5PU5gJlq9BCfxWSTRd9KdOHvCMzrEJQ",
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100311",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8852621ba43e9d0",
+ "fp_ref_id": "d8852621ba43e9d0",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChBkODg1MjYyMWJhNDNlOWQwEAAYAg%3D%3D&sigh=FTpU13nuL2Ay919IR_ZXPw",
+ "len": 124.816,
+ "display_genre": "Dance & Electronic",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Dance & Electronic",
+ "reference_vid": "d8852621ba43e9d0",
+ "title": "Balzan Groove - Vadodara",
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Drums"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "display_mood": "Funky",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 6
+}

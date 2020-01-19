@@ -1,0 +1,31 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDPChIWChBmYjc2YjIyYzFjODYwNDE1EAAYAg%3D%3D&sigh=NPV9M625pOABi5NoCr-_xw",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fb76b22c1c860415",
+ "reference_vid": "fb76b22c1c860415",
+ "popularity_percentile": 99,
+ "artist": "Gunnar Olsen",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fb76b22c1c860415",
+ "mood": "Funky",
+ "genre": "Hip Hop & Rap",
+ "streamid": "ExyUh5RAXOxxDJnrGhqm5xBVzUV4ECw-Sf2uj00g1JbgjVtHL80dQFMavU5YUUkk",
+ "title": "Trespass",
+ "downloadable": true,
+ "category": "",
+ "len": 174.583,
+ "artist_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "fb76b22c1c860415",
+ "album": "None"
+}

@@ -1,0 +1,30 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "47a948a7ec3508dc",
+ "display_category": "",
+ "fp_ref_id": "47a948a7ec3508dc",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=47a948a7ec3508dc",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 28,
+ "mood": "Calm",
+ "instruments": [
+  "Synth",
+  "Strings"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChA0N2E5NDhhN2VjMzUwOGRjEAAYAg%3D%3D&sigh=gNSHnAOwRJdDFKxD-0V90A",
+ "streamid": "x_KH8xhDiwL6gd3L4ix8oUKB4w6Cdc949LKpNukumfgXXVpP7QzMyHoBM3-6Hp41",
+ "genre": "Ambient",
+ "vid": "47a948a7ec3508dc",
+ "artist": "Jingle Punks",
+ "display_genre": "Ambient",
+ "title": "Far Out Man",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 90.916,
+ "display_mood": "Calm",
+ "downloadable": true
+}

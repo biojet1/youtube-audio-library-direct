@@ -1,0 +1,30 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChAwNWY0NmYyMDk4ODQwMjc3EAAYAg%3D%3D&sigh=uSWdbhkHl6C4AxmjWZF5Tw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "category": "",
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "05f46f2098840277",
+ "is_new_track": false,
+ "len": 131,
+ "genre": "Dance & Electronic",
+ "reference_vid": "05f46f2098840277",
+ "downloadable": true,
+ "streamid": "h8YPDEqqornUWv1c_aUt4PcbevibtDm0SslfjxHKmicli1pIr7nKeuFMBRuhn1aK",
+ "track_url": "",
+ "vid": "05f46f2098840277",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=05f46f2098840277",
+ "artist_url": "https://www.youtube.com/channel/UCHF8dGfnDzTO-8K5mYMohXA",
+ "license_type": 1,
+ "title": "Atmospheria",
+ "artist": "Francis Preve"
+}

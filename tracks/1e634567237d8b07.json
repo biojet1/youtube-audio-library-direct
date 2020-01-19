@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1e634567237d8b07",
+ "track_url": "",
+ "fp_ref_id": "1e634567237d8b07",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "MK2",
+ "instruments": [
+  "Strings",
+  "Synth",
+  "Electric Piano"
+ ],
+ "reference_vid": "1e634567237d8b07",
+ "display_mood": "Calm",
+ "len": 92.45,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChAxZTYzNDU2NzIzN2Q4YjA3EAAYAg%3D%3D&sigh=J6MrCXYU9RO_jzQJaPOWXg",
+ "popularity_percentile": 12,
+ "streamid": "S_HgkAcLr9YACl10lBzRulLAd85sz6OesvamoAW4BKATjmba64lfB7-f0imMNjrp",
+ "license_type": 0,
+ "display_genre": "Ambient",
+ "category": "",
+ "title": "Reflections",
+ "genre": "Ambient",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1e634567237d8b07"
+}

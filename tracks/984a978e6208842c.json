@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "reference_vid": "984a978e6208842c",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=984a978e6208842c",
+ "fp_ref_id": "984a978e6208842c",
+ "mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Synth"
+ ],
+ "len": 600.083,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMDPJBIWChA5ODRhOTc4ZTYyMDg4NDJjEAAYAg%3D%3D&sigh=iAENkSwyejRvhkopbcGFJQ",
+ "streamid": "z3UtkZ-8hQVmK8O2Wxg-uTSusXNUHH8J2k_oxdJYehT1tkvLzUrdtk1Z81XPyqsy",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 80,
+ "title": "Long Note Four",
+ "display_category": "",
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "vid": "984a978e6208842c",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100467",
+ "genre": "Ambient",
+ "category": "",
+ "favorite": false
+}

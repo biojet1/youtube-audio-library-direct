@@ -1,0 +1,31 @@
+{
+ "artist": "ann annie",
+ "display_category": "",
+ "genre": "Dance & Electronic",
+ "vid": "d85360455301dd57",
+ "instruments": [
+  "drum machine",
+  "synth",
+  "drums"
+ ],
+ "reference_vid": "d85360455301dd57",
+ "artist_url": "https://www.youtube.com/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "fp_ref_id": "d85360455301dd57",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d85360455301dd57",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjtDRIWChBkODUzNjA0NTUzMDFkZDU3EAAYAg%3D%3D&sigh=JuBJtLGJZrqAPqj-ahgCyg",
+ "streamid": "XgHOEOp25Y6VmxeDOhJGjQ8UpUFGpgeDT-xpPEHYDHTryBQZazMf_M4eP_pG6WOv",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 227,
+ "title": "Vapor",
+ "favorite": false
+}

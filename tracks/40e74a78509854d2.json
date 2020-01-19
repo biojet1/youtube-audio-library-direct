@@ -1,0 +1,31 @@
+{
+ "title": "Rockytop",
+ "favorite": false,
+ "len": 104.25,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChA0MGU3NGE3ODUwOTg1NGQyEAAYAg%3D%3D&sigh=ZyigtXzGjCjaDB05KrXMdQ",
+ "fp_ref_id": "40e74a78509854d2",
+ "artist_channel_url": null,
+ "display_genre": "Country & Folk",
+ "track_url": "",
+ "genre": "Country & Folk",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "reference_vid": "40e74a78509854d2",
+ "display_category": "",
+ "vid": "40e74a78509854d2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40e74a78509854d2",
+ "streamid": "PTb17oPZfwIv-VSdHr6JDgt9_GbEGuGrYXHpswv5gGl-w_n7VhNRFuNV02NVTDGH",
+ "artist": "Audionautix"
+}

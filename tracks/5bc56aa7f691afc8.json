@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "_CKpJWSdu-gRc44J1S3p3QzXdrkq66mHSU4C83TAoahGRZbcCI4YL5MffG6iO4uG",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5bc56aa7f691afc8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPilEBIWChA1YmM1NmFhN2Y2OTFhZmM4EAAYAg%3D%3D&sigh=n9N51xJwbHFzSjgMOp0y9Q",
+ "vid": "5bc56aa7f691afc8",
+ "display_category": "",
+ "title": "Bent and Broken",
+ "album": "None",
+ "mood": "Dark",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "reference_vid": "5bc56aa7f691afc8",
+ "len": 267.55,
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 33,
+ "fp_ref_id": "5bc56aa7f691afc8",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200087",
+ "display_genre": "Dance & Electronic",
+ "license_type": 6,
+ "instruments": [
+  "Synth"
+ ]
+}

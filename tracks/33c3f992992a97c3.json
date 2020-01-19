@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "33c3f992992a97c3",
+ "display_genre": "Classical",
+ "artist": "Dan Bodan",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChAzM2MzZjk5Mjk5MmE5N2MzEAAYAg%3D%3D&sigh=XPM347O288CXLgNpsL3jPA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=33c3f992992a97c3",
+ "len": 160,
+ "mood": "Romantic",
+ "title": "Anton",
+ "vid": "33c3f992992a97c3",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "genre": "Classical",
+ "display_mood": "Romantic",
+ "album": "None",
+ "instruments": [
+  "piano",
+  "strings"
+ ],
+ "popularity_percentile": 99,
+ "reference_vid": "33c3f992992a97c3",
+ "streamid": "6ISZsR6dhb7KKbSyrQId_tjIrO7iKmcRWQmPm2cKTQyEZYeZgiHCJmgQBxEysTNd"
+}

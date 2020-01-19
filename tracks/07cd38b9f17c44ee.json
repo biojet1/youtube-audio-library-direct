@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "07cd38b9f17c44ee",
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChAwN2NkMzhiOWYxN2M0NGVlEAAYAg%3D%3D&sigh=Ogw3WDjD7eM-LDHaEQ5T7g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=07cd38b9f17c44ee",
+ "artist": "Verified Picasso",
+ "len": 162,
+ "streamid": "apOxj1P7PpdjPMa3al9yNsZ7dO60BKf7QqJznyyZwEjtv5ZNrGzrQV3jcljYlT6w",
+ "album": "None",
+ "display_mood": "Inspirational",
+ "instruments": [
+  "electric guitar",
+  "synth",
+  "bass",
+  "drums",
+  "808"
+ ],
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "title": "Tea for Tat",
+ "vid": "07cd38b9f17c44ee",
+ "reference_vid": "07cd38b9f17c44ee",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

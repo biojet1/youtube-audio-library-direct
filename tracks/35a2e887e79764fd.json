@@ -1,0 +1,29 @@
+{
+ "artist": "The U.S. Army Band",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=35a2e887e79764fd",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCoAhIWChAzNWEyZTg4N2U3OTc2NGZkEAAYAg%3D%3D&sigh=vorGQjuzq7lu8gpX1dDcmQ",
+ "genre": "Classical",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "album": "None",
+ "track_url": "",
+ "len": 38.916,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "35a2e887e79764fd",
+ "streamid": "FpqMM3Hi1cLeezHqTI6X--Ji5gKDeWCz2vZmp5cImXOOeTujkOZK7ZsLLt-WmNRi",
+ "title": "The Army Song (aka The Army Goes Rolling Along)",
+ "artist_url": "",
+ "mood": "Bright",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "popularity_percentile": 21,
+ "reference_vid": "35a2e887e79764fd",
+ "instruments": [
+  "Trumpet"
+ ],
+ "fp_ref_id": "35a2e887e79764fd",
+ "license_type": 1
+}

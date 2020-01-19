@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9da28c3889f1ec12",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA5ZGEyOGMzODg5ZjFlYzEyEAAYAg%3D%3D&sigh=1rhT_VzI88TbCTm4T3RdkA",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9da28c3889f1ec12",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "vid": "9da28c3889f1ec12",
+ "downloadable": true,
+ "title": "Cologne 1983",
+ "reference_vid": "9da28c3889f1ec12",
+ "artist_url": "",
+ "len": 106.883,
+ "artist": "Josh Kirsch/Media Right Productions",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "t1I_bhYZgnpoUT7rKVvbDUFudHDO0UwUWoOCemJmBxk6XAkXfnJhE-NwWXmVXcwG",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

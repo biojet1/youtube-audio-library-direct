@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBjNTkxZTdmNjYxOWZhYzkzEAAYAg%3D%3D&sigh=jJ8cjtQY_unRoILuRpAwDw",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "c591e7f6619fac93",
+ "downloadable": true,
+ "reference_vid": "c591e7f6619fac93",
+ "favorite": false,
+ "fp_ref_id": "c591e7f6619fac93",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c591e7f6619fac93",
+ "genre": "Hip Hop & Rap",
+ "streamid": "lVx6m-EL5Umq7wUgzVxjKkE-aD8OzO6QgKgzgWzj8-RRNHWfAPQswh22H3q1Vcfm",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Happy",
+ "len": 128,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Treat Yourself",
+ "artist": "Dyalla",
+ "category": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion",
+  "vocal chops"
+ ]
+}

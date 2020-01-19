@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "streamid": "4rbwuOMyh1OlpAcupC5VGVY32JZzGxDY2CAIQUM6oaDivMxCY96g2OJvikwDoqSF",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "4b069af01133840d",
+ "instruments": [
+  "Electric Guitar",
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "category": "",
+ "popularity_percentile": 30,
+ "license_type": 0,
+ "fp_ref_id": "4b069af01133840d",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChA0YjA2OWFmMDExMzM4NDBkEAAYAg%3D%3D&sigh=ghMIvOld6cxfZqjz8yS50g",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b069af01133840d",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "artist": "Everet Almond",
+ "mood": "Calm",
+ "title": "Fuzzy Feeling",
+ "len": 101.216,
+ "vid": "4b069af01133840d",
+ "track_url": ""
+}

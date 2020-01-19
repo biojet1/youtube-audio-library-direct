@@ -1,0 +1,32 @@
+{
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "len": 126.35,
+ "display_category": "",
+ "reference_vid": "41a268e0413c73c5",
+ "popularity_percentile": 26,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Silent Partner",
+ "fp_ref_id": "41a268e0413c73c5",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "lTLojmQBblIH7Hu7-KCmnW7TmOh2tU6dnwQeNYfqPRgGaVqE7LGUQN9wDBnhjV3d",
+ "display_mood": "Inspirational",
+ "vid": "41a268e0413c73c5",
+ "track_url": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChA0MWEyNjhlMDQxM2M3M2M1EAAYAg%3D%3D&sigh=vWYOLvngAgUkQGcyyPDmew",
+ "category": "",
+ "title": "Cannon",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41a268e0413c73c5"
+}

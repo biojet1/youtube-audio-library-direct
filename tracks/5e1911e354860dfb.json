@@ -1,0 +1,33 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJChDxIWChA1ZTE5MTFlMzU0ODYwZGZiEAAYAg%3D%3D&sigh=Pe2hk2VFSWxsNUd0pginBA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "category": "",
+ "instruments": [
+  "Synthesizer",
+  "Piano",
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "5e1911e354860dfb",
+ "is_new_track": false,
+ "len": 250,
+ "genre": "Rock",
+ "reference_vid": "5e1911e354860dfb",
+ "downloadable": true,
+ "streamid": "dZomdGH1uNw0Ug6mTIL1Q11_O2a8f2xls4Rgo_PgKBYZJ-i6Mx3fHkyBIpD_9LB8",
+ "track_url": "",
+ "vid": "5e1911e354860dfb",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5e1911e354860dfb",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "license_type": 1,
+ "title": "We Could Reach",
+ "artist": "Freedom Trail Studio"
+}

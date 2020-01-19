@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChA0MDY2ODM5OWFkOTg5ODE3EAAYAg%3D%3D&sigh=Tiv1wSH73P-YAAcc0hVo0A",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "display_mood": "Bright",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "40668399ad989817",
+ "reference_vid": "40668399ad989817",
+ "genre": "Rock",
+ "popularity_percentile": 25,
+ "display_genre": "Rock",
+ "favorite": false,
+ "track_url": "",
+ "title": "Off the Rebound",
+ "downloadable": true,
+ "category": "",
+ "streamid": "SDn5r7Q1GZPlq6Ykf9U0P5CiyQp-kemkB30dScLVV6rn3wk1C2-N8tZE4Tcf-naO",
+ "fp_ref_id": "40668399ad989817",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40668399ad989817",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Bright",
+ "len": 133.85
+}

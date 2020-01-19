@@ -1,0 +1,30 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "len": 221.416,
+ "mood": "Happy",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi-DRIWChA5NTZmODEwZTVhYTZlYzVlEAAYAg%3D%3D&sigh=6vfvjNdG3guZQO_QAnxQSg",
+ "genre": "Country & Folk",
+ "streamid": "xkf-M30ip-tF4j3CUkvTSoZncpc0sf0aduurxLA9Zia0WegtF-YH417Ie2iYVPrN",
+ "downloadable": true,
+ "fp_ref_id": "956f810e5aa6ec5e",
+ "vid": "956f810e5aa6ec5e",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Country & Folk",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=956f810e5aa6ec5e",
+ "category": "",
+ "reference_vid": "956f810e5aa6ec5e",
+ "title": "Avocado Street",
+ "artist": "Wes Hutchinson",
+ "track_url": ""
+}

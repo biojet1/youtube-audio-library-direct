@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 67,
+ "downloadable": true,
+ "vid": "0e667e565c6b66cf",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0e667e565c6b66cf",
+ "fp_ref_id": "0e667e565c6b66cf",
+ "genre": "Pop",
+ "album": "None",
+ "title": "Cool Blast - Disco Ultralounge",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass",
+  "Trumpet"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100281",
+ "display_mood": "Funky",
+ "streamid": "Z32i6gZd-qWoJHffROzsYj_qSXhYQ3zK09iM1P93tVzvDFLfrnBG0CeMTMqqB8zm",
+ "artist": "Kevin MacLeod",
+ "mood": "Funky",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "0e667e565c6b66cf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODRBBIWChAwZTY2N2U1NjVjNmI2NmNmEAAYAg%3D%3D&sigh=UwPV0h-hYC9EmwiVPp8MRw",
+ "display_category": "",
+ "len": 76.616,
+ "display_genre": "Pop"
+}

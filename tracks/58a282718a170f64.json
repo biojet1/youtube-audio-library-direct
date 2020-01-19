@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=58a282718a170f64",
+ "track_url": "",
+ "favorite": false,
+ "streamid": "5EDe8loljy0bv95NKUxbpM8B0CIvz5nORixNXEvq-bLzvq4WPijvud-KiWRFSYye",
+ "genre": "Cinematic",
+ "vid": "58a282718a170f64",
+ "reference_vid": "58a282718a170f64",
+ "fp_ref_id": "58a282718a170f64",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChA1OGEyODI3MThhMTcwZjY0EAAYAg%3D%3D&sigh=db78omLrYxqy09YEsBQdfA",
+ "artist_url": "https://www.youtube.com/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "display_category": "",
+ "category": "",
+ "instruments": [
+  "synth",
+  "strings"
+ ],
+ "artist_channel_url": "/channel/UCTpa4Ek82Pye0DX__epS5lQ",
+ "artist": "Dan Bodan",
+ "title": "When Gods Pontificate",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Cinematic",
+ "len": 132,
+ "mood": "Dark"
+}

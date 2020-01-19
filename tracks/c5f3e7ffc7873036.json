@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChBjNWYzZTdmZmM3ODczMDM2EAAYAg%3D%3D&sigh=eTWao662-ISWvVGuFAZAUw",
+ "genre": "Country & Folk",
+ "streamid": "YUjVmKUWwvtzvcgQLMljv7CB3y27aH3aNjwRmEr0duxGxX1oSujOsa7LDc1Bs4HQ",
+ "display_category": "",
+ "display_mood": "Happy",
+ "vid": "c5f3e7ffc7873036",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c5f3e7ffc7873036",
+ "fp_ref_id": "c5f3e7ffc7873036",
+ "reference_vid": "c5f3e7ffc7873036",
+ "mood": "Happy",
+ "license_type": 0,
+ "artist_url": "",
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Gutar",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "len": 101.35,
+ "popularity_percentile": 77,
+ "artist": "Bird Creek",
+ "category": "",
+ "track_url": "",
+ "title": "Hooky with Sloane",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Country & Folk"
+}

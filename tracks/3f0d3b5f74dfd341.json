@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChAzZjBkM2I1Zjc0ZGZkMzQxEAAYAg%3D%3D&sigh=syi7fw9u1CdjxN96AA_DAg",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "display_mood": "Funky",
+ "artist": "Vibe Tracks",
+ "artist_channel_url": null,
+ "vid": "3f0d3b5f74dfd341",
+ "reference_vid": "3f0d3b5f74dfd341",
+ "genre": "Hip Hop & Rap",
+ "popularity_percentile": 24,
+ "display_genre": "Hip Hop & Rap",
+ "favorite": false,
+ "track_url": "",
+ "title": "Break You In",
+ "downloadable": true,
+ "category": "",
+ "streamid": "_WxYuiZ5P2f8XGntqKd5h9yYhrqr_7qVBA3C1vmaIw-5G6yDCeDtQB7CixWlnClF",
+ "fp_ref_id": "3f0d3b5f74dfd341",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f0d3b5f74dfd341",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Funky",
+ "len": 204.883
+}

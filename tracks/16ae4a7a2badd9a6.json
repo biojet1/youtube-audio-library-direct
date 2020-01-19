@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "genre": "Rock",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "title": "Black Vulture",
+ "streamid": "iDoADiLTlJjukeqK5hhx1TVhHc4t9P6hwfWot8ej-yHIrxe1JdYqPC3aPjwO1Prq",
+ "downloadable": true,
+ "album": "None",
+ "len": 99.15,
+ "fp_ref_id": "16ae4a7a2badd9a6",
+ "vid": "16ae4a7a2badd9a6",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=16ae4a7a2badd9a6",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "synth"
+ ],
+ "license_type": 0,
+ "mood": "Bright",
+ "display_genre": "Rock",
+ "track_url": "",
+ "reference_vid": "16ae4a7a2badd9a6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChAxNmFlNGE3YTJiYWRkOWE2EAAYAg%3D%3D&sigh=d6TY8EZKMq2mrsTZMq2FeQ",
+ "category": "",
+ "popularity_percentile": 9
+}

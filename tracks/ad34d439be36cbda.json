@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ad34d439be36cbda",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjaDhIWChBhZDM0ZDQzOWJlMzZjYmRhEAAYAg%3D%3D&sigh=x2b2VOeOuwB0zQTLEyFzug",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ad34d439be36cbda",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Classical",
+ "instruments": [
+  "Drums",
+  "Trumpet"
+ ],
+ "reference_vid": "ad34d439be36cbda",
+ "category": "",
+ "len": 241.25,
+ "vid": "ad34d439be36cbda",
+ "display_mood": "Bright",
+ "artist_channel_url": null,
+ "mood": "Bright",
+ "license_type": 1,
+ "genre": "Classical",
+ "title": "Regimental Pride March",
+ "is_new_track": false,
+ "artist": "United States Marine Band",
+ "streamid": "f_jK708CiiQKpEV307tFn1jsBNdLd_noV80d0A3kapr5tFfATsd25tHYGAkqQdGu"
+}

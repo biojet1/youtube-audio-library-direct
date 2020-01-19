@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9122683d9565a2e9",
+ "downloadable": true,
+ "reference_vid": "9122683d9565a2e9",
+ "mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "license_type": 1,
+ "len": 151,
+ "instruments": [
+  "drums",
+  "strings",
+  "piano"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChA5MTIyNjgzZDk1NjVhMmU5EAAYAg%3D%3D&sigh=sORlm-om8ScDMWpI0RjVzA",
+ "streamid": "j0pwrg0nQoZN61e8DLwNWZ9qtbK-Y_Bdx-jiAJeo4wINscepW7iMu7eqlbuw-Lwa",
+ "genre": "Cinematic",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "display_genre": "Cinematic",
+ "vid": "9122683d9565a2e9",
+ "artist": "Aakash Gandhi",
+ "popularity_percentile": 99,
+ "fp_ref_id": "9122683d9565a2e9",
+ "category": "",
+ "title": "Eyes of Glory",
+ "album": "None"
+}

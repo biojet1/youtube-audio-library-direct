@@ -1,0 +1,29 @@
+{
+ "display_mood": "Dramatic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPirDhIWChBhNDFkYjE5ZWNhMTk0NTNmEAAYAg%3D%3D&sigh=qbbI8lGdkaQxCGGBlWh7fQ",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "a41db19eca19453f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a41db19eca19453f",
+ "streamid": "J4M0d_Echzst_m_fIgQNWL9kAgYBcs3_njh6IUkRiKnrr7gfdJ76vtGAvGxU1BKc",
+ "genre": "Classical",
+ "track_url": "",
+ "reference_vid": "a41db19eca19453f",
+ "vid": "a41db19eca19453f",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Classical",
+ "mood": "Dramatic",
+ "len": 235,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "instruments": [
+  "piano"
+ ],
+ "title": "The Sea Captain & The Mermaid",
+ "artist": "Asher Fulero"
+}

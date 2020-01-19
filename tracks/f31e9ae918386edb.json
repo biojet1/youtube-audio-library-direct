@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "f31e9ae918386edb",
+ "display_genre": "Dance & Electronic",
+ "artist": "Audionautix",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBmMzFlOWFlOTE4Mzg2ZWRiEAAYAg%3D%3D&sigh=3k3JtVefV8vcQZCyMU5EcQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f31e9ae918386edb",
+ "len": 150.216,
+ "mood": "Dark",
+ "title": "Pyramids",
+ "vid": "f31e9ae918386edb",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 6,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Dance & Electronic",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "f31e9ae918386edb",
+ "streamid": "O3cfc6UM0sm9yf9v-oxPZ7D7C75RV4yseXfUJOipEqUqKplfCl0xO8fHfSnB6qxO"
+}

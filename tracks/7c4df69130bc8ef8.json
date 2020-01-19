@@ -1,0 +1,30 @@
+{
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 92.833,
+ "fp_ref_id": "7c4df69130bc8ef8",
+ "artist_url": "",
+ "streamid": "EETSTv6s44xvU0H5MOWVwuPG19k9ty0p8WBu6brAlIHTxw6zz89nHW6fXTBv8Srt",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Cinematic",
+ "instruments": [
+  "strings",
+  "bass"
+ ],
+ "track_url": "",
+ "popularity_percentile": 49,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Bright",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c4df69130bc8ef8",
+ "mood": "Bright",
+ "artist": "Silent Partner",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA3YzRkZjY5MTMwYmM4ZWY4EAAYAg%3D%3D&sigh=f_sLOqktOZfK81dLR2uo2w",
+ "title": "Dog Park",
+ "reference_vid": "7c4df69130bc8ef8",
+ "vid": "7c4df69130bc8ef8"
+}

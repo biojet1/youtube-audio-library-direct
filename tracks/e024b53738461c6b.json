@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "synth",
+  ""
+ ],
+ "album": "None",
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "len": 106.6,
+ "reference_vid": "e024b53738461c6b",
+ "fp_ref_id": "e024b53738461c6b",
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e024b53738461c6b",
+ "category": "",
+ "title": "On Hold",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e024b53738461c6b",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChBlMDI0YjUzNzM4NDYxYzZiEAAYAg%3D%3D&sigh=2fwL9hOSR-ZzYNFuIVB_jg",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "xhxaeTcSiEBa-EYLjqkPPgDSvhmf2C-blI-xrrnL6Xc9-8kHcS4PnJ6zrkTbQ2lz"
+}

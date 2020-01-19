@@ -1,0 +1,29 @@
+{
+ "artist": "United States Marine Band",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=373d527399952147",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChAzNzNkNTI3Mzk5OTUyMTQ3EAAYAg%3D%3D&sigh=gbgxjSXWQ8Zrw9iw0DqrLg",
+ "genre": "Classical",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "album": "None",
+ "track_url": "",
+ "len": 129.616,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "373d527399952147",
+ "streamid": "bkFPNvgbjK2f63o_VH4uzld9cHULjcZkzd6i5lmF0S6QO41-y15wIzK4VKT9_Vw4",
+ "title": "Emperor's Maneuver",
+ "artist_url": "",
+ "mood": "Dramatic",
+ "downloadable": true,
+ "display_genre": "Classical",
+ "popularity_percentile": 22,
+ "reference_vid": "373d527399952147",
+ "instruments": [
+  "Trumpet"
+ ],
+ "fp_ref_id": "373d527399952147",
+ "license_type": 1
+}

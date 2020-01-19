@@ -1,0 +1,33 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "len": 162,
+ "mood": "Calm",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChA5OWM1MzdjYmE4NDliNGU1EAAYAg%3D%3D&sigh=fQMnbBnz5pVkrSzX9Ze3Ew",
+ "genre": "Jazz & Blues",
+ "streamid": "zsyGBX0uZsuWD99I0hX49X_vYCqprruOhm19TupP6-ZUf0_UWNKneIR7_WnEaHk7",
+ "downloadable": true,
+ "fp_ref_id": "99c537cba849b4e5",
+ "vid": "99c537cba849b4e5",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Jazz & Blues",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCbDplVvtIq05AdyYKjVSUIw",
+ "instruments": [
+  "Bass",
+  "Synth",
+  "Acoustic Guitar",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=99c537cba849b4e5",
+ "category": "",
+ "reference_vid": "99c537cba849b4e5",
+ "title": "This is a Jazz Space",
+ "artist": "Midnight North",
+ "track_url": ""
+}

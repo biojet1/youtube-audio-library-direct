@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Strings",
+  "Trumpet"
+ ],
+ "len": 202.216,
+ "fp_ref_id": "90ce492eb0ff9267",
+ "streamid": "Nhg08_EG6RYENyj8hXT2PGPI3ziw8Uw3UMVhVch7UcDPz6ASmhNcb94mDWqby7GN",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Classical",
+ "popularity_percentile": 64,
+ "vid": "90ce492eb0ff9267",
+ "display_genre": "Classical",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=90ce492eb0ff9267",
+ "album": "None",
+ "title": "Americana - Aspiring",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCqDBIWChA5MGNlNDkyZWIwZmY5MjY3EAAYAg%3D%3D&sigh=LsWeOc1nMdGKya9FFWTUEA",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Inspirational",
+ "is_new_track": false,
+ "reference_vid": "90ce492eb0ff9267",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200092",
+ "license_type": 6
+}

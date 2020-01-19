@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDAyYjk3MTRjZWI4ZWQ0MTEQABgC&sigh=8O3DmZvOC-g6tHfKaPJuZw",
+ "title": "Piri Piri (Sting)",
+ "favorite": false,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "fp_ref_id": "02b9714ceb8ed411",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "display_genre": "Jazz & Blues",
+ "artist": "Jingle Punks",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 2,
+ "reference_vid": "02b9714ceb8ed411",
+ "streamid": "c1-O13reOOwRTMVMhF7_oB5GhVky0bEDAfxcznK-aGfrWPh6Cn2we-tO463YgbK0",
+ "artist_url": "",
+ "len": 4.45,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=02b9714ceb8ed411",
+ "vid": "02b9714ceb8ed411",
+ "category": ""
+}

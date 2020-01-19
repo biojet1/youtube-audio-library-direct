@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "reference_vid": "9f28a539916f1f5a",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiGCxIWChA5ZjI4YTUzOTkxNmYxZjVhEAAYAg%3D%3D&sigh=i5-cCo5OPLYdCkBiEZtA6A",
+ "display_mood": "Funky",
+ "title": "Bumblebee",
+ "artist": "Quincas Moreira",
+ "is_new_track": false,
+ "len": 181,
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "9f28a539916f1f5a",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f28a539916f1f5a",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "license_type": 1,
+ "instruments": [
+  "drums",
+  "synth",
+  "horn",
+  "organ"
+ ],
+ "fp_ref_id": "9f28a539916f1f5a",
+ "streamid": "RK-z5LXPD_C_ryQ8B06t_RlKc6DMzuzb_usKtC7gqP_6x4GjewWJ2lHhdMVwARsI"
+}

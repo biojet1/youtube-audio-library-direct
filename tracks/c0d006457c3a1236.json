@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChBjMGQwMDY0NTdjM2ExMjM2EAAYAg%3D%3D&sigh=-hGGbW4lZ599PoYBkFAyDQ",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "c0d006457c3a1236",
+ "downloadable": true,
+ "reference_vid": "c0d006457c3a1236",
+ "favorite": false,
+ "fp_ref_id": "c0d006457c3a1236",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c0d006457c3a1236",
+ "genre": "Pop",
+ "streamid": "5mGpwYRSgW3-KR5qS33UsBgSiyM6ov0tDBtQXV-91NOQd6SA4aTRqEh72iywRmYe",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Calm",
+ "len": 121.1,
+ "display_genre": "Pop",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Hills Behind",
+ "artist": "Silent Partner",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "drums",
+  "piano",
+  "bass",
+  "synth"
+ ]
+}

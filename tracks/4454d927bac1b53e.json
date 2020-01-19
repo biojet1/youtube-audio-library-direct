@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiiDBIWChA0NDU0ZDkyN2JhYzFiNTNlEAAYAg%3D%3D&sigh=qBBiRUb2sDaw5o7XkfJlOQ",
+ "display_genre": "Dance & Electronic",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "xhcgQALCdIeq2HSsIrbAL0EYGajmPCxAxY6HqevfBTTHRkQYg3x99Ll-vgZyeMHq",
+ "artist": "Topher Mohr and Alex Elena",
+ "len": 201.65,
+ "genre": "Dance & Electronic",
+ "mood": "Funky",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "4454d927bac1b53e",
+ "reference_vid": "4454d927bac1b53e",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4454d927bac1b53e",
+ "fp_ref_id": "4454d927bac1b53e",
+ "display_mood": "Funky",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Lines",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ]
+}

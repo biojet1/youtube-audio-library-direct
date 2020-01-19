@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "80cdcbc351151b55",
+ "mood": "Dark",
+ "reference_vid": "80cdcbc351151b55",
+ "popularity_percentile": 72,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChA4MGNkY2JjMzUxMTUxYjU1EAAYAg%3D%3D&sigh=9MZKVOhEzETjLk1iyYwyAg",
+ "len": 166.95,
+ "favorite": false,
+ "display_mood": "Dark",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "80cdcbc351151b55",
+ "streamid": "NjmV6mQFWIadb2D-3H11vlFWyPcWBkDyqCCgsYoW9LUpt0PLowqWb1bCoAiQ__Lc",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=80cdcbc351151b55",
+ "title": "I Knew a Guy",
+ "display_genre": "Jazz & Blues",
+ "artist": "Kevin MacLeod",
+ "genre": "Jazz & Blues",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100199",
+ "is_new_track": false
+}

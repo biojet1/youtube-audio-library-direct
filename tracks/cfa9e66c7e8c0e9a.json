@@ -1,0 +1,29 @@
+{
+ "favorite": false,
+ "artist_url": "http://chriszabriskie.com/",
+ "display_mood": "Calm",
+ "reference_vid": "cfa9e66c7e8c0e9a",
+ "streamid": "E29JTnaYL_-TW0RQmb6lJ4mKLWzr6iQKXOmbPGcHevJaBL7AwVU2NqUHciRjt0xl",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPDsFRIWChBjZmE5ZTY2YzdlOGMwZTlhEAAYAg%3D%3D&sigh=7J2r38mTkUhOqYRg1wTaRg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cfa9e66c7e8c0e9a",
+ "len": 358.283,
+ "genre": "Ambient",
+ "instruments": [
+  "Synth"
+ ],
+ "display_category": "",
+ "fp_ref_id": "cfa9e66c7e8c0e9a",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "The House Glows (With Almost No Help)",
+ "mood": "Calm",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Chris Zabriskie",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Ambient",
+ "track_url": "http://chriszabriskie.com/darkglow/",
+ "vid": "cfa9e66c7e8c0e9a"
+}

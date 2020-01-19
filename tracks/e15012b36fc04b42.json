@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e15012b36fc04b42",
+ "license_type": 1,
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "fp_ref_id": "e15012b36fc04b42",
+ "popularity_percentile": 88,
+ "reference_vid": "e15012b36fc04b42",
+ "len": 173.15,
+ "track_url": "",
+ "mood": "Dramatic",
+ "album": "None",
+ "streamid": "NI-8tMUo9DHwF9G57AeEoclmf_FFVmzbM8ryEsGDHyb8gG8F21wfQ9tFq6dxYUBt",
+ "genre": "Jazz & Blues",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "title": "Tango Bango",
+ "category": "",
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChBlMTUwMTJiMzZmYzA0YjQyEAAYAg%3D%3D&sigh=0kUXq4Lqh-o0Xrqsk7P1Og",
+ "vid": "e15012b36fc04b42",
+ "favorite": false,
+ "artist_url": "",
+ "artist": "E's Jammy Jams",
+ "artist_channel_url": null
+}

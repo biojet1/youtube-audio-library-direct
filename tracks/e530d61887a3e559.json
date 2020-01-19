@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "mood": "Happy",
+ "len": 110.683,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "3Dy3IpG7DzQyswNZqwldNYbGHGRRUsfaZtINA61tKZ7HCRf6Xn_4aIlKtztGBZWm",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChBlNTMwZDYxODg3YTNlNTU5EAAYAg%3D%3D&sigh=BYjVdl-B3jAoslLNSbNVqg",
+ "reference_vid": "e530d61887a3e559",
+ "title": "The Only Girl",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e530d61887a3e559",
+ "vid": "e530d61887a3e559",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "fp_ref_id": "e530d61887a3e559",
+ "display_mood": "Happy",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Pop",
+ "license_type": 0,
+ "genre": "Pop"
+}

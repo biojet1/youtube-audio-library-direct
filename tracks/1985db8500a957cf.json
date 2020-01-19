@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "genre": "Jazz & Blues",
+ "is_new_track": false,
+ "artist": "William Rosati",
+ "title": "Weird Night",
+ "streamid": "AngMi8ud_vvKX5WhF-3Oi_2BTE2fHgtaTZIudLgFDJqqnT6nrugZ4b8aPra4R2y-",
+ "downloadable": true,
+ "album": "None",
+ "len": 127,
+ "fp_ref_id": "1985db8500a957cf",
+ "vid": "1985db8500a957cf",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "display_mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCPSyUMYlanvn_yE7L4fbe9Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1985db8500a957cf",
+ "instruments": [
+  "synth",
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "license_type": 1,
+ "mood": "Funky",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "reference_vid": "1985db8500a957cf",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChAxOTg1ZGI4NTAwYTk1N2NmEAAYAg%3D%3D&sigh=nEadSBXeNvXBGqM24z48Xw",
+ "category": "",
+ "popularity_percentile": 99
+}

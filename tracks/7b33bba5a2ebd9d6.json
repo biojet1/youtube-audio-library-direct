@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "vid": "7b33bba5a2ebd9d6",
+ "album": "None",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "artist": "The Mini Vandals",
+ "genre": "Country & Folk",
+ "fp_ref_id": "7b33bba5a2ebd9d6",
+ "streamid": "3hl-gmrBLxcJH8cOnT2uKWq56GZnk3W16--vq62HhGmE9FUAhRR4MWWR7uEWWLFk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChA3YjMzYmJhNWEyZWJkOWQ2EAAYAg%3D%3D&sigh=dIxcPETglNX98hNdjwkgwA",
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "category": "",
+ "downloadable": true,
+ "title": "Perrywinkle",
+ "track_url": "",
+ "len": 139,
+ "popularity_percentile": 99,
+ "reference_vid": "7b33bba5a2ebd9d6",
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7b33bba5a2ebd9d6",
+ "instruments": [
+  "percussion",
+  "electric guitar",
+  "acoustic guitar",
+  "bass"
+ ],
+ "is_new_track": false
+}

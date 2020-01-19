@@ -1,0 +1,31 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200070",
+ "mood": "Dramatic",
+ "len": 103.85,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "3ilhG5G5CsuoO4WLXR5RiwylqHaZxmQO1O2geeViq_39jPji7ZRPCu9_j_ki_t36",
+ "popularity_percentile": 91,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA5MTllOGYyNWE5NjNjYWFlEAAYAg%3D%3D&sigh=hcKgEqzg_SZOJsVSWuap7g",
+ "reference_vid": "919e8f25a963caae",
+ "title": "Egmont Overture Finale",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=919e8f25a963caae",
+ "vid": "919e8f25a963caae",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "fp_ref_id": "919e8f25a963caae",
+ "display_mood": "Dramatic",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Classical",
+ "license_type": 6,
+ "genre": "Classical"
+}

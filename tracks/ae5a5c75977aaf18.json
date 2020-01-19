@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist": "E's Jammy Jams",
+ "vid": "ae5a5c75977aaf18",
+ "display_category": "",
+ "streamid": "PeiN4FpPmX_GskQwvyBD9Scze9ggMiOjv0ahvlPVIoJulryuOSCqkkn57XUwWTRV",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ae5a5c75977aaf18",
+ "fp_ref_id": "ae5a5c75977aaf18",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChBhZTVhNWM3NTk3N2FhZjE4EAAYAg%3D%3D&sigh=qKxkIop_UkNyGxv5lyhm_A",
+ "display_genre": "Jazz & Blues",
+ "len": 199,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "organ"
+ ],
+ "reference_vid": "ae5a5c75977aaf18",
+ "title": "Minor Blues for Booker",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "license_type": 1,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99
+}

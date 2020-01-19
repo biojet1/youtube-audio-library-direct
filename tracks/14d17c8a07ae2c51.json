@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 9,
+ "license_type": 1,
+ "vid": "14d17c8a07ae2c51",
+ "fp_ref_id": "14d17c8a07ae2c51",
+ "album": "None",
+ "streamid": "f2AiBfmpSNgUhVWNju5V-gKwcSQjNmGQN9B7mg_ECXrUaO7vFEuIRFEyni1FxpsG",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Organ"
+ ],
+ "artist": "Otis McDonald",
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14d17c8a07ae2c51",
+ "downloadable": true,
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjdDRIWChAxNGQxN2M4YTA3YWUyYzUxEAAYAg%3D%3D&sigh=LhHLi1DT4tzjLu_052suvw",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 225.583,
+ "reference_vid": "14d17c8a07ae2c51",
+ "title": "Magic Part 2",
+ "favorite": false,
+ "track_url": ""
+}

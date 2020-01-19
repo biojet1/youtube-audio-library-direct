@@ -1,0 +1,31 @@
+{
+ "display_mood": "Sad",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "album": "None",
+ "streamid": "29CEfWLmgYRpMxLyLQLiGgzT9guKu0QziIHPT5y-XeXrinlXITeaXhX0FBh0-5Id",
+ "title": "Sailors Lament",
+ "display_genre": "Country & Folk",
+ "vid": "757ef9ee79c9f4e4",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "reference_vid": "757ef9ee79c9f4e4",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Sad",
+ "license_type": 6,
+ "fp_ref_id": "757ef9ee79c9f4e4",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Audionautix",
+ "len": 188.416,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC8CxIWChA3NTdlZjllZTc5YzlmNGU0EAAYAg%3D%3D&sigh=ce5--l-RwNI5EBqvM-XdPQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=757ef9ee79c9f4e4"
+}

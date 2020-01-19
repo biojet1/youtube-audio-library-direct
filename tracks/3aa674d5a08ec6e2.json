@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "3aa674d5a08ec6e2",
+ "is_new_track": true,
+ "mood": "Happy",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChAzYWE2NzRkNWEwOGVjNmUyEAAYAg%3D%3D&sigh=WjryZVYhsAXT1ytBTgJJpA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3aa674d5a08ec6e2",
+ "artist": "Reed Mathis",
+ "len": 124,
+ "streamid": "UmmeBeO9BUx1CCXqigofqiMqehI_L9ZjIuGvHl3w-oBodpt6Hh5L74CKvHNDm0UT",
+ "album": "None",
+ "display_mood": "Happy",
+ "instruments": [
+  "acoustic guitar",
+  "electric guitar",
+  "bass",
+  "piano",
+  "electric piano"
+ ],
+ "genre": "Children's",
+ "display_genre": "Children's",
+ "title": "My Dog Is Happy",
+ "vid": "3aa674d5a08ec6e2",
+ "reference_vid": "3aa674d5a08ec6e2",
+ "artist_channel_url": "/channel/UC2lHxFyHL96NPhdU9XyXnPQ",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC2lHxFyHL96NPhdU9XyXnPQ?internalcountrycode=US"
+}

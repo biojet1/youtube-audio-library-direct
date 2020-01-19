@@ -1,0 +1,32 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "album": "None",
+ "reference_vid": "f389714c9e31ea43",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "f389714c9e31ea43",
+ "title": "Yellow Flamingo",
+ "mood": "Calm",
+ "len": 143,
+ "artist_url": "https://www.youtube.com/channel/UCp57MJpe_BxdrbHNR3Q8HMA",
+ "artist": "Sarah, The Illstrumentalist",
+ "fp_ref_id": "f389714c9e31ea43",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCp57MJpe_BxdrbHNR3Q8HMA",
+ "license_type": 1,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "percussion"
+ ],
+ "streamid": "00RWnxIVCLpb2jvxIdtauVbDXkoZUdoSrb2UseJil0Y2EdlgWPr1KI6Lapp4zgcs",
+ "display_mood": "Calm",
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f389714c9e31ea43",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChBmMzg5NzE0YzllMzFlYTQzEAAYAg%3D%3D&sigh=MhUq2MpEB5x9MJ4yMoZ93g"
+}

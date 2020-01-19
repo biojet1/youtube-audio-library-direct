@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEGM2NGFiNjI1MDllZDE0YWYQABgC&sigh=u2CybV7PD9oXG8iQ3bVJzQ",
+ "genre": "Cinematic",
+ "streamid": "B_tDIl-dkLS0vpXF5_y3Zind0KDi9JxSesC7YwBayqAg5wGWw_2jtLb8ETft-8J7",
+ "display_category": "",
+ "display_mood": "Bright",
+ "vid": "c64ab62509ed14af",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c64ab62509ed14af",
+ "fp_ref_id": "c64ab62509ed14af",
+ "reference_vid": "c64ab62509ed14af",
+ "mood": "Bright",
+ "license_type": 0,
+ "artist_url": "",
+ "favorite": false,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Trumpet",
+  "Strings"
+ ],
+ "len": 7.316,
+ "popularity_percentile": 77,
+ "artist": "Doug Maxwell/Media Right Productions",
+ "category": "",
+ "track_url": "",
+ "title": "Cartoon Bank Heist (Sting)",
+ "album": "None",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Cinematic"
+}

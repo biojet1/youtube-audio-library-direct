@@ -1,0 +1,29 @@
+{
+ "artist": "ann annie",
+ "display_category": "",
+ "genre": "Ambient",
+ "vid": "b48c3015d31dde43",
+ "instruments": [
+  "synth"
+ ],
+ "reference_vid": "b48c3015d31dde43",
+ "artist_url": "https://www.youtube.com/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCf_l8F01d2RtvoVf0R1-lHg",
+ "fp_ref_id": "b48c3015d31dde43",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b48c3015d31dde43",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiMDhIWChBiNDhjMzAxNWQzMWRkZTQzEAAYAg%3D%3D&sigh=JpBIVaqglk80ylG0o3vAjQ",
+ "streamid": "oNKvW6moZgTefC3Uh7D52XCQslWiyO8nwxKRu5tddHV7rxQCN5zos2fBpc4OcCae",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 231,
+ "title": "Long Stream",
+ "favorite": false
+}

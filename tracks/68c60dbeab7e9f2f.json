@@ -1,0 +1,31 @@
+{
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "len": 237,
+ "mood": "Calm",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMi7DhIWChA2OGM2MGRiZWFiN2U5ZjJmEAAYAg%3D%3D&sigh=sYib02YreSNiLvzl5h_J0w",
+ "genre": "Dance & Electronic",
+ "streamid": "Tf3vQKLIpjQT__lKXoCVvPMmYQFgKeTR42jWm3m5BwlT44-1z1XVlbA2_jRGmYr3",
+ "downloadable": true,
+ "fp_ref_id": "68c60dbeab7e9f2f",
+ "vid": "68c60dbeab7e9f2f",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UC8IxuOt9Z4Fr0EOff4wSx_Q",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=68c60dbeab7e9f2f",
+ "category": "",
+ "reference_vid": "68c60dbeab7e9f2f",
+ "title": "Ubiquitous",
+ "artist": "Diamond Ortiz",
+ "track_url": ""
+}

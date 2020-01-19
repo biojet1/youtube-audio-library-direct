@@ -1,0 +1,32 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "len": 93.516,
+ "mood": "Happy",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjWBRIWChA5NjkzNjFiNTRlMmUyYTFjEAAYAg%3D%3D&sigh=EmGfsZiDuRwRV0CsL3qtLQ",
+ "genre": "Cinematic",
+ "streamid": "7DnmUmkhiBhITwSIimhrOjylEN-1yVs8dKmhGmEjZO7LnL4fGN82GS9KD3_ooVX_",
+ "downloadable": true,
+ "fp_ref_id": "969361b54e2e2a1c",
+ "vid": "969361b54e2e2a1c",
+ "album": "None",
+ "license_type": 0,
+ "display_genre": "Cinematic",
+ "popularity_percentile": 59,
+ "artist_channel_url": null,
+ "instruments": [
+  "bass",
+  "drums",
+  "strings",
+  "trumpet"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=969361b54e2e2a1c",
+ "category": "",
+ "reference_vid": "969361b54e2e2a1c",
+ "title": "Cartoon Hoedown",
+ "artist": "Media Right Productions",
+ "track_url": ""
+}

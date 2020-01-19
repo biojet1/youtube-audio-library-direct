@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "79eb735d55c32c27",
+ "reference_vid": "79eb735d55c32c27",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=79eb735d55c32c27",
+ "track_url": "",
+ "artist_url": "",
+ "license_type": 0,
+ "streamid": "VOVd4Xg249lNhXSU-itSG6Oko2ECsD-EOZBMU4UJgNR1YAHb0MgQCaUnvJQ3kZTn",
+ "genre": "Classical",
+ "popularity_percentile": 48,
+ "mood": "Dark",
+ "downloadable": true,
+ "vid": "79eb735d55c32c27",
+ "len": 416.016,
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "favorite": false,
+ "display_genre": "Classical",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Beethoven",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCICyGRIWChA3OWViNzM1ZDU1YzMyYzI3EAAYAg%3D%3D&sigh=ZgMG4mUjjASZ8rJ2wspO8w",
+ "display_mood": "Dark",
+ "album": "None",
+ "title": "Symphony No. 5 (by Beethoven)",
+ "display_category": ""
+}

@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "mood": "Bright",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "962d3b4156983185",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC8BhIWChA5NjJkM2I0MTU2OTgzMTg1EAAYAg%3D%3D&sigh=YMXkuPXjZcAryB5VyZ3o8A",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "category": "",
+ "genre": "Cinematic",
+ "reference_vid": "962d3b4156983185",
+ "downloadable": true,
+ "streamid": "lizy1l_GXi95NotXGKui250RwkosO8dRApqbg21SaIvJAWlIyrLYEW2bvNwo8SHL",
+ "track_url": "",
+ "vid": "962d3b4156983185",
+ "len": 106,
+ "license_type": 1,
+ "title": "Ninja Tortoise",
+ "is_new_track": false,
+ "artist": "Verified Picasso",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=962d3b4156983185",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "len": 115.683,
+ "fp_ref_id": "9f74b246ba3b0cbf",
+ "streamid": "9kQ6tWt0IOD1CgCzGkHcEsqwmVwpa03VGZSbem8tBNVMrixuJFd1O-E3HbGHR2rE",
+ "artist_url": "",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 63,
+ "vid": "9f74b246ba3b0cbf",
+ "display_genre": "Dance & Electronic",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f74b246ba3b0cbf",
+ "album": "None",
+ "title": "Lucky Duck",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChA5Zjc0YjI0NmJhM2IwY2JmEAAYAg%3D%3D&sigh=gkwRv_SwqKyRdo2RzYybNQ",
+ "downloadable": true,
+ "display_mood": "Funky",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "mood": "Funky",
+ "is_new_track": false,
+ "reference_vid": "9f74b246ba3b0cbf",
+ "track_url": "",
+ "license_type": 0
+}

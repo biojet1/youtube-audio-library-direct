@@ -1,0 +1,29 @@
+{
+ "license_type": 1,
+ "artist_url": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "70d0a8493b49ad35",
+ "mood": "Happy",
+ "title": "Wedding Fun",
+ "category": "",
+ "genre": "Cinematic",
+ "album": "None",
+ "len": 148,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChA3MGQwYTg0OTNiNDlhZDM1EAAYAg%3D%3D&sigh=epGuL5nIS8W_LDrR9eA19w",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=70d0a8493b49ad35",
+ "fp_ref_id": "70d0a8493b49ad35",
+ "artist": "Sir Cubworth",
+ "display_mood": "Happy",
+ "display_genre": "Cinematic",
+ "streamid": "5PZHUP52xYvTDHnNJoWRaEVFIY9qIMZQestcQsmrMXIr2zh_Q6vaNlI__uw_ordR",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "display_category": "",
+ "instruments": [
+  "Organ"
+ ],
+ "vid": "70d0a8493b49ad35"
+}

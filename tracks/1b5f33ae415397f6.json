@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCqDBIWChAxYjVmMzNhZTQxNTM5N2Y2EAAYAg%3D%3D&sigh=kv_fkYaJPOAE31LwdAg-1A",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "1b5f33ae415397f6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b5f33ae415397f6",
+ "streamid": "QAT_2x-BDLD3emHIatPuqwcPbqMmFG0OI_ZF1thm9wq8owktuQ1DLh4jUZE92AKg",
+ "genre": "Jazz & Blues",
+ "track_url": "",
+ "reference_vid": "1b5f33ae415397f6",
+ "vid": "1b5f33ae415397f6",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Jazz & Blues",
+ "mood": "Funky",
+ "len": 202,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "organ"
+ ],
+ "title": "The Current Blues",
+ "artist": "Freedom Trail Studio"
+}

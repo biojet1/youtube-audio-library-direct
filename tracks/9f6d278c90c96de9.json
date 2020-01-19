@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "len": 147.216,
+ "fp_ref_id": "9f6d278c90c96de9",
+ "streamid": "xTvX_bLmUxkKq56pL5w4isdYOwx8om3Ju--vL0R1-191oB80uWWoo0LOvuuY0uU6",
+ "artist_url": "",
+ "category": "",
+ "genre": "Rock",
+ "popularity_percentile": 63,
+ "vid": "9f6d278c90c96de9",
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f6d278c90c96de9",
+ "album": "None",
+ "title": "Tied Up",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChA5ZjZkMjc4YzkwYzk2ZGU5EAAYAg%3D%3D&sigh=CHI-eRphnAVUKBb8enOpbw",
+ "downloadable": true,
+ "display_mood": "Angry",
+ "artist": "Silent Partner",
+ "display_category": "",
+ "mood": "Angry",
+ "is_new_track": false,
+ "reference_vid": "9f6d278c90c96de9",
+ "track_url": "",
+ "license_type": 0
+}

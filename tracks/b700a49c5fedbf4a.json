@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "b700a49c5fedbf4a",
+ "mood": "Calm",
+ "reference_vid": "b700a49c5fedbf4a",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChBiNzAwYTQ5YzVmZWRiZjRhEAAYAg%3D%3D&sigh=nT67zai5Y4SiExxYFMBNZg",
+ "len": 156.216,
+ "favorite": false,
+ "display_mood": "Calm",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b700a49c5fedbf4a",
+ "streamid": "FvUEPHkg6AndfOy5Zwnr4fZHk5lvxMeYMUF6f_C-MZbvhzAC9D58cy-MbtnJjQf8",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b700a49c5fedbf4a",
+ "title": "Scissor Vision",
+ "display_genre": "Rock",
+ "artist": "Letter Box",
+ "genre": "Rock",
+ "downloadable": true,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Acoustic Guitar"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

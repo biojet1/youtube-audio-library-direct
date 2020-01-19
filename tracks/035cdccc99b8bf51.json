@@ -1,0 +1,30 @@
+{
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "len": 99.483,
+ "track_url": "",
+ "fp_ref_id": "035cdccc99b8bf51",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "4aUKFun084-Bdq1IHm7uZWM5zmc-UygbefDPpp1L9kLcpLqg3rKBOFAM7pevlfbo",
+ "title": "Dance Dubber",
+ "artist": "Audionautix",
+ "is_new_track": false,
+ "artist_url": "http://audionautix.com/",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=035cdccc99b8bf51",
+ "display_mood": "Funky",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "035cdccc99b8bf51",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChAwMzVjZGNjYzk5YjhiZjUxEAAYAg%3D%3D&sigh=zrqw8AMMMziXz099XnU6_Q",
+ "vid": "035cdccc99b8bf51",
+ "display_genre": "Dance & Electronic",
+ "license_type": 6,
+ "mood": "Funky",
+ "instruments": [
+  "Synth",
+  "Bass"
+ ]
+}

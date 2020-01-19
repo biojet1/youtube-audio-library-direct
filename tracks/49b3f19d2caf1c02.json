@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "len": 98,
+ "mood": "Dark",
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCOoKFMFX1SescccH4LAIeMQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChA0OWIzZjE5ZDJjYWYxYzAyEAAYAg%3D%3D&sigh=1Dp_Gsdz021DH_UzH1ZeAg",
+ "genre": "Hip Hop & Rap",
+ "streamid": "36Zfst92XTG6qCFBvj-d2qx-gq3Um-UjTZae-rhbIMIlsdiatynApZdkHKbM__HJ",
+ "downloadable": true,
+ "fp_ref_id": "49b3f19d2caf1c02",
+ "vid": "49b3f19d2caf1c02",
+ "album": "None",
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCOoKFMFX1SescccH4LAIeMQ",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=49b3f19d2caf1c02",
+ "category": "",
+ "reference_vid": "49b3f19d2caf1c02",
+ "title": "Walkout",
+ "artist": "The Brothers Records",
+ "track_url": ""
+}

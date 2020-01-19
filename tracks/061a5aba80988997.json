@@ -1,0 +1,29 @@
+{
+ "mood": "Calm",
+ "artist": "Chris Zabriskie",
+ "vid": "061a5aba80988997",
+ "display_category": "",
+ "streamid": "izw_COM843H0a7wokYAyGTKCDzQ5Gnqdc6LFI2GBKB4o2SYwC6aYXh8t3q0MOp6M",
+ "track_url": "http://chriszabriskie.com/uvp/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=061a5aba80988997",
+ "fp_ref_id": "061a5aba80988997",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCzDhIWChAwNjFhNWFiYTgwOTg4OTk3EAAYAg%3D%3D&sigh=UWsJYXjh4zQaiW0vzISTkg",
+ "display_genre": "Classical",
+ "len": 236.15,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Piano"
+ ],
+ "reference_vid": "061a5aba80988997",
+ "title": "The 49th Street Galleria",
+ "genre": "Classical",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://chriszabriskie.com/",
+ "license_type": 6,
+ "display_mood": "Calm",
+ "popularity_percentile": 52
+}

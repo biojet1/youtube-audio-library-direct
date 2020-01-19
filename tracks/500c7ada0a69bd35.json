@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "genre": "Pop",
+ "is_new_track": false,
+ "artist": "The Whole Other",
+ "title": "Willie's Island Moped",
+ "streamid": "WlfG0zOtYrRP88Fup5CSFxdCgfMIcKodX9IyQXB4y1YRBkxETD5inSoqw5kV5hw3",
+ "downloadable": true,
+ "album": "None",
+ "len": 135,
+ "fp_ref_id": "500c7ada0a69bd35",
+ "vid": "500c7ada0a69bd35",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "display_mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=500c7ada0a69bd35",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Organ"
+ ],
+ "license_type": 1,
+ "mood": "Happy",
+ "display_genre": "Pop",
+ "track_url": "",
+ "reference_vid": "500c7ada0a69bd35",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChA1MDBjN2FkYTBhNjliZDM1EAAYAg%3D%3D&sigh=unDp_h9-Mdal0wraKviEZg",
+ "category": "",
+ "popularity_percentile": 99
+}

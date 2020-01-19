@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "f824fdd4ca41d4a5",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f824fdd4ca41d4a5",
+ "fp_ref_id": "f824fdd4ca41d4a5",
+ "genre": "Classical",
+ "album": "None",
+ "title": "Prelude No. 10",
+ "instruments": [
+  "Piano"
+ ],
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "display_mood": "Calm",
+ "streamid": "KpGquaVZEMe1oZSXx_NxfHpXYR6o0PV37NvYmAzZEQnMuup2jOqJUXheDh24Yglp",
+ "artist": "Chris Zabriskie",
+ "mood": "Calm",
+ "category": "",
+ "artist_url": "http://chriszabriskie.com/",
+ "reference_vid": "f824fdd4ca41d4a5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBmODI0ZmRkNGNhNDFkNGE1EAAYAg%3D%3D&sigh=dZ9_46gGT-FvEEB46akhrA",
+ "display_category": "",
+ "len": 115.983,
+ "display_genre": "Classical"
+}

@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 5,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDA5Yjg0ODM5ZDkwOWEyNTgQABgC&sigh=hlWH3GadyirwsZlfWowmog",
+ "display_category": "",
+ "reference_vid": "09b84839d909a258",
+ "title": "Bonanza (Sting)",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=09b84839d909a258",
+ "track_url": "",
+ "len": 5.683,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "AemcVhqx2RdHQOd-Aaytks2FWJfjiMvr8jFJr48pCoIx1TPywxI9yUTxdaRkKje3",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "license_type": 0,
+ "mood": "Happy",
+ "genre": "Dance & Electronic",
+ "vid": "09b84839d909a258",
+ "artist_url": "",
+ "artist": "Jingle Punks",
+ "category": "",
+ "fp_ref_id": "09b84839d909a258",
+ "display_mood": "Happy",
+ "album": "None",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "artist_channel_url": null
+}

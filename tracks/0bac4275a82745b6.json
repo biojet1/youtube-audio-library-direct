@@ -1,0 +1,31 @@
+{
+ "vid": "0bac4275a82745b6",
+ "display_mood": "Inspirational",
+ "title": "Training in the Fire",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChAwYmFjNDI3NWE4Mjc0NWI2EAAYAg%3D%3D&sigh=YnO1nuT7Y5NmMDvOPsMHIA",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Inspirational",
+ "artist": "Twin Musicom",
+ "reference_vid": "0bac4275a82745b6",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0bac4275a82745b6",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 79,
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "LOQ9kSp41uQFus17yzeXDlS4zJCrDsXidsShzohWrNWkGod3oZwV-LJHfnmvP2Ed",
+ "artist_url": "http://www.twinmusicom.org/",
+ "len": 122.75,
+ "fp_ref_id": "0bac4275a82745b6",
+ "license_type": 6,
+ "is_new_track": false
+}

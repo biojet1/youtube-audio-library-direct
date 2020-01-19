@@ -1,0 +1,32 @@
+{
+ "display_mood": "Sad",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ",
+ "fp_ref_id": "1927f20ddaf4cf3a",
+ "artist_channel_url": "/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ",
+ "reference_vid": "1927f20ddaf4cf3a",
+ "is_new_track": false,
+ "track_url": "",
+ "display_category": "",
+ "album": "None",
+ "len": 137,
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChAxOTI3ZjIwZGRhZjRjZjNhEAAYAg%3D%3D&sigh=U52Rl28kZ09bqjGFG9Cf8Q",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1927f20ddaf4cf3a",
+ "instruments": [
+  "bells",
+  "piano",
+  "electric guitar",
+  "synth"
+ ],
+ "title": "I Don't Want To Do This Without You",
+ "genre": "Cinematic",
+ "streamid": "q0pWoq87m1H0c8xkNRKIgqiFUmf4pysuPyBBw38HveZZYnMfGIIpPLGCLaSCJVpT",
+ "vid": "1927f20ddaf4cf3a",
+ "display_genre": "Cinematic",
+ "mood": "Sad",
+ "license_type": 1,
+ "artist": "Late Night Feeler"
+}

@@ -1,0 +1,32 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "favorite": false,
+ "reference_vid": "e8d65c325fbb7657",
+ "category": "",
+ "title": "Pavement Sunset",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "synth",
+  "bass",
+  "drums",
+  "strings"
+ ],
+ "genre": "Dance & Electronic",
+ "display_mood": "Dramatic",
+ "streamid": "RR6gneeVP5EGwkf4-HGp_kDVO0zHdU19B4zjlZwsm6arBsTRKpvHMElhRVakrcgK",
+ "album": "None",
+ "len": 148,
+ "artist": "RKVC",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e8d65c325fbb7657",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChBlOGQ2NWMzMjVmYmI3NjU3EAAYAg%3D%3D&sigh=ZMKL_3B8Y8zvk6bAFPWjgw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "e8d65c325fbb7657",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "e8d65c325fbb7657",
+ "license_type": 1,
+ "track_url": ""
+}

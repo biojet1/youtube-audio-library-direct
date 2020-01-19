@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1731a408ec468462",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChAxNzMxYTQwOGVjNDY4NDYyEAAYAg%3D%3D&sigh=roM8kstA6Mu5aXuavwO61A",
+ "vid": "1731a408ec468462",
+ "title": "Space Was The Place",
+ "display_category": "",
+ "album": "None",
+ "favorite": false,
+ "streamid": "Vu9xqLoneBKUMqlE2KjhadyR2zf_LKqrVi5coEht1Use5ehz5svFAn3pZ3-KFYQk",
+ "genre": "Hip Hop & Rap",
+ "len": 153,
+ "mood": "Dramatic",
+ "popularity_percentile": 0,
+ "fp_ref_id": "1731a408ec468462",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "808"
+ ],
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "category": "",
+ "artist": "Audio Hertz",
+ "is_new_track": true,
+ "downloadable": true,
+ "reference_vid": "1731a408ec468462",
+ "display_mood": "Dramatic"
+}

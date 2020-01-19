@@ -1,0 +1,33 @@
+{
+ "streamid": "JW7kWEdXL3nmN9LWYbS9xHHgcCDMq4OIp9rJecimSuf4bA5N-VMtP_9eMV7uVJ0t",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChBkMmM4ZTJhYzUyOGZmYWVmEAAYAg%3D%3D&sigh=z-9fARjeLVSDAMlzoWFVJA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2c8e2ac528ffaef",
+ "favorite": false,
+ "genre": "Hip Hop & Rap",
+ "title": "Fly Around",
+ "mood": "Inspirational",
+ "category": "",
+ "vid": "d2c8e2ac528ffaef",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "artist_channel_url": "/channel/UCoyDwrTWfhlv_yBm84WXXBg",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "d2c8e2ac528ffaef",
+ "len": 138,
+ "display_mood": "Inspirational",
+ "artist": "Saidbysed",
+ "downloadable": true,
+ "fp_ref_id": "d2c8e2ac528ffaef",
+ "album": "None",
+ "instruments": [
+  "keys",
+  "808",
+  "bass",
+  "drums",
+  "synth"
+ ]
+}

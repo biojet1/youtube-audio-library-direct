@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Rock",
+ "category": "",
+ "fp_ref_id": "7bd29e7716c9c0aa",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Ditch Diggin' (Sting)",
+ "vid": "7bd29e7716c9c0aa",
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDdiZDI5ZTc3MTZjOWMwYWEQABgC&sigh=ZfVSNoqr9DFQfKjnZ7bFWA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7bd29e7716c9c0aa",
+ "display_category": "",
+ "len": 4.716,
+ "album": "None",
+ "license_type": 0,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "raV7vf5rkf4JwWUePDGVUDpCaA-okKWypJVpCkwP3f_TVes-cNeNXRajxOyaxOMt",
+ "reference_vid": "7bd29e7716c9c0aa",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "",
+ "genre": "Rock"
+}

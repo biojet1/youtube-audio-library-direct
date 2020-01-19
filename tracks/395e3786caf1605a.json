@@ -1,0 +1,32 @@
+{
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 0,
+ "reference_vid": "395e3786caf1605a",
+ "instruments": [
+  "synth",
+  "bass",
+  "percussion",
+  "drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "395e3786caf1605a",
+ "license_type": 1,
+ "title": "Arcade",
+ "mood": "Dark",
+ "downloadable": true,
+ "len": 114,
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "vid": "395e3786caf1605a",
+ "streamid": "hQ6qM6hu6wL5CzT49Qx6kN2DNybDjsqMBZaZV9qGK8a3RP1hBVkQwE_iLfAWqtBU",
+ "artist": "Public Memory",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=395e3786caf1605a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChAzOTVlMzc4NmNhZjE2MDVhEAAYAg%3D%3D&sigh=fWhdOqQTvOpEwz-Wuil6Xw",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dark",
+ "album": "None",
+ "track_url": ""
+}

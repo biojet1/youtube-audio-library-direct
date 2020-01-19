@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 123,
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "3226115ecdb67e53",
+ "reference_vid": "3226115ecdb67e53",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "license_type": 1,
+ "streamid": "ie5Y4Gn3BX6KcG0Y2BKXt6tOsfVY4mVTQfNlewIzuLX71oJk657bZORZTo-T42kd",
+ "vid": "3226115ecdb67e53",
+ "mood": "Bright",
+ "artist": "Dan Lebowitz",
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChAzMjI2MTE1ZWNkYjY3ZTUzEAAYAg%3D%3D&sigh=affkvDRPKqCWpQXzVsf8vw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3226115ecdb67e53",
+ "category": "",
+ "title": "Bringin' It Back",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Electric Guitar",
+  "Percussion",
+  "Acoustic Guitar"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "vid": "8062c46611406266",
+ "is_new_track": false,
+ "favorite": false,
+ "license_type": 6,
+ "display_category": "",
+ "fp_ref_id": "8062c46611406266",
+ "track_url": "",
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChA4MDYyYzQ2NjExNDA2MjY2EAAYAg%3D%3D&sigh=PhiJh2YIwZ6-0GowHpeR3w",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "title": "Keep It Real",
+ "downloadable": true,
+ "streamid": "NdENJlnNxy80oQtt3NCc1_QG1fxBPvQWKJj3O8K9OPeHF5wzcOL0UTlq-GdykQMu",
+ "genre": "Rock",
+ "len": 121.883,
+ "artist": "Audionautix",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8062c46611406266",
+ "popularity_percentile": 38,
+ "reference_vid": "8062c46611406266",
+ "category": "",
+ "artist_channel_url": null,
+ "mood": "Dark"
+}

@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "World",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjgDBIWChA0ZDM3NjEyNTIxMTFjOTAzEAAYAg%3D%3D&sigh=I53PKfyVFlx0HlC3ywW_Zg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "category": "",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "4d3761252111c903",
+ "is_new_track": false,
+ "len": 209,
+ "genre": "World",
+ "reference_vid": "4d3761252111c903",
+ "downloadable": true,
+ "streamid": "EBB8rjpmnI8CCNZ878KpT48KPAhMigXRxWa6pR6Jky8Ra4JTMOXSFsIJdkGax1_7",
+ "track_url": "",
+ "vid": "4d3761252111c903",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4d3761252111c903",
+ "artist_url": "https://www.youtube.com/channel/UC1OUtgg6ZnZAUbbixMY_dZw",
+ "license_type": 1,
+ "title": "Lagos 2050",
+ "artist": "South London HiFi"
+}

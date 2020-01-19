@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1c93f10ffe8d8d0f",
+ "fp_ref_id": "1c93f10ffe8d8d0f",
+ "artist_url": "",
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1c93f10ffe8d8d0f",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Organ",
+  "Strings",
+  "Bass"
+ ],
+ "len": 137.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiuCBIWChAxYzkzZjEwZmZlOGQ4ZDBmEAAYAg%3D%3D&sigh=Mq3YVkz6Il7EYOZtzqlrdg",
+ "album": "None",
+ "title": "Hark the Herald Angels Sing (Instrumental)",
+ "popularity_percentile": 11,
+ "streamid": "Ot53MUTq9VCzn4OAQV4oUxnMLX08-QGYfsyeFfQkLHbEQiDEw0srNl1thqNVD9LO",
+ "mood": "Inspirational",
+ "genre": "Holiday",
+ "category": "",
+ "favorite": false,
+ "vid": "1c93f10ffe8d8d0f",
+ "track_url": "",
+ "display_genre": "Holiday",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Jingle Punks"
+}

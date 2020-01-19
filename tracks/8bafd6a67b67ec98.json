@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "8bafd6a67b67ec98",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8bafd6a67b67ec98",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChA4YmFmZDZhNjdiNjdlYzk4EAAYAg%3D%3D&sigh=V8LPawYB0Q2mzGITfRCrvg",
+ "is_new_track": false,
+ "reference_vid": "8bafd6a67b67ec98",
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "category": "",
+ "title": "Vamos",
+ "streamid": "XL0Lm1arjZweR6BfDzLq_p9R-_CM_psxOpjcwBu3ZzJk0pG1DHq86b9oMU_1J2i4",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "len": 147.366,
+ "album": "None",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "Text Me Records / Bobby Renz",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drum",
+  "Synth"
+ ],
+ "fp_ref_id": "8bafd6a67b67ec98"
+}

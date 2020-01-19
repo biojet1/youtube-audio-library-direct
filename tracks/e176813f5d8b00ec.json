@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e176813f5d8b00ec",
+ "license_type": 0,
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "fp_ref_id": "e176813f5d8b00ec",
+ "popularity_percentile": 88,
+ "reference_vid": "e176813f5d8b00ec",
+ "len": 13.916,
+ "track_url": "",
+ "mood": "Dark",
+ "album": "None",
+ "streamid": "q-30onhmEJnVU93VvNL80dsdyu6ozgIHV2U4Zgf0NRocQOWqpKbrEt_PPJie0n2R",
+ "genre": "Reggae",
+ "display_mood": "Dark",
+ "downloadable": true,
+ "title": "Bomber (Sting)",
+ "category": "",
+ "display_category": "",
+ "display_genre": "Reggae",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCMhlEhYKEGUxNzY4MTNmNWQ4YjAwZWMQABgC&sigh=P9K74RYVxBkDo0kdDU277g",
+ "vid": "e176813f5d8b00ec",
+ "favorite": false,
+ "artist_url": "",
+ "artist": "Riot",
+ "artist_channel_url": null
+}

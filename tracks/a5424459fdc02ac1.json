@@ -1,0 +1,32 @@
+{
+ "display_genre": "Jazz & Blues",
+ "album": "None",
+ "reference_vid": "a5424459fdc02ac1",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a5424459fdc02ac1",
+ "title": "Dewey, Cheedham, and Howe (Sting)",
+ "mood": "Funky",
+ "len": 7.95,
+ "artist_url": "",
+ "artist": "John Deley and the 41 Players",
+ "fp_ref_id": "a5424459fdc02ac1",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "streamid": "FMXqNgkFWk8gXY1Xqr-4pp9j2fN1WhYU72nEsHaUgOvxXNdvx2JTGdIxiyLr8dMf",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a5424459fdc02ac1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEGE1NDI0NDU5ZmRjMDJhYzEQABgC&sigh=4tufZXF82EGZg08_Kvj39Q"
+}

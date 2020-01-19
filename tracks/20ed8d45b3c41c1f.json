@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "vid": "20ed8d45b3c41c1f",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=20ed8d45b3c41c1f",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChAyMGVkOGQ0NWIzYzQxYzFmEAAYAg%3D%3D&sigh=7hvDdm9STvk7mebfd0vTFA",
+ "is_new_track": false,
+ "reference_vid": "20ed8d45b3c41c1f",
+ "display_mood": "Dark",
+ "favorite": false,
+ "category": "",
+ "title": "Long Life",
+ "streamid": "1e5J4nbUA38oSmKZhSN0sqvgwiW4-kizcEGf_iHs3UR-oFrYpsxJTueZJPV0yirI",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 129.4,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Text Me Records / Bobby Renz",
+ "instruments": [
+  "Bass",
+  "Synth",
+  "Drums"
+ ],
+ "fp_ref_id": "20ed8d45b3c41c1f"
+}

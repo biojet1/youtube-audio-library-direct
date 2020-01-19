@@ -1,0 +1,32 @@
+{
+ "display_genre": "Ambient",
+ "license_type": 0,
+ "genre": "Ambient",
+ "artist_url": "",
+ "vid": "f3c4b3f7050c24cf",
+ "artist": "Letter Box",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f3c4b3f7050c24cf",
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjOEhIWChBmM2M0YjNmNzA1MGMyNGNmEAAYAg%3D%3D&sigh=GFCB9JpaZyxMz37vOEIJ2w",
+ "popularity_percentile": 96,
+ "display_category": "",
+ "mood": "Dark",
+ "title": "Far The Days Come",
+ "reference_vid": "f3c4b3f7050c24cf",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f3c4b3f7050c24cf",
+ "track_url": "",
+ "len": 305.916,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "w1TSj468FF4jjq11WaoZ6kcI6D6u2JbIgBgkhqBpQPOdlqepyoA6PzYGXlUugKSg"
+}

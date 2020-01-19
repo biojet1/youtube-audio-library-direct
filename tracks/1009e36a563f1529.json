@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 0,
+ "vid": "1009e36a563f1529",
+ "fp_ref_id": "1009e36a563f1529",
+ "album": "None",
+ "streamid": "DB8yEFvvJbmB8oPX9xzYSwFz7ObkvNmtv0137iDclJCPmeV_0bLpX6ADj9Yc55E1",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Children's",
+ "instruments": [
+  "Drums"
+ ],
+ "artist": "The Green Orbs",
+ "display_mood": "Happy",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1009e36a563f1529",
+ "downloadable": true,
+ "display_genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChAxMDA5ZTM2YTU2M2YxNTI5EAAYAg%3D%3D&sigh=iMiBiBydIJR9OcAuXMLWhQ",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 127.916,
+ "reference_vid": "1009e36a563f1529",
+ "title": "Itsy Bitsy Spider (instrumental)",
+ "favorite": false,
+ "track_url": ""
+}

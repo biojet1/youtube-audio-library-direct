@@ -1,0 +1,30 @@
+{
+ "len": 102.116,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=07cdd53045a7190a",
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "display_mood": "Dramatic",
+ "streamid": "6iEilj7ZAQa6PZpuczyE_GGF2P0fd3s_v7zx4aImyOriTTsS2TFk59YAv4CP3B-8",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChAwN2NkZDUzMDQ1YTcxOTBhEAAYAg%3D%3D&sigh=xeVb0bAm-WhvyZUVpZjWeQ",
+ "title": "Grave Blow",
+ "vid": "07cdd53045a7190a",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "popularity_percentile": 54,
+ "display_genre": "Cinematic",
+ "reference_vid": "07cdd53045a7190a",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Cinematic",
+ "fp_ref_id": "07cdd53045a7190a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100402",
+ "album": "None"
+}

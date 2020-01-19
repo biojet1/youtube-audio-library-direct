@@ -1,0 +1,29 @@
+{
+ "popularity_percentile": 18,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 166.816,
+ "reference_vid": "2e21bdcc0f8b71f3",
+ "display_genre": "Classical",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2e21bdcc0f8b71f3",
+ "instruments": [
+  "Trumpet"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChAyZTIxYmRjYzBmOGI3MWYzEAAYAg%3D%3D&sigh=5GJxsjIrAjJKK9i3Z1Peag",
+ "display_mood": "Bright",
+ "fp_ref_id": "2e21bdcc0f8b71f3",
+ "track_url": "",
+ "genre": "Classical",
+ "vid": "2e21bdcc0f8b71f3",
+ "artist_channel_url": null,
+ "streamid": "_jS5DMF1ogGnF1vNnMVkuUa01wdxlkucRemqo7NF62KZfMrJdd0FHav2IWJxqCVz",
+ "license_type": 1,
+ "title": "National Emblem March",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "United States Marine Band",
+ "mood": "Bright"
+}

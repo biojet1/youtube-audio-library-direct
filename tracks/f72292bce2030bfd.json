@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": "/channel/UCbdU8d-QYGeEseYLlrSy8KQ",
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "f72292bce2030bfd",
+ "display_genre": "Rock",
+ "artist": "Unicorn Heads",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChBmNzIyOTJiY2UyMDMwYmZkEAAYAg%3D%3D&sigh=PEyS5APLAyIQPetTBAaCqw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f72292bce2030bfd",
+ "len": 100,
+ "mood": "Inspirational",
+ "title": "Serial Dream Rock",
+ "vid": "f72292bce2030bfd",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 1,
+ "artist_url": "",
+ "genre": "Rock",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Guitar"
+ ],
+ "popularity_percentile": 99,
+ "reference_vid": "f72292bce2030bfd",
+ "streamid": "5ulBpoxAL1qp0p-f2seQkp-7e5dCak9R4fApA15xe3G8uj_hGNwLR7x4dK7IX3bU"
+}

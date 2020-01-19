@@ -1,0 +1,32 @@
+{
+ "genre": "Rock",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Max Surla/Media Right Productions",
+ "fp_ref_id": "9857eb730d32c7d0",
+ "display_mood": "Bright",
+ "display_genre": "Rock",
+ "vid": "9857eb730d32c7d0",
+ "mood": "Bright",
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCJBOEhYKEDk4NTdlYjczMGQzMmM3ZDAQABgC&sigh=ue93CkLrVrvCCTedqskUhw",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Animal (Sting)",
+ "category": "",
+ "len": 10.316,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9857eb730d32c7d0",
+ "reference_vid": "9857eb730d32c7d0",
+ "streamid": "BUcKZ0_wZUx5hTSXUpC35wC_AoaGtlR8tH0C_4Zj-DDz70uHoAB3dHOPPOZV7pML"
+}

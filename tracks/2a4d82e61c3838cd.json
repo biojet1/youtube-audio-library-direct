@@ -1,0 +1,33 @@
+{
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Acoustic Guitar",
+  "Organ",
+  "Piano"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2a4d82e61c3838cd",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "The Green Orbs",
+ "len": 124.25,
+ "display_category": "",
+ "display_genre": "Children's",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "QHNvMHiPf-9zPmXV3t-FbGgQrrkU-RuJZuZFcdUdLWRULVs7KqKansCCMQOU1je2",
+ "category": "",
+ "title": "Row Row Row Your Boat",
+ "display_mood": "Calm",
+ "favorite": false,
+ "reference_vid": "2a4d82e61c3838cd",
+ "genre": "Children's",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChAyYTRkODJlNjFjMzgzOGNkEAAYAg%3D%3D&sigh=nJqfaZmMU0XPzzXUa_rhFg",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "2a4d82e61c3838cd",
+ "license_type": 1,
+ "popularity_percentile": 16,
+ "vid": "2a4d82e61c3838cd"
+}

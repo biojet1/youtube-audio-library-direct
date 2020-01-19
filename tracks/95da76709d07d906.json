@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95da76709d07d906",
+ "display_mood": "Calm",
+ "downloadable": true,
+ "category": "",
+ "title": "The Long Ascent",
+ "track_url": "",
+ "vid": "95da76709d07d906",
+ "mood": "Calm",
+ "is_new_track": false,
+ "len": 100,
+ "instruments": [
+  "synth",
+  "strings",
+  "harp"
+ ],
+ "popularity_percentile": 99,
+ "streamid": "ft1YuVhualDOsohb1nkBYYD26gHZbcex9C6Q01tjoMZ2MuTwGZPBsjh8maWq0rNV",
+ "display_genre": "Cinematic",
+ "artist": "Cooper Cannell",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "reference_vid": "95da76709d07d906",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA5NWRhNzY3MDlkMDdkOTA2EAAYAg%3D%3D&sigh=esj8ibb1pw6OSfqT5eOrqQ",
+ "fp_ref_id": "95da76709d07d906",
+ "genre": "Cinematic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "license_type": 1
+}

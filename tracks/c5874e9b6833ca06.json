@@ -1,0 +1,32 @@
+{
+ "mood": "Calm",
+ "artist": "Slenderbeats",
+ "vid": "c5874e9b6833ca06",
+ "display_category": "",
+ "streamid": "D-2P6RCf8Yj0EhlF6M3Fs60-PmQHXo9MDPQ0gzWPK4wU82lsIl1F2rDFQtniWdHw",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c5874e9b6833ca06",
+ "fp_ref_id": "c5874e9b6833ca06",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChBjNTg3NGU5YjY4MzNjYTA2EAAYAg%3D%3D&sigh=iVdCKHX6OM6LsgO3zJRB3A",
+ "display_genre": "Pop",
+ "len": 213,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "reference_vid": "c5874e9b6833ca06",
+ "title": "Simple Step",
+ "genre": "Pop",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "license_type": 1,
+ "display_mood": "Calm",
+ "popularity_percentile": 99
+}

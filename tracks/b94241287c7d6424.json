@@ -1,0 +1,31 @@
+{
+ "mood": "Dark",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBiOTQyNDEyODdjN2Q2NDI0EAAYAg%3D%3D&sigh=Ydm6N1aDyrisJ-BzulOIHQ",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "category": "",
+ "instruments": [
+  "piano",
+  "electric guitar",
+  "Acoustic guitar"
+ ],
+ "display_mood": "Dark",
+ "fp_ref_id": "b94241287c7d6424",
+ "is_new_track": false,
+ "len": 165,
+ "genre": "Cinematic",
+ "reference_vid": "b94241287c7d6424",
+ "downloadable": true,
+ "streamid": "gI4b_ZWOvC3Z7BNjtyr2FZ8VLg6KoQmLU9n6nZO3g7MsBekvt-Lq1AZk-fKHyHPz",
+ "track_url": "",
+ "vid": "b94241287c7d6424",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b94241287c7d6424",
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "title": "Northern Lights",
+ "artist": "Chris Haugen"
+}

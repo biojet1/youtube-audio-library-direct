@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Organ",
+  "Synth"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "Kphk5DgJ0FLHyxSKPFDCahk6-vxECqzpt1P_3_Bsii8M8jYp2FlKodlTxodFOxVo",
+ "len": 129.483,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab0bd41b4625f214",
+ "category": "",
+ "is_new_track": false,
+ "vid": "ab0bd41b4625f214",
+ "display_genre": "Rock",
+ "reference_vid": "ab0bd41b4625f214",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBhYjBiZDQxYjQ2MjVmMjE0EAAYAg%3D%3D&sigh=zm4ybwnCkAA3Ldq0pinCLg",
+ "display_mood": "Dark",
+ "artist_url": "",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "",
+ "title": "The Fallout",
+ "genre": "Rock",
+ "fp_ref_id": "ab0bd41b4625f214",
+ "mood": "Dark",
+ "artist": "Everet Almond",
+ "favorite": false
+}

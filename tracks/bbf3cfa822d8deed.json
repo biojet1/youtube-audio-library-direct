@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "favorite": false,
+ "len": 187.999,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bbf3cfa822d8deed",
+ "category": "",
+ "streamid": "slMXtE80pGun_yrS0UNoSEeDJoVdYGRyMHLdUJvIl7OGZ_2DxIeg3ZWid6YkCkId",
+ "fp_ref_id": "bbf3cfa822d8deed",
+ "mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBiYmYzY2ZhODIyZDhkZWVkEAAYAg%3D%3D&sigh=iTuHKKbUp37l0xH6YWo_tA",
+ "popularity_percentile": 0,
+ "reference_vid": "bbf3cfa822d8deed",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "bbf3cfa822d8deed",
+ "display_genre": "Dance & Electronic",
+ "track_url": "",
+ "title": "Mountain Jump",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "artist": "Coyote Hearing"
+}

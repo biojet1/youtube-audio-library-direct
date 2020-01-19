@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a98b62f80a53ee09",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a98b62f80a53ee09",
+ "fp_ref_id": "a98b62f80a53ee09",
+ "genre": "Rock",
+ "album": "None",
+ "title": "Strange Precident",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "track_url": "",
+ "display_mood": "Funky",
+ "streamid": "eShMbQ6oEja0kQADrcCWffqa5kwdIAWuWGioitT21Xa8vVML7bQ_4fbNfMy6kZks",
+ "artist": "Silent Partner",
+ "mood": "Funky",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a98b62f80a53ee09",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBhOThiNjJmODBhNTNlZTA5EAAYAg%3D%3D&sigh=gUFr9NodooM-S1E0dt3yIQ",
+ "display_category": "",
+ "len": 131.916,
+ "display_genre": "Rock"
+}

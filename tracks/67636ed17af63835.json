@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=67636ed17af63835",
+ "popularity_percentile": 30,
+ "reference_vid": "67636ed17af63835",
+ "category": "",
+ "artist_channel_url": null,
+ "streamid": "1ekxDHTJ8JpDoFyvllf5ujkYsVIvhq8I4g9aAtyRGJd_8Vz2qko5HOaqcFELnHwV",
+ "genre": "Jazz & Blues",
+ "len": 140.583,
+ "artist": "Audionautix",
+ "display_mood": "Funky",
+ "downloadable": true,
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums",
+  "Trumpet"
+ ],
+ "title": "Hot Salsa",
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChA2NzYzNmVkMTdhZjYzODM1EAAYAg%3D%3D&sigh=BFU8fml41PXePNW3x1fqvg",
+ "artist_url": "http://audionautix.com/",
+ "fp_ref_id": "67636ed17af63835",
+ "track_url": "",
+ "mood": "Funky",
+ "license_type": 6,
+ "display_category": "",
+ "album": "None",
+ "vid": "67636ed17af63835",
+ "is_new_track": false,
+ "favorite": false
+}

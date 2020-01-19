@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "album": "None",
+ "reference_vid": "a52b21e19d9a3f90",
+ "popularity_percentile": 65,
+ "category": "",
+ "vid": "a52b21e19d9a3f90",
+ "title": "Eternal Father Strong To Save",
+ "mood": "Sad",
+ "len": 187.083,
+ "artist_url": "",
+ "artist": "The Midshipmen Glee Club",
+ "fp_ref_id": "a52b21e19d9a3f90",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "instruments": [
+  "Organ"
+ ],
+ "streamid": "BpivZn0cIwGM0NNuW6y1smbJn0S89aSWXT7W37LcxzqftA3gVYBoDpG_anVKeyNO",
+ "display_mood": "Sad",
+ "downloadable": true,
+ "genre": "Classical",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a52b21e19d9a3f90",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBhNTJiMjFlMTlkOWEzZjkwEAAYAg%3D%3D&sigh=c2EjHOOtWORWrjVZpkOsUQ"
+}

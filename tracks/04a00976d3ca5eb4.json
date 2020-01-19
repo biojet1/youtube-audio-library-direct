@@ -1,0 +1,29 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChAwNGEwMDk3NmQzY2E1ZWI0EAAYAg%3D%3D&sigh=b1sAEaUl1NjTj-gkUVMdpA",
+ "display_category": "",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "vid": "04a00976d3ca5eb4",
+ "downloadable": true,
+ "reference_vid": "04a00976d3ca5eb4",
+ "favorite": false,
+ "fp_ref_id": "04a00976d3ca5eb4",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=04a00976d3ca5eb4",
+ "genre": "Ambient",
+ "streamid": "8h2D75ouP-oA7RTZqBnvlL5DXu3eUjIp5ON59lbjfs5kWfLgN36P-4HqT1ETYM9e",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Inspirational",
+ "len": 152,
+ "display_genre": "Ambient",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "The Ten Names",
+ "artist": "I Think I Can Help You",
+ "category": "",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "instruments": [
+  "synth"
+ ]
+}

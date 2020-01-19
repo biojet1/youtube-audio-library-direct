@@ -1,0 +1,31 @@
+{
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "favorite": false,
+ "fp_ref_id": "21f29f75302b20ad",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "streamid": "b5XwMXiZxUgn0_Gk7_9fV62wnkC8Lkb5pYLEWfWNAW4GWbRzcnWkn2x0vbS6hbnP",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=21f29f75302b20ad",
+ "album": "None",
+ "mood": "Angry",
+ "downloadable": true,
+ "artist": "Ethan Meixsell",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 161.15,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChAyMWYyOWY3NTMwMmIyMGFkEAAYAg%3D%3D&sigh=EVz3NhIxh8xyDRmr8-CYsg",
+ "reference_vid": "21f29f75302b20ad",
+ "popularity_percentile": 13,
+ "artist_channel_url": null,
+ "display_mood": "Angry",
+ "display_category": "",
+ "track_url": "",
+ "title": "Heavyweight",
+ "category": "",
+ "vid": "21f29f75302b20ad"
+}

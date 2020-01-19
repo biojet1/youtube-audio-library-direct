@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "instruments": [
+  "Bass",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "len": 120.55,
+ "fp_ref_id": "032986b87365aa79",
+ "streamid": "H_BL1rzpILmyS7gXuKj2O-A4MV8GrRz62zEu9ZHYxBD4uBPWDHQW-jFZGihgDlx7",
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "genre": "Jazz & Blues",
+ "popularity_percentile": 64,
+ "vid": "032986b87365aa79",
+ "display_genre": "Jazz & Blues",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=032986b87365aa79",
+ "album": "None",
+ "title": "Hustle",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChAwMzI5ODZiODczNjVhYTc5EAAYAg%3D%3D&sigh=r9a9NRHR2p7w0qIzRn5IBQ",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "mood": "Bright",
+ "is_new_track": false,
+ "reference_vid": "032986b87365aa79",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100793",
+ "license_type": 6
+}

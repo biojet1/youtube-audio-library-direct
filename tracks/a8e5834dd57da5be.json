@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "license_type": 1,
+ "genre": "Rock",
+ "artist_url": "",
+ "vid": "a8e5834dd57da5be",
+ "artist": "Text Me Records / Bobby Renz",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "a8e5834dd57da5be",
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "instruments": [
+  "Organ",
+  "Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChBhOGU1ODM0ZGQ1N2RhNWJlEAAYAg%3D%3D&sigh=zpBhh279xXEmxEjdatRDXA",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Bright",
+ "title": "Mountain",
+ "reference_vid": "a8e5834dd57da5be",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a8e5834dd57da5be",
+ "track_url": "",
+ "len": 114.366,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "9ZMoEedc96UnC6ut2zaVBshvy7OnTIKZGZPyBbCiH1nfSI_XS5wB4ELB3ku0Vu2V"
+}

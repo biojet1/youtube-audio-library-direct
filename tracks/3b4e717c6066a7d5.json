@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "reference_vid": "3b4e717c6066a7d5",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "muIgTjW40rc09exdK6gUbWgi81XHmoyJkOC53djmZGrrzvtWaBpk7Y0QptHGYSZM",
+ "display_mood": "Funky",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Piano",
+  "Organ",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "display_genre": "Jazz & Blues",
+ "title": "Cross Cut Nightmare",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "3b4e717c6066a7d5",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChAzYjRlNzE3YzYwNjZhN2Q1EAAYAg%3D%3D&sigh=V_mwVt_a8HqPeT_KAlRJbQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3b4e717c6066a7d5",
+ "artist": "John Deley",
+ "len": 142.6,
+ "track_url": "",
+ "fp_ref_id": "3b4e717c6066a7d5",
+ "mood": "Funky",
+ "is_new_track": false,
+ "popularity_percentile": 23,
+ "display_category": ""
+}

@@ -1,0 +1,30 @@
+{
+ "vid": "14871f024c6b8810",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_channel_url": null,
+ "fp_ref_id": "14871f024c6b8810",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14871f024c6b8810",
+ "favorite": false,
+ "instruments": [
+  "Bass",
+  "Synth"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100309",
+ "title": "Bass Soli - Rollin at 5",
+ "genre": "Jazz & Blues",
+ "mood": "Funky",
+ "artist": "Kevin MacLeod",
+ "display_mood": "Funky",
+ "streamid": "dV3RdK2MxD2fEO-cJBrM7Z6SZNLFsKBO1uONL2lwhLPZAqnsCXGpr15oKnZibJ3L",
+ "display_category": "",
+ "len": 65.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj7AxIWChAxNDg3MWYwMjRjNmI4ODEwEAAYAg%3D%3D&sigh=Ft90mPMgCj25QSE7JBNc_g",
+ "reference_vid": "14871f024c6b8810",
+ "album": "None",
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Jazz & Blues"
+}

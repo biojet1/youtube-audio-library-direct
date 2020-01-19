@@ -1,0 +1,30 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjhERIWChA1MmU3OTdjMGY4N2I5YTI3EAAYAg%3D%3D&sigh=oAkZIXBxc2qC1f326T7Oag",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "52e797c0f87b9a27",
+ "reference_vid": "52e797c0f87b9a27",
+ "popularity_percentile": 99,
+ "artist": "Max McFerren",
+ "artist_channel_url": "/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=52e797c0f87b9a27",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "streamid": "_QqU2XykFaBERYrTqXK0aktorf28o0uRsjsbqAGH7sI9VET0NFlDBWTHELA6c3cx",
+ "title": "Mom's House",
+ "downloadable": true,
+ "category": "",
+ "len": 291,
+ "artist_url": "https://www.youtube.com/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "52e797c0f87b9a27",
+ "album": "None"
+}

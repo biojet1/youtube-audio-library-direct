@@ -1,0 +1,31 @@
+{
+ "mood": "Dark",
+ "album": "None",
+ "vid": "8a92f44f65138d72",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChA4YTkyZjQ0ZjY1MTM4ZDcyEAAYAg%3D%3D&sigh=xrStX14eY1DhnOdauqn3Iw",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "track_url": "",
+ "streamid": "cBDY0LS9on4UDHiVln2UgKnWOACz0WglDhjK1JMeZ0C17hz43_G9mzwORyFgHrS4",
+ "len": 173,
+ "genre": "Dance & Electronic",
+ "artist": "Coyote Hearing",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Is This Love",
+ "instruments": [
+  "bass",
+  "synth",
+  "drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a92f44f65138d72",
+ "reference_vid": "8a92f44f65138d72",
+ "popularity_percentile": 99,
+ "fp_ref_id": "8a92f44f65138d72",
+ "display_mood": "Dark"
+}

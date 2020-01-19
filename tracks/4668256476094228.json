@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4668256476094228",
+ "display_category": "",
+ "fp_ref_id": "4668256476094228",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4668256476094228",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 28,
+ "mood": "Happy",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass",
+  "organ",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA0NjY4MjU2NDc2MDk0MjI4EAAYAg%3D%3D&sigh=1q03NB8B0H2dBNm_9cAJtg",
+ "streamid": "wnSlApdjJiZqhntrEGhDAaI76OeOTV4_cmIZyBDDWyxA3ct-ymn9FxbDepsfeyr7",
+ "genre": "Pop",
+ "vid": "4668256476094228",
+ "artist": "Silent Partner",
+ "display_genre": "Pop",
+ "title": "Saddest Beach",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 123.116,
+ "display_mood": "Happy",
+ "downloadable": true
+}

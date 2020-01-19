@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChAwMTVlOTg0MjY1ZTc3MmRlEAAYAg%3D%3D&sigh=Hv362S6dkimvccgIINFVJg",
+ "title": "Auld Lang Syne (Jazz)",
+ "favorite": false,
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "015e984265e772de",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "track_url": "",
+ "display_genre": "Holiday",
+ "artist": "E's Jammy Jams",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Holiday",
+ "popularity_percentile": 1,
+ "reference_vid": "015e984265e772de",
+ "streamid": "3sRaAUPweBPlgqAXheUCxy3S_K1tA1jm8j6fEZEKNwacL2Yi39VIiOlwsd3xLMuv",
+ "artist_url": "",
+ "len": 124.883,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=015e984265e772de",
+ "vid": "015e984265e772de",
+ "category": ""
+}

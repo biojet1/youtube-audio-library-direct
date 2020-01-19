@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Mylar Melodies",
+ "artist_channel_url": "/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "downloadable": true,
+ "fp_ref_id": "1e57ff847eb6897b",
+ "popularity_percentile": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAxZTU3ZmY4NDdlYjY4OTdiEAAYAg%3D%3D&sigh=0P8ibMZ7AXdi_TnRtQVPOQ",
+ "favorite": false,
+ "genre": "Ambient",
+ "category": "",
+ "vid": "1e57ff847eb6897b",
+ "streamid": "LLa4FQwtvMe9TkEunghAdsWDhIlmL9-xZW3Ui-zHBMCibNVRpUwAx_AyaF88m-nl",
+ "mood": "Calm",
+ "reference_vid": "1e57ff847eb6897b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1e57ff847eb6897b",
+ "title": "Ponderin Valhalla",
+ "display_mood": "Calm",
+ "artist_url": "https://www.youtube.com/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "drum machine",
+  "drums",
+  "bass"
+ ],
+ "len": 121,
+ "album": "None",
+ "track_url": ""
+}

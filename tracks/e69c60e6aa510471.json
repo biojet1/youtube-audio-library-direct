@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e69c60e6aa510471",
+ "category": "",
+ "title": "Giant Leap",
+ "genre": "Rock",
+ "favorite": false,
+ "reference_vid": "e69c60e6aa510471",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChBlNjljNjBlNmFhNTEwNDcxEAAYAg%3D%3D&sigh=yEiYGu-Kh7XY2KtXxJwZzQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e69c60e6aa510471",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e69c60e6aa510471",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Topher Mohr and Alex Elena",
+ "len": 187.95,
+ "display_mood": "Calm",
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "Hd7Xi0R161wY2acnH5muN1qvOrA1SrGm-lcnjHQsIbLWhkanPxTpxLQ_HPk_DDQ3"
+}

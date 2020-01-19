@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChBjZTBlMTdiZGEyMTE4MDAyEAAYAg%3D%3D&sigh=H7to8G348GcMyZcOPBVmRg",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "organ"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "ce0e17bda2118002",
+ "reference_vid": "ce0e17bda2118002",
+ "popularity_percentile": 99,
+ "artist": "Spazz Cardigan",
+ "artist_channel_url": "/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ce0e17bda2118002",
+ "mood": "Funky",
+ "genre": "Dance & Electronic",
+ "streamid": "DBSjosS54f4Wu5n9-hpSsYcILxPafOB6zui-1eOKdnfsAelsdMNr9NfYJp_NHm3i",
+ "title": "Rinse & Repeat",
+ "downloadable": true,
+ "category": "",
+ "len": 179,
+ "artist_url": "https://www.youtube.com/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "ce0e17bda2118002",
+ "album": "None"
+}

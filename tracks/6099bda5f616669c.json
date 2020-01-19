@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "6099bda5f616669c",
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCzDhIWChA2MDk5YmRhNWY2MTY2NjljEAAYAg%3D%3D&sigh=szAU7JHOtp7PmHuh3OePtQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6099bda5f616669c",
+ "artist": "Freedom Trail Studio",
+ "len": 236,
+ "streamid": "msztyMTi1SeG-nuIejTZCw547pf6h3Scd6--BBa1AUTBbrcRMsZ15AguTKQvfocc",
+ "album": "None",
+ "display_mood": "Inspirational",
+ "instruments": [
+  "electric guitar",
+  "acoustic guitar",
+  "bass",
+  "drums",
+  "synthesizer"
+ ],
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "title": "Happy Sixth",
+ "vid": "6099bda5f616669c",
+ "reference_vid": "6099bda5f616669c",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw"
+}

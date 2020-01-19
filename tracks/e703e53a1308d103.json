@@ -1,0 +1,33 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e703e53a1308d103",
+ "category": "",
+ "title": "Cielo",
+ "genre": "Hip Hop & Rap",
+ "favorite": false,
+ "reference_vid": "e703e53a1308d103",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChBlNzAzZTUzYTEzMDhkMTAzEAAYAg%3D%3D&sigh=YFynLsmBPerCeTwuocwgiw",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e703e53a1308d103",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e703e53a1308d103",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Piano",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Huma-Huma",
+ "len": 153.05,
+ "display_mood": "Funky",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "Vr5sZgYEjwV_1Eixjm-ngErhjeyfqjfG7HzEt62hQLxyhTxjyOBNPawHDNbpEmWd"
+}

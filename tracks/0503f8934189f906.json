@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "reference_vid": "0503f8934189f906",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDVCBIWChAwNTAzZjg5MzQxODlmOTA2EAAYAg%3D%3D&sigh=PorYvGP9TMx7Q64oURYfeQ",
+ "display_mood": "Dramatic",
+ "title": "The Black Cat",
+ "artist": "Aaron Kenny",
+ "is_new_track": false,
+ "len": 142,
+ "genre": "Jazz & Blues",
+ "display_genre": "Jazz & Blues",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "0503f8934189f906",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0503f8934189f906",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "license_type": 1,
+ "instruments": [
+  "Drums",
+  "Horn",
+  "Strings",
+  "Piano"
+ ],
+ "fp_ref_id": "0503f8934189f906",
+ "streamid": "Gx-75GqhEj0J7CsnnDg1vFlXA0rn8fwaYl_-Ogt7wnXNlesXu3ncwQT0jAczJtRl"
+}

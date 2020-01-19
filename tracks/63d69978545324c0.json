@@ -1,0 +1,29 @@
+{
+ "display_mood": "Calm",
+ "genre": "Pop",
+ "instruments": [
+  "acoustic Guitar"
+ ],
+ "album": "None",
+ "streamid": "yKEwS938Bx26-THz3Opu6WPXPbSLtFYYlP8nLKXWs-jsLH6QUTkqe5tcPH0bbuKg",
+ "title": "Rain",
+ "display_genre": "Pop",
+ "vid": "63d69978545324c0",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://www.twinmusicom.org/",
+ "reference_vid": "63d69978545324c0",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Calm",
+ "license_type": 6,
+ "fp_ref_id": "63d69978545324c0",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "Twin Musicom",
+ "len": 130.616,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND3BxIWChA2M2Q2OTk3ODU0NTMyNGMwEAAYAg%3D%3D&sigh=nJvzxLnfsokPgBq30xHrgQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=63d69978545324c0"
+}

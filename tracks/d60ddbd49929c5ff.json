@@ -1,0 +1,32 @@
+{
+ "len": 112.016,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d60ddbd49929c5ff",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "display_mood": "Inspirational",
+ "streamid": "Y7ei9atHFnvUz9XtuLRFbAuPedFzvXgcZ7zpsSoIiDtUB2TNvX88n1Uxs6xaLfxl",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChBkNjBkZGJkNDk5MjljNWZmEAAYAg%3D%3D&sigh=xCt3q18cScoyA5vJRliA7g",
+ "title": "Wishing Well",
+ "vid": "d60ddbd49929c5ff",
+ "artist_url": "",
+ "license_type": 0,
+ "mood": "Inspirational",
+ "artist": "Bird Creek",
+ "favorite": false,
+ "popularity_percentile": 83,
+ "display_genre": "Pop",
+ "reference_vid": "d60ddbd49929c5ff",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Pop",
+ "fp_ref_id": "d60ddbd49929c5ff",
+ "track_url": "",
+ "album": "None"
+}

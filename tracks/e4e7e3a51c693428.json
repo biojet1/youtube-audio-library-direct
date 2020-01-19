@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "album": "None",
+ "fp_ref_id": "e4e7e3a51c693428",
+ "artist_url": "https://www.youtube.com/channel/UCE8in8drPryPgRY9IDZB1XQ",
+ "track_url": "",
+ "category": "",
+ "reference_vid": "e4e7e3a51c693428",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "808",
+  "electric guitar"
+ ],
+ "display_genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4e7e3a51c693428",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChBlNGU3ZTNhNTFjNjkzNDI4EAAYAg%3D%3D&sigh=OQGTXvZcSpS85oDf7L546w",
+ "display_category": "",
+ "display_mood": "Dark",
+ "vid": "e4e7e3a51c693428",
+ "len": 127,
+ "mood": "Dark",
+ "streamid": "gQ42bYNVJfobVMxrP1ZB4255E5cOrNwqSqGBXFBNBiLh2-kL9h_D4JpjincD6W03",
+ "artist": "Alge",
+ "is_new_track": false,
+ "title": "A Simple Feeling",
+ "genre": "Hip Hop & Rap",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCE8in8drPryPgRY9IDZB1XQ"
+}

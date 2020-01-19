@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "title": "Critter Cruise",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Matt Harris",
+ "vid": "0b023b0c0bf54164",
+ "mood": "Funky",
+ "genre": "Cinematic",
+ "reference_vid": "0b023b0c0bf54164",
+ "track_url": "",
+ "streamid": "d3X8ACQbE_GaB95HCsA0s60rNc0EJIyN5m3UpVeNfcJzbI0yn3at5xV9S5j6MGU7",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b023b0c0bf54164",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChAwYjAyM2IwYzBiZjU0MTY0EAAYAg%3D%3D&sigh=86DpIA-IuMNiyVFdxCjrtg",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Funky",
+ "fp_ref_id": "0b023b0c0bf54164",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 105.933,
+ "display_genre": "Cinematic"
+}

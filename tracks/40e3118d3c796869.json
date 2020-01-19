@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODIBxIWChA0MGUzMTE4ZDNjNzk2ODY5EAAYAg%3D%3D&sigh=PVjg3U8iA9Pu5mCm6BPo_A",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Funky",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "artist_channel_url": null,
+ "vid": "40e3118d3c796869",
+ "reference_vid": "40e3118d3c796869",
+ "genre": "Reggae",
+ "popularity_percentile": 25,
+ "display_genre": "Reggae",
+ "favorite": false,
+ "track_url": "",
+ "title": "Reggae Wah",
+ "downloadable": true,
+ "category": "",
+ "streamid": "jRkiNDFMnD2m-Wmx0_mZuNakf3VEm2f5-5F9MnrfjJXEeLHUasiIr6Jn6_jA2lDc",
+ "fp_ref_id": "40e3118d3c796869",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40e3118d3c796869",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Funky",
+ "len": 124.75
+}

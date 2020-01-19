@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 17,
+ "artist_url": "",
+ "is_new_track": false,
+ "len": 138.783,
+ "reference_vid": "2bc5cac9e6927d11",
+ "display_genre": "Pop",
+ "category": "",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2bc5cac9e6927d11",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChAyYmM1Y2FjOWU2OTI3ZDExEAAYAg%3D%3D&sigh=GSx_P_ATkSD1zycxNg5DdA",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "2bc5cac9e6927d11",
+ "track_url": "",
+ "genre": "Pop",
+ "vid": "2bc5cac9e6927d11",
+ "artist_channel_url": null,
+ "streamid": "_oSNNo0YXrcKECSB5RidxhTa-DERqQr1WWk6MMhVA0SknpSMkWiIFsKmmLhJSO45",
+ "license_type": 0,
+ "title": "March On",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "mood": "Inspirational"
+}

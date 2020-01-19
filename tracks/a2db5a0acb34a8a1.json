@@ -1,0 +1,32 @@
+{
+ "title": "Upsetter",
+ "artist": "The Mini Vandals",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNieCBIWChBhMmRiNWEwYWNiMzRhOGExEAAYAg%3D%3D&sigh=b5R6wAJgV7Oj42MPZ4MiYg",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "vid": "a2db5a0acb34a8a1",
+ "mood": "Bright",
+ "license_type": 1,
+ "is_new_track": false,
+ "len": 135,
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a2db5a0acb34a8a1",
+ "display_mood": "Bright",
+ "streamid": "kJxTZlt9KSwwCzelcJMbLa2jG5J3nMUv6zuA0a7nXY2BN8ffVSB6VxeDLpTCYIid",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "fp_ref_id": "a2db5a0acb34a8a1",
+ "genre": "Rock",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 99,
+ "display_genre": "Rock",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "a2db5a0acb34a8a1"
+}

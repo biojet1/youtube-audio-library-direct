@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://www.twinmusicom.org",
+ "display_mood": "Sad",
+ "title": "Stopping By the Inn",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1f47c49e9dc5aa40",
+ "reference_vid": "1f47c49e9dc5aa40",
+ "mood": "Sad",
+ "artist": "Twin Musicom",
+ "track_url": "http://www.twinmusicom.org/song/298/stopping-by-the-inn",
+ "album": "None",
+ "len": 71.983,
+ "instruments": [
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "display_category": "",
+ "display_genre": "Classical",
+ "streamid": "c-TdaR4nr-S4SDy_6VSRWQuw-yHAEfFo9HCcjls6Yc-evn-Ljaq3vvgDqJHTDHuS",
+ "license_type": 6,
+ "popularity_percentile": 84,
+ "fp_ref_id": "1f47c49e9dc5aa40",
+ "downloadable": true,
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "vid": "1f47c49e9dc5aa40",
+ "category": "",
+ "genre": "Classical",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiqBBIWChAxZjQ3YzQ5ZTlkYzVhYTQwEAAYAg%3D%3D&sigh=CsAxbvtEDDjCB6JYrLwCBA"
+}

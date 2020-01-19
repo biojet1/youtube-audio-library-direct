@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "len": 171,
+ "vid": "a4a5e214457dd180",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "808",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "a4a5e214457dd180",
+ "album": "None",
+ "display_mood": "Bright",
+ "artist_channel_url": "/channel/UCX0Li3JxkKVPIHAamYe-YmQ",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChBhNGE1ZTIxNDQ1N2RkMTgwEAAYAg%3D%3D&sigh=vBi-3Wr6uhbwCbEfPej9BA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a4a5e214457dd180",
+ "mood": "Bright",
+ "genre": "Dance & Electronic",
+ "title": "Scanline",
+ "display_genre": "Dance & Electronic",
+ "artist": "Mike Relm",
+ "reference_vid": "a4a5e214457dd180",
+ "streamid": "Sgxj2Omh0Z5kdZvLsZJmz1es1JeiM6hpadnC_E-AFKTyzKonqncknmia7qQMi3B-"
+}

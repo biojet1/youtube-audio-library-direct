@@ -1,0 +1,29 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "len": 249,
+ "vid": "9e11623522becdce",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "synth"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "9e11623522becdce",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UCeovElJP0n0i8ADaPsRSd8g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiZDxIWChA5ZTExNjIzNTIyYmVjZGNlEAAYAg%3D%3D&sigh=pTgVo-COKqC6N8QeETw3FQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9e11623522becdce",
+ "mood": "Dramatic",
+ "genre": "Cinematic",
+ "title": "Alive Evil",
+ "display_genre": "Cinematic",
+ "artist": "Hainbach",
+ "reference_vid": "9e11623522becdce",
+ "streamid": "6Tkm0K4KHde3tYHhOI40iBuPFCj6oWY9Cbp5bbN_A-tNHER5gEuy430VjBWr1U5Q"
+}

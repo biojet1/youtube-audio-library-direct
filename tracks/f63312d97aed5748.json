@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Synthesizer",
+  "Bass",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChBmNjMzMTJkOTdhZWQ1NzQ4EAAYAg%3D%3D&sigh=ICmJbbDw9ClBWwGJkvmnyA",
+ "title": "I Still Want You",
+ "display_mood": "Funky",
+ "artist": "Everet Almond",
+ "artist_channel_url": null,
+ "genre": "R&B & Soul",
+ "vid": "f63312d97aed5748",
+ "popularity_percentile": 97,
+ "reference_vid": "f63312d97aed5748",
+ "favorite": false,
+ "mood": "Funky",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "R&B & Soul",
+ "category": "",
+ "fp_ref_id": "f63312d97aed5748",
+ "streamid": "3-RsqajrkRBAiSsUVjjiQl9mahBQ4qZydWczcQYzMuamkvSWZqUmVJQ1yNgQ1eCD",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f63312d97aed5748",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 107.216
+}

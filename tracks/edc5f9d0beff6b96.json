@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "mood": "Inspirational",
+ "artist_channel_url": null,
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjiARIWChBlZGM1ZjlkMGJlZmY2Yjk2EAAYAg%3D%3D&sigh=_WHncXLp6KJK5nbSHjr6jg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=edc5f9d0beff6b96",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100331",
+ "genre": "Cinematic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "edc5f9d0beff6b96",
+ "fp_ref_id": "edc5f9d0beff6b96",
+ "category": "",
+ "title": "And Awaken - Stings",
+ "reference_vid": "edc5f9d0beff6b96",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "Strings"
+ ],
+ "popularity_percentile": 43,
+ "streamid": "fADlTQDNvOiPSyVAN1WeW3ssu1C_AO-yrThYb2inDzm9z3vs6P-lI-BDmswU4roP",
+ "len": 29.716,
+ "license_type": 6,
+ "is_new_track": false
+}

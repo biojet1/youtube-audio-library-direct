@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7120bf1967ee02d5",
+ "len": 111.566,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChA3MTIwYmYxOTY3ZWUwMmQ1EAAYAg%3D%3D&sigh=aeQmcOjgsHQ4-NmlBcEtFQ",
+ "fp_ref_id": "7120bf1967ee02d5",
+ "vid": "7120bf1967ee02d5",
+ "title": "Pooka",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "7120bf1967ee02d5",
+ "license_type": 0,
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "strings"
+ ],
+ "streamid": "_vy89ESTW-Utg18X6YeEhaZygrAV3IVFGD0xUGd8gwMcN20CpGYjkbfA0QwFLnHE",
+ "category": ""
+}

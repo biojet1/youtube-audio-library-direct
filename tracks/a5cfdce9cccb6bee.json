@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a5cfdce9cccb6bee",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a5cfdce9cccb6bee",
+ "fp_ref_id": "a5cfdce9cccb6bee",
+ "genre": "Hip Hop & Rap",
+ "album": "None",
+ "title": "A Girl in Oakland",
+ "instruments": [
+  "drums",
+  "synth",
+  "strings"
+ ],
+ "track_url": "",
+ "display_mood": "Funky",
+ "streamid": "_mrEYSvZ1_LSCEV2ZApUcsm4PuBbQ6rcrZAMGqOs3uLXSdqbQVVVN-PcUgb6Mp3g",
+ "artist": "Otis McDonald",
+ "mood": "Funky",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a5cfdce9cccb6bee",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChBhNWNmZGNlOWNjY2I2YmVlEAAYAg%3D%3D&sigh=g4pO9VjKwva6E5hJ06Ny9A",
+ "display_category": "",
+ "len": 98.866,
+ "display_genre": "Hip Hop & Rap"
+}

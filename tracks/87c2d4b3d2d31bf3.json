@@ -1,0 +1,32 @@
+{
+ "streamid": "ZfUXmwF7HCAQyQ96BOCw7pHMpkEeAeC6BCgP0775sOBXewWoF7wMXx8SS05wnTas",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCmCBIWChA4N2MyZDRiM2QyZDMxYmYzEAAYAg%3D%3D&sigh=6NOrclErUg126LQ5fngIMw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=87c2d4b3d2d31bf3",
+ "favorite": false,
+ "genre": "Hip Hop & Rap",
+ "title": "The Soup",
+ "mood": "Dramatic",
+ "category": "",
+ "vid": "87c2d4b3d2d31bf3",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "87c2d4b3d2d31bf3",
+ "len": 136,
+ "display_mood": "Dramatic",
+ "artist": "Verified Picasso",
+ "downloadable": true,
+ "fp_ref_id": "87c2d4b3d2d31bf3",
+ "album": "None",
+ "instruments": [
+  "synth",
+  "808",
+  "drums",
+  "bass"
+ ]
+}

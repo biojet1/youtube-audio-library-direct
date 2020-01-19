@@ -1,0 +1,29 @@
+{
+ "mood": "Romantic",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBkYTFmNzBkYmQwNTM4Y2ZhEAAYAg%3D%3D&sigh=Vb34irPMNv_2dpmG9Vw8Zw",
+ "display_mood": "Romantic",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=da1f70dbd0538cfa",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Chasms",
+ "title": "Incidental",
+ "reference_vid": "da1f70dbd0538cfa",
+ "instruments": [
+  "synth"
+ ],
+ "display_genre": "Cinematic",
+ "fp_ref_id": "da1f70dbd0538cfa",
+ "vid": "da1f70dbd0538cfa",
+ "category": "",
+ "streamid": "qMQN-66hgRFScyd0pPyBpkf8yt9CBGVa26OVXVtW_j_JwcBKThZKdNkmooC2wDEZ",
+ "popularity_percentile": 99,
+ "len": 118,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

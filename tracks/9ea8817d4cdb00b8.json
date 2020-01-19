@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9ea8817d4cdb00b8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC5BxIWChA5ZWE4ODE3ZDRjZGIwMGI4EAAYAg%3D%3D&sigh=AIrxi0a-oi2fpwRcf7omxA",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9ea8817d4cdb00b8",
+ "mood": "Angry",
+ "display_mood": "Angry",
+ "is_new_track": false,
+ "display_genre": "Dance & Electronic",
+ "vid": "9ea8817d4cdb00b8",
+ "downloadable": true,
+ "title": "Mad Science",
+ "reference_vid": "9ea8817d4cdb00b8",
+ "artist_url": "",
+ "len": 122.683,
+ "artist": "MK2",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "srxMO2Hbo1rQxHqAwkqzm-439nwjU7pfle8SRV-Z0r2ntC3xPynBdrYSZHt1e13h",
+ "album": "None",
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 62,
+ "display_category": ""
+}

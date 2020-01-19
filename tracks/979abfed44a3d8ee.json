@@ -1,0 +1,30 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 163,
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "979abfed44a3d8ee",
+ "reference_vid": "979abfed44a3d8ee",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "license_type": 1,
+ "streamid": "xG2qiE9868Ig9oACQxKRI6yGpjpeK3Z1R7X19IVSZ7DarNsW8KNjPtWDOivtHszi",
+ "vid": "979abfed44a3d8ee",
+ "mood": "Bright",
+ "artist": "Dan Lebowitz",
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChA5NzlhYmZlZDQ0YTNkOGVlEAAYAg%3D%3D&sigh=eBtAA-e89hz4sTZA7ZDn0g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=979abfed44a3d8ee",
+ "category": "",
+ "title": "The Twister",
+ "genre": "Country & Folk",
+ "instruments": [
+  "acoustic guitar",
+  "strings"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "mood": "Funky",
+ "artist": "E's Jammy Jams",
+ "vid": "8a975f8b33e57813",
+ "display_category": "",
+ "streamid": "YN2EhJW-V5ggeEmsI1vBhjBtBT-rJa5Ny2dz81jAx28xy5gUXIX_gxk8Dbxogr2p",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8a975f8b33e57813",
+ "fp_ref_id": "8a975f8b33e57813",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjqDhIWChA4YTk3NWY4YjMzZTU3ODEzEAAYAg%3D%3D&sigh=5BBRPCyc8FJsAqiH1z7pVg",
+ "display_genre": "Jazz & Blues",
+ "len": 243,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "organ"
+ ],
+ "reference_vid": "8a975f8b33e57813",
+ "title": "Red Eye",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "license_type": 1,
+ "display_mood": "Funky",
+ "popularity_percentile": 99
+}

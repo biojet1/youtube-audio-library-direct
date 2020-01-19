@@ -1,0 +1,31 @@
+{
+ "mood": "Bright",
+ "title": "Once",
+ "album": "None",
+ "artist": "Silent Partner",
+ "popularity_percentile": 5,
+ "category": "",
+ "display_genre": "Alternative & Punk",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "display_category": "",
+ "vid": "0b97db974afe80af",
+ "streamid": "C1EaWi0ScApr0_uQOw8uz_2k4WU2k7UuH50eFGVsvEaZ4KxPypqkylU7kVD6rEWu",
+ "genre": "Alternative & Punk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChAwYjk3ZGI5NzRhZmU4MGFmEAAYAg%3D%3D&sigh=V_ig2fIa3DykUYqlBpoEiQ",
+ "fp_ref_id": "0b97db974afe80af",
+ "len": 92.966,
+ "favorite": false,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0b97db974afe80af",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b97db974afe80af",
+ "downloadable": true
+}

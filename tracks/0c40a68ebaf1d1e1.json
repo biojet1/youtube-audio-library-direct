@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 67,
+ "downloadable": true,
+ "vid": "0c40a68ebaf1d1e1",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0c40a68ebaf1d1e1",
+ "fp_ref_id": "0c40a68ebaf1d1e1",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "title": "Legend of One",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Piano"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100177",
+ "display_mood": "Dark",
+ "streamid": "zilmyY_ZBCOqr5aCCtFBVGFo-lI_EQbpnsG_hmfpOqopEhpnAKsUeD9J2UhYW2Ot",
+ "artist": "Kevin MacLeod",
+ "mood": "Dark",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "0c40a68ebaf1d1e1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChAwYzQwYTY4ZWJhZjFkMWUxEAAYAg%3D%3D&sigh=j-PdGEWrrNFg6MJ1eGxl-w",
+ "display_category": "",
+ "len": 139.983,
+ "display_genre": "Dance & Electronic"
+}

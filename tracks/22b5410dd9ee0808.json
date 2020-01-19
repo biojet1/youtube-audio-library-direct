@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": "/channel/UCOoKFMFX1SescccH4LAIeMQ",
+ "fp_ref_id": "22b5410dd9ee0808",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChAyMmI1NDEwZGQ5ZWUwODA4EAAYAg%3D%3D&sigh=qnj0tvKAf9gvBgsvgauiqg",
+ "streamid": "v-sJbdotlPfoPKNR38abTZmkxKqbktEQQgpF71xGZNKjS00MXwNa1bze0LVodRMV",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 163,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22b5410dd9ee0808",
+ "favorite": false,
+ "title": "Palmtrees",
+ "artist": "The Brothers Records",
+ "genre": "Dance & Electronic",
+ "vid": "22b5410dd9ee0808",
+ "display_category": "",
+ "reference_vid": "22b5410dd9ee0808",
+ "instruments": [
+  "synth",
+  "drums"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UCOoKFMFX1SescccH4LAIeMQ",
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "is_new_track": false
+}

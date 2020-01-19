@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "fp_ref_id": "6da177e6d001cf30",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChA2ZGExNzdlNmQwMDFjZjMwEAAYAg%3D%3D&sigh=ImhJ_l6a-ZurX9eVLy4esA",
+ "streamid": "Zs1dUa9tCj11Jem2ks941nntgOf3kwJts3GBkc0EMpbYKEAIVG1W5S0nfqEIRc4k",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "len": 141,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6da177e6d001cf30",
+ "favorite": false,
+ "title": "Viking",
+ "artist": "Aakash Gandhi",
+ "genre": "Cinematic",
+ "vid": "6da177e6d001cf30",
+ "display_category": "",
+ "reference_vid": "6da177e6d001cf30",
+ "instruments": [
+  "piano",
+  "strings"
+ ],
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "album": "None",
+ "category": "",
+ "license_type": 1,
+ "track_url": "",
+ "display_genre": "Cinematic",
+ "is_new_track": false
+}

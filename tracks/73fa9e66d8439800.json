@@ -1,0 +1,30 @@
+{
+ "display_genre": "Classical",
+ "vid": "73fa9e66d8439800",
+ "title": "Concierge",
+ "mood": "Romantic",
+ "reference_vid": "73fa9e66d8439800",
+ "popularity_percentile": 45,
+ "category": "",
+ "artist_url": "",
+ "len": 103.25,
+ "fp_ref_id": "73fa9e66d8439800",
+ "is_new_track": false,
+ "artist": "ALBIS",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Strings"
+ ],
+ "streamid": "bOTC4IUZTVNfm3iIH2qmPeh84Bjfu9TiKH4B0l3nQoMEMLQoN2wpqDS-W3-nl55z",
+ "display_mood": "Romantic",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=73fa9e66d8439800",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA3M2ZhOWU2NmQ4NDM5ODAwEAAYAg%3D%3D&sigh=gH7XGpGMHR3997sRQQcKjg",
+ "genre": "Classical"
+}

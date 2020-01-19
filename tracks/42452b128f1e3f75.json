@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "display_category": "",
+ "downloadable": true,
+ "len": 160,
+ "artist_url": "https://www.youtube.com/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "track_url": "",
+ "favorite": false,
+ "category": "",
+ "album": "None",
+ "vid": "42452b128f1e3f75",
+ "mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "license_type": 1,
+ "title": "Jungle Intrigue",
+ "display_mood": "Dramatic",
+ "instruments": [
+  "strings",
+  "percussion"
+ ],
+ "streamid": "9xBwoLTYufAmnZpPERdvTosOTC4JqixVOQsbBl0Mrec4StLm6H09wxbbHm5ABSW1",
+ "reference_vid": "42452b128f1e3f75",
+ "artist_channel_url": "/channel/UCys3xcoWUNGrU1imAufd9uQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=42452b128f1e3f75",
+ "fp_ref_id": "42452b128f1e3f75",
+ "artist": "Cooper Cannell",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChA0MjQ1MmIxMjhmMWUzZjc1EAAYAg%3D%3D&sigh=Fbopd6BnWmt3GwI4m0pTVw"
+}

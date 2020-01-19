@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 0,
+ "vid": "12fa5253dc503390",
+ "fp_ref_id": "12fa5253dc503390",
+ "album": "None",
+ "streamid": "zMObi51lyHPL3A3w8J3BPzePXTyLffRIucG3X2mgGhhQGjEhnAYX4FE3LL75fPI7",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Organ",
+  "Drums"
+ ],
+ "artist": "John Deley and the 41 Players",
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=12fa5253dc503390",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD4DBIWChAxMmZhNTI1M2RjNTAzMzkwEAAYAg%3D%3D&sigh=FHhs-fp8zcNZ_xUJFxDj1Q",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 212.616,
+ "reference_vid": "12fa5253dc503390",
+ "title": "Rhythm Changes",
+ "favorite": false,
+ "track_url": ""
+}

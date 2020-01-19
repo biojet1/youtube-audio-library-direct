@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 8,
+ "license_type": 0,
+ "vid": "138ed11afa3721e7",
+ "fp_ref_id": "138ed11afa3721e7",
+ "album": "None",
+ "streamid": "3pKQr_YAcgJGfH_ziuAJ8VrozkyGPWTSG0-7LRAV4AwRW2i28qVWYmFfjswzlflT",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "Cinematic",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass"
+ ],
+ "artist": "Jingle Punks",
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=138ed11afa3721e7",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChAxMzhlZDExYWZhMzcyMWU3EAAYAg%3D%3D&sigh=Q1YyK9WOn65m0pSL9pzHyA",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 95.033,
+ "reference_vid": "138ed11afa3721e7",
+ "title": "Promise Land",
+ "favorite": false,
+ "track_url": ""
+}

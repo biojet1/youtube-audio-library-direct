@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "display_category": "",
+ "downloadable": true,
+ "streamid": "hscLXB3Y6Dkq9d4SA2xyoz_WnLmSfUWhngO12D5x1V17R9thL-QSdunGBQseojf9",
+ "len": 99.616,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aa5b0a33ab438974",
+ "category": "",
+ "is_new_track": false,
+ "vid": "aa5b0a33ab438974",
+ "display_genre": "Rock",
+ "reference_vid": "aa5b0a33ab438974",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChBhYTViMGEzM2FiNDM4OTc0EAAYAg%3D%3D&sigh=qMgbuFD_RBu0faIxnKAqZw",
+ "display_mood": "Angry",
+ "artist_url": "",
+ "popularity_percentile": 67,
+ "album": "None",
+ "track_url": "",
+ "title": "Gut Check",
+ "genre": "Rock",
+ "fp_ref_id": "aa5b0a33ab438974",
+ "mood": "Angry",
+ "artist": "Ethan Meixsell",
+ "favorite": false
+}

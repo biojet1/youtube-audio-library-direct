@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "490e8f0abbaa284f",
+ "display_category": "",
+ "fp_ref_id": "490e8f0abbaa284f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=490e8f0abbaa284f",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Bright",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCKAfEhYKEDQ5MGU4ZjBhYmJhYTI4NGYQABgC&sigh=_JV5jt7JZJGxRKyYB6h-eg",
+ "streamid": "dmbT2R_lqMaafTAuQFRdLj0w-1N2RKsK6M_0YX6mnP-_u3hZvTTA3y8WjXQis72L",
+ "genre": "Rock",
+ "vid": "490e8f0abbaa284f",
+ "artist": "Ethan Meixsell",
+ "display_genre": "Rock",
+ "title": "Takeoff (Sting)",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 4.883,
+ "display_mood": "Bright",
+ "downloadable": true
+}

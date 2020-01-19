@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Dramatic",
+ "artist_url": "",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "41b8cafb107b5209",
+ "display_category": "",
+ "fp_ref_id": "41b8cafb107b5209",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=41b8cafb107b5209",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "title": "Magical Triumph",
+ "favorite": false,
+ "license_type": 1,
+ "len": 160,
+ "display_mood": "Dramatic",
+ "instruments": [
+  "Synth",
+  "drums",
+  "Strings",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChA0MWI4Y2FmYjEwN2I1MjA5EAAYAg%3D%3D&sigh=IWvIhn53u8yuJj97ZG4y5w",
+ "streamid": "cZEJxOj09KJQEpGbMcLmOSVK1pXtIltocczzok4RapEDxuU_J-awSej-y9mJbbrH",
+ "genre": "Cinematic",
+ "vid": "41b8cafb107b5209",
+ "artist": "Sir Cubworth"
+}

@@ -1,0 +1,31 @@
+{
+ "license_type": 0,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "track_url": "",
+ "fp_ref_id": "5a65af7c1fc7b5fc",
+ "display_genre": "Dance & Electronic",
+ "title": "Club Step",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "artist": "Topher Mohr and Alex Elena",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "favorite": false,
+ "len": 306.15,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a65af7c1fc7b5fc",
+ "category": "",
+ "streamid": "DE0DWatURWulRRT_1bQNqLlLcinPFeqMdHmi29cpBmG76Z1H0nQ0Pytzf7V_JaSN",
+ "vid": "5a65af7c1fc7b5fc",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDWEhIWChA1YTY1YWY3YzFmYzdiNWZjEAAYAg%3D%3D&sigh=znzCe1PWzKNR4VmDEfwRFw",
+ "popularity_percentile": 36,
+ "reference_vid": "5a65af7c1fc7b5fc"
+}

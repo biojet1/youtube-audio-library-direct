@@ -1,0 +1,32 @@
+{
+ "artist": "Vibe Tracks",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=356238bf1365b38a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDxCRIWChAzNTYyMzhiZjEzNjViMzhhEAAYAg%3D%3D&sigh=PPGktzDpGjXYQwis3Ej1ww",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Happy",
+ "album": "None",
+ "track_url": "",
+ "len": 162.783,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "356238bf1365b38a",
+ "streamid": "u3QHxO-rZHfxB4Sfvjepo7cdj7DPwO6v0cooGQr9ZPaH7gPdOgYPVEf2FTmtf-pc",
+ "title": "Fun",
+ "artist_url": "",
+ "mood": "Happy",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 21,
+ "reference_vid": "356238bf1365b38a",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "fp_ref_id": "356238bf1365b38a",
+ "license_type": 1
+}

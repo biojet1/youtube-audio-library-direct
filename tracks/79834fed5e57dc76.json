@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Funky",
+ "display_category": "",
+ "fp_ref_id": "79834fed5e57dc76",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=79834fed5e57dc76",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "79834fed5e57dc76",
+ "len": 76.65,
+ "display_mood": "Funky",
+ "streamid": "fAt3urWpHZfuhAvkpt0BlkMdrpnZSiVAajoCDt-W-zrjf09fC4AvWbnadgp3aKh4",
+ "display_genre": "R&B & Soul",
+ "title": "Majikk",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "R&B & Soul",
+ "vid": "79834fed5e57dc76",
+ "artist": "Jingle Punks",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODRBBIWChA3OTgzNGZlZDVlNTdkYzc2EAAYAg%3D%3D&sigh=fMjPsFy7t-JQf_WqGyvf0Q"
+}

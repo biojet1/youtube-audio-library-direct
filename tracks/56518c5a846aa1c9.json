@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Country & Folk",
+ "streamid": "43qKzsDYXW2diRlyAyDefl8W9Ld2UiIhSG5teOBhbbb16oh5eEnuTtew5obRr1hs",
+ "reference_vid": "56518c5a846aa1c9",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=56518c5a846aa1c9",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Silent Partner",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChA1NjUxOGM1YTg0NmFhMWM5EAAYAg%3D%3D&sigh=Lqf2MjGEvDLwcvxIaRDUpQ",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "display_category": "",
+ "title": "Seasonal",
+ "album": "None",
+ "vid": "56518c5a846aa1c9",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "len": 138.916,
+ "fp_ref_id": "56518c5a846aa1c9",
+ "display_genre": "Country & Folk"
+}

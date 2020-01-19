@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9aa03f49b1cce420",
+ "len": 100,
+ "track_url": "",
+ "display_genre": "Jazz & Blues",
+ "is_new_track": false,
+ "display_category": "",
+ "favorite": false,
+ "mood": "Bright",
+ "reference_vid": "9aa03f49b1cce420",
+ "artist_channel_url": "/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "popularity_percentile": 0,
+ "genre": "Jazz & Blues",
+ "license_type": 1,
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "vid": "9aa03f49b1cce420",
+ "fp_ref_id": "9aa03f49b1cce420",
+ "category": "",
+ "downloadable": true,
+ "title": "River Blues",
+ "artist": "TrackTribe",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "percussion"
+ ],
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChA5YWEwM2Y0OWIxY2NlNDIwEAAYAg%3D%3D&sigh=8CnKXaMlBwhbSPQWnF6T-w",
+ "streamid": "Y3JSq5-iqL3Nk7aWnLFaZ1WjzEEKgU7VNu0ft9JqDaosNdvnbU9USmBvxs4qzcSH"
+}

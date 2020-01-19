@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjBDBIWChBlNGMxZDk1M2FlMzIxMTRmEAAYAg%3D%3D&sigh=OqEGSt12Zd6vQx6uZ6FzLw",
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "artist": "Quincas Moreira",
+ "display_genre": "Jazz & Blues",
+ "mood": "Calm",
+ "reference_vid": "e4c1d953ae32114f",
+ "album": "None",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4c1d953ae32114f",
+ "favorite": false,
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "category": "",
+ "instruments": [
+  "bass",
+  "horns",
+  "drums",
+  "piano"
+ ],
+ "license_type": 1,
+ "fp_ref_id": "e4c1d953ae32114f",
+ "title": "Miles Beyond",
+ "len": 205,
+ "streamid": "Hf4_HILmW-TKMp1vwGNW0w79yCpN_ULiByD8PPYyPQ1iHhtnqVdMmEPLNSuQbgWd",
+ "display_category": "",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "vid": "e4c1d953ae32114f"
+}

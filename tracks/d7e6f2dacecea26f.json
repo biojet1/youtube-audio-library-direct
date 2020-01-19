@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "artist": "The Mini Vandals",
+ "category": "",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "title": "Milk",
+ "album": "None",
+ "fp_ref_id": "d7e6f2dacecea26f",
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChBkN2U2ZjJkYWNlY2VhMjZmEAAYAg%3D%3D&sigh=-zDgQgfHjG_0WBCTa8EO0w",
+ "genre": "R&B & Soul",
+ "vid": "d7e6f2dacecea26f",
+ "streamid": "sNItGRuIBic0iPhZ76aGR6iozQG09ADbg_HHbitg40-fcjUEofEjKkfyPEmlaGNd",
+ "display_category": "",
+ "display_mood": "Calm",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d7e6f2dacecea26f",
+ "reference_vid": "d7e6f2dacecea26f",
+ "is_new_track": false,
+ "mood": "Calm",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "favorite": false,
+ "instruments": [
+  "acoustic guitar",
+  "bass",
+  "drums",
+  "organ"
+ ],
+ "len": 132
+}

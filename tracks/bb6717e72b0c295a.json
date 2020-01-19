@@ -1,0 +1,30 @@
+{
+ "display_mood": "Sad",
+ "genre": "Cinematic",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "album": "None",
+ "streamid": "ak801j25bvl6YhbcCehD4RqJ2c9T6gmH3_j-9UaWWkZXhpppLK9RERRu_xYADYUV",
+ "title": "Danse of Questionable Tuning",
+ "display_genre": "Cinematic",
+ "vid": "bb6717e72b0c295a",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "bb6717e72b0c295a",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100506",
+ "is_new_track": false,
+ "mood": "Sad",
+ "license_type": 6,
+ "fp_ref_id": "bb6717e72b0c295a",
+ "display_category": "",
+ "popularity_percentile": 74,
+ "category": "",
+ "downloadable": true,
+ "artist": "Kevin MacLeod",
+ "len": 126.183,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBiYjY3MTdlNzJiMGMyOTVhEAAYAg%3D%3D&sigh=sfMzlxCfTTV0VGuccuDUkw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bb6717e72b0c295a"
+}

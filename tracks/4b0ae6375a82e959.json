@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 161,
+ "display_mood": "Dark",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "fp_ref_id": "4b0ae6375a82e959",
+ "reference_vid": "4b0ae6375a82e959",
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "license_type": 1,
+ "streamid": "uWgjCh0D2VTVvW806nN4MwsKr4rCNFG3SVXesT4o0pl1pmOtMUQXAwVTgpk31hL6",
+ "vid": "4b0ae6375a82e959",
+ "mood": "Dark",
+ "artist": "The Whole Other",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChA0YjBhZTYzNzVhODJlOTU5EAAYAg%3D%3D&sigh=GTB6ycfeXU-ndZ10JJyjuA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b0ae6375a82e959",
+ "category": "",
+ "title": "The Dismal Hand",
+ "genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Harmonica"
+ ]
+}

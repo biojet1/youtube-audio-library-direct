@@ -1,0 +1,33 @@
+{
+ "vid": "2cf50246d9d8b721",
+ "display_mood": "Dramatic",
+ "title": "Enigma",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChAyY2Y1MDI0NmQ5ZDhiNzIxEAAYAg%3D%3D&sigh=Cnc4J19ofLxAtvcSjakc1g",
+ "display_genre": "Jazz & Blues",
+ "mood": "Dramatic",
+ "artist": "Kevin MacLeod",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2cf50246d9d8b721",
+ "downloadable": true,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100241",
+ "popularity_percentile": 61,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Trumpet",
+  "Bass",
+  "Drums",
+  "Piano",
+  "Strings"
+ ],
+ "favorite": false,
+ "reference_vid": "2cf50246d9d8b721",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "d7wk4Y-RcUSAnnAc9PP44_ed5MR42zUSVoZUz4dU9V-IX9bjIlz7gqKfr2HRLaza",
+ "artist_url": "http://incompetech.com/",
+ "len": 151.9,
+ "fp_ref_id": "2cf50246d9d8b721",
+ "license_type": 6,
+ "is_new_track": false
+}

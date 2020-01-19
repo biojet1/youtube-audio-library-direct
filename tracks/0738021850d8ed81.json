@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "0738021850d8ed81",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0738021850d8ed81",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChAwNzM4MDIxODUwZDhlZDgxEAAYAg%3D%3D&sigh=THs7g58JV-0VHr60Tpj6mg",
+ "is_new_track": false,
+ "reference_vid": "0738021850d8ed81",
+ "display_mood": "Bright",
+ "favorite": false,
+ "category": "",
+ "title": "Oceans",
+ "streamid": "OZvabElM3dKncVLrCBfuykzf6OEL_RMYc5mRgy1I9Pzl7ULJHROL3KNl1hG1LzkR",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Rock",
+ "len": 165.333,
+ "album": "None",
+ "genre": "Rock",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Text Me Records / Bobby Renz",
+ "instruments": [
+  "Guitar",
+  "Drums",
+  "Bass",
+  "Organ"
+ ],
+ "fp_ref_id": "0738021850d8ed81"
+}

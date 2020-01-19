@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "title": "Say Yeah",
+ "album": "None",
+ "artist": "Topher Mohr and Alex Elena",
+ "popularity_percentile": 5,
+ "category": "",
+ "display_genre": "Dance & Electronic",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "display_category": "",
+ "vid": "099d59ecff3431d5",
+ "streamid": "937xSY7S3R5JyCn_nSRSlaaBzx4gVF8LureSkcavFmlJ8bOUwStnfU_udsA6Gc7n",
+ "genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjUCxIWChAwOTlkNTllY2ZmMzQzMWQ1EAAYAg%3D%3D&sigh=HU4ykJKgwqBXzS5702YOVg",
+ "fp_ref_id": "099d59ecff3431d5",
+ "len": 191.016,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Synth"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "099d59ecff3431d5",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=099d59ecff3431d5",
+ "downloadable": true
+}

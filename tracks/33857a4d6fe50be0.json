@@ -1,0 +1,32 @@
+{
+ "mood": "Dramatic",
+ "artist_channel_url": "/channel/UCPSf3-VnJZ73eoUECetfO5Q",
+ "artist_url": "https://www.youtube.com/channel/UCPSf3-VnJZ73eoUECetfO5Q",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCUDhIWChAzMzg1N2E0ZDZmZTUwYmUwEAAYAg%3D%3D&sigh=J07DzHq07CHQshyADiMa0A",
+ "display_mood": "Dramatic",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=33857a4d6fe50be0",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Slynk",
+ "title": "Membrane",
+ "reference_vid": "33857a4d6fe50be0",
+ "instruments": [
+  "synth",
+  "drums",
+  "percussion",
+  "bass"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "33857a4d6fe50be0",
+ "vid": "33857a4d6fe50be0",
+ "category": "",
+ "streamid": "neYoyjvKky84tFT6DbgEfiL7F9UMQUL69Pe4ykbDVkJIrEQP39UhbvW93QjPAy2j",
+ "popularity_percentile": 99,
+ "len": 232.366,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

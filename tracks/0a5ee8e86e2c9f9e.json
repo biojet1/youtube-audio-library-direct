@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "title": "Four Dash",
+ "downloadable": true,
+ "display_category": "",
+ "artist": "Matt Harris",
+ "vid": "0a5ee8e86e2c9f9e",
+ "mood": "Happy",
+ "genre": "Cinematic",
+ "reference_vid": "0a5ee8e86e2c9f9e",
+ "track_url": "",
+ "streamid": "-gjBHptd9dZl_n4LM1xfSrpCMvKnTNZcdwW-1L96RFgcCel-tGol2BVmQi2iA6jh",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0a5ee8e86e2c9f9e",
+ "favorite": false,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChAwYTVlZThlODZlMmM5ZjllEAAYAg%3D%3D&sigh=_r3l1lnDApZK2_BXgtdbyA",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "0a5ee8e86e2c9f9e",
+ "artist_url": "",
+ "is_new_track": false,
+ "popularity_percentile": 0,
+ "len": 94.099,
+ "display_genre": "Cinematic"
+}

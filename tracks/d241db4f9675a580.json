@@ -1,0 +1,32 @@
+{
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJD6GxIWChBkMjQxZGI0Zjk2NzVhNTgwEAAYAg%3D%3D&sigh=7_N5ssJ8ggS3PbFemjCa6g",
+ "instruments": [
+  "piano",
+  "strings",
+  "synth",
+  "drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "d241db4f9675a580",
+ "reference_vid": "d241db4f9675a580",
+ "popularity_percentile": 99,
+ "artist": "Max McFerren",
+ "artist_channel_url": "/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d241db4f9675a580",
+ "mood": "Bright",
+ "genre": "Dance & Electronic",
+ "streamid": "ac3TArT9cygvY-9WDdyLl5rpnYcnTeGi1tMXykk8h16DlcNBjTLVK4f7wjIOlysd",
+ "title": "Finally",
+ "downloadable": true,
+ "category": "",
+ "len": 458,
+ "artist_url": "https://www.youtube.com/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "d241db4f9675a580",
+ "album": "None"
+}

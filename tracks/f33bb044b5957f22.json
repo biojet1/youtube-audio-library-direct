@@ -1,0 +1,32 @@
+{
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "vid": "f33bb044b5957f22",
+ "artist": "Silent Partner",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f33bb044b5957f22",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "album": "None",
+ "display_mood": "Romantic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi3ChIWChBmMzNiYjA0NGI1OTU3ZjIyEAAYAg%3D%3D&sigh=DMzOoSIYMX5uBx7hjwb13g",
+ "popularity_percentile": 95,
+ "display_category": "",
+ "mood": "Romantic",
+ "title": "Standing Here",
+ "reference_vid": "f33bb044b5957f22",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f33bb044b5957f22",
+ "track_url": "",
+ "len": 171.35,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "xV8D4HYYjMWiLsH9eqOhih9B34PKjLiWbEcxQ2c9XnQIpCdEOlwmWRU7Z5IZDgzD"
+}

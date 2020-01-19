@@ -1,0 +1,32 @@
+{
+ "artist": "MK2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3662b799b52b39bb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChAzNjYyYjc5OWI1MmIzOWJiEAAYAg%3D%3D&sigh=_unecFO0V-l3ZlkCiWMWhA",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Funky",
+ "album": "None",
+ "track_url": "",
+ "len": 105.283,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "3662b799b52b39bb",
+ "streamid": "xj9zuntbmXovam-du0rplC8ghwNVOQVYomH9FscFgp_eUsyNeydujbdTGTRX3M7o",
+ "title": "Move That Azz",
+ "artist_url": "",
+ "mood": "Funky",
+ "downloadable": true,
+ "display_genre": "Dance & Electronic",
+ "popularity_percentile": 21,
+ "reference_vid": "3662b799b52b39bb",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "fp_ref_id": "3662b799b52b39bb",
+ "license_type": 1
+}

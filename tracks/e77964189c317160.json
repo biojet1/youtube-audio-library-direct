@@ -1,0 +1,32 @@
+{
+ "title": "Pop Tune",
+ "artist": "Audionautix",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKifDRIWChBlNzc5NjQxODljMzE3MTYwEAAYAg%3D%3D&sigh=YTsWXBG8ca8l_mLTh4vrTg",
+ "artist_url": "http://audionautix.com/",
+ "vid": "e77964189c317160",
+ "mood": "Dark",
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 217.016,
+ "instruments": [
+  "Acoustic Guitar",
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e77964189c317160",
+ "display_mood": "Dark",
+ "streamid": "l-J-8zVg_m8jmy607HmFqCL5sohcVFxgeBcpXftCCu2XFGazA6Qo2LsUji_LDnqu",
+ "artist_channel_url": null,
+ "fp_ref_id": "e77964189c317160",
+ "genre": "Pop",
+ "category": "",
+ "track_url": "",
+ "album": "None",
+ "favorite": false,
+ "popularity_percentile": 89,
+ "display_genre": "Pop",
+ "display_category": "",
+ "downloadable": true,
+ "reference_vid": "e77964189c317160"
+}

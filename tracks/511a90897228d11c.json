@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "HZPyc7XH5bv5SZsOaAXnKDv91dVn3681pQEoQ_j6gyQFbykx3GK9NhgU9RCeylsW",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=511a90897228d11c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiADRIWChA1MTFhOTA4OTcyMjhkMTFjEAAYAg%3D%3D&sigh=J_808A4k9jdm9yUpZi-a6Q",
+ "vid": "511a90897228d11c",
+ "display_category": "",
+ "title": "Back and Forth",
+ "album": "None",
+ "mood": "Angry",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Angry",
+ "reference_vid": "511a90897228d11c",
+ "len": 213.75,
+ "genre": "Rock",
+ "popularity_percentile": 32,
+ "fp_ref_id": "511a90897228d11c",
+ "track_url": "",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

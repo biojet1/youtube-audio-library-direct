@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Calm",
+ "reference_vid": "91c35f2fef42616e",
+ "streamid": "4xw9_Mr9T5lKOwuV64jOyEoAt0gHIVPreVDdUfKJBRwC-nakcgFy0EkalsbdNxng",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChA5MWMzNWYyZmVmNDI2MTZlEAAYAg%3D%3D&sigh=HqOCLle3HoU9lKhF5zkpAA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=91c35f2fef42616e",
+ "len": 133.4,
+ "genre": "Ambient",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "piano"
+ ],
+ "display_category": "",
+ "fp_ref_id": "91c35f2fef42616e",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Sunday Drive",
+ "mood": "Calm",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Ambient",
+ "track_url": "",
+ "vid": "91c35f2fef42616e"
+}

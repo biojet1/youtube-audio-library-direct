@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "artist": "Asher Fulero",
+ "artist_channel_url": "/channel/UCKn6_1iFFC5fxSmFgVC9Fsw",
+ "downloadable": true,
+ "fp_ref_id": "ae24e26133f56438",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChBhZTI0ZTI2MTMzZjU2NDM4EAAYAg%3D%3D&sigh=MTosrsLgZYo59jgCoh7eSA",
+ "favorite": false,
+ "genre": "Dance & Electronic",
+ "category": "",
+ "vid": "ae24e26133f56438",
+ "streamid": "0rsBdZ_pbjJZm6DmlLVUuxxIsMexc1h5CstDW684W5OppONYO5tyt7KMvUxdMpVp",
+ "mood": "Sad",
+ "reference_vid": "ae24e26133f56438",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ae24e26133f56438",
+ "title": "Towards Us",
+ "display_mood": "Sad",
+ "artist_url": "",
+ "license_type": 1,
+ "display_genre": "Dance & Electronic",
+ "display_category": "",
+ "instruments": [
+  "acoustic guitar",
+  "synth",
+  "drum",
+  "bass"
+ ],
+ "len": 186,
+ "album": "None",
+ "track_url": ""
+}

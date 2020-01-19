@@ -1,0 +1,32 @@
+{
+ "len": 125.416,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8589aa33a0234461",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "display_mood": "Bright",
+ "streamid": "bJEgAR8pIfH333lCzy6cGhKN-Rg67f2sq0m1WaK36oDYeOZA44v__6L-vxaxd4WH",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChA4NTg5YWEzM2EwMjM0NDYxEAAYAg%3D%3D&sigh=GjBcfoRXedt2f7mVitiESg",
+ "title": "Swamp Stomp",
+ "vid": "8589aa33a0234461",
+ "artist_url": "",
+ "license_type": 0,
+ "mood": "Bright",
+ "artist": "Silent Partner",
+ "favorite": false,
+ "popularity_percentile": 53,
+ "display_genre": "Country & Folk",
+ "reference_vid": "8589aa33a0234461",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Country & Folk",
+ "fp_ref_id": "8589aa33a0234461",
+ "track_url": "",
+ "album": "None"
+}

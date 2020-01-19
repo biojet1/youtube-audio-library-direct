@@ -1,0 +1,31 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "artist_channel_url": null,
+ "favorite": false,
+ "reference_vid": "cbae018a53d0ead0",
+ "category": "",
+ "title": "United We Groove",
+ "display_genre": "Rock",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "genre": "Rock",
+ "display_mood": "Funky",
+ "streamid": "k7AmheB0wmQAg4NyMAK-AfSIrw1oKjB3xmv34orfEaiLT8JBMqyTit7CU06S-koD",
+ "album": "None",
+ "len": 159.55,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cbae018a53d0ead0",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjaCRIWChBjYmFlMDE4YTUzZDBlYWQwEAAYAg%3D%3D&sigh=I3r5XyHF0EvVFCRJhGlrnA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 93,
+ "vid": "cbae018a53d0ead0",
+ "is_new_track": false,
+ "mood": "Funky",
+ "fp_ref_id": "cbae018a53d0ead0",
+ "license_type": 6,
+ "track_url": ""
+}

@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "instruments": [
+  "piano",
+  "synth",
+  "electric guitar",
+  "bells"
+ ],
+ "category": "",
+ "display_category": "",
+ "license_type": 1,
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "a0e55bc70a0ff20c",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ",
+ "len": 139,
+ "title": "Further Than Before",
+ "display_genre": "Cinematic",
+ "reference_vid": "a0e55bc70a0ff20c",
+ "artist": "Late Night Feeler",
+ "streamid": "duSP4qXdtVDdmQgcLZjZ2-_-u_muDZ27Qfc1jUsAxygLOsKXZxGXYZ4-9YALcNtO",
+ "mood": "Dramatic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0e55bc70a0ff20c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi9CBIWChBhMGU1NWJjNzBhMGZmMjBjEAAYAg%3D%3D&sigh=rOUUv1nP6TFCKx2FNQK8_A",
+ "genre": "Cinematic",
+ "fp_ref_id": "a0e55bc70a0ff20c",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "artist_channel_url": "/channel/UC4zGFkeTyWVI4Mt1UkzKLbQ"
+}

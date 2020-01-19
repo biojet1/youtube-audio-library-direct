@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "10a9f8e3918be034",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCX2UG51wgkF1Quqkpfv1avA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=10a9f8e3918be034",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjMGBIWChAxMGE5ZjhlMzkxOGJlMDM0EAAYAg%3D%3D&sigh=zXRs2495QKnAZ1-NaH9G3w",
+ "is_new_track": false,
+ "reference_vid": "10a9f8e3918be034",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "category": "",
+ "title": "Sense of Humor",
+ "streamid": "BJ26OrB83A9tscN1BlagS0NyWtZROh3Cv33iUnzEzKq194ZEpt0V4gF-Gc8VGc5K",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "len": 403.2,
+ "album": "None",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Max McFerren",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Synth Voice",
+  "Chorus"
+ ],
+ "fp_ref_id": "10a9f8e3918be034"
+}

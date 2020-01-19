@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Funky",
+ "favorite": false,
+ "len": 125.799,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0d70eddcbbaf227b",
+ "category": "",
+ "streamid": "EqCD7ZT58GVmiBShd9dC3ZZsSfMghJDxG_4Cc32bosZ4MJJq-yGw9AUVEAoU9mdi",
+ "fp_ref_id": "0d70eddcbbaf227b",
+ "mood": "Funky",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChAwZDcwZWRkY2JiYWYyMjdiEAAYAg%3D%3D&sigh=sGh5Xb2kO27PpssQKPmV6A",
+ "popularity_percentile": 0,
+ "reference_vid": "0d70eddcbbaf227b",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "is_new_track": false,
+ "vid": "0d70eddcbbaf227b",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "Treat me this way",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Otis McDonald"
+}

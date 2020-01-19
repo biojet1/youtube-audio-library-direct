@@ -1,0 +1,31 @@
+{
+ "reference_vid": "98c374797eeb9d90",
+ "display_mood": "Dark",
+ "fp_ref_id": "98c374797eeb9d90",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=98c374797eeb9d90",
+ "mood": "Dark",
+ "artist": "Twin Musicom",
+ "vid": "98c374797eeb9d90",
+ "favorite": false,
+ "display_genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChA5OGMzNzQ3OTdlZWI5ZDkwEAAYAg%3D%3D&sigh=bwxRf5ygSz9f63sFcPJYVw",
+ "artist_channel_url": null,
+ "artist_url": "http://www.twinmusicom.org/",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums"
+ ],
+ "downloadable": true,
+ "streamid": "K3tGXOVqrq8A8i6Z4SKssF4-5p9njyh2PTEyrA8npsaOyPnFKTkGLJoDl5o2tXbA",
+ "len": 125.25,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 6,
+ "title": "Hollowed Day",
+ "genre": "Rock",
+ "display_category": ""
+}

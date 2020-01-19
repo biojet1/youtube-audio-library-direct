@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "CTFMPccNMnW8gbzNiXKr9LyWAXrSMWyakoEWL56u-ZK16gG3MTCkHSTfhlk-RowX",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=81aa2bf8e4aff67e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjaDhIWChA4MWFhMmJmOGU0YWZmNjdlEAAYAg%3D%3D&sigh=UgGkrDM-nEzKSxB9dd-RWw",
+ "vid": "81aa2bf8e4aff67e",
+ "display_category": "",
+ "title": "Toreador",
+ "album": "None",
+ "mood": "Dramatic",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Ron Meixsell",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "81aa2bf8e4aff67e",
+ "len": 241.583,
+ "popularity_percentile": 51,
+ "genre": "Classical",
+ "fp_ref_id": "81aa2bf8e4aff67e",
+ "track_url": "",
+ "display_genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "license_type": 0
+}

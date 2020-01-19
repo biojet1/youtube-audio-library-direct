@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "album": "None",
+ "artist": "E's Jammy Jams",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "len": 99.983,
+ "reference_vid": "dff2d100bfdcfd88",
+ "fp_ref_id": "dff2d100bfdcfd88",
+ "display_genre": "Holiday",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "dff2d100bfdcfd88",
+ "category": "",
+ "title": "Up on the Housetop",
+ "genre": "Holiday",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dff2d100bfdcfd88",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChBkZmYyZDEwMGJmZGNmZDg4EAAYAg%3D%3D&sigh=tIUrok0D-a3OkrnHiDF7Jg",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "-BuiDXSw-0w4ph0SZrF1ZMupTmXacafo57j0QUCrwh_vRUBuFNanzfODkANfBudM"
+}

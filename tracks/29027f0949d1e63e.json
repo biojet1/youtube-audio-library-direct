@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "electric guitar"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=29027f0949d1e63e",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Silent Partner",
+ "len": 156.883,
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "Pit9B9qj0oKtEAUcBq-BxC9I-6HOT5Wrw0c9Fn_BEXGRrVyNaHFgROk9wRaqSaQR",
+ "category": "",
+ "title": "River Flow",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "reference_vid": "29027f0949d1e63e",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChAyOTAyN2YwOTQ5ZDFlNjNlEAAYAg%3D%3D&sigh=dEqUVHy0deaCiFIDHFE4WA",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "29027f0949d1e63e",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "29027f0949d1e63e"
+}

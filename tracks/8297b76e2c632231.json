@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "8297b76e2c632231",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "len": 123,
+ "streamid": "nnNMGkSGHRySNW_hSeqKs4MiHHQ34cAcy9Msi3HH1P5RFozSazOCTeVmjfJ397fs",
+ "license_type": 1,
+ "vid": "8297b76e2c632231",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA4Mjk3Yjc2ZTJjNjMyMjMxEAAYAg%3D%3D&sigh=TtKErTXgDpZiprh0i3QZWg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8297b76e2c632231",
+ "title": "Claim of Thrones",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "display_category": "",
+ "fp_ref_id": "8297b76e2c632231",
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw?internalcountrycode=US",
+ "instruments": [
+  "bass",
+  "drums",
+  "piano",
+  "strings",
+  "trumpet"
+ ],
+ "artist": "RKVC",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Cinematic",
+ "category": ""
+}

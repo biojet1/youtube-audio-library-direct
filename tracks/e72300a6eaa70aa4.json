@@ -1,0 +1,33 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e72300a6eaa70aa4",
+ "category": "",
+ "title": "Floaters",
+ "genre": "Pop",
+ "favorite": false,
+ "reference_vid": "e72300a6eaa70aa4",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBlNzIzMDBhNmVhYTcwYWE0EAAYAg%3D%3D&sigh=QkHFInEfxh8VCcw-vmO4rQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e72300a6eaa70aa4",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e72300a6eaa70aa4",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Piano",
+  "Organ",
+  "Synth"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Jimmy Fontanez/Media Right Productions",
+ "len": 109.933,
+ "display_mood": "Calm",
+ "display_category": "",
+ "display_genre": "Pop",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "YUVZF_pVY535xyr3ozaqqPYKSyyZVVbs8TMc5amsNwfPy1Gft_jZoaMJzWE5qfk4"
+}

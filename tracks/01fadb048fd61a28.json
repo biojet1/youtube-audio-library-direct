@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChAwMWZhZGIwNDhmZDYxYTI4EAAYAg%3D%3D&sigh=14x2QeAoj1E4Y_bUP2mXYg",
+ "title": "Festival",
+ "favorite": false,
+ "mood": "Funky",
+ "display_mood": "Funky",
+ "fp_ref_id": "01fadb048fd61a28",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "track_url": "",
+ "display_genre": "Dance & Electronic",
+ "artist": "Topher Mohr and Alex Elena",
+ "display_category": "",
+ "license_type": 0,
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 1,
+ "reference_vid": "01fadb048fd61a28",
+ "streamid": "zTjedRFkhtN6WUZliLd7_22ZC2m5TAnzm4It-Nuv4oLOOGKSd0rk9v07K0h0fc6J",
+ "artist_url": "",
+ "len": 177.583,
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=01fadb048fd61a28",
+ "vid": "01fadb048fd61a28",
+ "category": ""
+}

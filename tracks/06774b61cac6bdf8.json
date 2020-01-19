@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChAwNjc3NGI2MWNhYzZiZGY4EAAYAg%3D%3D&sigh=Fxh41GaCKPW36GuLG8wdVA",
+ "instruments": [
+  "Strings",
+  "Synth"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "06774b61cac6bdf8",
+ "reference_vid": "06774b61cac6bdf8",
+ "popularity_percentile": 3,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=06774b61cac6bdf8",
+ "mood": "Dark",
+ "genre": "Cinematic",
+ "streamid": "i8RGn0TVoPiMP8gkLfdJYTR4Lvb91iggrP7iiWsF2mjFWxq1vKBK2hV3y8sBiuPm",
+ "title": "Eastern Skies",
+ "downloadable": true,
+ "category": "",
+ "len": 97.016,
+ "artist_url": "",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "06774b61cac6bdf8",
+ "album": "None"
+}

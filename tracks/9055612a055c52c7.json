@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300041",
+ "artist_channel_url": null,
+ "len": 282.083,
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9055612a055c52c7",
+ "title": "Evening of Chaos",
+ "streamid": "2IqbLmgCAjdBoVXFj6j0TRQtlm_HC_23OWzirIARMubC2G2KQt7CzE3wufohcePG",
+ "genre": "Ambient",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCbERIWChA5MDU1NjEyYTA1NWM1MmM3EAAYAg%3D%3D&sigh=gy5dlagky1PL9CqTJynmWQ",
+ "license_type": 6,
+ "fp_ref_id": "9055612a055c52c7",
+ "display_mood": "Dramatic",
+ "vid": "9055612a055c52c7",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Synth"
+ ],
+ "display_genre": "Ambient",
+ "favorite": false,
+ "reference_vid": "9055612a055c52c7"
+}

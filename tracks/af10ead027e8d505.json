@@ -1,0 +1,29 @@
+{
+ "reference_vid": "af10ead027e8d505",
+ "display_mood": "Inspirational",
+ "fp_ref_id": "af10ead027e8d505",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=af10ead027e8d505",
+ "mood": "Inspirational",
+ "artist": "The U.S. Army Band",
+ "vid": "af10ead027e8d505",
+ "favorite": false,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCVExIWChBhZjEwZWFkMDI3ZThkNTA1EAAYAg%3D%3D&sigh=rFlxgzCPsEhutx8_hTFG8g",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 69,
+ "instruments": [
+  "Trumpet"
+ ],
+ "downloadable": true,
+ "streamid": "vgqpZ0B59fZZrjgF-krP0-PzlY5UpOEIKkpjktb0BlGnOuO4fkVLQ0lBCNMLKrb5",
+ "len": 314.066,
+ "category": "",
+ "is_new_track": false,
+ "track_url": "",
+ "album": "None",
+ "license_type": 1,
+ "title": "Battle Hymn of the Republic",
+ "genre": "Classical",
+ "display_category": ""
+}

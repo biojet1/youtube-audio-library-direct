@@ -1,0 +1,32 @@
+{
+ "genre": "Hip Hop & Rap",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Otis McDonald",
+ "fp_ref_id": "97d1a45c6fb17252",
+ "display_mood": "Dark",
+ "display_genre": "Hip Hop & Rap",
+ "vid": "97d1a45c6fb17252",
+ "mood": "Dark",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChA5N2QxYTQ1YzZmYjE3MjUyEAAYAg%3D%3D&sigh=LPaXL_P1gZnHKhwuH0geCA",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "(Look Out) She's America",
+ "category": "",
+ "len": 104.85,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=97d1a45c6fb17252",
+ "reference_vid": "97d1a45c6fb17252",
+ "streamid": "_rw0wVm5z9_rEBixYA0LmP1UOwKcYbkafyM21kPUVxTmYAUNFVwHi67X6JT3kqxf"
+}

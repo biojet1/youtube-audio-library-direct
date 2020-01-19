@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChBjMDFiYjc0YTI3MTUwZjM4EAAYAg%3D%3D&sigh=XCH-Tm_8wBeLv-4YhShkQQ",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "vid": "c01bb74a27150f38",
+ "downloadable": true,
+ "reference_vid": "c01bb74a27150f38",
+ "favorite": false,
+ "fp_ref_id": "c01bb74a27150f38",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c01bb74a27150f38",
+ "genre": "Classical",
+ "streamid": "dCBSr4ljOCRaWnH8KBpnaNOlr-7kylUATAVlIg_tJFd5HDfecmpd9UuTVG-dFUbZ",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 121.85,
+ "display_genre": "Classical",
+ "license_type": 0,
+ "is_new_track": false,
+ "title": "Church Bell Celebration",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Organ"
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "vid": "c7248204646adf6b",
+ "display_mood": "Angry",
+ "title": "Running Scared",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBjNzI0ODIwNDY0NmFkZjZiEAAYAg%3D%3D&sigh=YW6A6M1r1WerZLXKNi7rMg",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Angry",
+ "artist": "Jeremy Korpas",
+ "reference_vid": "c7248204646adf6b",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c7248204646adf6b",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 99,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "album": "None",
+ "streamid": "ITqzlVgu8r_cNH6SzcyqIZ7stFhVrYOTSeXpUhgw809MUQrsaQd3zMULjig_a-Jm",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "len": 105,
+ "fp_ref_id": "c7248204646adf6b",
+ "license_type": 1,
+ "is_new_track": false
+}

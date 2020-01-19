@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "category": "",
+ "fp_ref_id": "7df98e3655a84f17",
+ "artist": "Kevin MacLeod",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Gagool",
+ "vid": "7df98e3655a84f17",
+ "mood": "Dark",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMD_FBIWChA3ZGY5OGUzNjU1YTg0ZjE3EAAYAg%3D%3D&sigh=yJ25rq4ljT3takX7Wn3GNg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7df98e3655a84f17",
+ "display_category": "",
+ "len": 344.583,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100443",
+ "downloadable": true,
+ "streamid": "1eZanAfRDLyfKVh9aDfaKSEIuoQmefxSmj7wlRyxwWH1q3Amtn9tQlVqALd1K8sC",
+ "reference_vid": "7df98e3655a84f17",
+ "instruments": [
+  "Strings"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Classical"
+}

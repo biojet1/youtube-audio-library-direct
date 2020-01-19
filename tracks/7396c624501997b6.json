@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 99,
+ "vid": "7396c624501997b6",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7396c624501997b6",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA3Mzk2YzYyNDUwMTk5N2I2EAAYAg%3D%3D&sigh=USD8sehmwNDrG_zyaFrOcg",
+ "is_new_track": false,
+ "reference_vid": "7396c624501997b6",
+ "display_mood": "Happy",
+ "favorite": false,
+ "category": "",
+ "title": "Hunnies At",
+ "streamid": "4sanUBpXwWc-fAP_5-dto_UYiVrToues6I0Gcm04VoNMSLhoUaSwJDM_c4mxVf4E",
+ "track_url": "",
+ "artist_url": "",
+ "display_category": "",
+ "display_genre": "Pop",
+ "len": 123.166,
+ "album": "None",
+ "genre": "Pop",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Text Me Records / Leviathe",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Horns",
+  "Synth",
+  "Piano"
+ ],
+ "fp_ref_id": "7396c624501997b6"
+}

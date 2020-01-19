@@ -1,0 +1,31 @@
+{
+ "title": "Battleground",
+ "is_new_track": false,
+ "artist": "Ethan Meixsell",
+ "streamid": "S2NfN1vP7nD2sYwlPnk6W7r9Xfg9Q_gqA9KGSW72GuywCEPDkvABAktVwHnq6iZ4",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "Rock",
+ "vid": "30cf9ef0fed0c370",
+ "display_mood": "Angry",
+ "len": 112.35,
+ "display_genre": "Rock",
+ "downloadable": true,
+ "reference_vid": "30cf9ef0fed0c370",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "category": "",
+ "mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=30cf9ef0fed0c370",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAzMGNmOWVmMGZlZDBjMzcwEAAYAg%3D%3D&sigh=MRWgcpRVJ5saTfUdVg9kTQ",
+ "favorite": false,
+ "fp_ref_id": "30cf9ef0fed0c370",
+ "album": "None",
+ "popularity_percentile": 19,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

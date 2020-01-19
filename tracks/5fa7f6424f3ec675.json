@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "5fa7f6424f3ec675",
+ "mood": "Funky",
+ "title": "Special Ed",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "len": 119,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNihBxIWChA1ZmE3ZjY0MjRmM2VjNjc1EAAYAg%3D%3D&sigh=0KqxQa4VRGWAaXvWVXENYg",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5fa7f6424f3ec675",
+ "fp_ref_id": "5fa7f6424f3ec675",
+ "artist": "Rondo Brothers",
+ "display_mood": "Funky",
+ "display_genre": "Dance & Electronic",
+ "streamid": "w10CT7mCjcrLahPTw5U0-srV5ayoSFoAGeEehNE84t0nOJgOmIQ-otumgU9US-g8",
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "display_category": "",
+ "instruments": [
+  "clavinet",
+  "percussion",
+  "drums",
+  "trumpet"
+ ],
+ "vid": "5fa7f6424f3ec675"
+}

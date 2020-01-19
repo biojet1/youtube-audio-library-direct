@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1b2daa135ca68e6f",
+ "fp_ref_id": "1b2daa135ca68e6f",
+ "artist_url": "",
+ "display_mood": "Bright",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1b2daa135ca68e6f",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "len": 210.95,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDoDBIWChAxYjJkYWExMzVjYTY4ZTZmEAAYAg%3D%3D&sigh=v4Zxsvw8c2Kf9Cg_6xg8eg",
+ "album": "None",
+ "title": "Stalling",
+ "popularity_percentile": 11,
+ "streamid": "C6TP3-IDALwbscZHXpR8ii-8BMVO0U_pphMBMsQTZ53FFm37T8Ot6NX6tw5_gSUI",
+ "mood": "Bright",
+ "genre": "Rock",
+ "category": "",
+ "favorite": false,
+ "vid": "1b2daa135ca68e6f",
+ "track_url": "",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Topher Mohr and Alex Elena"
+}

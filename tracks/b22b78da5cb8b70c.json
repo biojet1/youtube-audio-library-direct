@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 113.65,
+ "category": "",
+ "title": "For All You Know",
+ "display_genre": "Pop",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b22b78da5cb8b70c",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano"
+ ],
+ "album": "None",
+ "reference_vid": "b22b78da5cb8b70c",
+ "fp_ref_id": "b22b78da5cb8b70c",
+ "artist": "RW Smith",
+ "artist_channel_url": null,
+ "genre": "Pop",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChBiMjJiNzhkYTVjYjhiNzBjEAAYAg%3D%3D&sigh=fmZcDi0ioiR41G3hEcu_gw",
+ "license_type": 0,
+ "mood": "Inspirational",
+ "vid": "b22b78da5cb8b70c",
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 70,
+ "display_mood": "Inspirational",
+ "streamid": "Zjbh3H5gjvF7xztpUla2-EXYgK1y7cGkEHsS3-IqCUuwd_91eg83y4nwmLBY3DJ9"
+}

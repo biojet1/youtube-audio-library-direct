@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "bf41b2544482c8d0",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "category": "",
+ "artist": "Riot",
+ "display_category": "",
+ "streamid": "Oty9lWf-TPT0YBd-TYk7gTO1ANMoXrzfJbqj_IbSNoN5RrXawyi9jHyw2qxaO0I2",
+ "license_type": 0,
+ "vid": "bf41b2544482c8d0",
+ "popularity_percentile": 74,
+ "reference_vid": "bf41b2544482c8d0",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 165.75,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Inspirational",
+ "mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBiZjQxYjI1NDQ0ODJjOGQwEAAYAg%3D%3D&sigh=bXlh_njpOWhF_dOFGc6T3A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bf41b2544482c8d0",
+ "title": "Red Sea"
+}

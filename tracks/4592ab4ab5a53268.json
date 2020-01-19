@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjmBRIWChA0NTkyYWI0YWI1YTUzMjY4EAAYAg%3D%3D&sigh=nwifa3f28rj2uFILL0Rtxw",
+ "display_genre": "Rock",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "JoCzdCwFMx8Oy0MhlY3OEyTNceFVjRVnune_UELpleJ5rEFh0y2Hq6VTV8i3nMGE",
+ "artist": "Josh Kirsch/Media Right Productions",
+ "len": 95.183,
+ "genre": "Rock",
+ "mood": "Dramatic",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "4592ab4ab5a53268",
+ "reference_vid": "4592ab4ab5a53268",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4592ab4ab5a53268",
+ "fp_ref_id": "4592ab4ab5a53268",
+ "display_mood": "Dramatic",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Metal Race",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ]
+}

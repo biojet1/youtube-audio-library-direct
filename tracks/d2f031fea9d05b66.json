@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCNCxIWChBkMmYwMzFmZWE5ZDA1YjY2EAAYAg%3D%3D&sigh=b5WnvzQaivlZ8_RQCN2tDw",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "d2f031fea9d05b66",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d2f031fea9d05b66",
+ "streamid": "iTMlHBWhSD6q20TuzPGpkYkQ5DvmiVkLKqUKK5ck_ZuYWC4dkVNCeCmUgC9qtDAr",
+ "genre": "R&B & Soul",
+ "track_url": "",
+ "reference_vid": "d2f031fea9d05b66",
+ "vid": "d2f031fea9d05b66",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "R&B & Soul",
+ "mood": "Funky",
+ "len": 182,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "organ"
+ ],
+ "title": "Tired of Waking You Up",
+ "artist": "Freedom Trail Studio"
+}

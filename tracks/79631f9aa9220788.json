@@ -1,0 +1,32 @@
+{
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "len": 232,
+ "display_category": "",
+ "reference_vid": "79631f9aa9220788",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "license_type": 1,
+ "album": "None",
+ "artist": "Rondo Brothers",
+ "fp_ref_id": "79631f9aa9220788",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "streamid": "33Dsg0Oxa4m3f8nmib972KgzxNJCOSLXuKXp_HIFjb7k4RUTsM5cwIiFmVpjWtNU",
+ "display_mood": "Funky",
+ "vid": "79631f9aa9220788",
+ "track_url": "",
+ "instruments": [
+  "horns",
+  "synth",
+  "drums",
+  "bass"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCUDhIWChA3OTYzMWY5YWE5MjIwNzg4EAAYAg%3D%3D&sigh=n3popLY6-Py9TzGC_yhZMA",
+ "category": "",
+ "title": "Aimless Amos",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=79631f9aa9220788"
+}

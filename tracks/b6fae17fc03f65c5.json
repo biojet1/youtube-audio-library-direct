@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "b6fae17fc03f65c5",
+ "mood": "Funky",
+ "reference_vid": "b6fae17fc03f65c5",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCzDhIWChBiNmZhZTE3ZmMwM2Y2NWM1EAAYAg%3D%3D&sigh=G_eiM8MnOxmP8gkSq6fw1w",
+ "len": 236.383,
+ "favorite": false,
+ "display_mood": "Funky",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b6fae17fc03f65c5",
+ "streamid": "E0z1upAkNVR35-IGmCQdijseRhS6NMbHJZ004fDPnaE6G8AWeEAUTTTadaQiN4_d",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6fae17fc03f65c5",
+ "title": "Dub Trubble",
+ "display_genre": "Dance & Electronic",
+ "artist": "Silent Partner",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Funky Junky",
+ "favorite": false,
+ "len": 138.45,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChA1NWMzMjRkZTEzZmYyNWEyEAAYAg%3D%3D&sigh=HXFA8-PV8KSH_O7jcx0TGA",
+ "fp_ref_id": "55c324de13ff25a2",
+ "artist_channel_url": null,
+ "display_genre": "Pop",
+ "track_url": "",
+ "genre": "Pop",
+ "license_type": 6,
+ "category": "",
+ "album": "None",
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "artist_url": "http://audionautix.com/",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ],
+ "reference_vid": "55c324de13ff25a2",
+ "display_category": "",
+ "vid": "55c324de13ff25a2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=55c324de13ff25a2",
+ "streamid": "htOxDwHsVTPJkAhVnCG2SNGTcTs9zdpdW-Z1uDgQKXVcuGRc7KMmCy2uclsxtIYJ",
+ "artist": "Audionautix"
+}

@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 166.483,
+ "mood": "Bright",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=def70e01d734f96d",
+ "title": "Modern Rock Boy",
+ "streamid": "IRlz1yJYqJvtfBn2fh6CflVGaPkJ9pP5F95x2S_X3ptbNquoDggLHLeTbGH6Mlds",
+ "genre": "Alternative & Punk",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChBkZWY3MGUwMWQ3MzRmOTZkEAAYAg%3D%3D&sigh=1HmCx3eihzxrse8j4sSddg",
+ "license_type": 6,
+ "fp_ref_id": "def70e01d734f96d",
+ "display_mood": "Bright",
+ "vid": "def70e01d734f96d",
+ "artist_url": "http://audionautix.com/",
+ "artist": "Audionautix",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "display_genre": "Alternative & Punk",
+ "favorite": false,
+ "reference_vid": "def70e01d734f96d"
+}

@@ -1,0 +1,33 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100001",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e91827f018416544",
+ "downloadable": true,
+ "reference_vid": "e91827f018416544",
+ "mood": "Funky",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "len": 170.316,
+ "instruments": [
+  "Bass",
+  "Electric Guitar",
+  "Drums",
+  "Synth",
+  "Trumpet"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChBlOTE4MjdmMDE4NDE2NTQ0EAAYAg%3D%3D&sigh=ZVEMRlBjA16-fqdqzfdnrg",
+ "streamid": "fKOvz1Sjn6f6JSZnrZ-6kC5sbkLa94HwL2CZfYGzHTdmfJ_3-oSAJDnqeft-k4XG",
+ "genre": "Rock",
+ "display_category": "",
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Rock",
+ "vid": "e91827f018416544",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 87,
+ "fp_ref_id": "e91827f018416544",
+ "category": "",
+ "title": "C-Funk - Funkorama",
+ "album": "None"
+}

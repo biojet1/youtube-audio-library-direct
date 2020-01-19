@@ -1,0 +1,29 @@
+{
+ "mood": "Dramatic",
+ "album": "None",
+ "vid": "c7b7cf5482cc8256",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChBjN2I3Y2Y1NDgyY2M4MjU2EAAYAg%3D%3D&sigh=pfhgg2XqyNydLtwbo6FimA",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "artist_channel_url": "/channel/UCdcemy56JtVTrsFIOoqvV8g",
+ "track_url": "",
+ "streamid": "w10vYYdTvtfXiJYc-fwNx_cIJoXcJjWDYfLocmM5RTym9E2M5HkSMqIodgpCyWyB",
+ "len": 160,
+ "genre": "Classical",
+ "artist": "Andrew Huang",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Accordion",
+ "instruments": [
+  "strings"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c7b7cf5482cc8256",
+ "reference_vid": "c7b7cf5482cc8256",
+ "popularity_percentile": 99,
+ "fp_ref_id": "c7b7cf5482cc8256",
+ "display_mood": "Dramatic"
+}

@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Funky",
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "d7f977df7a30c7a6",
+ "display_category": "",
+ "fp_ref_id": "d7f977df7a30c7a6",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d7f977df7a30c7a6",
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "title": "Bleeker Street Blues",
+ "favorite": false,
+ "license_type": 1,
+ "len": 105,
+ "display_mood": "Funky",
+ "instruments": [
+  "keyboard",
+  "Acoustic guitar",
+  "bass",
+  "slide guitar",
+  "percussion"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBkN2Y5NzdkZjdhMzBjN2E2EAAYAg%3D%3D&sigh=5XA5Jt0BiKBmt_m_7KCH0Q",
+ "streamid": "NUNuEFOyvw1PuDGxNkDwa8aEHnFQn8-EVgOcXTYIadMVJccVRLNqZN-PDmjjYY3y",
+ "genre": "Jazz & Blues",
+ "vid": "d7f977df7a30c7a6",
+ "artist": "Chris Haugen"
+}

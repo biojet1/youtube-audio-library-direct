@@ -1,0 +1,31 @@
+{
+ "genre": "Rock",
+ "display_category": "",
+ "len": 147.15,
+ "track_url": "",
+ "fp_ref_id": "b4803544be0c1a15",
+ "album": "None",
+ "downloadable": true,
+ "streamid": "CeIQ76vRtZRZREue3HeRR9IcCwm7tUxcxUYuZljHThbv5I5QCap9IcZX7P6ctoC3",
+ "title": "North Sea",
+ "artist": "Riot",
+ "is_new_track": false,
+ "artist_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b4803544be0c1a15",
+ "display_mood": "Angry",
+ "artist_channel_url": null,
+ "favorite": false,
+ "popularity_percentile": 70,
+ "category": "",
+ "reference_vid": "b4803544be0c1a15",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChBiNDgwMzU0NGJlMGMxYTE1EAAYAg%3D%3D&sigh=pTvjXkzxC0eyOQamaOsHVQ",
+ "vid": "b4803544be0c1a15",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "mood": "Angry",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ]
+}

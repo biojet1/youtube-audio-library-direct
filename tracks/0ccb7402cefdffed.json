@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "title": "Arabian Nightfall",
+ "album": "None",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Cinematic",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "vid": "0ccb7402cefdffed",
+ "streamid": "413sZY5zwqpSZwYPGUvJifvJZcOaBoAjmvdiQdQpW9C7dGUnuOoutzvMwBsftdJM",
+ "genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChAwY2NiNzQwMmNlZmRmZmVkEAAYAg%3D%3D&sigh=mhUQ0GIZl1bmFsRPNE3l4w",
+ "fp_ref_id": "0ccb7402cefdffed",
+ "len": 105.016,
+ "favorite": false,
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Synth"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0ccb7402cefdffed",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0ccb7402cefdffed",
+ "downloadable": true
+}

@@ -1,0 +1,29 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCBDxIWChBmYzExZTQ1NTgyZWM0NzU4EAAYAg%3D%3D&sigh=IS0EwQmoQjNGDn_QY-toBQ",
+ "instruments": [
+  "Trumpet"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "fc11e45582ec4758",
+ "reference_vid": "fc11e45582ec4758",
+ "popularity_percentile": 99,
+ "artist": "United States Marine Band and Arthur S.Witcomb",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fc11e45582ec4758",
+ "mood": "Happy",
+ "genre": "Classical",
+ "streamid": "aUTDi2l0w9Lcu-9jmNKr0uoq01hLjfSravUCVB0y0EROJGoQfaSPI8r7y5tRqTDh",
+ "title": "The Premier",
+ "downloadable": true,
+ "category": "",
+ "len": 246.983,
+ "artist_url": "",
+ "display_genre": "Classical",
+ "fp_ref_id": "fc11e45582ec4758",
+ "album": "None"
+}

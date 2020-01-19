@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 47,
+ "favorite": false,
+ "mood": "Calm",
+ "display_category": "",
+ "fp_ref_id": "78599bdd7a0a465e",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=78599bdd7a0a465e",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "78599bdd7a0a465e",
+ "len": 220.05,
+ "display_mood": "Calm",
+ "streamid": "o7v6fLuz5G8S16LpO3zHSUZBQe6SmJnVtwH3Ry4PPiXCvlF5nIMCfPRVhX0k7fBq",
+ "display_genre": "Jazz & Blues",
+ "title": "Sunday Stroll",
+ "track_url": "",
+ "downloadable": true,
+ "license_type": 0,
+ "genre": "Jazz & Blues",
+ "vid": "78599bdd7a0a465e",
+ "artist": "Huma-Huma",
+ "instruments": [
+  "Piano"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC2DRIWChA3ODU5OWJkZDdhMGE0NjVlEAAYAg%3D%3D&sigh=73OL1a5xjNSpecddMOyBeA"
+}

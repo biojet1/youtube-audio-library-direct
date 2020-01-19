@@ -1,0 +1,32 @@
+{
+ "downloadable": true,
+ "instruments": [
+  "synth",
+  "woodwinds",
+  "percussion",
+  "strings"
+ ],
+ "category": "",
+ "display_category": "",
+ "license_type": 1,
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "2c21278ac9ca5667",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCVAggfwI4hnkA2WO6-xC06Q",
+ "len": 121,
+ "title": "Horror House",
+ "display_genre": "Cinematic",
+ "reference_vid": "2c21278ac9ca5667",
+ "artist": "Aaron Kenny",
+ "streamid": "-SmxIM7X-UByV_YYeIIkRtz1POBjIQEOWwECmH43UyKnz-QyY_rFlhrDaWiYz_tT",
+ "mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c21278ac9ca5667",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAyYzIxMjc4YWM5Y2E1NjY3EAAYAg%3D%3D&sigh=zmDnsf7inE_ieYicki94SQ",
+ "genre": "Cinematic",
+ "fp_ref_id": "2c21278ac9ca5667",
+ "album": "None",
+ "display_mood": "Dark",
+ "artist_channel_url": "/channel/UCVAggfwI4hnkA2WO6-xC06Q"
+}

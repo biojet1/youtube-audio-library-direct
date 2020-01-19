@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "mood": "Dramatic",
+ "len": 109.866,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "7f9aYJTEAbt7cshESSyVYThj0hZ6lUc-313_IEn6iUMyPWdE0DAgT8LkA0aRpb-V",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBlNTNkNDc2MmEzNzQ1OGQ0EAAYAg%3D%3D&sigh=5v3kv8itXWXQqismYVmicQ",
+ "reference_vid": "e53d4762a37458d4",
+ "title": "Turn On",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e53d4762a37458d4",
+ "vid": "e53d4762a37458d4",
+ "artist_url": "",
+ "artist": "RW Smith",
+ "fp_ref_id": "e53d4762a37458d4",
+ "display_mood": "Dramatic",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "piano",
+  "strings"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "genre": "Hip Hop & Rap"
+}

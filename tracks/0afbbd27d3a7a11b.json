@@ -1,0 +1,30 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100792",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0afbbd27d3a7a11b",
+ "downloadable": true,
+ "reference_vid": "0afbbd27d3a7a11b",
+ "mood": "Calm",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "len": 64.183,
+ "instruments": [
+  "Bass",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCID0AxIWChAwYWZiYmQyN2QzYTdhMTFiEAAYAg%3D%3D&sigh=8YCMDSuulCyL-rAuEY9fHw",
+ "streamid": "5N1166yXNuRbOz2ko0t6fYo0RvP0ZToJQytH2O5B6R5v0lVnmYRIVxjNo8TAoiln",
+ "genre": "Pop",
+ "display_category": "",
+ "display_mood": "Calm",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Pop",
+ "vid": "0afbbd27d3a7a11b",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 87,
+ "fp_ref_id": "0afbbd27d3a7a11b",
+ "category": "",
+ "title": "Isolated",
+ "album": "None"
+}

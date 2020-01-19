@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 35,
+ "genre": "Pop",
+ "streamid": "nVd_cEjTT0AsgtjeLvViXh_nrmZ4lfOEyVX5KO32mREQe_nfLFuoEiV2pRynl2f-",
+ "reference_vid": "c830adb79d95bd25",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c830adb79d95bd25",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "artist": "Audionautix",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChBjODMwYWRiNzlkOTViZDI1EAAYAg%3D%3D&sigh=lGWzMKdaauQTTLKzehGBfg",
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "display_category": "",
+ "title": "Spanish Summer",
+ "album": "None",
+ "vid": "c830adb79d95bd25",
+ "downloadable": true,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Strings"
+ ],
+ "favorite": false,
+ "len": 168.516,
+ "fp_ref_id": "c830adb79d95bd25",
+ "display_genre": "Pop"
+}

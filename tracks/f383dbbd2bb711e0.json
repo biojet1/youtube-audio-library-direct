@@ -1,0 +1,31 @@
+{
+ "display_genre": "Country & Folk",
+ "license_type": 0,
+ "genre": "Country & Folk",
+ "artist_url": "",
+ "vid": "f383dbbd2bb711e0",
+ "artist": "Silent Partner",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f383dbbd2bb711e0",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "album": "None",
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChBmMzgzZGJiZDJiYjcxMWUwEAAYAg%3D%3D&sigh=uCl4PdzFUsxUqtWFPODeKA",
+ "popularity_percentile": 95,
+ "display_category": "",
+ "mood": "Dark",
+ "title": "Daisy Dukes",
+ "reference_vid": "f383dbbd2bb711e0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f383dbbd2bb711e0",
+ "track_url": "",
+ "len": 176.616,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "aFmsij1uGI9aCyuynB_4Mg7-xp0MAXhOc-Lo1wuBLjG1RcGioE-2e77XYmiKYYZj"
+}

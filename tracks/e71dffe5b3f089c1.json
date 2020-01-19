@@ -1,0 +1,32 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e71dffe5b3f089c1",
+ "category": "",
+ "title": "Hit My Soul",
+ "genre": "Country & Folk",
+ "favorite": false,
+ "reference_vid": "e71dffe5b3f089c1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBlNzFkZmZlNWIzZjA4OWMxEAAYAg%3D%3D&sigh=yHKIGvqYCk8VX95wAcm98A",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e71dffe5b3f089c1",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e71dffe5b3f089c1",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Silent Partner",
+ "len": 131,
+ "display_mood": "Happy",
+ "display_category": "",
+ "display_genre": "Country & Folk",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "HhK_R-9MqQmyKx0g00kRYFA-EYGnYRPpnlL79vkUoZ0ikKkzVjVDIbF3KjjR9txQ"
+}

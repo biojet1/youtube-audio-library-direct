@@ -1,0 +1,29 @@
+{
+ "display_genre": "Classical",
+ "vid": "2500619e8d5f1895",
+ "title": "Gymnopedie No 3",
+ "mood": "Calm",
+ "reference_vid": "2500619e8d5f1895",
+ "popularity_percentile": 46,
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "len": 145.016,
+ "fp_ref_id": "2500619e8d5f1895",
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100785",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Piano"
+ ],
+ "streamid": "BpA8-3-Gzqb3CKB3hzYDoxa_19HkQjGJyszaUxB9Qr0mUzzP4HJuHuGCyWSrb30A",
+ "display_mood": "Calm",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2500619e8d5f1895",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChAyNTAwNjE5ZThkNWYxODk1EAAYAg%3D%3D&sigh=9UWvM81tiZOTEBCt6aGxHg",
+ "genre": "Classical"
+}

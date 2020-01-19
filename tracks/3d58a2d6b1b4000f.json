@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNibCRIWChAzZDU4YTJkNmIxYjQwMDBmEAAYAg%3D%3D&sigh=DmtduJJ1SEat8EjJZspXxg",
+ "instruments": [
+  "Piano"
+ ],
+ "display_mood": "Sad",
+ "artist": "Beethoven",
+ "artist_channel_url": null,
+ "vid": "3d58a2d6b1b4000f",
+ "reference_vid": "3d58a2d6b1b4000f",
+ "genre": "Classical",
+ "popularity_percentile": 24,
+ "display_genre": "Classical",
+ "favorite": false,
+ "track_url": "",
+ "title": "Fur Elise (by Beethoven)",
+ "downloadable": true,
+ "category": "",
+ "streamid": "VxSpS1pqQI2TfMc7F6v9xshahpyUNveCh4qo8gRBvZ9jF96mqlVeSlCNRgQoiJfd",
+ "fp_ref_id": "3d58a2d6b1b4000f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3d58a2d6b1b4000f",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Sad",
+ "len": 151.033
+}

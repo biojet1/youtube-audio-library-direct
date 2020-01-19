@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1db149321c536482",
+ "track_url": "",
+ "fp_ref_id": "1db149321c536482",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Angry",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "reference_vid": "1db149321c536482",
+ "display_mood": "Angry",
+ "len": 117.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiSBxIWChAxZGIxNDkzMjFjNTM2NDgyEAAYAg%3D%3D&sigh=xjV99PHtkCAhTPg1BIXopg",
+ "popularity_percentile": 12,
+ "streamid": "GZOS2lj75sHaqh_TLzHkBGg_VIeMrUZ3VmBhPYC1xiNBvSPQqqOpjcH9L4fb5MxS",
+ "license_type": 0,
+ "display_genre": "Rock",
+ "category": "",
+ "title": "Early Flight",
+ "genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1db149321c536482"
+}

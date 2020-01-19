@@ -1,0 +1,32 @@
+{
+ "display_genre": "Rock",
+ "album": "None",
+ "reference_vid": "0308a45d0144b34c",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "0308a45d0144b34c",
+ "title": "New Day",
+ "mood": "Bright",
+ "len": 183,
+ "artist_url": "https://www.youtube.com/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "artist": "JHS Pedals",
+ "fp_ref_id": "0308a45d0144b34c",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCjfbkA4jJkJY5g0wbjuoZWA",
+ "license_type": 1,
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "streamid": "qwe1N_gEGs-FAv9rgwbqolGYNgDbsywh2ra7ruFsTh-WluRMDxGmTIPsFT5sVspc",
+ "display_mood": "Bright",
+ "downloadable": true,
+ "genre": "Rock",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0308a45d0144b34c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAwMzA4YTQ1ZDAxNDRiMzRjEAAYAg%3D%3D&sigh=O88aCdP_5iKV0PjpTshKyQ"
+}

@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a2bf26128a7e1d58",
+ "fp_ref_id": "a2bf26128a7e1d58",
+ "len": 116.933,
+ "artist": "Text Me Records / Leviathe",
+ "mood": "Dramatic",
+ "reference_vid": "a2bf26128a7e1d58",
+ "vid": "a2bf26128a7e1d58",
+ "title": "Look, Can You Hear Me",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "instruments": [
+  "Horns",
+  "Drum",
+  "Strings"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCwtKnOCt6sdM7atlQsgN6zA",
+ "streamid": "lVID62NMvUcvZ486vFpxcWT-gIesL1zC-iCJRfTqQSfbZyMTXJhCFun1dJN4oFB2",
+ "display_genre": "Cinematic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChBhMmJmMjYxMjhhN2UxZDU4EAAYAg%3D%3D&sigh=Gng1cRSa5QFkUM5fW2Y7kA"
+}

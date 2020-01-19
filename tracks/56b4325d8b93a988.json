@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "genre": "Cinematic",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "electric guitar",
+  "drum machine",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "reference_vid": "56b4325d8b93a988",
+ "streamid": "lcZcDuyeii4cQRBPfEzKg44Ob3zCY7lkKNlDNuahrHuqwr8cGFAzgFcRd31QEJ79",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=56b4325d8b93a988",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjpCRIWChA1NmI0MzI1ZDhiOTNhOTg4EAAYAg%3D%3D&sigh=O7zP6DR5sMtef7vZtdh_eA",
+ "len": 161,
+ "is_new_track": false,
+ "mood": "Calm",
+ "vid": "56b4325d8b93a988",
+ "title": "Thinking About It",
+ "display_mood": "Calm",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "favorite": false,
+ "fp_ref_id": "56b4325d8b93a988",
+ "display_genre": "Cinematic",
+ "downloadable": true,
+ "artist": "Jeremy Korpas"
+}

@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Happy",
+ "reference_vid": "9052d1381e1f2733",
+ "streamid": "ib0cWRUi8xUoabP81GJUZKWjZWwVJFNF6UKwphJvpnmUlpTGvwQ-JwIqctSbB56Z",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjQBxIWChA5MDUyZDEzODFlMWYyNzMzEAAYAg%3D%3D&sigh=tgRaD7rV6tmtrQ-t9Jj33w",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9052d1381e1f2733",
+ "len": 125.75,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "display_category": "",
+ "fp_ref_id": "9052d1381e1f2733",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "All My Shuffling",
+ "mood": "Happy",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "vid": "9052d1381e1f2733"
+}

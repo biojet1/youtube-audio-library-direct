@@ -1,0 +1,31 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBmNjE2MmQ0YTgzZDM5NTIwEAAYAg%3D%3D&sigh=bu1Wn2MloyDOwhDPe6NWng",
+ "title": "Free Dog",
+ "display_mood": "Bright",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "genre": "Alternative & Punk",
+ "vid": "f6162d4a83d39520",
+ "popularity_percentile": 97,
+ "reference_vid": "f6162d4a83d39520",
+ "favorite": false,
+ "mood": "Bright",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Alternative & Punk",
+ "category": "",
+ "fp_ref_id": "f6162d4a83d39520",
+ "streamid": "EqDcvtdgb3v-v7y3087ZCFJw_xyOvUK7C9bu9lAU8oeqvWd1tdD-Jz78LEfVpPPt",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f6162d4a83d39520",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 104.783
+}

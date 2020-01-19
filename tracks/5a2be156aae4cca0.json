@@ -1,0 +1,29 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "5a2be156aae4cca0",
+ "downloadable": true,
+ "fp_ref_id": "5a2be156aae4cca0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5a2be156aae4cca0",
+ "album": "None",
+ "artist": "Chopin",
+ "display_mood": "Sad",
+ "streamid": "p0Bww8KSKw6pGD0nOEbKOmllzrVKm-FLrSuahbNiTK8q6vjUXb1o_JTagZuX6wwm",
+ "mood": "Sad",
+ "title": "E Minor Prelude",
+ "genre": "Classical",
+ "instruments": [
+  "piano"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Classical",
+ "reference_vid": "5a2be156aae4cca0",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 155.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChA1YTJiZTE1NmFhZTRjY2EwEAAYAg%3D%3D&sigh=kIzLeRLJJ5g15bNZGiG-4g"
+}

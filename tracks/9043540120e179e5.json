@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100298.",
+ "artist_channel_url": null,
+ "len": 128.916,
+ "mood": "Bright",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9043540120e179e5",
+ "title": "Cello Suite #1 in G - Prelude - Classical Whimsical",
+ "streamid": "LcS2xvxNYeG9gK-r7DRQmuuE2EcEMAcv9y9FARsWt4kvQP-3HpH4ZwvsZzJMhKuO",
+ "genre": "Classical",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChA5MDQzNTQwMTIwZTE3OWU1EAAYAg%3D%3D&sigh=8GolP1jrWU3D90Y9pUFBTw",
+ "license_type": 6,
+ "fp_ref_id": "9043540120e179e5",
+ "display_mood": "Bright",
+ "vid": "9043540120e179e5",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Strings"
+ ],
+ "display_genre": "Classical",
+ "favorite": false,
+ "reference_vid": "9043540120e179e5"
+}

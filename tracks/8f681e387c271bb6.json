@@ -1,0 +1,31 @@
+{
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "display_mood": "Calm",
+ "reference_vid": "8f681e387c271bb6",
+ "streamid": "jGl98gZszq_ijm-ZwXsEQgcXk_E9MVVZYDtPWoVincQ1Ty4-fRZIhRI4TY2BY6uC",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChA4ZjY4MWUzODdjMjcxYmI2EAAYAg%3D%3D&sigh=3steTsnaxqTfuo00pD7juQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8f681e387c271bb6",
+ "len": 148.85,
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Drums"
+ ],
+ "display_category": "",
+ "fp_ref_id": "8f681e387c271bb6",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Okey Dokey Smokey",
+ "mood": "Calm",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "vid": "8f681e387c271bb6"
+}

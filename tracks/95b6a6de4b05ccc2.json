@@ -1,0 +1,30 @@
+{
+ "mood": "Dark",
+ "artist_channel_url": "/channel/UCiSKnkKCKAQVxMUWpZQobuQ",
+ "artist_url": "https://www.youtube.com/channel/UCiSKnkKCKAQVxMUWpZQobuQ",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD-ChIWChA5NWI2YTZkZTRiMDVjY2MyEAAYAg%3D%3D&sigh=vUZKS5GL6HAIwagKObxBEA",
+ "display_mood": "Dark",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95b6a6de4b05ccc2",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Myuu",
+ "title": "Underworld",
+ "reference_vid": "95b6a6de4b05ccc2",
+ "instruments": [
+  "waterphone",
+  "synth"
+ ],
+ "display_genre": "Cinematic",
+ "fp_ref_id": "95b6a6de4b05ccc2",
+ "vid": "95b6a6de4b05ccc2",
+ "category": "",
+ "streamid": "xo8MH44Cb8qPZSH_iRg4knfMZEUbzSx7vwhs8egf0CBWVk_ixs_6clRzBQ9ogdDC",
+ "popularity_percentile": 99,
+ "len": 180,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

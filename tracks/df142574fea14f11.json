@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "df142574fea14f11",
+ "display_category": "",
+ "fp_ref_id": "df142574fea14f11",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=df142574fea14f11",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "title": "Kona Sun",
+ "favorite": false,
+ "license_type": 1,
+ "len": 188,
+ "display_mood": "Bright",
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "acoustic guitar",
+  "drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC8CxIWChBkZjE0MjU3NGZlYTE0ZjExEAAYAg%3D%3D&sigh=zNMiRZ8yJamlVTzLgQlkAw",
+ "streamid": "xDu45ffkofvdbMofQowck8bV22Q8pm2BOB9hUca0Xv6IEvz-ft4w3bkabqcCaSas",
+ "genre": "Country & Folk",
+ "vid": "df142574fea14f11",
+ "artist": "Freedom Trail Studio"
+}

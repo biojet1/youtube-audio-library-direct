@@ -1,0 +1,30 @@
+{
+ "title": "Procession",
+ "favorite": false,
+ "len": 179.983,
+ "popularity_percentile": 53,
+ "downloadable": true,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj2ChIWChA4N2ZkYWExOTdlMDQxNjM4EAAYAg%3D%3D&sigh=3voiFiazlMQUzKmkWmdMJw",
+ "fp_ref_id": "87fdaa197e041638",
+ "artist_channel_url": null,
+ "display_genre": "Ambient",
+ "track_url": "",
+ "genre": "Ambient",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "artist_url": "",
+ "instruments": [
+  "Synth",
+  "Electric Guitar"
+ ],
+ "reference_vid": "87fdaa197e041638",
+ "display_category": "",
+ "vid": "87fdaa197e041638",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=87fdaa197e041638",
+ "streamid": "EcCm0LlZdKP7t7kgXnWsC37nmTBv8rRS95bHN4qRrMY0iMjkHZ5NWqFnNsvyLH0K",
+ "artist": "Puddle of Infinity"
+}

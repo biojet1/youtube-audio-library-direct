@@ -1,0 +1,32 @@
+{
+ "display_genre": "Jazz & Blues",
+ "license_type": 0,
+ "genre": "Jazz & Blues",
+ "artist_url": "",
+ "vid": "f24590587cad9a9b",
+ "artist": "John Deley and the 41 Players",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f24590587cad9a9b",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "album": "None",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChBmMjQ1OTA1ODdjYWQ5YTliEAAYAg%3D%3D&sigh=zFvsd8Xe19sFogpvHp9pmg",
+ "popularity_percentile": 95,
+ "display_category": "",
+ "mood": "Bright",
+ "title": "Sour Tennessee Red",
+ "reference_vid": "f24590587cad9a9b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f24590587cad9a9b",
+ "track_url": "",
+ "len": 131.383,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "DZd9wek_4-_0cEBPE6--9SIf_icFGsmbMPZAcPXV9Ir5RUkCnRi6epg2GkS9H5UT"
+}

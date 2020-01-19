@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjODRIWChBiNGQ0ZWM1MmI1OTJjODMwEAAYAg%3D%3D&sigh=kFrC_E16QEXiM0lJEv-lJg",
+ "genre": "Rock",
+ "streamid": "SoDm06F1QX5JLGk4ZBkhn25WArHphIUJ3gofJpNKGr7-Wb9bZJcFJekSEAKT3XPW",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b4d4ec52b592c830",
+ "track_url": "",
+ "reference_vid": "b4d4ec52b592c830",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "license_type": 1,
+ "fp_ref_id": "b4d4ec52b592c830",
+ "mood": "Dramatic",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "synth",
+  "bass"
+ ],
+ "favorite": false,
+ "len": 223,
+ "category": "",
+ "popularity_percentile": 99,
+ "artist": "Freedom Trail Studio",
+ "album": "None",
+ "title": "A Valley Blast",
+ "is_new_track": false,
+ "vid": "b4d4ec52b592c830",
+ "display_genre": "Rock"
+}

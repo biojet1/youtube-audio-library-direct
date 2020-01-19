@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "2276bd56adfd8e69",
+ "category": "",
+ "title": "Athena",
+ "display_genre": "Cinematic",
+ "instruments": [
+  "electric piano",
+  "piano",
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "genre": "Cinematic",
+ "display_mood": "Dramatic",
+ "streamid": "5bmBiYp_qbZ_2cU9RgIbTDmS9bWZ4FHd8jz-5U9t6pmy1kzKbMermqxs4qd3Sro2",
+ "album": "None",
+ "len": 154,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2276bd56adfd8e69",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChAyMjc2YmQ1NmFkZmQ4ZTY5EAAYAg%3D%3D&sigh=wq_GTHTVIOX6Px6923bS4Q",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "2276bd56adfd8e69",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "fp_ref_id": "2276bd56adfd8e69",
+ "license_type": 1,
+ "track_url": ""
+}

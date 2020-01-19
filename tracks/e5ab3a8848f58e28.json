@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 6,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "e5ab3a8848f58e28",
+ "downloadable": true,
+ "fp_ref_id": "e5ab3a8848f58e28",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e5ab3a8848f58e28",
+ "album": "None",
+ "artist": "Audionautix",
+ "display_mood": "Bright",
+ "streamid": "353uRx-_zWoRh4N-Lg6p4saLFGc62DDbSYr5LaP90_Y6W2PiDUlmUvGoKW6o8fLl",
+ "mood": "Bright",
+ "title": "Triangle",
+ "genre": "Pop",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Pop",
+ "reference_vid": "e5ab3a8848f58e28",
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "display_category": "",
+ "len": 220.983,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC2DRIWChBlNWFiM2E4ODQ4ZjU4ZTI4EAAYAg%3D%3D&sigh=1YrzQ-Qdeud3XvGo2605og"
+}

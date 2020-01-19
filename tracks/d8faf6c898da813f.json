@@ -1,0 +1,33 @@
+{
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "len": 200,
+ "display_category": "",
+ "reference_vid": "d8faf6c898da813f",
+ "popularity_percentile": 99,
+ "artist_url": "https://www.youtube.com/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "license_type": 1,
+ "album": "None",
+ "artist": "SYBS",
+ "fp_ref_id": "d8faf6c898da813f",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": "/channel/UCTJiB0YjYyrximbFeXsQz3A",
+ "streamid": "buHBfnrh7VGMbxLq7V7rnt8hvFzcXnRLPJoHBB5X23T4ZMUFnFhrRpKpwwtVLuFb",
+ "display_mood": "Inspirational",
+ "vid": "d8faf6c898da813f",
+ "track_url": "",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Drums",
+  "Synth",
+  "Piano"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChBkOGZhZjZjODk4ZGE4MTNmEAAYAg%3D%3D&sigh=Pf9e8QyPDYwQ99vB5W0tQA",
+ "category": "",
+ "title": "Daydream Bliss",
+ "mood": "Inspirational",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8faf6c898da813f"
+}

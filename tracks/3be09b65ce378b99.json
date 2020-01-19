@@ -1,0 +1,30 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100613",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3be09b65ce378b99",
+ "downloadable": true,
+ "reference_vid": "3be09b65ce378b99",
+ "mood": "Happy",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "len": 49.816,
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj-AhIWChAzYmUwOWI2NWNlMzc4Yjk5EAAYAg%3D%3D&sigh=Z3rbrmC5eVsElsE8yHIRcg",
+ "streamid": "XLPPZztUddI20mtvmjO8pGDIQIKDRsNKafIDAR51v4BWEMdSZ1hWxfRDe_RkeXHf",
+ "genre": "Reggae",
+ "display_category": "",
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Reggae",
+ "vid": "3be09b65ce378b99",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 87,
+ "fp_ref_id": "3be09b65ce378b99",
+ "category": "",
+ "title": "Beach Party - Islandesque",
+ "album": "None"
+}

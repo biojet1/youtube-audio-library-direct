@@ -1,0 +1,33 @@
+{
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100165",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3105c9086827f64d",
+ "downloadable": true,
+ "reference_vid": "3105c9086827f64d",
+ "mood": "Funky",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "len": 166.666,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChAzMTA1YzkwODY4MjdmNjRkEAAYAg%3D%3D&sigh=9bHTyCY5AFzlgT5pXxy0OA",
+ "streamid": "-7mM-kSGcgv_cFqo4HESXprux5S8uHRQYiyZA7R72cO889pKDIN4B-UPeA-FQD7G",
+ "genre": "Jazz & Blues",
+ "display_category": "",
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "display_genre": "Jazz & Blues",
+ "vid": "3105c9086827f64d",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 87,
+ "fp_ref_id": "3105c9086827f64d",
+ "category": "",
+ "title": "Matt's Blues",
+ "album": "None"
+}

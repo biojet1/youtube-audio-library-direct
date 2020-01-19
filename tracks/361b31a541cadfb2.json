@@ -1,0 +1,32 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChAzNjFiMzFhNTQxY2FkZmIyEAAYAg%3D%3D&sigh=HC-Qyg-FGE3MYb05obMPSQ",
+ "instruments": [
+  "synth",
+  "organ",
+  "drums",
+  "bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "361b31a541cadfb2",
+ "reference_vid": "361b31a541cadfb2",
+ "popularity_percentile": 99,
+ "artist": "Spazz Cardigan",
+ "artist_channel_url": "/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=361b31a541cadfb2",
+ "mood": "Happy",
+ "genre": "Hip Hop & Rap",
+ "streamid": "DVL39j7geBX93hMz3gCUt3eCVyvdcEIqWXYPUC1JXTsiyAatMoQaq_XQjIU7yjB0",
+ "title": "Skip Rox",
+ "downloadable": true,
+ "category": "",
+ "len": 195,
+ "artist_url": "https://www.youtube.com/channel/UCC7HC205_NMMlgJvBSSnYog",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "361b31a541cadfb2",
+ "album": "None"
+}

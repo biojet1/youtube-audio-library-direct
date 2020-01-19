@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "b8732320a02a241f",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Rock",
+ "category": "",
+ "artist": "Ethan Meixsell",
+ "display_category": "",
+ "streamid": "EHICGqOjQiFIN82hGgr-EmrDw0K1BPVi3Xra_W1VbYaIdX_HzPAgnC2AoRy_igPd",
+ "license_type": 0,
+ "vid": "b8732320a02a241f",
+ "popularity_percentile": 72,
+ "reference_vid": "b8732320a02a241f",
+ "display_genre": "Rock",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 223.983,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dramatic",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjODRIWChBiODczMjMyMGEwMmEyNDFmEAAYAg%3D%3D&sigh=g2UPus8Vrb3AJe1howAkOQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b8732320a02a241f",
+ "title": "Pride Before the Fall"
+}

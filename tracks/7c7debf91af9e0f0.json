@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Cinematic",
+ "category": "",
+ "fp_ref_id": "7c7debf91af9e0f0",
+ "artist": "Jingle Punks",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "All This Down Time (Sting)",
+ "vid": "7c7debf91af9e0f0",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDdjN2RlYmY5MWFmOWUwZjAQABgC&sigh=rdK0266sfDnxxzNe-ketFg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c7debf91af9e0f0",
+ "display_category": "",
+ "len": 7.016,
+ "album": "None",
+ "license_type": 0,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "xeco-ral2zXBpVzSLiK0BYUY7wq39HhCe6BaSd4W80N-GR2lOM_LHGMfEXIeIPnE",
+ "reference_vid": "7c7debf91af9e0f0",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Drums"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "",
+ "genre": "Cinematic"
+}

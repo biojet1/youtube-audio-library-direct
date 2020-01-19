@@ -1,0 +1,33 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjCERIWChBjMTM2YzQxMzA5MTM2OTlkEAAYAg%3D%3D&sigh=sYOrBJmImNj5Y7RUFj1SAw",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "piano",
+  "synth",
+  "drums"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "c136c4130913699d",
+ "reference_vid": "c136c4130913699d",
+ "popularity_percentile": 99,
+ "artist": "Drew Banga",
+ "artist_channel_url": "/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c136c4130913699d",
+ "mood": "Funky",
+ "genre": "Hip Hop & Rap",
+ "streamid": "X2cK5_1UFgci_U3VV_BahOAYTrddPWYF0iJQcgAQYQLPjxuSoSo5u3M0_Xe5Qa2B",
+ "title": "CPT",
+ "downloadable": true,
+ "category": "",
+ "len": 287,
+ "artist_url": "https://www.youtube.com/channel/UC2us_EMiHZMASUCLwkrzyNA",
+ "display_genre": "Hip Hop & Rap",
+ "fp_ref_id": "c136c4130913699d",
+ "album": "None"
+}

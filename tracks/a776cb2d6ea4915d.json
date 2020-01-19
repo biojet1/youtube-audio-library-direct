@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist": "Sir Cubworth",
+ "vid": "a776cb2d6ea4915d",
+ "display_category": "",
+ "streamid": "iOCZJerIRiWvlfBf8EQCG-flPo1Cq_hGPDwwFZ35DEzp7GMBT4P_yHDFsO_iDpcR",
+ "track_url": "",
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a776cb2d6ea4915d",
+ "fp_ref_id": "a776cb2d6ea4915d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBhNzc2Y2IyZDZlYTQ5MTVkEAAYAg%3D%3D&sigh=vCpsDpV6WtpMLQgILZFw1w",
+ "display_genre": "Cinematic",
+ "len": 150,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "organ",
+  "drums",
+  "strings"
+ ],
+ "reference_vid": "a776cb2d6ea4915d",
+ "title": "Missing Pieces",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "license_type": 1,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 99
+}

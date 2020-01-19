@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100191",
+ "downloadable": true,
+ "streamid": "nzW28vfruQHSSYK8hYlsFmWHx_XeFwvYnn2d5Mc8iUq_IEhFhnjBP-eLeHK3hHgX",
+ "len": 265.55,
+ "category": "",
+ "license_type": 6,
+ "title": "It Came Upon a Midnight Clear",
+ "genre": "Holiday",
+ "display_category": "",
+ "vid": "ab1aa5808f69e7a9",
+ "album": "None",
+ "mood": "Calm",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "display_genre": "Holiday",
+ "display_mood": "Calm",
+ "fp_ref_id": "ab1aa5808f69e7a9",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab1aa5808f69e7a9",
+ "instruments": [
+  "Piano",
+  "Strings"
+ ],
+ "reference_vid": "ab1aa5808f69e7a9",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKiWEBIWChBhYjFhYTU4MDhmNjllN2E5EAAYAg%3D%3D&sigh=86bIv2J2KE4ObaRDOcTRtw",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "popularity_percentile": 56
+}

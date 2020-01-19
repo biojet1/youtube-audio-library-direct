@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Piano",
+  "Bass"
+ ],
+ "album": "None",
+ "artist": "Riot",
+ "downloadable": true,
+ "mood": "Sad",
+ "display_mood": "Sad",
+ "len": 120.55,
+ "reference_vid": "dfb828f40096184c",
+ "fp_ref_id": "dfb828f40096184c",
+ "display_genre": "R&B & Soul",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "dfb828f40096184c",
+ "category": "",
+ "title": "Level Plane",
+ "genre": "R&B & Soul",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dfb828f40096184c",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBkZmI4MjhmNDAwOTYxODRjEAAYAg%3D%3D&sigh=7ZxiW3IIkrBgCxTXrQmoMQ",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "Cuq6-1wQ_rmeJ0tEqRC_SqBQqJMq7qSF-yoaLJehTgTWfxrpIEGOsWFWmG--7pDg"
+}

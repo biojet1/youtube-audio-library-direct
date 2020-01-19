@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiPCBIWChBmYjc0MWY0ODU1OWE4YmQwEAAYAg%3D%3D&sigh=s3RZ-2RTqzZFjPWxKub1qA",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "fb741f48559a8bd0",
+ "reference_vid": "fb741f48559a8bd0",
+ "popularity_percentile": 99,
+ "artist": "ALBIS",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fb741f48559a8bd0",
+ "mood": "Funky",
+ "genre": "Jazz & Blues",
+ "streamid": "8DXdJZBPAXSJ4LjjIImtQGCxCGqCIZ3UNNPtWKZtev61Z13rECZ3opkcfrHqyRm3",
+ "title": "Biggie",
+ "downloadable": true,
+ "category": "",
+ "len": 133.783,
+ "artist_url": "",
+ "display_genre": "Jazz & Blues",
+ "fp_ref_id": "fb741f48559a8bd0",
+ "album": "None"
+}

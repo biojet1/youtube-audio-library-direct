@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "a878a1175b01e747",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a878a1175b01e747",
+ "fp_ref_id": "a878a1175b01e747",
+ "genre": "Cinematic",
+ "album": "None",
+ "title": "The Framework",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Strings"
+ ],
+ "track_url": "",
+ "display_mood": "Dark",
+ "streamid": "wwiOo6vgvXm7B-DX_PG39LP1E9tAIgMwfA4paGygbkGKgMll9GnCfl9RE8iwoxr9",
+ "artist": "Jingle Punks",
+ "mood": "Dark",
+ "category": "",
+ "artist_url": "",
+ "reference_vid": "a878a1175b01e747",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjJBBIWChBhODc4YTExNzViMDFlNzQ3EAAYAg%3D%3D&sigh=RyBBE11oiwQVdn_ZEzCyNA",
+ "display_category": "",
+ "len": 75.75,
+ "display_genre": "Cinematic"
+}

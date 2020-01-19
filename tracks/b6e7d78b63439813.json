@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "b6e7d78b63439813",
+ "mood": "Romantic",
+ "reference_vid": "b6e7d78b63439813",
+ "popularity_percentile": 71,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCsBhIWChBiNmU3ZDc4YjYzNDM5ODEzEAAYAg%3D%3D&sigh=56OSY-yV_i3KSzNFtmYATA",
+ "len": 104.416,
+ "favorite": false,
+ "display_mood": "Romantic",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "b6e7d78b63439813",
+ "streamid": "eJlZhHhwBXUZKzJTvlDlBgIMxkIZWgo5M8aUb6Rgvae-0yeuxO587SVkV42NHkyf",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b6e7d78b63439813",
+ "title": "Rag Time Time",
+ "display_genre": "R&B & Soul",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "genre": "R&B & Soul",
+ "downloadable": true,
+ "instruments": [
+  "Trumpet",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "display_category": "",
+ "license_type": 0,
+ "artist_url": "",
+ "track_url": "",
+ "is_new_track": false
+}

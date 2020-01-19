@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "artist": "Aakash Gandhi",
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "downloadable": true,
+ "fp_ref_id": "8162cd47a9b77b8c",
+ "popularity_percentile": 99,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj_BxIWChA4MTYyY2Q0N2E5Yjc3YjhjEAAYAg%3D%3D&sigh=D2qfdMHlqkzTiqGcEk1kTw",
+ "favorite": false,
+ "genre": "Ambient",
+ "category": "",
+ "vid": "8162cd47a9b77b8c",
+ "streamid": "m6B7566Zhb6fmYKBSizsrJhzPir5pZlPvdbBb0V5Suz8xpMjHqRcmIuddUoYNSvF",
+ "mood": "Romantic",
+ "reference_vid": "8162cd47a9b77b8c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8162cd47a9b77b8c",
+ "title": "One Step Closer",
+ "display_mood": "Romantic",
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "display_category": "",
+ "instruments": [
+  "piano"
+ ],
+ "len": 131,
+ "album": "None",
+ "track_url": ""
+}

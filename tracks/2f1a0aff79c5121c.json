@@ -1,0 +1,33 @@
+{
+ "downloadable": true,
+ "reference_vid": "2f1a0aff79c5121c",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dark",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2f1a0aff79c5121c",
+ "fp_ref_id": "2f1a0aff79c5121c",
+ "mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Electric Guitar",
+  "Synth",
+  "Blues"
+ ],
+ "len": 200.783,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChAyZjFhMGFmZjc5YzUxMjFjEAAYAg%3D%3D&sigh=YDXVa66GHPByFWMp8EBRvw",
+ "streamid": "D6IcrLP9mpYVx2yJelHwQK1xrr0IDnKJrSRBPUwTh-leUeekauuYf4CJXpEvpwGu",
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 80,
+ "title": "Kool Kats",
+ "display_category": "",
+ "display_genre": "Jazz & Blues",
+ "license_type": 6,
+ "vid": "2f1a0aff79c5121c",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100601",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "favorite": false
+}

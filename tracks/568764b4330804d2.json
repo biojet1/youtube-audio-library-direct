@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "568764b4330804d2",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Ashley Shadow",
+ "vid": "568764b4330804d2",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChA1Njg3NjRiNDMzMDgwNGQyEAAYAg%3D%3D&sigh=GLdshVzJepmH7mgRiVUl-w",
+ "category": "",
+ "genre": "Country & Folk",
+ "display_mood": "Happy",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Peace Creek",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=568764b4330804d2",
+ "reference_vid": "568764b4330804d2",
+ "mood": "Happy",
+ "streamid": "Zbj2RXOFmEUySLoLBvz-Hu2HHNGV6rCq9_MfxUHjiIQrGfhpIL9fmSffZGN0DACk",
+ "track_url": "",
+ "album": "None",
+ "len": 165,
+ "instruments": [
+  "bass",
+  "electric guitar"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Country & Folk"
+}

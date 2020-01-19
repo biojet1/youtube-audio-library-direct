@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "d1f464a5e7e5f908",
+ "display_genre": "Cinematic",
+ "artist": "Max Surla/Media Right Productions",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChBkMWY0NjRhNWU3ZTVmOTA4EAAYAg%3D%3D&sigh=fwfi_uRcMZBH_a21r9R5Tg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d1f464a5e7e5f908",
+ "len": 154.116,
+ "mood": "Dark",
+ "title": "Day Of Recon",
+ "vid": "d1f464a5e7e5f908",
+ "category": "",
+ "downloadable": true,
+ "track_url": "",
+ "license_type": 0,
+ "artist_url": "",
+ "genre": "Cinematic",
+ "display_mood": "Dark",
+ "album": "None",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "popularity_percentile": 82,
+ "reference_vid": "d1f464a5e7e5f908",
+ "streamid": "YBcPdoF1Sb1M9cwdaq31-rG0lfvWEKCwgZx9p6bt3TWveTOMpyD969pa-0J98hdR"
+}

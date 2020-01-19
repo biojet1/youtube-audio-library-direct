@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "favorite": false,
+ "len": 154.099,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a3b82699791b15a4",
+ "category": "",
+ "streamid": "Ux9hbF3RRKskord6bEG_fPfBawkLlRfNIsDMaUoKUWZgBvoiBb7X6k3rL1mxU0l8",
+ "fp_ref_id": "a3b82699791b15a4",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCzCRIWChBhM2I4MjY5OTc5MWIxNWE0EAAYAg%3D%3D&sigh=ff_nqlNO_26MIvWQDOwMIg",
+ "popularity_percentile": 0,
+ "reference_vid": "a3b82699791b15a4",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Synth",
+  "Electric Guitar",
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "a3b82699791b15a4",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "title": "Lost Cowboy",
+ "downloadable": true,
+ "genre": "Jazz & Blues",
+ "artist": "Coyote Hearing"
+}

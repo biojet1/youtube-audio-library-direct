@@ -1,0 +1,30 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDfChIWChAzZmRmNzBlNDRmZDEyMjNjEAAYAg%3D%3D&sigh=jrBm-qwC73xZZjdR6djLHQ",
+ "artist_url": "https://www.youtube.com/channel/UC3edSSIDJPTZmBM-m9_G3Nw",
+ "display_category": "",
+ "display_mood": "Sad",
+ "album": "None",
+ "vid": "3fdf70e44fd1223c",
+ "reference_vid": "3fdf70e44fd1223c",
+ "fp_ref_id": "3fdf70e44fd1223c",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3fdf70e44fd1223c",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "streamid": "st3FBmuVAEE5cEtATZYYoVHdHL_8HVk-mA3UW7eBhpFyda1JrkZwFOM85iZa91IP",
+ "popularity_percentile": 99,
+ "mood": "Sad",
+ "len": 176,
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "artist": "Sir Cubworth",
+ "title": "The Long Voyage To Outer Space",
+ "license_type": 1,
+ "category": "",
+ "instruments": [
+  "strings",
+  "piano"
+ ],
+ "artist_channel_url": "/channel/UC3edSSIDJPTZmBM-m9_G3Nw"
+}

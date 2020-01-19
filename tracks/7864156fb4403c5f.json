@@ -1,0 +1,29 @@
+{
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "album": "None",
+ "artist": "Audionautix",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "len": 160.183,
+ "reference_vid": "7864156fb4403c5f",
+ "fp_ref_id": "7864156fb4403c5f",
+ "display_genre": "Country & Folk",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "track_url": "",
+ "vid": "7864156fb4403c5f",
+ "category": "",
+ "title": "Amazing Grace",
+ "genre": "Country & Folk",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7864156fb4403c5f",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDiCRIWChA3ODY0MTU2ZmI0NDAzYzVmEAAYAg%3D%3D&sigh=OgQWXb2VON_fPkKR6PT3qQ",
+ "license_type": 6,
+ "popularity_percentile": 88,
+ "streamid": "o9U8WkYKDzDXGrv7VB5jD8Ro8rZvVx3aX8GisDF_ouXL3KHkHsMuuWzoSA4AOx-v"
+}

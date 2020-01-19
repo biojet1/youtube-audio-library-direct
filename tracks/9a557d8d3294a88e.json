@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9a557d8d3294a88e",
+ "category": "",
+ "license_type": 0,
+ "title": "Cut It",
+ "display_genre": "Alternative & Punk",
+ "genre": "Alternative & Punk",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "display_mood": "Angry",
+ "album": "None",
+ "streamid": "uim_8Ao2leZpSWO-fP978bnTvr1OkVRHY-G3mtSuHtnN1w30Dl2OA0tYmzgwxqvt",
+ "len": 214.35,
+ "artist": "Silent Partner",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9a557d8d3294a88e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCHDRIWChA5YTU1N2Q4ZDMyOTRhODhlEAAYAg%3D%3D&sigh=pgkU-3Pb5afoNguOrPujKQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9a557d8d3294a88e",
+ "is_new_track": false,
+ "mood": "Angry",
+ "fp_ref_id": "9a557d8d3294a88e",
+ "track_url": ""
+}

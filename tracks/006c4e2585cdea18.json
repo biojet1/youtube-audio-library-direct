@@ -1,0 +1,31 @@
+{
+ "display_mood": "Calm",
+ "genre": "Pop",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "Zo49MkSQNTdr2hzCBZM8bww6beZ-49_mHkPCjBqN3KHHcpR6O5XZemlytH2UQT6j",
+ "title": "Dream Culture",
+ "display_genre": "Pop",
+ "vid": "006c4e2585cdea18",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "006c4e2585cdea18",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046",
+ "is_new_track": false,
+ "mood": "Calm",
+ "license_type": 6,
+ "fp_ref_id": "006c4e2585cdea18",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Kevin MacLeod",
+ "len": 214.35,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCHDRIWChAwMDZjNGUyNTg1Y2RlYTE4EAAYAg%3D%3D&sigh=HSQpJLdY89IyffvS9Fq9UQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=006c4e2585cdea18"
+}

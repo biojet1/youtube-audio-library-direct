@@ -1,0 +1,31 @@
+{
+ "downloadable": true,
+ "artist_url": "",
+ "display_genre": "Rock",
+ "genre": "Rock",
+ "mood": "Dark",
+ "artist": "Silent Partner",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=712a11cf5689b55c",
+ "len": 111.883,
+ "popularity_percentile": 44,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChA3MTJhMTFjZjU2ODliNTVjEAAYAg%3D%3D&sigh=cStY0Bt-4LhE_ZQkg2fhzA",
+ "fp_ref_id": "712a11cf5689b55c",
+ "vid": "712a11cf5689b55c",
+ "title": "Hungry for Disaster",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "712a11cf5689b55c",
+ "license_type": 0,
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "streamid": "m1tKEJMLuMY3I0wq8xi6W3vov5oxq5z1cOxwJeFfpyMv-ZlwFZ6W6kEFhyyRKUHj",
+ "category": ""
+}

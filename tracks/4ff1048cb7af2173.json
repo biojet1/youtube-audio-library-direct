@@ -1,0 +1,30 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "artist_channel_url": "/channel/UCJsfRTW3Xi0H_8lcGRAKjyA",
+ "favorite": false,
+ "reference_vid": "4ff1048cb7af2173",
+ "category": "",
+ "title": "Lullaby",
+ "display_genre": "Classical",
+ "instruments": [
+  "piano",
+  "electric piano"
+ ],
+ "genre": "Classical",
+ "display_mood": "Calm",
+ "streamid": "uh6FfO-10bkaCmgT_ZJwQ7wEqs_Y5vRxkLr5TDGsuDWo3DXwv94x9u7t467gyhDb",
+ "album": "None",
+ "len": 164,
+ "artist": "JVNA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ff1048cb7af2173",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCBChIWChA0ZmYxMDQ4Y2I3YWYyMTczEAAYAg%3D%3D&sigh=8yN0UxzfnE4_i4OA6A9TSA",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 99,
+ "vid": "4ff1048cb7af2173",
+ "is_new_track": false,
+ "mood": "Calm",
+ "fp_ref_id": "4ff1048cb7af2173",
+ "license_type": 1,
+ "track_url": ""
+}

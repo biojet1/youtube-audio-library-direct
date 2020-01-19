@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 163,
+ "display_mood": "Funky",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "fp_ref_id": "10ce92d66fc5dd12",
+ "reference_vid": "10ce92d66fc5dd12",
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "license_type": 1,
+ "streamid": "0CDns5Zgt6D8WDGgqYg15WNw980m3tMPOHsYz4n-l1lYhIKE1_oeXLoJU5VLoZM5",
+ "vid": "10ce92d66fc5dd12",
+ "mood": "Funky",
+ "artist": "The Whole Other",
+ "display_genre": "Rock",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj5CRIWChAxMGNlOTJkNjZmYzVkZDEyEAAYAg%3D%3D&sigh=83NNKLfhJ8f7CG-C5nxETQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=10ce92d66fc5dd12",
+ "category": "",
+ "title": "The Getaway",
+ "genre": "Rock",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Keyboards",
+  "Synth",
+  "Electric Guitar"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "display_genre": "Dance & Electronic",
+ "license_type": 1,
+ "genre": "Dance & Electronic",
+ "artist_url": "",
+ "vid": "5b636fb7dbec8afd",
+ "artist": "Coyote Hearing",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "5b636fb7dbec8afd",
+ "artist_channel_url": "/channel/UC8cr5jzteStl_1C3t1ie0wQ",
+ "instruments": [
+  "Drum Machine",
+  "Synth"
+ ],
+ "album": "None",
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiMCRIWChA1YjYzNmZiN2RiZWM4YWZkEAAYAg%3D%3D&sigh=9zQiG9tEDjAlg1ZgM9eRKw",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "mood": "Calm",
+ "title": "Summer Heat",
+ "reference_vid": "5b636fb7dbec8afd",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5b636fb7dbec8afd",
+ "track_url": "",
+ "len": 149.566,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "huZXU6Pvky6JEKeVeMYi0EbK01SRQ1HX1NZgdb1kwC6A49ZNNci7YLnANK6hI6O8"
+}

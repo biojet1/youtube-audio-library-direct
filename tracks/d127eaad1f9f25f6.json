@@ -1,0 +1,30 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "favorite": false,
+ "len": 109.066,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d127eaad1f9f25f6",
+ "category": "",
+ "streamid": "QOQWTWt2mRTvutSKq4YZ7FWa4qfeLfoMUx7rmAVuLKwERinB5LxmSj8HuwtA3MfB",
+ "fp_ref_id": "d127eaad1f9f25f6",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChBkMTI3ZWFhZDFmOWYyNWY2EAAYAg%3D%3D&sigh=4yNQwITIg1-C_Zu-p2pO4g",
+ "popularity_percentile": 0,
+ "reference_vid": "d127eaad1f9f25f6",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "is_new_track": false,
+ "vid": "d127eaad1f9f25f6",
+ "display_genre": "Reggae",
+ "track_url": "",
+ "title": "Caribbean Steel Drum Happiness",
+ "downloadable": true,
+ "genre": "Reggae",
+ "artist": "Doug Maxwell"
+}

@@ -1,0 +1,33 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "mood": "Dramatic",
+ "instruments": [
+  "synth",
+  "808",
+  "mallets",
+  "bass",
+  "drums"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "6df44885074237df",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChA2ZGY0NDg4NTA3NDIzN2RmEAAYAg%3D%3D&sigh=xxPXp5toiudRnNcuZbU09w",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCdUFOWuiZxD9RYnYSq1Xm0Q",
+ "category": "",
+ "genre": "Hip Hop & Rap",
+ "reference_vid": "6df44885074237df",
+ "downloadable": true,
+ "streamid": "pJe8ndlTT1jRfDj2nwNnXRui1U89h2I8iG5AFhoAgL2kY1Hpp_0i_ywunFokTp7a",
+ "track_url": "",
+ "vid": "6df44885074237df",
+ "len": 148,
+ "license_type": 1,
+ "title": "Aboan",
+ "is_new_track": false,
+ "artist": "Cxdy",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6df44885074237df",
+ "artist_url": "https://www.youtube.com/channel/UCdUFOWuiZxD9RYnYSq1Xm0Q"
+}

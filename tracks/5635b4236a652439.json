@@ -1,0 +1,30 @@
+{
+ "favorite": false,
+ "artist_url": "http://incompetech.com/",
+ "display_mood": "Dramatic",
+ "reference_vid": "5635b4236a652439",
+ "streamid": "F6Nn8NunV8kxnGGIO_rk6Z8o2kDOEqxZp3-xC6d1QVd9FD2O_Q-yy7zlFDsRZaXB",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCRDxIWChA1NjM1YjQyMzZhNjUyNDM5EAAYAg%3D%3D&sigh=karYdrlsx68HINRCyo_gjg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5635b4236a652439",
+ "len": 248.95,
+ "genre": "Pop",
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "display_category": "",
+ "fp_ref_id": "5635b4236a652439",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Jalandhar",
+ "mood": "Dramatic",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Kevin MacLeod",
+ "popularity_percentile": 58,
+ "license_type": 6,
+ "display_genre": "Pop",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400018",
+ "vid": "5635b4236a652439"
+}

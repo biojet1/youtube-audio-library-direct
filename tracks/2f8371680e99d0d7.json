@@ -1,0 +1,33 @@
+{
+ "title": "Heat Wave",
+ "is_new_track": false,
+ "artist": "John Deley and the 41 Players",
+ "streamid": "Ao8AduKKbF9GpEOGCuwOk3O8IPQebyfGps-1s9LFNXBEIGc2xw6gYP5AbjVusWQI",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "R&B & Soul",
+ "vid": "2f8371680e99d0d7",
+ "display_mood": "Happy",
+ "len": 170.583,
+ "display_genre": "R&B & Soul",
+ "downloadable": true,
+ "reference_vid": "2f8371680e99d0d7",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Piano",
+  "Organ",
+  "Drums"
+ ],
+ "category": "",
+ "mood": "Happy",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2f8371680e99d0d7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChAyZjgzNzE2ODBlOTlkMGQ3EAAYAg%3D%3D&sigh=ZCKpTbdLdjjFM47S2FzezA",
+ "favorite": false,
+ "fp_ref_id": "2f8371680e99d0d7",
+ "album": "None",
+ "popularity_percentile": 18,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

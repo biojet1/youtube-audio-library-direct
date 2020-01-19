@@ -1,0 +1,30 @@
+{
+ "mood": "Sad",
+ "artist": "Kevin MacLeod",
+ "vid": "6559c1fe0352c899",
+ "display_category": "",
+ "streamid": "_tcgmkHpRi3I6K3plBmznCK7g0AhTHC2X-l9ndeEoKZ6T9iGlajL_ylcJsk7o-Hg",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100259",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6559c1fe0352c899",
+ "fp_ref_id": "6559c1fe0352c899",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCWAxIWChA2NTU5YzFmZTAzNTJjODk5EAAYAg%3D%3D&sigh=cRyavP0PSfgQB_HHFBraJQ",
+ "display_genre": "Cinematic",
+ "len": 52.383,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Organ",
+  "Synth"
+ ],
+ "reference_vid": "6559c1fe0352c899",
+ "title": "Disconcerned",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "display_mood": "Sad",
+ "popularity_percentile": 52
+}

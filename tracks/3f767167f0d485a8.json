@@ -1,0 +1,30 @@
+{
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDZDBIWChAzZjc2NzE2N2YwZDQ4NWE4EAAYAg%3D%3D&sigh=TEPG1m7fzgPi_7WQWxF-IQ",
+ "instruments": [
+  "drums",
+  "synth"
+ ],
+ "display_mood": "Dramatic",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "vid": "3f767167f0d485a8",
+ "reference_vid": "3f767167f0d485a8",
+ "genre": "Dance & Electronic",
+ "popularity_percentile": 25,
+ "display_genre": "Dance & Electronic",
+ "favorite": false,
+ "track_url": "",
+ "title": "Runner",
+ "downloadable": true,
+ "category": "",
+ "streamid": "ZTdGZ1Dq2VYtoDcaM5TSqch95NYBT7GdJZwWAAcDMhD7UyiPwZXmU1DqtGyFTR4u",
+ "fp_ref_id": "3f767167f0d485a8",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=3f767167f0d485a8",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "mood": "Dramatic",
+ "len": 208.583
+}

@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "22c99f2e8070a53a",
+ "track_url": "",
+ "fp_ref_id": "22c99f2e8070a53a",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Gunnar Olsen",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "reference_vid": "22c99f2e8070a53a",
+ "display_mood": "Dark",
+ "len": 134.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAyMmM5OWYyZTgwNzBhNTNhEAAYAg%3D%3D&sigh=QYVDdZq2c4Y8xT1Aygh9yw",
+ "popularity_percentile": 13,
+ "streamid": "a6Mixtz02sY3D-Xj1AGBYv-TCFcUhnnC6QyosvLbmB1ZVX2IXfyIV05XADS4Az95",
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap",
+ "category": "",
+ "title": "Champ",
+ "genre": "Hip Hop & Rap",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22c99f2e8070a53a"
+}

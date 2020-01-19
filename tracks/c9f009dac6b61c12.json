@@ -1,0 +1,32 @@
+{
+ "vid": "c9f009dac6b61c12",
+ "display_mood": "Angry",
+ "title": "Fast Anxiety",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBjOWYwMDlkYWM2YjYxYzEyEAAYAg%3D%3D&sigh=uvqF2GwUXWZB_QBNVxX6vQ",
+ "favorite": false,
+ "display_genre": "Rock",
+ "mood": "Angry",
+ "artist": "Jeremy Korpas",
+ "reference_vid": "c9f009dac6b61c12",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c9f009dac6b61c12",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 99,
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "genre": "Rock",
+ "artist_channel_url": "/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "album": "None",
+ "streamid": "DBrPQ8CkGEL5w1Fon3mn-Maxzuxx53GM0uPw3IVcsZnyiGm9A9fsLgaXj_Eu64LD",
+ "artist_url": "https://www.youtube.com/channel/UCbRZuQ5ampehni5RYpJlYOw",
+ "len": 144,
+ "fp_ref_id": "c9f009dac6b61c12",
+ "license_type": 1,
+ "is_new_track": false
+}

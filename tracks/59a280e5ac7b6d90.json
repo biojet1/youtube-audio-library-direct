@@ -1,0 +1,32 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "59a280e5ac7b6d90",
+ "downloadable": true,
+ "fp_ref_id": "59a280e5ac7b6d90",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=59a280e5ac7b6d90",
+ "album": "None",
+ "artist": "Silent Partner",
+ "display_mood": "Bright",
+ "streamid": "NeUHp6txLpPE_pYU-TMWwisk0KGfoDdd7xBvZOAeaugvkfzmA0n84m5Qbd9jCLAm",
+ "mood": "Bright",
+ "title": "Clear Eyes",
+ "genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Rock",
+ "reference_vid": "59a280e5ac7b6d90",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 153.583,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChA1OWEyODBlNWFjN2I2ZDkwEAAYAg%3D%3D&sigh=Z4816s7hsUA-RVC0zXLWkA"
+}

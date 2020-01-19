@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "mood": "Inspirational",
+ "len": 88.583,
+ "downloadable": true,
+ "is_new_track": false,
+ "streamid": "BQspA7jCtujSXM18xy5qcjKlSxf_LcebNHzSMFHxg8mrFYUB4MZsFfFI3j1qx0zx",
+ "popularity_percentile": 90,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCvBRIWChBlNGFiMzVhOTRmMDY5MDFhEAAYAg%3D%3D&sigh=ZMCBrfvnLC4ss08UyFJ02w",
+ "reference_vid": "e4ab35a94f06901a",
+ "title": "Never Better",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4ab35a94f06901a",
+ "vid": "e4ab35a94f06901a",
+ "artist_url": "",
+ "artist": "Jingle Punks",
+ "fp_ref_id": "e4ab35a94f06901a",
+ "display_mood": "Inspirational",
+ "category": "",
+ "album": "None",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "artist_channel_url": null,
+ "favorite": false,
+ "display_genre": "Rock",
+ "license_type": 0,
+ "genre": "Rock"
+}

@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "cb4d5f7f0974dbfa",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cb4d5f7f0974dbfa",
+ "popularity_percentile": 95,
+ "vid": "cb4d5f7f0974dbfa",
+ "streamid": "JzYFi_t2Ag4zgnbCSpsmo33nlXV8-BOEdlk4Qfek4jU2zb4Osd0cEgqAbGhezXXZ",
+ "artist": "Twin Musicom",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBjYjRkNWY3ZjA5NzRkYmZhEAAYAg%3D%3D&sigh=t5xnR_ucw5HB-I8nfAPn7A",
+ "display_category": "",
+ "title": "Hero's Theme",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "reference_vid": "cb4d5f7f0974dbfa",
+ "artist_url": "http://www.twinmusicom.org",
+ "track_url": "http://www.twinmusicom.org/song/280/heros-theme",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Piano"
+ ],
+ "len": 102.783,
+ "category": ""
+}

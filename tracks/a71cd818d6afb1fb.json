@@ -1,0 +1,33 @@
+{
+ "artist": "Jesse Gallagher",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a71cd818d6afb1fb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBhNzFjZDgxOGQ2YWZiMWZiEAAYAg%3D%3D&sigh=NjwntSgJBf6ADYK8NunWRQ",
+ "genre": "Country & Folk",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "album": "None",
+ "track_url": "",
+ "len": 144,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCD5hjK3sDzk2W-jw9roHuVw",
+ "vid": "a71cd818d6afb1fb",
+ "streamid": "uZH1HMEgAtbfs7Fi15MvPkKyLmq7FaeuI8bKyYxRoNdgyI1lIRxFDo2jK1w0E5Ec",
+ "title": "Horses & Trains",
+ "artist_url": "https://www.youtube.com/channel/UCD5hjK3sDzk2W-jw9roHuVw",
+ "mood": "Bright",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "popularity_percentile": 99,
+ "reference_vid": "a71cd818d6afb1fb",
+ "instruments": [
+  "drums",
+  "banjo",
+  "acoustic guitar",
+  "electric guitar",
+  "bass"
+ ],
+ "fp_ref_id": "a71cd818d6afb1fb",
+ "license_type": 1
+}

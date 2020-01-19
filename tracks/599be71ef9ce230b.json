@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "599be71ef9ce230b",
+ "downloadable": true,
+ "fp_ref_id": "599be71ef9ce230b",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=599be71ef9ce230b",
+ "album": "None",
+ "artist": "Huma-Huma",
+ "display_mood": "Bright",
+ "streamid": "4oarRk_O3RXrtCfNAt2X8PZuHnoYodhQG96P9WTJKS5GtZa8LeyoeSjXBHPIu2CL",
+ "mood": "Bright",
+ "title": "First Day",
+ "genre": "Pop",
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Bass"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Pop",
+ "reference_vid": "599be71ef9ce230b",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 118.816,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChA1OTliZTcxZWY5Y2UyMzBiEAAYAg%3D%3D&sigh=45U6tRN9LzteJN8s6alf1w"
+}

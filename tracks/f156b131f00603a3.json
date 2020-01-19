@@ -1,0 +1,33 @@
+{
+ "mood": "Calm",
+ "reference_vid": "f156b131f00603a3",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChBmMTU2YjEzMWYwMDYwM2EzEAAYAg%3D%3D&sigh=gw7FoF3s4IBrQZPVYLgBWA",
+ "display_mood": "Calm",
+ "title": "The Clean Up Man",
+ "artist": "Dan Lebowitz",
+ "is_new_track": false,
+ "len": 141,
+ "genre": "Country & Folk",
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "f156b131f00603a3",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f156b131f00603a3",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "artist_url": "",
+ "license_type": 1,
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Weissenborn",
+  "Bass",
+  "Percussion"
+ ],
+ "fp_ref_id": "f156b131f00603a3",
+ "streamid": "AEoBi7H0sdJo466CSEi4ZwMyi4AheAGu854x5l9wC1v5Y2OAYukAg7VUaiVkAt9A"
+}

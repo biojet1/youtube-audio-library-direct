@@ -1,0 +1,30 @@
+{
+ "vid": "500ac159dbee6145",
+ "downloadable": true,
+ "favorite": false,
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "len": 115.983,
+ "artist_channel_url": null,
+ "fp_ref_id": "500ac159dbee6145",
+ "display_genre": "Cinematic",
+ "artist": "Twin Musicom",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChA1MDBhYzE1OWRiZWU2MTQ1EAAYAg%3D%3D&sigh=auI0M2gg_RY2Qs0GfGeAhA",
+ "display_mood": "Dark",
+ "display_category": "",
+ "title": "A Dream Within a Dream",
+ "album": "None",
+ "reference_vid": "500ac159dbee6145",
+ "mood": "Dark",
+ "track_url": "http://www.twinmusicom.org/song/301/a-dream-within-a-dream",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=500ac159dbee6145",
+ "is_new_track": false,
+ "license_type": 6,
+ "artist_url": "http://www.twinmusicom.org",
+ "popularity_percentile": 55,
+ "genre": "Cinematic",
+ "streamid": "yUGL0ZftE2a5wPxLHRMQjghpdKqpqEJB5FwmB89qDquGsaolDNIgaU6kOvmflZIi"
+}

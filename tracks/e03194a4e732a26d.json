@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "drums",
+  "bass",
+  "piano",
+  "electric guitar"
+ ],
+ "album": "None",
+ "artist": "Silent Partner",
+ "downloadable": true,
+ "mood": "Romantic",
+ "display_mood": "Romantic",
+ "len": 120.883,
+ "reference_vid": "e03194a4e732a26d",
+ "fp_ref_id": "e03194a4e732a26d",
+ "display_genre": "R&B & Soul",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "track_url": "",
+ "vid": "e03194a4e732a26d",
+ "category": "",
+ "title": "Lake Eerie",
+ "genre": "R&B & Soul",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e03194a4e732a26d",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBlMDMxOTRhNGU3MzJhMjZkEAAYAg%3D%3D&sigh=Rr29EOGZ0qM56bgTdwUySg",
+ "license_type": 0,
+ "popularity_percentile": 87,
+ "streamid": "9hjLu1rJSifHv6V8xUL23sGMbmK8okqPpf0kYNJV-d9zNdWNtS8px73nXqMOWeVb"
+}

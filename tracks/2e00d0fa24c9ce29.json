@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "2e00d0fa24c9ce29",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Classical",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2e00d0fa24c9ce29",
+ "popularity_percentile": 95,
+ "vid": "2e00d0fa24c9ce29",
+ "streamid": "JQsPA5xxlOJ8fq7pVCwXdvTwjk7hf0XyKVdHktK9UqwBLHc3fZ4euLBRf14pRKjl",
+ "artist": "Kevin MacLeod",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCLBtEhYKEDJlMDBkMGZhMjRjOWNlMjkQABgC&sigh=QQGKl4kD6WdvOv77qSsR_w",
+ "display_category": "",
+ "title": "Light Sting",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Inspirational",
+ "display_genre": "Classical",
+ "reference_vid": "2e00d0fa24c9ce29",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100433",
+ "instruments": [
+  "Piano",
+  "Synth"
+ ],
+ "len": 14.816,
+ "category": ""
+}

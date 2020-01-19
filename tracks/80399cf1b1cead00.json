@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Calm",
+ "genre": "Ambient",
+ "streamid": "7bu0EkAZ-tJrCcULagt4PJoQK27D1wycSEtgswA6mPh_ZychLbcfTB1dfQbnUsf1",
+ "fp_ref_id": "80399cf1b1cead00",
+ "artist": "Chris Zabriskie",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjOLBIWChA4MDM5OWNmMWIxY2VhZDAwEAAYAg%3D%3D&sigh=NgWjBc285JQin6i5Y157oQ",
+ "mood": "Calm",
+ "vid": "80399cf1b1cead00",
+ "display_genre": "Ambient",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=80399cf1b1cead00",
+ "instruments": [
+  "Piano",
+  "Synth"
+ ],
+ "album": "None",
+ "reference_vid": "80399cf1b1cead00",
+ "track_url": "http://chriszabriskie.com/uvp/",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 731.15,
+ "category": "",
+ "title": "Undercover Vampire Policeman"
+}

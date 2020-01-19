@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100796",
+ "artist_channel_url": null,
+ "len": 204.083,
+ "mood": "Funky",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9eea4dc0f618dc2d",
+ "title": "Breakdown - Take the Lead",
+ "streamid": "Zg1flrj9AvpLeGGPVs4YY8fePAJiK52g1e86OD44yD260smk-U9bVbnXC-NhlfQQ",
+ "genre": "Rock",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC5DBIWChA5ZWVhNGRjMGY2MThkYzJkEAAYAg%3D%3D&sigh=GNPe-cOVEjuF7GutSgDPfw",
+ "license_type": 6,
+ "fp_ref_id": "9eea4dc0f618dc2d",
+ "display_mood": "Funky",
+ "vid": "9eea4dc0f618dc2d",
+ "artist_url": "http://incompetech.com/",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "Drums",
+  "Bass"
+ ],
+ "display_genre": "Rock",
+ "favorite": false,
+ "reference_vid": "9eea4dc0f618dc2d"
+}

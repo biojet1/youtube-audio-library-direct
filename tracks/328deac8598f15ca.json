@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "http://audionautix.com/",
+ "display_genre": "Cinematic",
+ "genre": "Cinematic",
+ "mood": "Dark",
+ "artist": "Audionautix",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=328deac8598f15ca",
+ "len": 72.416,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCyBBIWChAzMjhkZWFjODU5OGYxNWNhEAAYAg%3D%3D&sigh=vHu9-w707scfURiauefDfw",
+ "fp_ref_id": "328deac8598f15ca",
+ "vid": "328deac8598f15ca",
+ "title": "The Deadly Year",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "",
+ "reference_vid": "328deac8598f15ca",
+ "license_type": 6,
+ "display_mood": "Dark",
+ "is_new_track": false,
+ "instruments": [
+  "Strings",
+  "Synth"
+ ],
+ "streamid": "qU5h5d3-O61-qD6NgpCp__fs71LSbClUVp8tvj_6y1icKS7wzdVheyhMds3mg8EE",
+ "category": ""
+}

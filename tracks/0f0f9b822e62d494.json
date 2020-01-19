@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 7,
+ "license_type": 0,
+ "vid": "0f0f9b822e62d494",
+ "fp_ref_id": "0f0f9b822e62d494",
+ "album": "None",
+ "streamid": "Sfw0CuZDC8qNx4FI5pZ9N4w51VRErRDxe6lLxWye9nBoqAmhjVw3Fle7H4rFp6lI",
+ "category": "",
+ "artist_channel_url": null,
+ "genre": "R&B & Soul",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "piano"
+ ],
+ "artist": "Silent Partner",
+ "display_mood": "Funky",
+ "mood": "Funky",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0f0f9b822e62d494",
+ "downloadable": true,
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChAwZjBmOWI4MjJlNjJkNDk0EAAYAg%3D%3D&sigh=tOSk6FghLhxsdMxlbbMjvw",
+ "artist_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "len": 150.183,
+ "reference_vid": "0f0f9b822e62d494",
+ "title": "Chess Pieces",
+ "favorite": false,
+ "track_url": ""
+}

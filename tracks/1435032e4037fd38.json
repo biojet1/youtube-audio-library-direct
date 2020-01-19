@@ -1,0 +1,30 @@
+{
+ "artist": "Kevin MacLeod",
+ "mood": "Dark",
+ "vid": "1435032e4037fd38",
+ "streamid": "tuP8_5CbIc_49MKxb8xcqQmgrubr2A98n7LAY4EOU6YawvwROpJAOcOFysk6KgRg",
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100747",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1435032e4037fd38",
+ "fp_ref_id": "1435032e4037fd38",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAxNDM1MDMyZTQwMzdmZDM4EAAYAg%3D%3D&sigh=0AXD_I-lLgLk21mgrJF9PQ",
+ "len": 183.683,
+ "display_genre": "Cinematic",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Cinematic",
+ "reference_vid": "1435032e4037fd38",
+ "title": "Dark Times",
+ "instruments": [
+  "Strings",
+  "Bass"
+ ],
+ "artist_url": "http://incompetech.com/",
+ "category": "",
+ "display_mood": "Dark",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 6
+}

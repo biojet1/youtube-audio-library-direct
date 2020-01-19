@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "5efd84d9cade269d",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "title": "Failing Defense",
+ "vid": "5efd84d9cade269d",
+ "mood": "Dramatic",
+ "display_genre": "Cinematic",
+ "len": 105.516,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChA1ZWZkODRkOWNhZGUyNjlkEAAYAg%3D%3D&sigh=htxY98F6MSsurxWlhEbcvA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5efd84d9cade269d",
+ "display_category": "",
+ "category": "",
+ "license_type": 6,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100726",
+ "streamid": "DMthWMdqbCczUgHxT2jpeDS0baIF7MmrVLquxixTA12Moq1GvT7F078av1v7ulpc",
+ "reference_vid": "5efd84d9cade269d",
+ "instruments": [
+  "Trumpet",
+  "Drums",
+  "Strings"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist_url": "http://incompetech.com/"
+}

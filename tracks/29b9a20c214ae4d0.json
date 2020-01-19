@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=29b9a20c214ae4d0",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Bright",
+ "artist": "Gunnar Olsen",
+ "len": 112.9,
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "xBDIzI6LtX1dUfTQX04bhveX5PXlPK3L8kNvBgCZAKlGJdCfp3xl_19pPx0qDvBu",
+ "category": "",
+ "title": "I'm Fly",
+ "display_mood": "Bright",
+ "favorite": false,
+ "reference_vid": "29b9a20c214ae4d0",
+ "genre": "Hip Hop & Rap",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAyOWI5YTIwYzIxNGFlNGQwEAAYAg%3D%3D&sigh=bj6DQBqV8RZkIDYLA928bQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "29b9a20c214ae4d0",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "29b9a20c214ae4d0"
+}

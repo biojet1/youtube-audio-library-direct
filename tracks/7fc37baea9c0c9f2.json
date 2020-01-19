@@ -1,0 +1,32 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "cHzaAYdd_eZ_LawHESwxeAqYhLXIoHwt0TSiDZQ8DBrfspvHiqjzsENM0lWu5_nb",
+ "len": 205.216,
+ "category": "",
+ "license_type": 6,
+ "title": "Roboskater",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "vid": "7fc37baea9c0c9f2",
+ "album": "None",
+ "mood": "Bright",
+ "artist": "Audionautix",
+ "favorite": false,
+ "display_genre": "Dance & Electronic",
+ "display_mood": "Bright",
+ "fp_ref_id": "7fc37baea9c0c9f2",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7fc37baea9c0c9f2",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "reference_vid": "7fc37baea9c0c9f2",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjBDBIWChA3ZmMzN2JhZWE5YzBjOWYyEAAYAg%3D%3D&sigh=KVwuVo_id6h8FsGYQw3DzA",
+ "artist_channel_url": null,
+ "artist_url": "http://audionautix.com/",
+ "popularity_percentile": 56
+}

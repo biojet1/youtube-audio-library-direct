@@ -1,0 +1,31 @@
+{
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 99,
+ "mood": "Sad",
+ "artist_url": "",
+ "is_new_track": false,
+ "track_url": "",
+ "reference_vid": "88e14b16f266d09d",
+ "display_category": "",
+ "fp_ref_id": "88e14b16f266d09d",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=88e14b16f266d09d",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "downloadable": true,
+ "display_genre": "Country & Folk",
+ "title": "Coming Home",
+ "favorite": false,
+ "license_type": 1,
+ "len": 123,
+ "display_mood": "Sad",
+ "instruments": [
+  "Acoustic Guitar",
+  "Percussion",
+  "Weissenborn"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjABxIWChA4OGUxNGIxNmYyNjZkMDlkEAAYAg%3D%3D&sigh=t00KY7CbIQuY0tMJBR32tA",
+ "streamid": "3E4jTP2mBScU9f5GQ48ePQIxwwi6M5w6nMk0JM5v2KIRBvjX67Pb2Xg-7Cms6QNx",
+ "genre": "Country & Folk",
+ "vid": "88e14b16f266d09d",
+ "artist": "Dan Lebowitz"
+}

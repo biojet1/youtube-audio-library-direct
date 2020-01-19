@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c4b0794110b50b62",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDcCxIWChBjNGIwNzk0MTEwYjUwYjYyEAAYAg%3D%3D&sigh=n_WsGTqSpa01KBEr7RjCTg",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "c4b0794110b50b62",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "display_genre": "Cinematic",
+ "vid": "c4b0794110b50b62",
+ "downloadable": true,
+ "title": "Spooky Ride",
+ "reference_vid": "c4b0794110b50b62",
+ "artist_url": "http://www.twinmusicom.org",
+ "len": 192.116,
+ "artist": "Twin Musicom",
+ "license_type": 6,
+ "track_url": "http://www.twinmusicom.org/song/250/spooky-ride",
+ "streamid": "VczRSgGEOW--cFsSRQW3RJA02Z_mIm65UNqT8jzGgIQAjGf65Dj9Rc2lU4xwxwlr",
+ "album": "None",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Organ",
+  "Piano",
+  "Strings"
+ ],
+ "genre": "Cinematic",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

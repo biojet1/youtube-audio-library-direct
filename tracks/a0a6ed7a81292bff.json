@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "license_type": 1,
+ "is_new_track": false,
+ "favorite": false,
+ "vid": "a0a6ed7a81292bff",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDeBRIWChBhMGE2ZWQ3YTgxMjkyYmZmEAAYAg%3D%3D&sigh=HXwO8ISPPCAh3IsGzyjMSQ",
+ "display_genre": "Jazz & Blues",
+ "track_url": "",
+ "fp_ref_id": "a0a6ed7a81292bff",
+ "downloadable": true,
+ "mood": "Happy",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass",
+  "electric guitar"
+ ],
+ "title": "Ella Vater",
+ "artist_channel_url": "/channel/UCTdSDPjB1kle7puRKAuHP_g",
+ "category": "",
+ "popularity_percentile": 99,
+ "reference_vid": "a0a6ed7a81292bff",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a0a6ed7a81292bff",
+ "artist": "The Mini Vandals",
+ "display_mood": "Happy",
+ "genre": "Jazz & Blues",
+ "len": 94,
+ "streamid": "CA61fs6sncGo5vBZhi9JtkqIAiM4O3mbNm7eoizzj7S2NfvLT9uzPUJ_yt3lw4Hd"
+}

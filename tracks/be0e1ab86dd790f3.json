@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "be0e1ab86dd790f3",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Classical",
+ "category": "",
+ "artist": "Mendelssohn",
+ "display_category": "",
+ "streamid": "XXJUiMpvIZOO5eOtVX_tKzjZtYKgetO1paaQ5-cLvqpo45-SrhJgFC3JOmFPUsOH",
+ "license_type": 0,
+ "vid": "be0e1ab86dd790f3",
+ "popularity_percentile": 74,
+ "reference_vid": "be0e1ab86dd790f3",
+ "display_genre": "Classical",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 302.55,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLC3EhIWChBiZTBlMWFiODZkZDc5MGYzEAAYAg%3D%3D&sigh=HNoZ8UEUQSoklQKg8r0m3Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=be0e1ab86dd790f3",
+ "title": "Midsummer Night's Dream (by Mendelssohn)"
+}

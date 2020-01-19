@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f83c90fb4cf198f7",
+ "fp_ref_id": "f83c90fb4cf198f7",
+ "len": 112.399,
+ "artist": "Text Me Records / Bobby Renz",
+ "mood": "Bright",
+ "reference_vid": "f83c90fb4cf198f7",
+ "vid": "f83c90fb4cf198f7",
+ "title": "Jungles",
+ "downloadable": true,
+ "genre": "Rock",
+ "instruments": [
+  "Organ",
+  "Bass",
+  "Drums",
+  "Guitar"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCeHQclShyBRQiCjPTGBFWCQ",
+ "streamid": "tZuLFtvRkMniqTB_ZhBUvy3NQzb1bUyQX6LLl9VNsWEkUqc_eL0g8Te7Z7HYJ4e8",
+ "display_genre": "Rock",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChBmODNjOTBmYjRjZjE5OGY3EAAYAg%3D%3D&sigh=OfGdf9SAHFC2UpBs9T7a3g"
+}

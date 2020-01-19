@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ab762246aa880c0e",
+ "album": "None",
+ "popularity_percentile": 67,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBhYjc2MjI0NmFhODgwYzBlEAAYAg%3D%3D&sigh=1IaOt9X07dZLMh8lpro-Sg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ab762246aa880c0e",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Hip Hop & Rap",
+ "instruments": [
+  "bass",
+  "drums",
+  "electric guitar",
+  "synth"
+ ],
+ "reference_vid": "ab762246aa880c0e",
+ "category": "",
+ "len": 102.55,
+ "vid": "ab762246aa880c0e",
+ "display_mood": "Dramatic",
+ "artist_channel_url": null,
+ "mood": "Dramatic",
+ "license_type": 0,
+ "genre": "Hip Hop & Rap",
+ "title": "Urban Tough",
+ "is_new_track": false,
+ "artist": "Media Right Productions",
+ "streamid": "0dpCMk51kXoxuzupL8hwdVAc9w0MZKcJ-_mrOwdp4luDa-Wvhs4Rt_sCPdOiBgf8"
+}

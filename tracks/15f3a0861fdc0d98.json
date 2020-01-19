@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "mood": "Dramatic",
+ "instruments": [
+  "synth",
+  "808",
+  "bass",
+  "drums"
+ ],
+ "display_mood": "Dramatic",
+ "fp_ref_id": "15f3a0861fdc0d98",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChAxNWYzYTA4NjFmZGMwZDk4EAAYAg%3D%3D&sigh=2npW60FIdDttgLn2LAbtTA",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "category": "",
+ "genre": "Hip Hop & Rap",
+ "reference_vid": "15f3a0861fdc0d98",
+ "downloadable": true,
+ "streamid": "GJt7uF1ZuaTURT3B_dOwk0CBEsxH6zTsCemsY7i_reOo4DnXLJSvyJGNXgm3BUKF",
+ "track_url": "",
+ "vid": "15f3a0861fdc0d98",
+ "len": 186,
+ "license_type": 1,
+ "title": "Ruins Of The World",
+ "is_new_track": false,
+ "artist": "Verified Picasso",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=15f3a0861fdc0d98",
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

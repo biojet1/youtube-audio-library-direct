@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "vid": "5dd775ff2b416fff",
+ "license_type": 1,
+ "artist_channel_url": "/channel/UCQwack29qZerCwaELoR3bLg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5dd775ff2b416fff",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjdCBIWChA1ZGQ3NzVmZjJiNDE2ZmZmEAAYAg%3D%3D&sigh=RxK7StH1VbuD1WhaRCkMQQ",
+ "is_new_track": false,
+ "reference_vid": "5dd775ff2b416fff",
+ "display_mood": "Dark",
+ "favorite": false,
+ "category": "",
+ "title": "Dark Zephyr",
+ "streamid": "iYVg9F4xKPLb-2cl4C_U3aKqaPKLviwnjzvsOPmYfRy9iY-NnoHkS3ld_rdNj2qo",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCQwack29qZerCwaELoR3bLg",
+ "display_category": "",
+ "display_genre": "Hip Hop & Rap",
+ "len": 143,
+ "album": "None",
+ "genre": "Hip Hop & Rap",
+ "downloadable": true,
+ "mood": "Dark",
+ "artist": "Audio Hertz",
+ "instruments": [
+  "bass",
+  "808",
+  "synth",
+  "drums"
+ ],
+ "fp_ref_id": "5dd775ff2b416fff"
+}

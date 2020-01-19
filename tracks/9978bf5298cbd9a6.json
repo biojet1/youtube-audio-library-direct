@@ -1,0 +1,31 @@
+{
+ "genre": "Country & Folk",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Silent Partner",
+ "fp_ref_id": "9978bf5298cbd9a6",
+ "display_mood": "Bright",
+ "display_genre": "Country & Folk",
+ "vid": "9978bf5298cbd9a6",
+ "mood": "Bright",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "bass"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChA5OTc4YmY1Mjk4Y2JkOWE2EAAYAg%3D%3D&sigh=OsFhaw8OsfElPA4092TyAg",
+ "license_type": 0,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Swamp Shuffle",
+ "category": "",
+ "len": 120.516,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9978bf5298cbd9a6",
+ "reference_vid": "9978bf5298cbd9a6",
+ "streamid": "qsvRbiEOR6SGHh9FaHg65ukGbU-_7uBdtKAPgyxbxGxHvKu3PDw5KUrxzbpt0Me3"
+}

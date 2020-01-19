@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://incompetech.com/",
+ "favorite": false,
+ "streamid": "0ytWb1-o0OUM-saKICCrnyvsWXGbbZX8U5yhecQuvSpmAUHnOYfXHwFaGNFgzqZn",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c81b2e03645c3d7c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjNCBIWChBjODFiMmUwMzY0NWMzZDdjEAAYAg%3D%3D&sigh=GhZy8OcAdZRuVunfgToaFQ",
+ "vid": "c81b2e03645c3d7c",
+ "display_category": "",
+ "title": "BTS Prolog",
+ "album": "None",
+ "mood": "Dramatic",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "reference_vid": "c81b2e03645c3d7c",
+ "len": 141.05,
+ "genre": "Cinematic",
+ "popularity_percentile": 33,
+ "fp_ref_id": "c81b2e03645c3d7c",
+ "track_url": "http://freepd.com/Unclassified/BTS%20Prolog",
+ "display_genre": "Cinematic",
+ "license_type": 6,
+ "instruments": [
+  "Strings",
+  "Synth"
+ ]
+}

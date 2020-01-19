@@ -1,0 +1,33 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChBiYTE4ZDU3M2I3MWI4YzgzEAAYAg%3D%3D&sigh=BKLI7p9lRDcSQGZZP6eRdA",
+ "display_category": "",
+ "display_mood": "Inspirational",
+ "album": "None",
+ "vid": "ba18d573b71b8c83",
+ "downloadable": true,
+ "reference_vid": "ba18d573b71b8c83",
+ "favorite": false,
+ "fp_ref_id": "ba18d573b71b8c83",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ba18d573b71b8c83",
+ "genre": "Rock",
+ "streamid": "QNfDbbxdSwdRL3x-ri0L9CgMlmg9IwllgBJvKmrlSLttdkC-7ldXbSuFjLEz_rf8",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "mood": "Inspirational",
+ "len": 144,
+ "display_genre": "Rock",
+ "license_type": 1,
+ "is_new_track": true,
+ "title": "Karma Cat",
+ "artist": "Dyalla",
+ "category": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion",
+  "synth"
+ ]
+}

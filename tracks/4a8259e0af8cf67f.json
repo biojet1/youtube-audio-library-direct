@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "display_category": "",
+ "popularity_percentile": 56,
+ "display_mood": "Calm",
+ "genre": "Ambient",
+ "streamid": "FYWO8K4-Nw1Z6QVwX06ybhLpMRaDxWiP79F3BZlX0bmiVy6vqE9kt2v3QXJS6mTy",
+ "fp_ref_id": "4a8259e0af8cf67f",
+ "artist": "Chris Zabriskie",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPDmFxIWChA0YTgyNTllMGFmOGNmNjdmEAAYAg%3D%3D&sigh=zs-8kFY2JKgvWfpVsitXdA",
+ "mood": "Calm",
+ "vid": "4a8259e0af8cf67f",
+ "display_genre": "Ambient",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4a8259e0af8cf67f",
+ "instruments": [
+  "Synth"
+ ],
+ "album": "None",
+ "reference_vid": "4a8259e0af8cf67f",
+ "track_url": "http://chriszabriskie.com/divider/",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 390.816,
+ "category": "",
+ "title": "CGI Snake"
+}

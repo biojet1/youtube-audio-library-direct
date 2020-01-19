@@ -1,0 +1,32 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChA0NWVhNmRjNmMyMjg0OGJmEAAYAg%3D%3D&sigh=1Zp2qTLwkjJAFL96ZrdkjA",
+ "display_genre": "Dance & Electronic",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "aZod6yyNJart2Z6uyJnG2deRYi7tI7mx7mCxoNuqVYv_ydd1Z0W7hbKyX9bGypWQ",
+ "artist": "Silent Partner",
+ "len": 112.25,
+ "genre": "Dance & Electronic",
+ "mood": "Funky",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "45ea6dc6c22848bf",
+ "reference_vid": "45ea6dc6c22848bf",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=45ea6dc6c22848bf",
+ "fp_ref_id": "45ea6dc6c22848bf",
+ "display_mood": "Funky",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "Move It or Lose It",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ]
+}

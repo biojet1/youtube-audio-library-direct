@@ -1,0 +1,31 @@
+{
+ "display_genre": "Rock",
+ "streamid": "KHKkEUrYrIIr_GRun3h7iqBpNYiYVXQ55qj4EcPRS_Zq3YA05eDu6XFMIvJKZ6er",
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "display_category": "",
+ "instruments": [
+  "bass",
+  "drums",
+  "electric guitar"
+ ],
+ "vid": "c7b3cacb7445818d",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiVBhIWChBjN2IzY2FjYjc0NDU4MThkEAAYAg%3D%3D&sigh=GpfHuU_cWDlichz5dT0X0w",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c7b3cacb7445818d",
+ "fp_ref_id": "c7b3cacb7445818d",
+ "artist": "Dan Lebowitz",
+ "category": "",
+ "display_mood": "Bright",
+ "len": 101,
+ "track_url": "",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "c7b3cacb7445818d",
+ "mood": "Bright",
+ "title": "Top Down",
+ "album": "None"
+}

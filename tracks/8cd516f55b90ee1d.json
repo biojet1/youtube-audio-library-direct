@@ -1,0 +1,33 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Dark",
+ "genre": "Cinematic",
+ "streamid": "66gSjEv88p-U1Sb-ImVqqaRKWXN5S30Wf_NozLzKBZ9nW8R5cddzNKys8aC8WdI4",
+ "fp_ref_id": "8cd516f55b90ee1d",
+ "artist": "Max Surla/Media Right Productions",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDhjZDUxNmY1NWI5MGVlMWQQABgC&sigh=zZtotTU4Vy9aatUkV9hBsw",
+ "mood": "Dark",
+ "vid": "8cd516f55b90ee1d",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8cd516f55b90ee1d",
+ "instruments": [
+  "Strings",
+  "Drums",
+  "Bass",
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "album": "None",
+ "reference_vid": "8cd516f55b90ee1d",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 7.616,
+ "category": "",
+ "title": "Day of Recon (Sting)"
+}

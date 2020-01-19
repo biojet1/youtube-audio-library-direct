@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "48cbfd9a4a0bae73",
+ "display_category": "",
+ "fp_ref_id": "48cbfd9a4a0bae73",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=48cbfd9a4a0bae73",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Funky",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC_BRIWChA0OGNiZmQ5YTRhMGJhZTczEAAYAg%3D%3D&sigh=czp4T16QtmjlAFddRBcsNA",
+ "streamid": "wHBlz469iDX1r2A0LfRIMtk9NBDK1MhAmOnqy_EdBO20zbB52y5s9h1gAspOhgsd",
+ "genre": "Jazz & Blues",
+ "vid": "48cbfd9a4a0bae73",
+ "artist": "Jingle Punks",
+ "display_genre": "Jazz & Blues",
+ "title": "Piri Piri",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 90.9,
+ "display_mood": "Funky",
+ "downloadable": true
+}

@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ac23c0e74e376fbf",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCdCxIWChBhYzIzYzBlNzRlMzc2ZmJmEAAYAg%3D%3D&sigh=KYs9RXmndjdLVLoKiEKXEw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ac23c0e74e376fbf",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "reference_vid": "ac23c0e74e376fbf",
+ "category": "",
+ "len": 184.016,
+ "vid": "ac23c0e74e376fbf",
+ "display_mood": "Angry",
+ "artist_channel_url": null,
+ "mood": "Angry",
+ "license_type": 0,
+ "genre": "Rock",
+ "title": "Loitering",
+ "is_new_track": false,
+ "artist": "Riot",
+ "streamid": "MS4DfKavB7DjgXBPd1x9wK_XRC_WWz1X9me-oTe6mBJca6fmwiBbuRmTuv4_RLOt"
+}

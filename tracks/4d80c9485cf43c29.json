@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 203.183,
+ "fp_ref_id": "4d80c9485cf43c29",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "jkRa7gftMdzajMCY01cppzkuEXQEP2asAf9ChYAMUVs315rjnyN02dEN2_2O4kQ1",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Cinematic",
+ "instruments": [
+  "Drums",
+  "Trumpet",
+  "Organ"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100657",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Dark",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4d80c9485cf43c29",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPixDBIWChA0ZDgwYzk0ODVjZjQzYzI5EAAYAg%3D%3D&sigh=_tzcNnyumdZnVmZJ46WOYA",
+ "title": "Final Count",
+ "reference_vid": "4d80c9485cf43c29",
+ "vid": "4d80c9485cf43c29"
+}

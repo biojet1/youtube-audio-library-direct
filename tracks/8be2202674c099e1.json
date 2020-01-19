@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "display_category": "",
+ "popularity_percentile": 55,
+ "display_mood": "Bright",
+ "genre": "Classical",
+ "streamid": "jMKj-13H5_xU_NojIMpala76JuQsp4ejLqXOZrqXEkmHjcO_XoyKOBMrPPx6V03w",
+ "fp_ref_id": "8be2202674c099e1",
+ "artist": "The U.S. Marine Corps Band",
+ "artist_channel_url": null,
+ "license_type": 1,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiYBRIWChA4YmUyMjAyNjc0YzA5OWUxEAAYAg%3D%3D&sigh=jCf6ya56OP2W7QWq40ox3A",
+ "mood": "Bright",
+ "vid": "8be2202674c099e1",
+ "display_genre": "Classical",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8be2202674c099e1",
+ "instruments": [
+  "Trumpet"
+ ],
+ "album": "None",
+ "reference_vid": "8be2202674c099e1",
+ "track_url": "",
+ "downloadable": true,
+ "is_new_track": false,
+ "len": 85.15,
+ "category": "",
+ "title": "National Emblem Inauguration Music"
+}

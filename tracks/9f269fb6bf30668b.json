@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9f269fb6bf30668b",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDrCxIWChA5ZjI2OWZiNmJmMzA2NjhiEAAYAg%3D%3D&sigh=8BUwbKYfSb0hlYFrB2xOOw",
+ "artist_channel_url": null,
+ "favorite": false,
+ "fp_ref_id": "9f269fb6bf30668b",
+ "mood": "Inspirational",
+ "display_mood": "Inspirational",
+ "is_new_track": false,
+ "display_genre": "Country & Folk",
+ "vid": "9f269fb6bf30668b",
+ "downloadable": true,
+ "title": "Sugar Pines",
+ "reference_vid": "9f269fb6bf30668b",
+ "artist_url": "",
+ "len": 194.883,
+ "artist": "Wes Hutchinson",
+ "license_type": 1,
+ "track_url": "",
+ "streamid": "HGk7szyc1JBXRUQLgpcufKSJpeodbdXHivtRCsswAikDf9yn0npJOn3xrL3hn-_Q",
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Organ"
+ ],
+ "genre": "Country & Folk",
+ "popularity_percentile": 63,
+ "display_category": ""
+}

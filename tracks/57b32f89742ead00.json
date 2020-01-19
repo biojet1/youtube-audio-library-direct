@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "license_type": 0,
+ "popularity_percentile": 35,
+ "is_new_track": false,
+ "vid": "57b32f89742ead00",
+ "downloadable": true,
+ "fp_ref_id": "57b32f89742ead00",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=57b32f89742ead00",
+ "album": "None",
+ "artist": "Jingle Punks",
+ "display_mood": "Dramatic",
+ "streamid": "ZhZB6ObnGBODjjRWde5z4JZ_yv5ea7VwH4MqyWyXvwMtdlIWjt0dCr6QVDQQ4oL-",
+ "mood": "Dramatic",
+ "title": "Alot For a Light",
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "track_url": "",
+ "favorite": false,
+ "display_genre": "Hip Hop & Rap",
+ "reference_vid": "57b32f89742ead00",
+ "category": "",
+ "artist_url": "",
+ "display_category": "",
+ "len": 92.016,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODOBRIWChA1N2IzMmY4OTc0MmVhZDAwEAAYAg%3D%3D&sigh=LLzDvMSnNPoLCYHfkdkWuw"
+}

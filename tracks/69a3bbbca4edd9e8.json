@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "is_new_track": false,
+ "len": 146.85,
+ "fp_ref_id": "69a3bbbca4edd9e8",
+ "artist_url": "http://incompetech.com/",
+ "streamid": "McZd9Em0KklqwYF0Z1i7iZ-F5GhoxwrBae9QNHPXTk3gCUSx22Gt8bjx8S45QEez",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100595",
+ "popularity_percentile": 50,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Dark",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=69a3bbbca4edd9e8",
+ "mood": "Dark",
+ "artist": "Kevin MacLeod",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND0CBIWChA2OWEzYmJiY2E0ZWRkOWU4EAAYAg%3D%3D&sigh=SCFIao6QYkK-BP4CSo1E5Q",
+ "title": "Dances and Dames",
+ "reference_vid": "69a3bbbca4edd9e8",
+ "vid": "69a3bbbca4edd9e8"
+}

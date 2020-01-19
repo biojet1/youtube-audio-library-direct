@@ -1,0 +1,33 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Country & Folk",
+ "streamid": "HIhpITA8Sx3QdSSBlEXAiszNPdBMT5IXz1BYCHCkowazsWVBLs8SYFdP9jPXV9-d",
+ "reference_vid": "5483a9a1cccf31f0",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5483a9a1cccf31f0",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "The 126ers",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND9BRIWChA1NDgzYTlhMWNjY2YzMWYwEAAYAg%3D%3D&sigh=QQFyFFzIR1qjnNS2wh5fIg",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "display_category": "",
+ "title": "My Sad Old Heart",
+ "album": "None",
+ "vid": "5483a9a1cccf31f0",
+ "downloadable": true,
+ "instruments": [
+  "Acoustic Guitar",
+  "Piano",
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "favorite": false,
+ "len": 98.45,
+ "fp_ref_id": "5483a9a1cccf31f0",
+ "display_genre": "Country & Folk"
+}

@@ -1,0 +1,31 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "vid": "5475b07066e6fde8",
+ "favorite": false,
+ "is_new_track": false,
+ "display_genre": "R&B & Soul",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOCnEhIWChA1NDc1YjA3MDY2ZTZmZGU4EAAYAg%3D%3D&sigh=RW-Mq-VTLNpsIyPPdM7j4A",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "artist_channel_url": "/channel/UChnxLLvzviaR5NeKOevB8iQ",
+ "track_url": "",
+ "streamid": "TRqXWUSqWp-UBcJv-ZHoyn7IAqiNsV2oZazkDKhPQjE9ef8odJGRz1sBMsjg5lw9",
+ "len": 300,
+ "genre": "R&B & Soul",
+ "artist": "Jeremy Blake",
+ "downloadable": true,
+ "license_type": 1,
+ "display_category": "",
+ "title": "Mia",
+ "instruments": [
+  "drums",
+  "synth",
+  "bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5475b07066e6fde8",
+ "reference_vid": "5475b07066e6fde8",
+ "popularity_percentile": 99,
+ "fp_ref_id": "5475b07066e6fde8",
+ "display_mood": "Bright"
+}

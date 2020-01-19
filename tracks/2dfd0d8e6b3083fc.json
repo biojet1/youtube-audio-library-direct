@@ -1,0 +1,31 @@
+{
+ "title": "Fortunate Note",
+ "is_new_track": false,
+ "artist": "Silent Partner",
+ "streamid": "RXDPBAwz2MP7HU8c7-T3Em_rCod2irON2EaPr3GMjty5qT8yV9hO0vNxgWY1yQru",
+ "artist_channel_url": null,
+ "license_type": 0,
+ "genre": "R&B & Soul",
+ "vid": "2dfd0d8e6b3083fc",
+ "display_mood": "Angry",
+ "len": 113.883,
+ "display_genre": "R&B & Soul",
+ "downloadable": true,
+ "reference_vid": "2dfd0d8e6b3083fc",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ"
+ ],
+ "category": "",
+ "mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2dfd0d8e6b3083fc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChAyZGZkMGQ4ZTZiMzA4M2ZjEAAYAg%3D%3D&sigh=ySV7O9wKqQqLXUQqzMxhkg",
+ "favorite": false,
+ "fp_ref_id": "2dfd0d8e6b3083fc",
+ "album": "None",
+ "popularity_percentile": 18,
+ "track_url": "",
+ "display_category": "",
+ "artist_url": ""
+}

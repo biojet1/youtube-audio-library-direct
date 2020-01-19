@@ -1,0 +1,30 @@
+{
+ "category": "",
+ "popularity_percentile": 85,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 120.416,
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dba67b479e82faa6",
+ "title": "The Great Avenger",
+ "streamid": "MJWvtnbRtmP59UfJE0DMMN6P3rK1spk12f4Aw-qBRy6xoUA9kryNwfTpnrNx-LAH",
+ "genre": "Cinematic",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCpBxIWChBkYmE2N2I0NzllODJmYWE2EAAYAg%3D%3D&sigh=QXb4M9VGQC19bh_hg-HzlA",
+ "license_type": 0,
+ "fp_ref_id": "dba67b479e82faa6",
+ "display_mood": "Dramatic",
+ "vid": "dba67b479e82faa6",
+ "artist_url": "",
+ "artist": "Silent Partner",
+ "instruments": [
+  "drums",
+  "strings"
+ ],
+ "display_genre": "Cinematic",
+ "favorite": false,
+ "reference_vid": "dba67b479e82faa6"
+}

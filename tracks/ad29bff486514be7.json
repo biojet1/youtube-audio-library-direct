@@ -1,0 +1,29 @@
+{
+ "is_new_track": false,
+ "popularity_percentile": 66,
+ "downloadable": true,
+ "vid": "ad29bff486514be7",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ad29bff486514be7",
+ "fp_ref_id": "ad29bff486514be7",
+ "genre": "Ambient",
+ "album": "None",
+ "title": "Departure - Ghostpocalypse",
+ "instruments": [
+  "Synth"
+ ],
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100668",
+ "display_mood": "Dark",
+ "streamid": "hxIDGvrGTC-jqHKNjV1oPeJhgt-G3Zwo-MJxBeHIriBQbVVj1CUOETIiZ53R_30R",
+ "artist": "Kevin MacLeod",
+ "mood": "Dark",
+ "category": "",
+ "artist_url": "http://incompetech.com/",
+ "reference_vid": "ad29bff486514be7",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjZBBIWChBhZDI5YmZmNDg2NTE0YmU3EAAYAg%3D%3D&sigh=LDKE40rSLsA7SSxnzem9cQ",
+ "display_category": "",
+ "len": 77.583,
+ "display_genre": "Ambient"
+}

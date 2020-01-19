@@ -1,0 +1,33 @@
+{
+ "display_genre": "Country & Folk",
+ "streamid": "BectQHWb0Dsm04reXodtQdwWyJg20XURU3nY2uammNlzLKmx69_HlW8VozI4W7tj",
+ "display_category": "",
+ "artist_channel_url": null,
+ "reference_vid": "4cc4992e01f4de43",
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Electric Guitar",
+  "Bass",
+  "Piano"
+ ],
+ "category": "",
+ "popularity_percentile": 30,
+ "license_type": 0,
+ "fp_ref_id": "4cc4992e01f4de43",
+ "genre": "Country & Folk",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChA0Y2M0OTkyZTAxZjRkZTQzEAAYAg%3D%3D&sigh=vHiHxentWeIy0b1W3_bkqA",
+ "artist_url": "",
+ "album": "None",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4cc4992e01f4de43",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Bright",
+ "artist": "Silent Partner",
+ "mood": "Bright",
+ "title": "Stomping Grounds",
+ "len": 140.166,
+ "vid": "4cc4992e01f4de43",
+ "track_url": ""
+}

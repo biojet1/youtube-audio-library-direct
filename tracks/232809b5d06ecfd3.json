@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDLGxIWChAyMzI4MDliNWQwNmVjZmQzEAAYAg%3D%3D&sigh=_MyVNCcT1ehdHQMZGDn4-Q",
+ "display_category": "",
+ "display_mood": "Calm",
+ "album": "None",
+ "vid": "232809b5d06ecfd3",
+ "downloadable": true,
+ "reference_vid": "232809b5d06ecfd3",
+ "favorite": false,
+ "fp_ref_id": "232809b5d06ecfd3",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=232809b5d06ecfd3",
+ "genre": "Ambient",
+ "streamid": "OzjXmInf70FRykokp5plmWImRYDqbBbSareBBOn230AR86llXSHVsY4hCOL_V8mM",
+ "popularity_percentile": 75,
+ "track_url": "http://chriszabriskie.com/vendaface/",
+ "mood": "Calm",
+ "len": 452.75,
+ "display_genre": "Ambient",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "The Theatrical Poster for Poltergeist III",
+ "artist": "Chris Zabriskie",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Synth"
+ ]
+}

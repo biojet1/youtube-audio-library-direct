@@ -1,0 +1,29 @@
+{
+ "display_mood": "Happy",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChAwNTA0ZDA1MTA3ZWZjMzNjEAAYAg%3D%3D&sigh=uhCwVFU3Z5WDAjgI_Ybq1w",
+ "instruments": [
+  "Piano"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 1,
+ "vid": "0504d05107efc33c",
+ "reference_vid": "0504d05107efc33c",
+ "popularity_percentile": 3,
+ "artist": "E's Jammy Jams",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0504d05107efc33c",
+ "mood": "Happy",
+ "genre": "Jazz & Blues",
+ "streamid": "QADppv2ZyLa3ttWwJdAydSITK6Z-1C8iR7scxzqXQ9kRAg0nv5g5CuDIzxV2zngq",
+ "title": "Darktown Strutters Ball",
+ "downloadable": true,
+ "category": "",
+ "len": 153.516,
+ "artist_url": "",
+ "display_genre": "Jazz & Blues",
+ "fp_ref_id": "0504d05107efc33c",
+ "album": "None"
+}

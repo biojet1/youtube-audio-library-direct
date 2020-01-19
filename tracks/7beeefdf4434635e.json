@@ -1,0 +1,32 @@
+{
+ "mood": "Inspirational",
+ "artist": "Dyalla",
+ "vid": "7beeefdf4434635e",
+ "display_category": "",
+ "streamid": "WUVd1QHX4FGvSsJG0lC4N1ELYUXNo6awjTi5weV67c9Df3GaP4rZFn7dXeLjiS5G",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7beeefdf4434635e",
+ "fp_ref_id": "7beeefdf4434635e",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChA3YmVlZWZkZjQ0MzQ2MzVlEAAYAg%3D%3D&sigh=CgsFtCmQ_Rbc0S_kz0wwrg",
+ "display_genre": "Dance & Electronic",
+ "len": 169,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "synth",
+  "drums",
+  "percussion",
+  "bass"
+ ],
+ "reference_vid": "7beeefdf4434635e",
+ "title": "Keep Going",
+ "genre": "Dance & Electronic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCs5ib8kDfUmFBrL1BiEivEA",
+ "license_type": 1,
+ "display_mood": "Inspirational",
+ "popularity_percentile": 99
+}

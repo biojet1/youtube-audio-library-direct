@@ -1,0 +1,30 @@
+{
+ "genre": "Classical",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "Audionautix",
+ "fp_ref_id": "f818da95cf9664eb",
+ "display_mood": "Dramatic",
+ "display_genre": "Classical",
+ "vid": "f818da95cf9664eb",
+ "mood": "Dramatic",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjLExIWChBmODE4ZGE5NWNmOTY2NGViEAAYAg%3D%3D&sigh=EGLW0lA8SI4uyAg76TyaIA",
+ "license_type": 6,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "Winter",
+ "category": "",
+ "len": 321.65,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f818da95cf9664eb",
+ "reference_vid": "f818da95cf9664eb",
+ "streamid": "YLR-XEnIH1wV-ZfGaWpRdoWMyJ_B4zBJOPW_9EYid2Sc0tCzZJtizOByClNcvbPr"
+}

@@ -1,0 +1,29 @@
+{
+ "category": "",
+ "popularity_percentile": 86,
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "artist_channel_url": null,
+ "len": 100.716,
+ "mood": "Calm",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c620e132f1bc1ed3",
+ "title": "Prelude No. 7",
+ "streamid": "IX1Rru6uPcfncQIYM3bbPsB7rzzk00LpYXVJjvAk-wtbUa2SOsIVcRY-fxxyuEVN",
+ "genre": "Classical",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCNBhIWChBjNjIwZTEzMmYxYmMxZWQzEAAYAg%3D%3D&sigh=V6v9m7UKAN-sY80DxhTyZw",
+ "license_type": 6,
+ "fp_ref_id": "c620e132f1bc1ed3",
+ "display_mood": "Calm",
+ "vid": "c620e132f1bc1ed3",
+ "artist_url": "http://chriszabriskie.com/",
+ "artist": "Chris Zabriskie",
+ "instruments": [
+  "Piano"
+ ],
+ "display_genre": "Classical",
+ "favorite": false,
+ "reference_vid": "c620e132f1bc1ed3"
+}

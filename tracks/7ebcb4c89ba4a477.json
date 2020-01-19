@@ -1,0 +1,31 @@
+{
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "display_mood": "Bright",
+ "vid": "7ebcb4c89ba4a477",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7ebcb4c89ba4a477",
+ "is_new_track": false,
+ "license_type": 0,
+ "mood": "Bright",
+ "display_genre": "Rock",
+ "fp_ref_id": "7ebcb4c89ba4a477",
+ "display_category": "",
+ "album": "None",
+ "artist_url": "",
+ "favorite": false,
+ "len": 63.483,
+ "track_url": "",
+ "category": "",
+ "streamid": "gtXOjLwHJifkC9yxOEGkfEFFVlwoCiQto9c24uoxrjXl0g2yhMRlTHGYKn05NEOp",
+ "title": "Ditch Diggin'",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjsAxIWChA3ZWJjYjRjODliYTRhNDc3EAAYAg%3D%3D&sigh=EpHrYUAQlPd3Bs15qpTXCA",
+ "popularity_percentile": 50,
+ "reference_vid": "7ebcb4c89ba4a477",
+ "artist": "Jingle Punks",
+ "genre": "Rock"
+}

@@ -1,0 +1,32 @@
+{
+ "license_type": 0,
+ "is_new_track": false,
+ "len": 170.016,
+ "fp_ref_id": "7c371536d5ced4b0",
+ "artist_url": "",
+ "streamid": "KCHOHgEgPmH675K875dh_769gcuGioSBvmDKavII3uf9PJ9swrFwtVJK8Q83WYkC",
+ "artist_channel_url": null,
+ "album": "None",
+ "genre": "Reggae",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "organ"
+ ],
+ "track_url": "",
+ "popularity_percentile": 49,
+ "downloadable": true,
+ "display_category": "",
+ "display_mood": "Funky",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7c371536d5ced4b0",
+ "mood": "Funky",
+ "artist": "Silent Partner",
+ "display_genre": "Reggae",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChA3YzM3MTUzNmQ1Y2VkNGIwEAAYAg%3D%3D&sigh=H2o8dtZm2pA_cfy8uof0zw",
+ "title": "True Love",
+ "reference_vid": "7c371536d5ced4b0",
+ "vid": "7c371536d5ced4b0"
+}

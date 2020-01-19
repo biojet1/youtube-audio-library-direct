@@ -1,0 +1,32 @@
+{
+ "artist": "John Deley",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=32a6e9248250b0fb",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjmChIWChAzMmE2ZTkyNDgyNTBiMGZiEAAYAg%3D%3D&sigh=VcqmKZn2XIsyUSgeIWxLPA",
+ "genre": "Jazz & Blues",
+ "category": "",
+ "is_new_track": false,
+ "display_mood": "Dramatic",
+ "album": "None",
+ "track_url": "",
+ "len": 177.65,
+ "display_category": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "vid": "32a6e9248250b0fb",
+ "streamid": "U05KWW_uCgA4O7_fe1W-uOao8OsCJvlv_AUbGLrXtHgc2asihAVuEi4BU83JFnxu",
+ "title": "Busted",
+ "artist_url": "",
+ "mood": "Dramatic",
+ "downloadable": true,
+ "display_genre": "Jazz & Blues",
+ "popularity_percentile": 20,
+ "reference_vid": "32a6e9248250b0fb",
+ "instruments": [
+  "Piano",
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "fp_ref_id": "32a6e9248250b0fb",
+ "license_type": 0
+}

@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e7853bc4b28058df",
+ "category": "",
+ "title": "9th Symphony, Finale (by Beethoven)",
+ "genre": "Classical",
+ "favorite": false,
+ "reference_vid": "e7853bc4b28058df",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODVVhIWChBlNzg1M2JjNGIyODA1OGRmEAAYAg%3D%3D&sigh=0mCjUBKIxrMxVri0o98NTQ",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "e7853bc4b28058df",
+ "license_type": 0,
+ "popularity_percentile": 91,
+ "vid": "e7853bc4b28058df",
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Beethoven",
+ "len": 1420.75,
+ "display_mood": "Dramatic",
+ "display_category": "",
+ "display_genre": "Classical",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "pV52iv6fXqFcvpsgP3jT3rfkBPvDyB9egiLkqlAgTB5qR52H7Gqm7Y1WSjKvafBk"
+}

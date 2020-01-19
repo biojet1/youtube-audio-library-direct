@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "is_new_track": false,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100347",
+ "fp_ref_id": "debce336c6e6e822",
+ "display_genre": "Rock",
+ "title": "Beach Bum - Happy Rock",
+ "downloadable": true,
+ "genre": "Rock",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Happy",
+ "favorite": false,
+ "len": 52.35,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=debce336c6e6e822",
+ "category": "",
+ "streamid": "yam-jr92m2OCJ-oM669owyg77RZDtNpaC-PBZsmYEG_hkE9FzkPGaNa_S5lCyl9v",
+ "vid": "debce336c6e6e822",
+ "mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCWAxIWChBkZWJjZTMzNmM2ZTZlODIyEAAYAg%3D%3D&sigh=5VoII48YFb7qmLR5hYXjCA",
+ "popularity_percentile": 37,
+ "reference_vid": "debce336c6e6e822"
+}

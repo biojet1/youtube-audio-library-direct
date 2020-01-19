@@ -1,0 +1,33 @@
+{
+ "mood": "Funky",
+ "reference_vid": "66780abc219660b8",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChA2Njc4MGFiYzIxOTY2MGI4EAAYAg%3D%3D&sigh=o3_yl2bVu0vi2QSpwD_CRg",
+ "display_mood": "Funky",
+ "title": "Funky Disco",
+ "artist": "Biz Baz Studio",
+ "is_new_track": false,
+ "len": 158,
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "66780abc219660b8",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=66780abc219660b8",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "artist_url": "https://www.youtube.com/channel/UCiA9pIqrXbKQ020XAXPcUvg",
+ "license_type": 1,
+ "instruments": [
+  "strings",
+  "bass",
+  "acoustic guitar",
+  "drums",
+  "electric guitar"
+ ],
+ "fp_ref_id": "66780abc219660b8",
+ "streamid": "V7S-wzUiydC9wz2EIH6gZHbUCWCBrMvKdowIEJl6UcdqlvHXYjolhOIIHSfeNnDh"
+}

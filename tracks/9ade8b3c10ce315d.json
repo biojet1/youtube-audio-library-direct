@@ -1,0 +1,29 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "9ade8b3c10ce315d",
+ "category": "",
+ "license_type": 0,
+ "title": "Non Piu Andrai",
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "display_mood": "Bright",
+ "album": "None",
+ "streamid": "8cE0w4iP4kvHoD3FVrBaYR0uk5y4wx44oD7gKb4YZSKj-ocViUkKovwaV77l-RmA",
+ "len": 203.85,
+ "artist": "Ron Meixsell",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9ade8b3c10ce315d",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPixDBIWChA5YWRlOGIzYzEwY2UzMTVkEAAYAg%3D%3D&sigh=Ewl1moJw6bQPf-zsn1Rlrw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 61,
+ "vid": "9ade8b3c10ce315d",
+ "is_new_track": false,
+ "mood": "Bright",
+ "fp_ref_id": "9ade8b3c10ce315d",
+ "track_url": ""
+}

@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "vid": "4df4a47e0e90a752",
+ "streamid": "S-MwlHIhrkYTIK1lUIybD2eEjXPZSjBFC_gJHXWD-sEN83u4wOXQG6zYj-vR51kW",
+ "title": "Invincible",
+ "category": "",
+ "len": 147,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChA0ZGY0YTQ3ZTBlOTBhNzUyEAAYAg%3D%3D&sigh=SJRBbsSCY-h4QRTHLcQLkg",
+ "artist": "Aakash Gandhi",
+ "artist_url": "https://www.youtube.com/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCGH2igDnkXo_J0A7OxMcJJg",
+ "reference_vid": "4df4a47e0e90a752",
+ "display_mood": "Dramatic",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4df4a47e0e90a752",
+ "instruments": [
+  "piano",
+  "strings",
+  "drums"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "4df4a47e0e90a752",
+ "favorite": false,
+ "mood": "Dramatic"
+}

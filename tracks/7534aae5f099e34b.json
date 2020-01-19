@@ -1,0 +1,30 @@
+{
+ "display_mood": "Bright",
+ "genre": "Pop",
+ "instruments": [
+  "Electric Guitar",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "UAL4-I_ZPP_XojiXVljDO_evcqgtxr6pJARjP3fmvEgkwUdEjkWem-G4ndYr52QE",
+ "title": "Payday",
+ "display_genre": "Pop",
+ "vid": "7534aae5f099e34b",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "7534aae5f099e34b",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Bright",
+ "license_type": 0,
+ "fp_ref_id": "7534aae5f099e34b",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Jason Farnham",
+ "len": 107.45,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjDBhIWChA3NTM0YWFlNWYwOTllMzRiEAAYAg%3D%3D&sigh=P7IPRp0RzlgOvqwQsTMtBw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7534aae5f099e34b"
+}

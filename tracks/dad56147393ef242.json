@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=dad56147393ef242",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Happy",
+ "artist": "Kevin MacLeod",
+ "len": 166.05,
+ "display_category": "",
+ "display_genre": "Rock",
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100496",
+ "streamid": "ivJ3y9v4EY8Cy4KbffN_va61s4aO6wbquPoYmbrDHnLILn58uMTXwhBmiFhcVXPg",
+ "category": "",
+ "title": "Malt Shop Bop",
+ "display_mood": "Happy",
+ "favorite": false,
+ "reference_vid": "dad56147393ef242",
+ "genre": "Rock",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCQChIWChBkYWQ1NjE0NzM5M2VmMjQyEAAYAg%3D%3D&sigh=1THDYJWWkOjzEjh3nR19Og",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "dad56147393ef242",
+ "license_type": 6,
+ "popularity_percentile": 82,
+ "vid": "dad56147393ef242"
+}

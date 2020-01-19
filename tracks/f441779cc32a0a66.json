@@ -1,0 +1,32 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "f441779cc32a0a66",
+ "category": "",
+ "license_type": 6,
+ "title": "Bird In Hand",
+ "display_genre": "Pop",
+ "genre": "Pop",
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Piano"
+ ],
+ "display_mood": "Bright",
+ "album": "None",
+ "streamid": "NLYWQKPE1l3ilcoDzW-6RptS9N2UJpnzy_86t8--A2ChHvKyAeddlUiACwK_cZm-",
+ "len": 169.25,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f441779cc32a0a66",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKioChIWChBmNDQxNzc5Y2MzMmEwYTY2EAAYAg%3D%3D&sigh=PALPMqIzLwssL3QZ-JExcw",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "f441779cc32a0a66",
+ "is_new_track": false,
+ "mood": "Bright",
+ "fp_ref_id": "f441779cc32a0a66",
+ "track_url": ""
+}

@@ -1,0 +1,32 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "d866b78b3c722b1a",
+ "is_new_track": false,
+ "mood": "Happy",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBkODY2Yjc4YjNjNzIyYjFhEAAYAg%3D%3D&sigh=VoiniDwKjPBgMZ3pzmqKBg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d866b78b3c722b1a",
+ "artist": "Patrick Patrikios",
+ "len": 140,
+ "streamid": "GKPG4Ry2tJMEfhIYoExThet9-6YKYLRvsSLkzqmyqPCpv8kzZiE4cvwiyehyoaLC",
+ "album": "None",
+ "display_mood": "Happy",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth",
+  "vocal chops"
+ ],
+ "genre": "Pop",
+ "display_genre": "Pop",
+ "title": "Dynamite",
+ "vid": "d866b78b3c722b1a",
+ "reference_vid": "d866b78b3c722b1a",
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A"
+}

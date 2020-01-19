@@ -1,0 +1,32 @@
+{
+ "favorite": false,
+ "artist_url": "",
+ "display_mood": "Funky",
+ "reference_vid": "9199a2f90fc104ac",
+ "streamid": "Glp4dz7BhkvkWiGCsO-tgcUfYLnUzWgz_bw9iuUdXIOZCxPCN_i3mr2U-WihgIrF",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDbBhIWChA5MTk5YTJmOTBmYzEwNGFjEAAYAg%3D%3D&sigh=hWk16xEZ2L0vz7ymMGkOHw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9199a2f90fc104ac",
+ "len": 110.05,
+ "genre": "Hip Hop & Rap",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Piano"
+ ],
+ "display_category": "",
+ "fp_ref_id": "9199a2f90fc104ac",
+ "category": "",
+ "artist_channel_url": null,
+ "title": "Fingers",
+ "mood": "Funky",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Otis McDonald",
+ "popularity_percentile": 57,
+ "license_type": 0,
+ "display_genre": "Hip Hop & Rap",
+ "track_url": "",
+ "vid": "9199a2f90fc104ac"
+}

@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjpBBIWChA0NGRiZGE5OWRlNjM3NWE3EAAYAg%3D%3D&sigh=a1kOmmlsVHIsnzI0QoWxPg",
+ "display_genre": "Holiday",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "category": "",
+ "track_url": "",
+ "streamid": "9D4qhx3Ta27Lu0VSPAtCUAcN429ZF_Z-ITTsJYS3bOpL94GGdw6sv6aiNVm1zPjD",
+ "artist": "Jingle Punks",
+ "len": 79.45,
+ "genre": "Holiday",
+ "mood": "Inspirational",
+ "album": "None",
+ "favorite": false,
+ "is_new_track": false,
+ "vid": "44dbda99de6375a7",
+ "reference_vid": "44dbda99de6375a7",
+ "popularity_percentile": 27,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=44dbda99de6375a7",
+ "fp_ref_id": "44dbda99de6375a7",
+ "display_mood": "Inspirational",
+ "license_type": 0,
+ "downloadable": true,
+ "display_category": "",
+ "title": "O Chanukah (Instrumental)",
+ "instruments": [
+  "Drums",
+  "Acoustic Guitar",
+  "Bass"
+ ]
+}

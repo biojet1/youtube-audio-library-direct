@@ -1,0 +1,29 @@
+{
+ "fp_ref_id": "d8e0a13638145fa6",
+ "mood": "Funky",
+ "reference_vid": "d8e0a13638145fa6",
+ "popularity_percentile": 72,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKD1DRIWChBkOGUwYTEzNjM4MTQ1ZmE2EAAYAg%3D%3D&sigh=CEbD1JUvlfd8MEZgygzYtw",
+ "len": 228.416,
+ "favorite": false,
+ "display_mood": "Funky",
+ "artist_channel_url": null,
+ "album": "None",
+ "vid": "d8e0a13638145fa6",
+ "streamid": "rxt1OwE-JjCG8Z5BLIVYvND0iE-Loxz3UuLQsdhasDZo6_BtzdJuKs4c7Kxtahva",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d8e0a13638145fa6",
+ "title": "Backed Vibes - Rollin at 5",
+ "display_genre": "Jazz & Blues",
+ "artist": "Kevin MacLeod",
+ "genre": "Jazz & Blues",
+ "downloadable": true,
+ "instruments": [
+  "Bass"
+ ],
+ "display_category": "",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100422",
+ "is_new_track": false
+}

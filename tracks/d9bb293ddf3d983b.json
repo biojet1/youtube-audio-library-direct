@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "popularity_percentile": 85,
+ "track_url": "",
+ "artist_channel_url": null,
+ "len": 99.266,
+ "mood": "Dark",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=d9bb293ddf3d983b",
+ "title": "Back of the Room Hang",
+ "streamid": "Xnz3HPB-P2z3RVkjuwK1NBfHgjjjUb_IoolXp4Hh1_W_K6xjAjZqn0-Cx5vSKJa7",
+ "genre": "Ambient",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiFBhIWChBkOWJiMjkzZGRmM2Q5ODNiEAAYAg%3D%3D&sigh=xGV8X2voEOPAZZVxXKkTiw",
+ "license_type": 0,
+ "fp_ref_id": "d9bb293ddf3d983b",
+ "display_mood": "Dark",
+ "vid": "d9bb293ddf3d983b",
+ "artist_url": "",
+ "artist": "Jingle Punks",
+ "instruments": [
+  "Synth",
+  "Bass",
+  "Drums"
+ ],
+ "display_genre": "Ambient",
+ "favorite": false,
+ "reference_vid": "d9bb293ddf3d983b"
+}

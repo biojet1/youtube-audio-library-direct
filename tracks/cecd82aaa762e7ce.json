@@ -1,0 +1,31 @@
+{
+ "license_type": 1,
+ "artist_url": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "cecd82aaa762e7ce",
+ "mood": "Dark",
+ "title": "Darkness of My Sun",
+ "category": "",
+ "genre": "Pop",
+ "album": "None",
+ "len": 128,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChBjZWNkODJhYWE3NjJlN2NlEAAYAg%3D%3D&sigh=LhUbxCt5Xhhc7HiqK4NLsw",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cecd82aaa762e7ce",
+ "fp_ref_id": "cecd82aaa762e7ce",
+ "artist": "The 126ers",
+ "display_mood": "Dark",
+ "display_genre": "Pop",
+ "streamid": "_MrfFfO1Rzy8cesxafEPDsMAfOjw1UcPShKkbmCKkz3hmp42N7qs1Ix_m7sq8Ule",
+ "artist_channel_url": "/channel/UCep47rkC_STH4BdGVUTeMnw",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Keyboards"
+ ],
+ "vid": "cecd82aaa762e7ce"
+}

@@ -1,0 +1,33 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "22d06402a0ad8333",
+ "track_url": "",
+ "fp_ref_id": "22d06402a0ad8333",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Inspirational",
+ "artist": "ALBIS",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth",
+  "Piano",
+  "Strings"
+ ],
+ "reference_vid": "22d06402a0ad8333",
+ "display_mood": "Inspirational",
+ "len": 112.383,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDrBhIWChAyMmQwNjQwMmEwYWQ4MzMzEAAYAg%3D%3D&sigh=Zb7hx8CmRmxhsas62lJw1w",
+ "popularity_percentile": 13,
+ "streamid": "FKfQrvOBEywPVpmkS29OiMq1Ey0I2JLeoTSpi3_DnHpxjs1YLJq2j1N_9buFX_58",
+ "license_type": 0,
+ "display_genre": "Rock",
+ "category": "",
+ "title": "Cameras",
+ "genre": "Rock",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=22d06402a0ad8333"
+}

@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "45ecaa809122b5f3",
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Pop",
+ "category": "",
+ "artist": "Audionautix",
+ "display_category": "",
+ "streamid": "ssD1eUNT4e8sZym21y9XFnBeB5ZMIcMhiP1snTaaFbE5mZFnrARD_NAD6ifJE5XE",
+ "license_type": 6,
+ "vid": "45ecaa809122b5f3",
+ "popularity_percentile": 73,
+ "reference_vid": "45ecaa809122b5f3",
+ "display_genre": "Pop",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 271.616,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Dark",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjFEBIWChA0NWVjYWE4MDkxMjJiNWYzEAAYAg%3D%3D&sigh=UcX_Zc9ku4-pwBOCSLBk5g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=45ecaa809122b5f3",
+ "title": "A Darker Heart"
+}

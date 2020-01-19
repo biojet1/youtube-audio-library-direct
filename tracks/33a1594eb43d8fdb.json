@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=33a1594eb43d8fdb",
+ "downloadable": true,
+ "reference_vid": "33a1594eb43d8fdb",
+ "mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "license_type": 1,
+ "len": 140,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Modular synthesizer"
+ ],
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChAzM2ExNTk0ZWI0M2Q4ZmRiEAAYAg%3D%3D&sigh=q-Ok_eL2AnxhQH0hmbW5pA",
+ "streamid": "TjtvOU3VEX6gLJFmSNrVoLapLjJTWme6xx8rgFbBCMLESdtGvgqPXUbh3JzPqp18",
+ "genre": "Dance & Electronic",
+ "display_category": "",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "artist_channel_url": "/channel/UCoOTOoAbEhY-WD_XhkvJBJg",
+ "display_genre": "Dance & Electronic",
+ "vid": "33a1594eb43d8fdb",
+ "artist": "Density & Time",
+ "popularity_percentile": 99,
+ "fp_ref_id": "33a1594eb43d8fdb",
+ "category": "",
+ "title": "Dark Cloak",
+ "album": "None"
+}

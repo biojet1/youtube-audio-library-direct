@@ -1,0 +1,31 @@
+{
+ "display_mood": "Happy",
+ "downloadable": true,
+ "reference_vid": "fe4fa52f245727a1",
+ "len": 118,
+ "artist": "Quincas Moreira",
+ "mood": "Happy",
+ "album": "None",
+ "genre": "Pop",
+ "streamid": "w2TJaBjDm-LE4pGqMJtiNTrnzaAn4L6VHTUoPOptQIZtaetQinzWMMLXn6VDgK7x",
+ "popularity_percentile": 99,
+ "display_category": "",
+ "track_url": "",
+ "category": "",
+ "display_genre": "Pop",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fe4fa52f245727a1",
+ "is_new_track": false,
+ "instruments": [
+  "acoustic guitar",
+  "bass",
+  "drums"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCZBxIWChBmZTRmYTUyZjI0NTcyN2ExEAAYAg%3D%3D&sigh=qSMPaDXTNHOddPrsSqFVNA",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "favorite": false,
+ "vid": "fe4fa52f245727a1",
+ "title": "Josefina",
+ "fp_ref_id": "fe4fa52f245727a1"
+}

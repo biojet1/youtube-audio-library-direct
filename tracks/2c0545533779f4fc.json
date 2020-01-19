@@ -1,0 +1,32 @@
+{
+ "display_mood": "Funky",
+ "reference_vid": "2c0545533779f4fc",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "TrackTribe",
+ "category": "",
+ "artist_channel_url": "/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "artist_url": "https://www.youtube.com/channel/UCALNf7YM2pEGJvIHf1zxftA",
+ "genre": "Rock",
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "acoustic guitar"
+ ],
+ "display_genre": "Rock",
+ "track_url": "",
+ "fp_ref_id": "2c0545533779f4fc",
+ "mood": "Funky",
+ "popularity_percentile": 0,
+ "len": 277,
+ "license_type": 1,
+ "streamid": "seBOjDIgyseVOhUaXMfzpaAILWUgdM29s0Ng3i8eKnYzqDHnFfN52FX_FWsjwOlO",
+ "favorite": false,
+ "album": "None",
+ "display_category": "",
+ "title": "Come Get With Us",
+ "vid": "2c0545533779f4fc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIj0EBIWChAyYzA1NDU1MzM3NzlmNGZjEAAYAg%3D%3D&sigh=6RpFl4uA16q2kOT5C35y-A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=2c0545533779f4fc"
+}

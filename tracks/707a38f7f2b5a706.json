@@ -1,0 +1,31 @@
+{
+ "mood": "Dark",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjsCBIWChA3MDdhMzhmN2YyYjVhNzA2EAAYAg%3D%3D&sigh=Zk4kT9CimGFNdk_u9U8tQw",
+ "display_mood": "Dark",
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=707a38f7f2b5a706",
+ "album": "None",
+ "display_category": "",
+ "downloadable": true,
+ "artist": "Chasms",
+ "title": "Observer",
+ "reference_vid": "707a38f7f2b5a706",
+ "instruments": [
+  "percussion",
+  "drums",
+  "synth"
+ ],
+ "display_genre": "Dance & Electronic",
+ "fp_ref_id": "707a38f7f2b5a706",
+ "vid": "707a38f7f2b5a706",
+ "category": "",
+ "streamid": "Xg4LXbEfUWcKvYAey9IHkN-3hBBP5JdIUxgi6ypN5u-bWxiSGc_vKCjE9qMlGSfi",
+ "popularity_percentile": 99,
+ "len": 145,
+ "track_url": "",
+ "license_type": 1,
+ "is_new_track": false
+}

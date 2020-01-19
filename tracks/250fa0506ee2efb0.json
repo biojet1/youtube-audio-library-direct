@@ -1,0 +1,32 @@
+{
+ "display_genre": "Jazz & Blues",
+ "genre": "Jazz & Blues",
+ "favorite": false,
+ "fp_ref_id": "250fa0506ee2efb0",
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "streamid": "Z7rLnefPM1UOFA8jupUV6qDZSKDKHB_iyUP4Mxp9CHlynim4WUVnQo334XH0g7HB",
+ "license_type": 0,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=250fa0506ee2efb0",
+ "album": "None",
+ "mood": "Bright",
+ "downloadable": true,
+ "artist": "Silent Partner",
+ "is_new_track": false,
+ "artist_url": "",
+ "len": 129.316,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChAyNTBmYTA1MDZlZTJlZmIwEAAYAg%3D%3D&sigh=w_7ZfuzEXHwYo1TrpBc4bA",
+ "reference_vid": "250fa0506ee2efb0",
+ "popularity_percentile": 14,
+ "artist_channel_url": null,
+ "display_mood": "Bright",
+ "display_category": "",
+ "track_url": "",
+ "title": "Camag\u00fcey",
+ "category": "",
+ "vid": "250fa0506ee2efb0"
+}

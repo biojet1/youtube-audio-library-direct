@@ -1,0 +1,32 @@
+{
+ "display_mood": "Dramatic",
+ "album": "None",
+ "artist_url": "https://www.youtube.com/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPD-DxIWChA2OWYxYzg2ZDYyZDI1ZTgxEAAYAg%3D%3D&sigh=nnacPnreqrqzyT-vlpJvyw",
+ "display_category": "",
+ "downloadable": true,
+ "fp_ref_id": "69f1c86d62d25e81",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=69f1c86d62d25e81",
+ "streamid": "sMsPHsgdyQXhlwhkzMdlrsvK7efgZtrBTzSYgy0OzA2oK56A1a1_Oj28Gc1NgRTG",
+ "genre": "Cinematic",
+ "track_url": "",
+ "reference_vid": "69f1c86d62d25e81",
+ "vid": "69f1c86d62d25e81",
+ "is_new_track": false,
+ "license_type": 1,
+ "popularity_percentile": 99,
+ "display_genre": "Cinematic",
+ "mood": "Dramatic",
+ "len": 262,
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UCx6kpgiQkDkN1UnK5GaATGw",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth",
+  "piano"
+ ],
+ "title": "Hot Hot Coffee",
+ "artist": "Freedom Trail Studio"
+}

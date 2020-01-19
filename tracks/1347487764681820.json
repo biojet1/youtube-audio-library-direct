@@ -1,0 +1,33 @@
+{
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCdUFOWuiZxD9RYnYSq1Xm0Q",
+ "len": 173,
+ "vid": "1347487764681820",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "favorite": false,
+ "downloadable": true,
+ "is_new_track": false,
+ "instruments": [
+  "808",
+  "bass",
+  "synth",
+  "bells",
+  "drums"
+ ],
+ "category": "",
+ "display_category": "",
+ "fp_ref_id": "1347487764681820",
+ "album": "None",
+ "display_mood": "Happy",
+ "artist_channel_url": "/channel/UCdUFOWuiZxD9RYnYSq1Xm0Q",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjHChIWChAxMzQ3NDg3NzY0NjgxODIwEAAYAg%3D%3D&sigh=wyR3xi6sYT87UvYfP2d6KA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1347487764681820",
+ "mood": "Happy",
+ "genre": "Hip Hop & Rap",
+ "title": "Fairfax",
+ "display_genre": "Hip Hop & Rap",
+ "artist": "Cxdy",
+ "reference_vid": "1347487764681820",
+ "streamid": "cfxkGAMclkqziq1FTlfnyUsMBzPyQgbo02lPA-ELXJ4v_XUxj7uWjZQB7pjqGirx"
+}

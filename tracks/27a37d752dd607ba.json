@@ -1,0 +1,32 @@
+{
+ "streamid": "MDXRicpKE2xqgbUsbkVVtO4qbHujwShWKEf3HKIPY7m054lxSoQYF59uba4zmhM9",
+ "popularity_percentile": 99,
+ "license_type": 1,
+ "display_genre": "Jazz & Blues",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCtCxIWChAyN2EzN2Q3NTJkZDYwN2JhEAAYAg%3D%3D&sigh=jTJ7NeGtCZFjNffOySF0rg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=27a37d752dd607ba",
+ "favorite": false,
+ "genre": "Jazz & Blues",
+ "title": "Happy Birthday Mambo",
+ "mood": "Happy",
+ "category": "",
+ "vid": "27a37d752dd607ba",
+ "track_url": "",
+ "artist_url": "https://www.youtube.com/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "artist_channel_url": "/channel/UCWNL4hFgii7hoOGKgY7Dv7w",
+ "is_new_track": false,
+ "display_category": "",
+ "reference_vid": "27a37d752dd607ba",
+ "len": 186,
+ "display_mood": "Happy",
+ "artist": "E's Jammy Jams",
+ "downloadable": true,
+ "fp_ref_id": "27a37d752dd607ba",
+ "album": "None",
+ "instruments": [
+  "bass",
+  "piano",
+  "percussion",
+  "drums"
+ ]
+}

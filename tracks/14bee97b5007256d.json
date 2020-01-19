@@ -1,0 +1,31 @@
+{
+ "mood": "Calm",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChAxNGJlZTk3YjUwMDcyNTZkEAAYAg%3D%3D&sigh=4IeLt7ZNI82h8McdkGqI2w",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "category": "",
+ "instruments": [
+  "Acoustic guitar",
+  "cello",
+  "piano"
+ ],
+ "display_mood": "Calm",
+ "fp_ref_id": "14bee97b5007256d",
+ "is_new_track": false,
+ "len": 144,
+ "genre": "Cinematic",
+ "reference_vid": "14bee97b5007256d",
+ "downloadable": true,
+ "streamid": "3iOOHsN5R1OmmAClS88ftUDAujGuuA5eV2Pj7ebh7U2W7Kr_LWBzojtdvWt9B4MU",
+ "track_url": "",
+ "vid": "14bee97b5007256d",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=14bee97b5007256d",
+ "artist_url": "https://www.youtube.com/channel/UCNXDIltPLbdcAavUtL00i7g",
+ "license_type": 1,
+ "title": "Pink Horizon",
+ "artist": "Chris Haugen"
+}

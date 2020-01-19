@@ -1,0 +1,33 @@
+{
+ "category": "",
+ "track_url": "",
+ "display_category": "",
+ "popularity_percentile": 38,
+ "streamid": "gYaBJhNg5jEwyfAHua9N4IQYccKoNOtFEO_QAztjaxWMYYakQSnOUhCPdLUDCdIs",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNikBhIWChA1ZmNmMDlkNTU2MTM4NTA0EAAYAg%3D%3D&sigh=6CblVmBxzRb2JBYvyfzh-A",
+ "album": "None",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "mood": "Bright",
+ "len": 103.15,
+ "reference_vid": "5fcf09d556138504",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "vid": "5fcf09d556138504",
+ "title": "Cartoon Bank Heist",
+ "fp_ref_id": "5fcf09d556138504",
+ "favorite": false,
+ "artist_channel_url": null,
+ "genre": "Cinematic",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Trumpet",
+  "Strings"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5fcf09d556138504",
+ "is_new_track": false,
+ "artist_url": "",
+ "license_type": 0,
+ "display_genre": "Cinematic"
+}

@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "len": 158.133,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f8c592d5bc57ac85",
+ "category": "",
+ "streamid": "Gj63rRIC39e3kPJcgj7fdsBlXxJcNDcYa5myTb5Uc_-92d615fVKdzY1TmAIqrSr",
+ "fp_ref_id": "f8c592d5bc57ac85",
+ "mood": "Dramatic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDSCRIWChBmOGM1OTJkNWJjNTdhYzg1EAAYAg%3D%3D&sigh=LyusV9sYVaGHY5GCriwkKw",
+ "popularity_percentile": 0,
+ "reference_vid": "f8c592d5bc57ac85",
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Drums"
+ ],
+ "is_new_track": false,
+ "vid": "f8c592d5bc57ac85",
+ "display_genre": "Cinematic",
+ "track_url": "",
+ "title": "Swinging With The Sultan",
+ "downloadable": true,
+ "genre": "Cinematic",
+ "artist": "Doug Maxwell"
+}

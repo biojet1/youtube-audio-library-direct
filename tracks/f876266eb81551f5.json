@@ -1,0 +1,32 @@
+{
+ "display_category": "",
+ "is_new_track": false,
+ "instruments": [
+  "Strings",
+  "Piano",
+  "Drums",
+  "Synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCND6BhIWChBmODc2MjY2ZWI4MTU1MWY1EAAYAg%3D%3D&sigh=MEMFx6Cc3G6Z-TkE1nWb2g",
+ "title": "Always Hopeful",
+ "display_mood": "Dramatic",
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "genre": "Cinematic",
+ "vid": "f876266eb81551f5",
+ "popularity_percentile": 98,
+ "reference_vid": "f876266eb81551f5",
+ "favorite": false,
+ "mood": "Dramatic",
+ "track_url": "",
+ "downloadable": true,
+ "display_genre": "Cinematic",
+ "category": "",
+ "fp_ref_id": "f876266eb81551f5",
+ "streamid": "s28-tG3MSor1eiIC7GBadJgnmUN2udANY09iUGhuhm4RLfImWk16mbxRz7-U3Vpi",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f876266eb81551f5",
+ "license_type": 0,
+ "artist_url": "",
+ "album": "None",
+ "len": 114.416
+}

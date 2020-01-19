@@ -1,0 +1,31 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1c5ca191833d02c3",
+ "fp_ref_id": "1c5ca191833d02c3",
+ "artist_url": "",
+ "display_mood": "Angry",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1c5ca191833d02c3",
+ "artist_channel_url": null,
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums"
+ ],
+ "len": 168.583,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCgChIWChAxYzVjYTE5MTgzM2QwMmMzEAAYAg%3D%3D&sigh=eCy93tWd6I8jPUxHNPNfBg",
+ "album": "None",
+ "title": "Stomp It Away",
+ "popularity_percentile": 11,
+ "streamid": "EP_ysVKGkY6ISUug8nqhtk-PvMoXs-2rB1Gl2LZvjZsbkDn1BnpxrngShrS0szgl",
+ "mood": "Angry",
+ "genre": "Rock",
+ "category": "",
+ "favorite": false,
+ "vid": "1c5ca191833d02c3",
+ "track_url": "",
+ "display_genre": "Rock",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Silent Partner"
+}

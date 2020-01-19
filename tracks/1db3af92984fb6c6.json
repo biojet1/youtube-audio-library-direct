@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "artist_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "vid": "1db3af92984fb6c6",
+ "track_url": "",
+ "fp_ref_id": "1db3af92984fb6c6",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Calm",
+ "artist": "Silent Partner",
+ "instruments": [
+  "Piano",
+  "Flute"
+ ],
+ "reference_vid": "1db3af92984fb6c6",
+ "display_mood": "Calm",
+ "len": 91.216,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPjGBRIWChAxZGIzYWY5Mjk4NGZiNmM2EAAYAg%3D%3D&sigh=f-ExlC-xaBxS0HYNJlVSBw",
+ "popularity_percentile": 12,
+ "streamid": "qcqMsWzWR1jYBzu58JPEEU88drmW-HZE9SE1F3pjzBOMHFH-NVS6YbdlSlRjSbjx",
+ "license_type": 0,
+ "display_genre": "Classical",
+ "category": "",
+ "title": "Far Behind",
+ "genre": "Classical",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1db3af92984fb6c6"
+}

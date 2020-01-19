@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "is_new_track": false,
+ "display_category": "",
+ "album": "None",
+ "len": 113,
+ "display_mood": "Bright",
+ "popularity_percentile": 99,
+ "favorite": false,
+ "artist_url": "",
+ "fp_ref_id": "4f7bd6034e1cecc8",
+ "reference_vid": "4f7bd6034e1cecc8",
+ "artist_channel_url": "/channel/UCOg3zLw7St5V4N7O8HSoQRA",
+ "license_type": 1,
+ "streamid": "Ofpvp6LihYObnTV8Ihf1QeZTN-Oxsm5ufnSGGkF0w4hZ4e2fLlP4EvkEVa0-onWc",
+ "vid": "4f7bd6034e1cecc8",
+ "mood": "Bright",
+ "artist": "Dan Lebowitz",
+ "display_genre": "Country & Folk",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjyBhIWChA0ZjdiZDYwMzRlMWNlY2M4EAAYAg%3D%3D&sigh=PrLUc7bMMXqNysSuKoGgYA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4f7bd6034e1cecc8",
+ "category": "",
+ "title": "Jeremiah's Song",
+ "genre": "Country & Folk",
+ "instruments": [
+  "Weissenborn",
+  "Percussion",
+  "Acoustic Guitar"
+ ]
+}

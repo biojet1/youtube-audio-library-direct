@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 99,
+ "artist": "Quincas Moreira",
+ "category": "",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "title": "Batuque Bom",
+ "album": "None",
+ "fp_ref_id": "71e6d6e762734843",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCHDRIWChA3MWU2ZDZlNzYyNzM0ODQzEAAYAg%3D%3D&sigh=0a5B9LtyrncjE5fKrfOZbQ",
+ "genre": "Cinematic",
+ "vid": "71e6d6e762734843",
+ "streamid": "5G1z9OyS5Mo6OFBM5kdjHwoA8q7cX2GWfgVHWFeZP5Hglz8El9S8WKL-ZyKnC10_",
+ "display_category": "",
+ "display_mood": "Bright",
+ "track_url": "",
+ "downloadable": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=71e6d6e762734843",
+ "reference_vid": "71e6d6e762734843",
+ "is_new_track": false,
+ "mood": "Bright",
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "favorite": false,
+ "instruments": [
+  "percussion",
+  "drums"
+ ],
+ "len": 214
+}

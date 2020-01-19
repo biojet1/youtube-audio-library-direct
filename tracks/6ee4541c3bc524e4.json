@@ -1,0 +1,31 @@
+{
+ "len": 109,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579464000&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA2ZWU0NTQxYzNiYzUyNGU0EAAYAg%3D%3D&sigh=AlrGzIdx3ugBUPmCMlJxPQ",
+ "reference_vid": "6ee4541c3bc524e4",
+ "category": "",
+ "artist_url": "https://www.youtube.com/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "display_genre": "Rock",
+ "track_url": "",
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums"
+ ],
+ "title": "Barilicious",
+ "genre": "Rock",
+ "mood": "Angry",
+ "artist": "Dan Lebowitz",
+ "streamid": "Uvy3Xwh5WXECDb7DsO1860-YMrxsO62s5hPPZv7hs_hdg34XPw1FPtxRRRhTGqzB",
+ "display_mood": "Angry",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6ee4541c3bc524e4",
+ "fp_ref_id": "6ee4541c3bc524e4",
+ "album": "None",
+ "vid": "6ee4541c3bc524e4",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "is_new_track": false,
+ "license_type": 1,
+ "artist_channel_url": "/channel/UC38A5qHrlc_Zgua7vL4b96w",
+ "favorite": false
+}

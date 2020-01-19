@@ -1,0 +1,31 @@
+{
+ "license_type": 6,
+ "artist": "Kevin MacLeod",
+ "is_new_track": false,
+ "fp_ref_id": "01e68b7c19bab6e0",
+ "artist_channel_url": null,
+ "len": 156.05,
+ "downloadable": true,
+ "display_mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODCCRIWChAwMWU2OGI3YzE5YmFiNmUwEAAYAg%3D%3D&sigh=61X8SCRXhQtqcpyA4boP4A",
+ "display_genre": "Ambient",
+ "genre": "Ambient",
+ "vid": "01e68b7c19bab6e0",
+ "display_category": "",
+ "reference_vid": "01e68b7c19bab6e0",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=01e68b7c19bab6e0",
+ "album": "None",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200085",
+ "streamid": "2K-EOKNqkthaAl5qc4kTuYTgcSGm9QltwYNSGjXEiklHDXBW-_TEhpZyxqAkGWrV",
+ "mood": "Dark",
+ "artist_url": "http://incompetech.com/",
+ "instruments": [
+  "Synth",
+  "Piano",
+  "Strings"
+ ],
+ "title": "Lithium",
+ "popularity_percentile": 44,
+ "category": ""
+}

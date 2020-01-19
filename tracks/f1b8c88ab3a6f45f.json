@@ -1,0 +1,31 @@
+{
+ "display_genre": "Alternative & Punk",
+ "license_type": 0,
+ "genre": "Alternative & Punk",
+ "artist_url": "",
+ "vid": "f1b8c88ab3a6f45f",
+ "artist": "Silent Partner",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "f1b8c88ab3a6f45f",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "album": "None",
+ "display_mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCcBhIWChBmMWI4Yzg4YWIzYTZmNDVmEAAYAg%3D%3D&sigh=ofGxGFlx9KPNIacpHN3i9A",
+ "popularity_percentile": 95,
+ "display_category": "",
+ "mood": "Bright",
+ "title": "Give",
+ "reference_vid": "f1b8c88ab3a6f45f",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f1b8c88ab3a6f45f",
+ "track_url": "",
+ "len": 102.316,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "44ZwA3f8vLEkIswOCyc-KAZAsGETcPtT-IJCx-Cu7qthUmRAT7dkALWrPEdvSA1v"
+}

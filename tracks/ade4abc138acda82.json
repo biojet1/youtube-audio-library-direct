@@ -1,0 +1,32 @@
+{
+ "track_url": "",
+ "artist_url": "",
+ "fp_ref_id": "ade4abc138acda82",
+ "album": "None",
+ "popularity_percentile": 68,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChBhZGU0YWJjMTM4YWNkYTgyEAAYAg%3D%3D&sigh=dN5nixy4tSfQcmA4X8Sr1Q",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ade4abc138acda82",
+ "favorite": false,
+ "downloadable": true,
+ "display_genre": "Rock",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Organ"
+ ],
+ "reference_vid": "ade4abc138acda82",
+ "category": "",
+ "len": 108.333,
+ "vid": "ade4abc138acda82",
+ "display_mood": "Happy",
+ "artist_channel_url": null,
+ "mood": "Happy",
+ "license_type": 0,
+ "genre": "Rock",
+ "title": "Fringe Trimmed Boots",
+ "is_new_track": false,
+ "artist": "Bird Creek",
+ "streamid": "VBVWXp8w2poEl7pxVUGBA_HG64hU03N9oBF5ZTFZxSEAkNjc43OEo-ihUOPif2bI"
+}

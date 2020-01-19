@@ -1,0 +1,30 @@
+{
+ "artist_url": "https://www.youtube.com/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "genre": "Ambient",
+ "album": "None",
+ "popularity_percentile": 0,
+ "instruments": [
+  "synth",
+  "bass"
+ ],
+ "reference_vid": "7975fdd2953804fc",
+ "streamid": "ZruieaqUKhEbFri5zEQbdD_iMtClFiOAZRjIDFt0kZ-aDnP6BiXp8cC1rrZCj5-H",
+ "track_url": "",
+ "license_type": 1,
+ "category": "",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=7975fdd2953804fc",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChA3OTc1ZmRkMjk1MzgwNGZjEAAYAg%3D%3D&sigh=m4bTTQTo3eYuk9EG17OBrQ",
+ "len": 134,
+ "is_new_track": false,
+ "mood": "Inspirational",
+ "vid": "7975fdd2953804fc",
+ "title": "Hello 6am",
+ "display_mood": "Inspirational",
+ "artist_channel_url": "/channel/UCz0l5LJhNQkktxKWcGUtWxg",
+ "favorite": false,
+ "fp_ref_id": "7975fdd2953804fc",
+ "display_genre": "Ambient",
+ "downloadable": true,
+ "artist": "Mylar Melodies"
+}

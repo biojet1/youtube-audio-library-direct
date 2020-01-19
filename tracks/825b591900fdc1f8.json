@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOC2DRIWChA4MjViNTkxOTAwZmRjMWY4EAAYAg%3D%3D&sigh=2hYk8ZFvzPkWhbB5oQOneQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=825b591900fdc1f8",
+ "track_url": "",
+ "genre": "Country & Folk",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "825b591900fdc1f8",
+ "fp_ref_id": "825b591900fdc1f8",
+ "category": "",
+ "title": "Green Leaves",
+ "reference_vid": "825b591900fdc1f8",
+ "artist": "Audionautix",
+ "display_genre": "Country & Folk",
+ "instruments": [
+  "Acoustic Guitar"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "fEv2ab25hgBL_iOY54ANVX3zHb9V2RF0x-4A80NI5CfDN0xrtUdp07nRFVgtGZB-",
+ "len": 220.683,
+ "license_type": 6,
+ "is_new_track": false
+}

@@ -1,0 +1,31 @@
+{
+ "mood": "Happy",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Dance & Electronic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCdCxIWChAwYjYwZmUxYzQ5MGZmZjQ2EAAYAg%3D%3D&sigh=93B4Ec9LrRNmGhdXEeXrZw",
+ "favorite": false,
+ "artist_channel_url": "/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "category": "",
+ "instruments": [
+  "bass",
+  "drums",
+  "synth"
+ ],
+ "display_mood": "Happy",
+ "fp_ref_id": "0b60fe1c490fff46",
+ "is_new_track": false,
+ "len": 184,
+ "genre": "Dance & Electronic",
+ "reference_vid": "0b60fe1c490fff46",
+ "downloadable": true,
+ "streamid": "WgKZE_7nrZyGncTxMOsXPseoHkRqvOa94XAVr5CYqaynOitiG95huK6lmhtRCKkm",
+ "track_url": "",
+ "vid": "0b60fe1c490fff46",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0b60fe1c490fff46",
+ "artist_url": "https://www.youtube.com/channel/UC0xfvt7OZAl2jAg63i1pJBA",
+ "license_type": 1,
+ "title": "Yellow Gold",
+ "artist": "Rondo Brothers"
+}

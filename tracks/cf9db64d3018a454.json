@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "cf9db64d3018a454",
+ "reference_vid": "cf9db64d3018a454",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cf9db64d3018a454",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100511",
+ "artist_url": "http://incompetech.com/",
+ "license_type": 6,
+ "streamid": "cbhS2_JTY_tFKMEhwVh3woSOQPq4Y_M1HoX28QB6vloOA8Arjva4aQVlfeN67pGb",
+ "genre": "Ambient",
+ "popularity_percentile": 48,
+ "mood": "Sad",
+ "downloadable": true,
+ "vid": "cf9db64d3018a454",
+ "len": 73.85,
+ "instruments": [
+  "Synth",
+  "Drums",
+  "Strings"
+ ],
+ "favorite": false,
+ "display_genre": "Ambient",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi6BBIWChBjZjlkYjY0ZDMwMThhNDU0EAAYAg%3D%3D&sigh=YYVx7KREoH2faflHBEUaUg",
+ "display_mood": "Sad",
+ "album": "None",
+ "title": "Longing and Concern",
+ "display_category": ""
+}

@@ -1,0 +1,31 @@
+{
+ "display_genre": "Jazz & Blues",
+ "vid": "e4973729157ef842",
+ "title": "Opheliea's Blues",
+ "mood": "Sad",
+ "reference_vid": "e4973729157ef842",
+ "popularity_percentile": 46,
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "len": 244.5,
+ "fp_ref_id": "e4973729157ef842",
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Electric Guitar"
+ ],
+ "streamid": "HbuXYk9ACLXBvGBrWcIh3PNbNWnEt2kA-DPfXp-Dc_lcfAKGspNUI8Z-okUZaT5z",
+ "display_mood": "Sad",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e4973729157ef842",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKDyDhIWChBlNDk3MzcyOTE1N2VmODQyEAAYAg%3D%3D&sigh=MMc_F0t5fXH9kT8s5sbmGQ",
+ "genre": "Jazz & Blues"
+}

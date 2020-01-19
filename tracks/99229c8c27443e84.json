@@ -1,0 +1,29 @@
+{
+ "genre": "Classical",
+ "track_url": "",
+ "artist_channel_url": null,
+ "artist": "The U.S. Army Band",
+ "fp_ref_id": "99229c8c27443e84",
+ "display_mood": "Bright",
+ "display_genre": "Classical",
+ "vid": "99229c8c27443e84",
+ "mood": "Bright",
+ "instruments": [
+  "Trumpet"
+ ],
+ "popularity_percentile": 60,
+ "display_category": "",
+ "favorite": false,
+ "artist_url": "",
+ "album": "None",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjzCxIWChA5OTIyOWM4YzI3NDQzZTg0EAAYAg%3D%3D&sigh=mNFNvkHM0-8aeiuUwPAEog",
+ "license_type": 1,
+ "is_new_track": false,
+ "downloadable": true,
+ "title": "The Rifle Regiment",
+ "category": "",
+ "len": 195.083,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=99229c8c27443e84",
+ "reference_vid": "99229c8c27443e84",
+ "streamid": "eWdbpWunVfWLNS27y_B8wVkzjcfswfoXIy8Uloq88IJZWw75LrJ3IlvL1iPcX21o"
+}

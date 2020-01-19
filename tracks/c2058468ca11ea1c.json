@@ -1,0 +1,32 @@
+{
+ "mood": "Funky",
+ "artist": "Slenderbeats",
+ "vid": "c2058468ca11ea1c",
+ "display_category": "",
+ "streamid": "btDKOGjGRk47JNYR2TzfPsJC9XmeF8GZiThNqIc1KH_751soeavf9qq6I4vZJADZ",
+ "track_url": "",
+ "artist_channel_url": "/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c2058468ca11ea1c",
+ "fp_ref_id": "c2058468ca11ea1c",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiSDBIWChBjMjA1ODQ2OGNhMTFlYTFjEAAYAg%3D%3D&sigh=jS-jzhgRFhXf473-8glHRQ",
+ "display_genre": "Pop",
+ "len": 199,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "electric guitar",
+  "bass",
+  "drums",
+  "percussion"
+ ],
+ "reference_vid": "c2058468ca11ea1c",
+ "title": "Inkling",
+ "genre": "Pop",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "https://www.youtube.com/channel/UCDRGxJ2e4K9eyncdXbFcYhw",
+ "license_type": 1,
+ "display_mood": "Funky",
+ "popularity_percentile": 99
+}

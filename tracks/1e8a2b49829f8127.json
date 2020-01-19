@@ -1,0 +1,30 @@
+{
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1e8a2b49829f8127",
+ "fp_ref_id": "1e8a2b49829f8127",
+ "artist_url": "",
+ "display_mood": "Dramatic",
+ "is_new_track": false,
+ "downloadable": true,
+ "reference_vid": "1e8a2b49829f8127",
+ "artist_channel_url": null,
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "len": 128.25,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDoBxIWChAxZThhMmI0OTgyOWY4MTI3EAAYAg%3D%3D&sigh=uuT_RZMLSskHTAo7CkIJTQ",
+ "album": "None",
+ "title": "Operator Error",
+ "popularity_percentile": 12,
+ "streamid": "-v-zYbMbhWMoFLQFKq_3FUqqXTcnszWE2iI7V_cE7F2h5kfMMSTlDaUGkkWfz9Xf",
+ "mood": "Dramatic",
+ "genre": "Hip Hop & Rap",
+ "category": "",
+ "favorite": false,
+ "vid": "1e8a2b49829f8127",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "display_category": "",
+ "artist": "Gunnar Olsen"
+}

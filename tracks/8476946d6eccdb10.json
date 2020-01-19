@@ -1,0 +1,31 @@
+{
+ "mood": "Dramatic",
+ "artist": "Silent Partner",
+ "vid": "8476946d6eccdb10",
+ "display_category": "",
+ "streamid": "OnQzd-r1iTApUliXthN-CC3ifiVpb03jH98zo2QMfkhLifgz4NcWAagpWTmNfO9y",
+ "track_url": "",
+ "artist_channel_url": null,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8476946d6eccdb10",
+ "fp_ref_id": "8476946d6eccdb10",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChA4NDc2OTQ2ZDZlY2NkYjEwEAAYAg%3D%3D&sigh=T0Iz1f2TZNDrrgGM8P-Zmw",
+ "display_genre": "Cinematic",
+ "len": 148.183,
+ "album": "None",
+ "is_new_track": false,
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Synth"
+ ],
+ "reference_vid": "8476946d6eccdb10",
+ "title": "Passive Struggle",
+ "genre": "Cinematic",
+ "category": "",
+ "downloadable": true,
+ "artist_url": "",
+ "license_type": 0,
+ "display_mood": "Dramatic",
+ "popularity_percentile": 52
+}

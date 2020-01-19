@@ -1,0 +1,31 @@
+{
+ "fp_ref_id": "610c2562ad3249c3",
+ "instruments": [
+  "Strings",
+  "Trumpet",
+  "Drums"
+ ],
+ "artist_url": "http://www.twinmusicom.org/",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Holiday",
+ "category": "",
+ "artist": "Twin Musicom",
+ "display_category": "",
+ "streamid": "VADnCwK-UxrqkGscHmdhXEKARZOql9rBxV60sqSB1daLuVEivYTMQ3wIkPLCNqiq",
+ "license_type": 6,
+ "vid": "610c2562ad3249c3",
+ "popularity_percentile": 74,
+ "reference_vid": "610c2562ad3249c3",
+ "display_genre": "Holiday",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 116.75,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCKBxIWChA2MTBjMjU2MmFkMzI0OWMzEAAYAg%3D%3D&sigh=PNvWTabjDxBN8cLTeXFgQw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=610c2562ad3249c3",
+ "title": "We Wish You a Merry Christmas"
+}

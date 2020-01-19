@@ -1,0 +1,30 @@
+{
+ "mood": "Bright",
+ "album": "None",
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKi0BhIWChBiMWNkMmVjNWJlNDBkOGNkEAAYAg%3D%3D&sigh=3-KfkPJoMkPbRchGMeoOZg",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "category": "",
+ "instruments": [
+  "strings",
+  "piano"
+ ],
+ "display_mood": "Bright",
+ "fp_ref_id": "b1cd2ec5be40d8cd",
+ "is_new_track": false,
+ "len": 105,
+ "genre": "Cinematic",
+ "reference_vid": "b1cd2ec5be40d8cd",
+ "downloadable": true,
+ "streamid": "jGaiPiLaRtokuNJupCU4yWsh7IfyL1mxyyhE-uQGPd1K9cKD7dfdyokWNwf80zg1",
+ "track_url": "",
+ "vid": "b1cd2ec5be40d8cd",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b1cd2ec5be40d8cd",
+ "artist_url": "https://www.youtube.com/channel/UCDPtWMRgR85Bus-RSojW60w",
+ "license_type": 1,
+ "title": "Brain Trust",
+ "artist": "Wayne Jones"
+}

@@ -1,0 +1,29 @@
+{
+ "license_type": 1,
+ "artist_url": "",
+ "display_category": "",
+ "instruments": [
+  "Trumpet"
+ ],
+ "is_new_track": false,
+ "track_url": "",
+ "fp_ref_id": "5c49be66b491c00b",
+ "display_genre": "Classical",
+ "title": "Lola",
+ "downloadable": true,
+ "genre": "Classical",
+ "artist": "United States Marine Band",
+ "album": "None",
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "favorite": false,
+ "len": 127.616,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5c49be66b491c00b",
+ "category": "",
+ "streamid": "sY_B6re1rLFE_atkr2otQh5LmzaWNhyS6GOyHvr3ZsOrdjY7XHuVoV31kZ7i7-S9",
+ "vid": "5c49be66b491c00b",
+ "mood": "Dark",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChA1YzQ5YmU2NmI0OTFjMDBiEAAYAg%3D%3D&sigh=3x6IfeCeacsLEllOBiBLvA",
+ "popularity_percentile": 37,
+ "reference_vid": "5c49be66b491c00b"
+}

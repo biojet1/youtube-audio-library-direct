@@ -1,0 +1,32 @@
+{
+ "album": "None",
+ "artist": "MK2",
+ "is_new_track": false,
+ "fp_ref_id": "912ab6f0e845aa3a",
+ "favorite": false,
+ "artist_channel_url": null,
+ "display_mood": "Dark",
+ "title": "Cold Killa",
+ "vid": "912ab6f0e845aa3a",
+ "mood": "Dark",
+ "display_genre": "Hip Hop & Rap",
+ "len": 109.75,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMjTBhIWChA5MTJhYjZmMGU4NDVhYTNhEAAYAg%3D%3D&sigh=g6maSDD5xPEoVSnVGNJByw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=912ab6f0e845aa3a",
+ "display_category": "",
+ "category": "",
+ "license_type": 0,
+ "track_url": "",
+ "streamid": "XOm7qg8Q_4dF8QanSBx3ihjTXrzztDXulf-MADqfF31j7M_a8rDDsXkzbuWIxHr3",
+ "reference_vid": "912ab6f0e845aa3a",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Piano",
+  "Organ"
+ ],
+ "popularity_percentile": 57,
+ "downloadable": true,
+ "genre": "Hip Hop & Rap",
+ "artist_url": ""
+}

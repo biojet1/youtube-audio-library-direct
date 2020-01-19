@@ -1,0 +1,30 @@
+{
+ "popularity_percentile": 34,
+ "genre": "Ambient",
+ "streamid": "deUYT-iraRabhNSrs4M7aiT0TVhpNCNi_gqkibd0FUvJhJQlAgJPUZKTdzzdHLuv",
+ "reference_vid": "547b9a6f8decedbf",
+ "track_url": "",
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=547b9a6f8decedbf",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "license_type": 0,
+ "artist": "Silent Partner",
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCHCBIWChA1NDdiOWE2ZjhkZWNlZGJmEAAYAg%3D%3D&sigh=LNX3tXM9Wt9pXkpWGsc7LA",
+ "mood": "Calm",
+ "display_mood": "Calm",
+ "display_category": "",
+ "title": "Backpacking",
+ "album": "None",
+ "vid": "547b9a6f8decedbf",
+ "downloadable": true,
+ "instruments": [
+  "Piano",
+  "Bass"
+ ],
+ "favorite": false,
+ "len": 132.083,
+ "fp_ref_id": "547b9a6f8decedbf",
+ "display_genre": "Ambient"
+}

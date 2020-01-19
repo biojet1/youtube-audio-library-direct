@@ -1,0 +1,31 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "fbca47a87f08e775",
+ "popularity_percentile": 66,
+ "category": "",
+ "vid": "fbca47a87f08e775",
+ "title": "Go Not Gently",
+ "mood": "Dramatic",
+ "len": 194.766,
+ "artist_url": "http://audionautix.com/",
+ "artist": "Audionautix",
+ "fp_ref_id": "fbca47a87f08e775",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "instruments": [
+  "Piano",
+  "Drums",
+  "Bass"
+ ],
+ "streamid": "9Cwb4uNLmNm6IctcbkqTcRtffZbe2FGB-jmPfuBMSBGUhtxNkamk3WN0aMWxBaOw",
+ "display_mood": "Dramatic",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fbca47a87f08e775",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNDrCxIWChBmYmNhNDdhODdmMDhlNzc1EAAYAg%3D%3D&sigh=O2g0Mzzg-eJN4MoB-YwKPw"
+}

@@ -1,0 +1,30 @@
+{
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "genre": "Cinematic",
+ "vid": "50e015de7faf2ccd",
+ "instruments": [
+  "Strings",
+  "Drums"
+ ],
+ "reference_vid": "50e015de7faf2ccd",
+ "artist_url": "http://incompetech.com/",
+ "mood": "Dramatic",
+ "display_mood": "Dramatic",
+ "album": "None",
+ "category": "",
+ "license_type": 6,
+ "display_genre": "Cinematic",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100539",
+ "artist_channel_url": null,
+ "fp_ref_id": "50e015de7faf2ccd",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=50e015de7faf2ccd",
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKilCxIWChA1MGUwMTVkZTdmYWYyY2NkEAAYAg%3D%3D&sigh=9S-lR9ZkmlAOuTulQ8UGKQ",
+ "streamid": "P44eLJXYgLifzaRXG18IVRnwZ2aceXLc3m6__XnVulp8g9XPKR8st9XqSk8XPcg8",
+ "downloadable": true,
+ "popularity_percentile": 93,
+ "len": 185.116,
+ "title": "At Launch",
+ "favorite": false
+}

@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "streamid": "VfQzBQMQ2eQgtjo0rK221__5wJh1k5HMOK6wmxdD2h2A1Cw21o2XQXcks9gG1h_N",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=52a58efa3bc99af1",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjgBxIWChA1MmE1OGVmYTNiYzk5YWYxEAAYAg%3D%3D&sigh=47E7xqVSCgGhDdvAoXbntg",
+ "vid": "52a58efa3bc99af1",
+ "display_category": "",
+ "title": "Slay Well",
+ "album": "None",
+ "mood": "Angry",
+ "category": "",
+ "artist_channel_url": null,
+ "artist": "Gunnar Olsen",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Angry",
+ "reference_vid": "52a58efa3bc99af1",
+ "len": 127.383,
+ "genre": "Hip Hop & Rap",
+ "popularity_percentile": 33,
+ "fp_ref_id": "52a58efa3bc99af1",
+ "track_url": "",
+ "display_genre": "Hip Hop & Rap",
+ "license_type": 0,
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass",
+  "Synth"
+ ]
+}

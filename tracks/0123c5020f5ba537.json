@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://chriszabriskie.com/",
+ "favorite": false,
+ "streamid": "uTiO8Pcw3jYqjKsLaJLuJmluKKyfwPi9ePKQgQp0GMJICpGxegZNICs1SUcVHzo0",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0123c5020f5ba537",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDQDxIWChAwMTIzYzUwMjBmNWJhNTM3EAAYAg%3D%3D&sigh=Tp7rrAjnQa4HeQiRHxu66Q",
+ "vid": "0123c5020f5ba537",
+ "display_category": "",
+ "title": "What Does Anybody Know About Anything",
+ "album": "None",
+ "mood": "Calm",
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Chris Zabriskie",
+ "downloadable": true,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "reference_vid": "0123c5020f5ba537",
+ "len": 256.516,
+ "popularity_percentile": 52,
+ "genre": "Ambient",
+ "fp_ref_id": "0123c5020f5ba537",
+ "track_url": "http://chriszabriskie.com/dtv/",
+ "display_genre": "Ambient",
+ "instruments": [
+  "Synth",
+  "Piano"
+ ],
+ "license_type": 6
+}

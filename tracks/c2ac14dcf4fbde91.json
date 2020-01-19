@@ -1,0 +1,29 @@
+{
+ "instruments": [
+  "Drums"
+ ],
+ "album": "None",
+ "artist": "Kevin MacLeod",
+ "downloadable": true,
+ "mood": "Bright",
+ "display_mood": "Bright",
+ "len": 223.45,
+ "reference_vid": "c2ac14dcf4fbde91",
+ "fp_ref_id": "c2ac14dcf4fbde91",
+ "display_genre": "Cinematic",
+ "display_category": "",
+ "artist_channel_url": null,
+ "artist_url": "http://incompetech.com/",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500001",
+ "vid": "c2ac14dcf4fbde91",
+ "category": "",
+ "title": "Allada",
+ "genre": "Cinematic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c2ac14dcf4fbde91",
+ "favorite": false,
+ "is_new_track": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjODRIWChBjMmFjMTRkY2Y0ZmJkZTkxEAAYAg%3D%3D&sigh=yGThXcnK5FcFNpokQo8SYg",
+ "license_type": 6,
+ "popularity_percentile": 87,
+ "streamid": "RAS9XiAm-k9IUmbkZFvPMmT0RVXSoTx5ZO53aDwq2lD91-b97JxV2gsFaHPEqPeC"
+}

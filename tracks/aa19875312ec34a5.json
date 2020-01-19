@@ -1,0 +1,32 @@
+{
+ "vid": "aa19875312ec34a5",
+ "display_mood": "Calm",
+ "title": "Walk In The Park Full",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChBhYTE5ODc1MzEyZWMzNGE1EAAYAg%3D%3D&sigh=dUZBc4DnUDmb3-YqCdowjQ",
+ "favorite": false,
+ "display_genre": "Pop",
+ "mood": "Calm",
+ "artist": "Audionautix",
+ "reference_vid": "aa19875312ec34a5",
+ "category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=aa19875312ec34a5",
+ "display_category": "",
+ "downloadable": true,
+ "track_url": "",
+ "popularity_percentile": 79,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass",
+  "Drums",
+  "Piano"
+ ],
+ "genre": "Pop",
+ "artist_channel_url": null,
+ "album": "None",
+ "streamid": "j4RHQqJ_abKBwoDE6_dy0HHGCqHv52Apqd3i7IWxOwpbNjaZ7R4aELAK9iSaWlXa",
+ "artist_url": "http://audionautix.com/",
+ "len": 165.183,
+ "fp_ref_id": "aa19875312ec34a5",
+ "license_type": 6,
+ "is_new_track": false
+}

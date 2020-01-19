@@ -1,0 +1,32 @@
+{
+ "len": 144,
+ "popularity_percentile": 0,
+ "artist_channel_url": "/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "track_url": "",
+ "category": "",
+ "mood": "Dramatic",
+ "album": "None",
+ "downloadable": true,
+ "is_new_track": true,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=95e03a408fc1bbf9",
+ "title": "Poured",
+ "streamid": "WadDjdZpfmHECi-En8jkcFZnkKbEirhviW0CbqkYDkqqY-ncM0x7AJBfanJ_7iFv",
+ "genre": "Country & Folk",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDlCBIWChA5NWUwM2E0MDhmYzFiYmY5EAAYAg%3D%3D&sigh=uY7JzTWVWgIBlYBuJWbLYw",
+ "license_type": 1,
+ "fp_ref_id": "95e03a408fc1bbf9",
+ "display_mood": "Dramatic",
+ "artist_url": "https://www.youtube.com/channel/UCtlICmXX_nrri2E8PlRoASQ",
+ "vid": "95e03a408fc1bbf9",
+ "artist": "Lauren Duski",
+ "instruments": [
+  "drums",
+  "electric guitar",
+  "acoustic guitar",
+  "bass"
+ ],
+ "display_genre": "Country & Folk",
+ "favorite": false,
+ "reference_vid": "95e03a408fc1bbf9"
+}

@@ -1,0 +1,31 @@
+{
+ "display_mood": "Sad",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Bass",
+  "Piano",
+  "Drums"
+ ],
+ "album": "None",
+ "streamid": "TLdAA_xWpoKegVsmJ5UXA0_4fJNTELTI9mr4ZeeLilJ30pgTsSxYWgjL4kRFDbzj",
+ "title": "Almost a Year Ago (Sting)",
+ "display_genre": "Jazz & Blues",
+ "vid": "784b6c55cbd600fb",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "784b6c55cbd600fb",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Sad",
+ "license_type": 0,
+ "fp_ref_id": "784b6c55cbd600fb",
+ "display_category": "",
+ "popularity_percentile": 47,
+ "category": "",
+ "downloadable": true,
+ "artist": "John Deley and the 41 Players",
+ "len": 16.116,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIB9EhYKEDc4NGI2YzU1Y2JkNjAwZmIQABgC&sigh=1quz0gAcwr-xhzANSHKJfw",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=784b6c55cbd600fb"
+}

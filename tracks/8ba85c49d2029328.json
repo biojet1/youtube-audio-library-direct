@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "reference_vid": "8ba85c49d2029328",
+ "display_genre": "Holiday",
+ "favorite": false,
+ "artist_channel_url": "/channel/UCowgKeMGXKY038qwuf3yYlw",
+ "len": 165,
+ "streamid": "tDuhUvA_VxQ1e5Qf7AaX3swHtVDIYyMg6AgkcMSARLgUpQZGlFWdkutDbNaZY8Wy",
+ "license_type": 1,
+ "vid": "8ba85c49d2029328",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIiJChIWChA4YmE4NWM0OWQyMDI5MzI4EAAYAg%3D%3D&sigh=bxvTcDV0-6D5X5sKISGRnA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8ba85c49d2029328",
+ "title": "Christmas Chores",
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Bright",
+ "mood": "Bright",
+ "display_category": "",
+ "fp_ref_id": "8ba85c49d2029328",
+ "artist_url": "https://www.youtube.com/channel/UCowgKeMGXKY038qwuf3yYlw?internalcountrycode=US",
+ "instruments": [
+  "electric guitar",
+  "drums",
+  "bass",
+  "strings"
+ ],
+ "artist": "RKVC",
+ "album": "None",
+ "is_new_track": true,
+ "genre": "Holiday",
+ "category": ""
+}

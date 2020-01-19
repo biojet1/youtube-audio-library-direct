@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "display_genre": "Rock",
+ "category": "",
+ "fp_ref_id": "e753a393be1bbe03",
+ "artist": "Audionautix",
+ "artist_channel_url": null,
+ "favorite": false,
+ "title": "Ticket To Nowhere Man",
+ "vid": "e753a393be1bbe03",
+ "mood": "Happy",
+ "display_mood": "Happy",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjpBBIWChBlNzUzYTM5M2JlMWJiZTAzEAAYAg%3D%3D&sigh=poGDdtPSi1AHJP7wgyJbhg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e753a393be1bbe03",
+ "display_category": "",
+ "len": 79.783,
+ "album": "None",
+ "license_type": 6,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "Z_uWe7DxtucsO6yT1hnj3GDhUcY8XHILchM5cwVpcC1DO1m3eBUHk2kWJwmFslrn",
+ "reference_vid": "e753a393be1bbe03",
+ "instruments": [
+  "Drums",
+  "Electric Guitar",
+  "Bass"
+ ],
+ "popularity_percentile": 49,
+ "artist_url": "http://audionautix.com/",
+ "genre": "Rock"
+}

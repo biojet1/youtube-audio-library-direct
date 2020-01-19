@@ -1,0 +1,30 @@
+{
+ "vid": "5bb59046e0d88d24",
+ "downloadable": true,
+ "popularity_percentile": 36,
+ "category": "",
+ "is_new_track": false,
+ "license_type": 0,
+ "artist_channel_url": null,
+ "fp_ref_id": "5bb59046e0d88d24",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=5bb59046e0d88d24",
+ "favorite": false,
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "track_url": "",
+ "title": "Bluesy Vibes (Sting)",
+ "genre": "Jazz & Blues",
+ "mood": "Calm",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "display_mood": "Calm",
+ "streamid": "Lsn3OqMsVsDLGx8GIfRFjjMMIjzU5oMOEjP56pjVlLq6kzbe65yJMNdGwilp0iMl",
+ "display_category": "",
+ "len": 7.55,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCNg2EhYKEDViYjU5MDQ2ZTBkODhkMjQQABgC&sigh=7PY_7YxfOo136dCc2PYsjg",
+ "reference_vid": "5bb59046e0d88d24",
+ "album": "None",
+ "artist_url": "",
+ "display_genre": "Jazz & Blues"
+}

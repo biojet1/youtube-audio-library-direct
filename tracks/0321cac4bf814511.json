@@ -1,0 +1,32 @@
+{
+ "display_mood": "Sad",
+ "is_new_track": false,
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiVCxIWChAwMzIxY2FjNGJmODE0NTExEAAYAg%3D%3D&sigh=NxfzheZUzfgSCG1LOgwTfQ",
+ "instruments": [
+  "Piano",
+  "Electric Guitar",
+  "Drums",
+  "Bass"
+ ],
+ "favorite": false,
+ "track_url": "",
+ "license_type": 0,
+ "vid": "0321cac4bf814511",
+ "reference_vid": "0321cac4bf814511",
+ "popularity_percentile": 2,
+ "artist": "Silent Partner",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0321cac4bf814511",
+ "mood": "Sad",
+ "genre": "Pop",
+ "streamid": "W1VrgsmejTDfIq_JWuN_IR2F8xN4HO_oPefBZQ189RN_ce5wjFs0mYz1MJ-gRE8w",
+ "title": "Every Step",
+ "downloadable": true,
+ "category": "",
+ "len": 183.916,
+ "artist_url": "",
+ "display_genre": "Pop",
+ "fp_ref_id": "0321cac4bf814511",
+ "album": "None"
+}

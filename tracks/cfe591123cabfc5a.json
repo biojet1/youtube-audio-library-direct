@@ -1,0 +1,31 @@
+{
+ "instruments": [
+  "Strings",
+  "Bass",
+  "Trumpet"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cfe591123cabfc5a",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dramatic",
+ "artist": "Rossini",
+ "len": 711.016,
+ "display_category": "",
+ "display_genre": "Classical",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "o66F12HFwok7uxjixMLkYwL1-1-bLUc2lh-1LbJvtJQtLsY6ilJzH9RJvMjMzowS",
+ "category": "",
+ "title": "William Tell Overture (by Rossini)",
+ "display_mood": "Dramatic",
+ "favorite": false,
+ "reference_vid": "cfe591123cabfc5a",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiyKxIWChBjZmU1OTExMjNjYWJmYzVhEAAYAg%3D%3D&sigh=Mf3sSeRuvO9lmLR-f4g3_g",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "cfe591123cabfc5a",
+ "license_type": 0,
+ "popularity_percentile": 81,
+ "vid": "cfe591123cabfc5a"
+}

@@ -1,0 +1,29 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "favorite": false,
+ "artist_channel_url": null,
+ "reference_vid": "990ab3ce2825e909",
+ "category": "",
+ "license_type": 6,
+ "title": "Pensive Piano",
+ "display_genre": "Classical",
+ "genre": "Classical",
+ "instruments": [
+  "Piano"
+ ],
+ "display_mood": "Sad",
+ "album": "None",
+ "streamid": "Q700_cOZ1qeMNHMrSLfIk_00xY8L0xa5Waah_02oaBQPELJAvoMXQMqQlSdaqYlQ",
+ "len": 65.05,
+ "artist": "Audionautix",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=990ab3ce2825e909",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj7AxIWChA5OTBhYjNjZTI4MjVlOTA5EAAYAg%3D%3D&sigh=5Qyxh2wZ13XiZKiwf6pXMQ",
+ "downloadable": true,
+ "display_category": "",
+ "popularity_percentile": 62,
+ "vid": "990ab3ce2825e909",
+ "is_new_track": false,
+ "mood": "Sad",
+ "fp_ref_id": "990ab3ce2825e909",
+ "track_url": ""
+}

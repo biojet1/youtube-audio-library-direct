@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "fp_ref_id": "e36b70db4fa9c080",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "popularity_percentile": 99,
+ "track_url": "",
+ "category": "",
+ "display_category": "",
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLDYBxIWChBlMzZiNzBkYjRmYTljMDgwEAAYAg%3D%3D&sigh=2lDq3pRnS3uq-eaYN5wuoQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=e36b70db4fa9c080",
+ "artist": "Verified Picasso",
+ "len": 126,
+ "streamid": "hYPlmLmMS8gNXkwP-kylCuBp-hAeic7DOI4sUHgyLJbb10GjNo5HV6lTbh8kdTBS",
+ "album": "None",
+ "display_mood": "Dramatic",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "808",
+  "electric guitar"
+ ],
+ "genre": "Dance & Electronic",
+ "display_genre": "Dance & Electronic",
+ "title": "Sonja's Interns",
+ "vid": "e36b70db4fa9c080",
+ "reference_vid": "e36b70db4fa9c080",
+ "artist_channel_url": "/channel/UCqDmyXPJdrZjwUdWLyhyQRA",
+ "favorite": false,
+ "artist_url": "https://www.youtube.com/channel/UCqDmyXPJdrZjwUdWLyhyQRA"
+}

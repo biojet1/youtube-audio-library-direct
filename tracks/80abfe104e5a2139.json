@@ -1,0 +1,33 @@
+{
+ "mood": "Happy",
+ "reference_vid": "80abfe104e5a2139",
+ "album": "None",
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiuDRIWChA4MGFiZmUxMDRlNWEyMTM5EAAYAg%3D%3D&sigh=QLLoTu2gJTqrInqTHzaFAQ",
+ "display_mood": "Happy",
+ "title": "Soul Brother",
+ "artist": "Bruno E.",
+ "is_new_track": false,
+ "len": 219,
+ "genre": "R&B & Soul",
+ "display_genre": "R&B & Soul",
+ "downloadable": true,
+ "display_category": "",
+ "vid": "80abfe104e5a2139",
+ "popularity_percentile": 99,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=80abfe104e5a2139",
+ "favorite": false,
+ "category": "",
+ "artist_channel_url": "/channel/UC0OnsB1dH_tEEyfihBlq4bg",
+ "artist_url": "https://www.youtube.com/channel/UC0OnsB1dH_tEEyfihBlq4bg",
+ "license_type": 1,
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Brass",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "fp_ref_id": "80abfe104e5a2139",
+ "streamid": "ieKJ8V2wm7V_zM5_BenBAgNgbLONBCu_io0ntZus9eEvyV78wFGuuygvhE5Qhcda"
+}

@@ -1,0 +1,32 @@
+{
+ "popularity_percentile": 99,
+ "track_url": "",
+ "display_category": "",
+ "is_new_track": false,
+ "favorite": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fbbd7f0c93b250f8",
+ "fp_ref_id": "fbbd7f0c93b250f8",
+ "len": 150.7,
+ "artist": "Text Me Records / Jorge Hernandez",
+ "mood": "Inspirational",
+ "reference_vid": "fbbd7f0c93b250f8",
+ "vid": "fbbd7f0c93b250f8",
+ "title": "Designer",
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "instruments": [
+  "Piano",
+  "Synth",
+  "Drums",
+  "Organ"
+ ],
+ "artist_url": "",
+ "license_type": 1,
+ "category": "",
+ "album": "None",
+ "artist_channel_url": "/channel/UCI4niag1UAkIvbAU8vh9UFw",
+ "streamid": "gsnWIr6zDQfxcYxCGhPmqv3OsnHe6L7AvWY5ILu2KNvRSCaghE08zBfiPI6aA_ps",
+ "display_genre": "Dance & Electronic",
+ "display_mood": "Inspirational",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCTCRIWChBmYmJkN2YwYzkzYjI1MGY4EAAYAg%3D%3D&sigh=sFoR59Ut7d_AGyZ8xdzGNQ"
+}

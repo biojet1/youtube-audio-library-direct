@@ -1,0 +1,33 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJjjBhIWChBjM2NkNWZhMDJjMzJmZDI0EAAYAg%3D%3D&sigh=53KBtGs7KV6sgwd-8F4PRw",
+ "popularity_percentile": 76,
+ "display_category": "",
+ "reference_vid": "c3cd5fa02c32fd24",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=c3cd5fa02c32fd24",
+ "genre": "Rock",
+ "artist_url": "",
+ "len": 111.216,
+ "is_new_track": false,
+ "downloadable": true,
+ "streamid": "hS74tZHw3CwaQDX-Ucn3gUJowSQXWcB3TB9hc1hGKpiD-_DPYI7IoH8ceVEV8937",
+ "display_mood": "Calm",
+ "display_genre": "Rock",
+ "mood": "Calm",
+ "title": "Windows Rolled Down",
+ "license_type": 0,
+ "track_url": "",
+ "vid": "c3cd5fa02c32fd24",
+ "artist": "The 126ers",
+ "category": "",
+ "favorite": false,
+ "fp_ref_id": "c3cd5fa02c32fd24",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Drums",
+  "Bass",
+  "Electric Guitar",
+  "Synth"
+ ],
+ "album": "None"
+}

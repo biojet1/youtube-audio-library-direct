@@ -1,0 +1,29 @@
+{
+ "album": "None",
+ "artist_channel_url": "/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "reference_vid": "9203f7d81468a4fb",
+ "streamid": "boODtvyFaUOI5YcX8AKixSnFDT_u89l7-qRf5ckZSFRFFoDXA_TyNUEEB_GCWS3w",
+ "artist_url": "https://www.youtube.com/channel/UCoDEi7H5LhSJVTPbphHZw_Q",
+ "favorite": false,
+ "fp_ref_id": "9203f7d81468a4fb",
+ "len": 170,
+ "is_new_track": false,
+ "license_type": 1,
+ "display_genre": "Ambient",
+ "artist": "I Think I Can Help You",
+ "mood": "Dramatic",
+ "vid": "9203f7d81468a4fb",
+ "display_mood": "Dramatic",
+ "title": "Final Transmission",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJCwChIWChA5MjAzZjdkODE0NjhhNGZiEAAYAg%3D%3D&sigh=QVdsyPOBGLmt8P5GtNLzyw",
+ "display_category": "",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "track_url": "",
+ "instruments": [
+  "synth"
+ ],
+ "genre": "Ambient",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=9203f7d81468a4fb",
+ "category": ""
+}

@@ -1,0 +1,29 @@
+{
+ "downloadable": true,
+ "reference_vid": "4e679183aa210e31",
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "artist_url": "http://chriszabriskie.com/",
+ "display_mood": "Calm",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4e679183aa210e31",
+ "fp_ref_id": "4e679183aa210e31",
+ "mood": "Calm",
+ "album": "None",
+ "instruments": [
+  "Piano"
+ ],
+ "len": 58.233,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJDFAxIWChA0ZTY3OTE4M2FhMjEwZTMxEAAYAg%3D%3D&sigh=GnG5ywNcR9SbO1E_HpUTfw",
+ "streamid": "UfR2Zsv6uI0JaCtfO-56imXbFnE9fVBrPFswDvfpF7JubqvM6DTgbSHexSD1fZLV",
+ "artist": "Chris Zabriskie",
+ "popularity_percentile": 80,
+ "title": "Prelude No. 2",
+ "display_category": "",
+ "display_genre": "Classical",
+ "license_type": 6,
+ "vid": "4e679183aa210e31",
+ "track_url": "http://chriszabriskie.com/preludes/",
+ "genre": "Classical",
+ "category": "",
+ "favorite": false
+}

@@ -1,0 +1,30 @@
+{
+ "display_genre": "Ambient",
+ "vid": "ca596dd3eff0ead8",
+ "title": "Calm Blue Lake",
+ "mood": "Calm",
+ "reference_vid": "ca596dd3eff0ead8",
+ "popularity_percentile": 46,
+ "category": "",
+ "artist_url": "http://audionautix.com/",
+ "len": 230.05,
+ "fp_ref_id": "ca596dd3eff0ead8",
+ "is_new_track": false,
+ "artist": "Audionautix",
+ "track_url": "",
+ "artist_channel_url": null,
+ "license_type": 6,
+ "favorite": false,
+ "album": "None",
+ "downloadable": true,
+ "instruments": [
+  "Synth",
+  "Electric Guitar"
+ ],
+ "streamid": "6PPbKN3vFsgIj-i5afGcm_TxIm-0nDB07R6y9k10XxY8uKDronFg_FKnwF03hQZn",
+ "display_mood": "Calm",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ca596dd3eff0ead8",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCEDhIWChBjYTU5NmRkM2VmZjBlYWQ4EAAYAg%3D%3D&sigh=eKIwjp7iZ6BjAIXrMgIizQ",
+ "genre": "Ambient"
+}

@@ -1,0 +1,31 @@
+{
+ "is_new_track": false,
+ "track_url": "",
+ "downloadable": true,
+ "streamid": "zPI-gDPYZtycLSazW5B6BlEkfW8FyevxFgEDmIobCNSVU33HsoXV4QAZEQtEPjph",
+ "len": 5.616,
+ "category": "",
+ "license_type": 0,
+ "title": "Cataclysmic Molten Core (Sting)",
+ "genre": "Cinematic",
+ "display_category": "",
+ "vid": "8f569611dd16732a",
+ "album": "None",
+ "mood": "Dramatic",
+ "artist": "Jingle Punks",
+ "favorite": false,
+ "display_genre": "Cinematic",
+ "display_mood": "Dramatic",
+ "fp_ref_id": "8f569611dd16732a",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=8f569611dd16732a",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Strings"
+ ],
+ "reference_vid": "8f569611dd16732a",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRobCIgnEhYKEDhmNTY5NjExZGQxNjczMmEQABgC&sigh=Y-SNdrQ8HlMKgYQbAOUKLA",
+ "artist_channel_url": null,
+ "artist_url": "",
+ "popularity_percentile": 56
+}

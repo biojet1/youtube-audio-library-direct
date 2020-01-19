@@ -1,0 +1,32 @@
+{
+ "len": 115.683,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fe64026576d3856c",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth"
+ ],
+ "display_mood": "Angry",
+ "streamid": "R5nVU0P3_8jzRvSDGrELEv0pzaFWrTgKR8Gnn2PZx-jxHmy0wVb6E-GGbvupcg0U",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiCBxIWChBmZTY0MDI2NTc2ZDM4NTZjEAAYAg%3D%3D&sigh=n6UyewEt6fd0txruCRY8fg",
+ "title": "Heavy Action",
+ "vid": "fe64026576d3856c",
+ "artist_url": "http://audionautix.com/",
+ "license_type": 6,
+ "mood": "Angry",
+ "artist": "Audionautix",
+ "favorite": false,
+ "popularity_percentile": 54,
+ "display_genre": "Rock",
+ "reference_vid": "fe64026576d3856c",
+ "downloadable": true,
+ "display_category": "",
+ "genre": "Rock",
+ "fp_ref_id": "fe64026576d3856c",
+ "track_url": "",
+ "album": "None"
+}

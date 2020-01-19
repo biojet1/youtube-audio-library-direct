@@ -1,0 +1,30 @@
+{
+ "artist_url": "http://audionautix.com/",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi6CRIWChAzNzdhNzgyMGVjOGFkMTM3EAAYAg%3D%3D&sigh=ABYLIMfyvil9_MOZdkrDWA",
+ "display_category": "",
+ "display_mood": "Happy",
+ "album": "None",
+ "vid": "377a7820ec8ad137",
+ "downloadable": true,
+ "reference_vid": "377a7820ec8ad137",
+ "favorite": false,
+ "fp_ref_id": "377a7820ec8ad137",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=377a7820ec8ad137",
+ "genre": "Pop",
+ "streamid": "CZw_zj1-sVDUiGDuuhkyy6BP34aOgNFtm4RsN-Vg9vyF4DY3tp42Qi1d93c7rtFO",
+ "popularity_percentile": 75,
+ "track_url": "",
+ "mood": "Happy",
+ "len": 155.583,
+ "display_genre": "Pop",
+ "license_type": 6,
+ "is_new_track": false,
+ "title": "Words",
+ "artist": "Audionautix",
+ "category": "",
+ "artist_channel_url": null,
+ "instruments": [
+  "Acoustic Guitar",
+  "Bass"
+ ]
+}

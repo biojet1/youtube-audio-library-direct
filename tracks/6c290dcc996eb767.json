@@ -1,0 +1,32 @@
+{
+ "artist_url": "",
+ "favorite": false,
+ "mood": "Sad",
+ "artist_channel_url": null,
+ "display_mood": "Sad",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLj8CBIWChA2YzI5MGRjYzk5NmViNzY3EAAYAg%3D%3D&sigh=wBG5dxD3B9uoZYmMNEp9og",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6c290dcc996eb767",
+ "track_url": "",
+ "genre": "Dance & Electronic",
+ "downloadable": true,
+ "display_category": "",
+ "album": "None",
+ "vid": "6c290dcc996eb767",
+ "fp_ref_id": "6c290dcc996eb767",
+ "category": "",
+ "title": "Flood Gates",
+ "reference_vid": "6c290dcc996eb767",
+ "artist": "Gunnar Olsen",
+ "display_genre": "Dance & Electronic",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass",
+  "Electric Guitar"
+ ],
+ "popularity_percentile": 42,
+ "streamid": "Skh-fcAdBonbY0gmbXcN6eVgxF9Ui9rWFn8KwyfltfaWRNGL9jks4N9gbywxaqiP",
+ "len": 147.75,
+ "license_type": 0,
+ "is_new_track": false
+}

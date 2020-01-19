@@ -1,0 +1,30 @@
+{
+ "downloadable": true,
+ "artist_url": "http://incompetech.com/",
+ "display_genre": "Dance & Electronic",
+ "genre": "Dance & Electronic",
+ "mood": "Funky",
+ "artist": "Kevin MacLeod",
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=1bb5e0252cc19271",
+ "len": 193.85,
+ "popularity_percentile": 45,
+ "artist_channel_url": null,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjjCxIWChAxYmI1ZTAyNTJjYzE5MjcxEAAYAg%3D%3D&sigh=_X09elPCwV3ZeUBBl-V2Qw",
+ "fp_ref_id": "1bb5e0252cc19271",
+ "vid": "1bb5e0252cc19271",
+ "title": "Itty Bitty 8 Bit",
+ "favorite": false,
+ "display_category": "",
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100764",
+ "reference_vid": "1bb5e0252cc19271",
+ "license_type": 6,
+ "display_mood": "Funky",
+ "is_new_track": false,
+ "instruments": [
+  "Synth",
+  "Drums"
+ ],
+ "streamid": "GVRkL8nXAEuHoTtRBoNVNq-_23IBzUlZ5v1OXuKmHy0VjRQ3RdWNusSiSCYCNa74",
+ "category": ""
+}

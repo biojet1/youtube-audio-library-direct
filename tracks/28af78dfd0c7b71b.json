@@ -1,0 +1,32 @@
+{
+ "instruments": [
+  "drums",
+  "bass",
+  "electric guitar",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=28af78dfd0c7b71b",
+ "album": "None",
+ "downloadable": true,
+ "mood": "Funky",
+ "artist": "Silent Partner",
+ "len": 108.033,
+ "display_category": "",
+ "display_genre": "Cinematic",
+ "artist_url": "",
+ "track_url": "",
+ "streamid": "len_W1N_qIyzAUIRL5Wcs1iNG-BVXwmv6Z0oa6R2fIyXnweT6UH7YQu-0iaIKljQ",
+ "category": "",
+ "title": "Sway This Way",
+ "display_mood": "Funky",
+ "favorite": false,
+ "reference_vid": "28af78dfd0c7b71b",
+ "genre": "Cinematic",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODLBhIWChAyOGFmNzhkZmQwYzdiNzFiEAAYAg%3D%3D&sigh=ylwCOXwXI_IazkYXeYTN_w",
+ "is_new_track": false,
+ "artist_channel_url": null,
+ "fp_ref_id": "28af78dfd0c7b71b",
+ "license_type": 0,
+ "popularity_percentile": 16,
+ "vid": "28af78dfd0c7b71b"
+}

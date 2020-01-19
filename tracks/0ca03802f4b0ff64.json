@@ -1,0 +1,30 @@
+{
+ "mood": "Romantic",
+ "title": "Wigs",
+ "album": "None",
+ "artist": "Riot",
+ "popularity_percentile": 6,
+ "category": "",
+ "display_genre": "Classical",
+ "is_new_track": false,
+ "display_mood": "Romantic",
+ "display_category": "",
+ "vid": "0ca03802f4b0ff64",
+ "streamid": "T_OHvVCF-6jCCVsG1O8tw3wXPeRRcw_mYDqjLnWF8OOzKgsY79fsGxtMOExVjnO6",
+ "genre": "Classical",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKixBxIWChAwY2EwMzgwMmY0YjBmZjY0EAAYAg%3D%3D&sigh=YL3SPZo-GfaQjlZoaVUf-Q",
+ "fp_ref_id": "0ca03802f4b0ff64",
+ "len": 121.883,
+ "favorite": false,
+ "instruments": [
+  "Piano",
+  "Bass"
+ ],
+ "artist_channel_url": null,
+ "license_type": 0,
+ "artist_url": "",
+ "reference_vid": "0ca03802f4b0ff64",
+ "track_url": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=0ca03802f4b0ff64",
+ "downloadable": true
+}

@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "ad47e8e8fe800726",
+ "mood": "Calm",
+ "title": "Chubs",
+ "category": "",
+ "genre": "Pop",
+ "album": "None",
+ "len": 140,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCODFCBIWChBhZDQ3ZThlOGZlODAwNzI2EAAYAg%3D%3D&sigh=JES9Hf_xE8uqu-Zx4NFCHQ",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=ad47e8e8fe800726",
+ "fp_ref_id": "ad47e8e8fe800726",
+ "artist": "Quincas Moreira",
+ "display_mood": "Calm",
+ "display_genre": "Pop",
+ "streamid": "vbVPB9tthvgz-HKjHJQ1K6bDH3jR4i30xKfxR_gEKC1ZUpa0d_GjYav6To9MLVpu",
+ "artist_channel_url": "/channel/UCL1zFMJb0sthwdAlGjGbdyg",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "drums",
+  "bass",
+  "electric guitar",
+  "piano"
+ ],
+ "vid": "ad47e8e8fe800726"
+}

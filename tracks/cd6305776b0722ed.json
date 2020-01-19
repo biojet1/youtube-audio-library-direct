@@ -1,0 +1,33 @@
+{
+ "streamid": "mXIzzjrM0XtUy6gvHqoHmLD7qbIUTOqNc-X6dRZX_3Oh410V919U1k1laTU9kR84",
+ "genre": "Pop",
+ "fp_ref_id": "cd6305776b0722ed",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=cd6305776b0722ed",
+ "favorite": false,
+ "reference_vid": "cd6305776b0722ed",
+ "track_url": "",
+ "album": "None",
+ "display_mood": "Happy",
+ "display_category": "",
+ "vid": "cd6305776b0722ed",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChBjZDYzMDU3NzZiMDcyMmVkEAAYAg%3D%3D&sigh=Dk33KDhH6kGuVQYrNmEgTQ",
+ "artist_url": "",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Acoustic Guitar",
+  "Bass",
+  "Piano"
+ ],
+ "artist_channel_url": null,
+ "category": "",
+ "artist": "Riot",
+ "title": "Coffee Stains",
+ "downloadable": true,
+ "is_new_track": false,
+ "license_type": 0,
+ "display_genre": "Pop",
+ "mood": "Happy",
+ "len": 138.983,
+ "popularity_percentile": 80
+}

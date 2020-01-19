@@ -1,0 +1,31 @@
+{
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCJC2CBIWChA3OTM3NWY2Njc4NTM4NDM4EAAYAg%3D%3D&sigh=meaA3I3B_KCmVCBfb-zM-g",
+ "artist_url": "https://www.youtube.com/channel/UCPxH3xieuNcx_O2on0NSMcw",
+ "display_category": "",
+ "display_mood": "Bright",
+ "album": "None",
+ "vid": "79375f6678538438",
+ "reference_vid": "79375f6678538438",
+ "fp_ref_id": "79375f6678538438",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=79375f6678538438",
+ "downloadable": true,
+ "genre": "Children's",
+ "streamid": "nxz4O8Qjipa4O7kmglHiK3wcOVbMrxBgFxrscawEuwbIJ--PD8SgMrCOam_i7-q6",
+ "popularity_percentile": 99,
+ "mood": "Bright",
+ "len": 138,
+ "display_genre": "Children's",
+ "track_url": "",
+ "is_new_track": false,
+ "favorite": false,
+ "artist": "The Green Orbs",
+ "title": "Springtime Family Band",
+ "license_type": 1,
+ "category": "",
+ "instruments": [
+  "drums",
+  "bass",
+  "acoustic guitar"
+ ],
+ "artist_channel_url": "/channel/UCPxH3xieuNcx_O2on0NSMcw"
+}

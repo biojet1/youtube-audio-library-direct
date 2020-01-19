@@ -1,0 +1,30 @@
+{
+ "artist_channel_url": null,
+ "is_new_track": false,
+ "favorite": false,
+ "fp_ref_id": "a51b5ec7353d6e48",
+ "display_genre": "Pop",
+ "artist": "Kevin MacLeod",
+ "display_category": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCIDKERIWChBhNTFiNWVjNzM1M2Q2ZTQ4EAAYAg%3D%3D&sigh=NmmWk903HyIaMTVHCwglTQ",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a51b5ec7353d6e48",
+ "len": 288.283,
+ "mood": "Bright",
+ "title": "Cold Funk - Funkorama",
+ "vid": "a51b5ec7353d6e48",
+ "category": "",
+ "downloadable": true,
+ "track_url": "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100499",
+ "license_type": 6,
+ "artist_url": "http://incompetech.com/",
+ "genre": "Pop",
+ "display_mood": "Bright",
+ "album": "None",
+ "instruments": [
+  "Acoustic Guitar",
+  "Synth"
+ ],
+ "popularity_percentile": 83,
+ "reference_vid": "a51b5ec7353d6e48",
+ "streamid": "EOqXfyC1zWussUjnllo9CDpFzrvpvZ72UPU61mv_1aYivz6hInlyvS3c6jAGms9T"
+}

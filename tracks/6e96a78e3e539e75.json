@@ -1,0 +1,32 @@
+{
+ "fp_ref_id": "6e96a78e3e539e75",
+ "artist_channel_url": null,
+ "downloadable": true,
+ "genre": "Dance & Electronic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6e96a78e3e539e75",
+ "popularity_percentile": 95,
+ "vid": "6e96a78e3e539e75",
+ "streamid": "uV-ZQF7sUZP6yQ4KYQaBs5R7l0pT-t_r3V8FXzaYJK_MfVyIwM5FuhD6-SpUwr85",
+ "artist": "Twin Musicom",
+ "favorite": false,
+ "is_new_track": false,
+ "display_mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLjnDxIWChA2ZTk2YTc4ZTNlNTM5ZTc1EAAYAg%3D%3D&sigh=BtnagGAxvlOkGqbe9VlGVA",
+ "display_category": "",
+ "title": "Looked Back, Saw Nothing",
+ "album": "None",
+ "license_type": 6,
+ "mood": "Calm",
+ "display_genre": "Dance & Electronic",
+ "reference_vid": "6e96a78e3e539e75",
+ "artist_url": "http://www.twinmusicom.org",
+ "track_url": "http://www.twinmusicom.org/song/273/looked-back-saw-nothing-kenyon",
+ "instruments": [
+  "Bass",
+  "Drums",
+  "Synth",
+  "Piano"
+ ],
+ "len": 259.05,
+ "category": ""
+}

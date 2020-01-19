@@ -1,0 +1,33 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCAAi5wqJHz73Xid1IjVgW7A",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "4b7a35994e206af8",
+ "mood": "Dark",
+ "title": "Echoes",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "len": 187,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPi0CxIWChA0YjdhMzU5OTRlMjA2YWY4EAAYAg%3D%3D&sigh=JSiCamihf4gWrH3pzHx0oQ",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4b7a35994e206af8",
+ "fp_ref_id": "4b7a35994e206af8",
+ "artist": "Yung Logos",
+ "display_mood": "Dark",
+ "display_genre": "Dance & Electronic",
+ "streamid": "HrW9yDLMDus7jc40I4I_WmBe-vQ7u2D0ZB8lIZdc8GBy2pufZJCv-_7fSRZovSKI",
+ "artist_channel_url": "/channel/UCAAi5wqJHz73Xid1IjVgW7A",
+ "display_category": "",
+ "instruments": [
+  "synth",
+  "clap",
+  "bass",
+  "keys",
+  "drum machine"
+ ],
+ "vid": "4b7a35994e206af8"
+}

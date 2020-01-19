@@ -1,0 +1,31 @@
+{
+ "track_url": "",
+ "vid": "a96e235de1ddc273",
+ "streamid": "N3QW_UcXzYUjCO_yIEx8pXCaIFYSkWRlapQhfmKSDyab1fpeFV2etRfkjVwIT5J7",
+ "title": "Something's Here",
+ "category": "",
+ "len": 129,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOjvBxIWChBhOTZlMjM1ZGUxZGRjMjczEAAYAg%3D%3D&sigh=_z29Kf-OyPVkZ-jnvoWTPQ",
+ "artist": "The Whole Other",
+ "artist_url": "https://www.youtube.com/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "is_new_track": false,
+ "popularity_percentile": 99,
+ "artist_channel_url": "/channel/UCxfzyJ-HvEZbGmubAmfcsfQ",
+ "reference_vid": "a96e235de1ddc273",
+ "display_mood": "Romantic",
+ "license_type": 1,
+ "display_category": "",
+ "downloadable": true,
+ "album": "None",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=a96e235de1ddc273",
+ "instruments": [
+  "Keyboards",
+  "Drums",
+  "Synth"
+ ],
+ "genre": "Cinematic",
+ "display_genre": "Cinematic",
+ "fp_ref_id": "a96e235de1ddc273",
+ "favorite": false,
+ "mood": "Romantic"
+}

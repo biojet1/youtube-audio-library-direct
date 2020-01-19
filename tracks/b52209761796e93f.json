@@ -1,0 +1,31 @@
+{
+ "popularity_percentile": 99,
+ "fp_ref_id": "b52209761796e93f",
+ "artist_channel_url": "/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "downloadable": true,
+ "is_new_track": false,
+ "artist": "Ashley Shadow",
+ "vid": "b52209761796e93f",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChBiNTIyMDk3NjE3OTZlOTNmEAAYAg%3D%3D&sigh=hbS2PXgpfm07lvts2cTyfw",
+ "category": "",
+ "genre": "Country & Folk",
+ "display_mood": "Bright",
+ "artist_url": "https://www.youtube.com/channel/UCT5LDJ8VYAKfY2e8dExo2Cw",
+ "title": "Free Spirit",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=b52209761796e93f",
+ "reference_vid": "b52209761796e93f",
+ "mood": "Bright",
+ "streamid": "NEN_Q7nyGYjwHGYo7rpmRDgPPQpwBmrRMxjhACxGyTBM0qHuyr2uQfVBFU0mmSub",
+ "track_url": "",
+ "album": "None",
+ "len": 152,
+ "instruments": [
+  "bass",
+  "electric guitar",
+  "drums"
+ ],
+ "display_category": "",
+ "license_type": 1,
+ "display_genre": "Country & Folk"
+}

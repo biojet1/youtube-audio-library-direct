@@ -1,0 +1,31 @@
+{
+ "artist_url": "",
+ "is_new_track": false,
+ "reference_vid": "4ab939923f27b141",
+ "display_category": "",
+ "fp_ref_id": "4ab939923f27b141",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=4ab939923f27b141",
+ "artist_channel_url": null,
+ "album": "None",
+ "category": "",
+ "popularity_percentile": 29,
+ "mood": "Dramatic",
+ "instruments": [
+  "drums",
+  "bass",
+  "synth"
+ ],
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCjCRIWChA0YWI5Mzk5MjNmMjdiMTQxEAAYAg%3D%3D&sigh=jYV598BSbbYU25XKwHHYiA",
+ "streamid": "HKYuVeMbyvJ_jRaemtq_Th1acXdo3qUUomxBN92uARTAWbNIX8mpqIyHnOrXiI0r",
+ "genre": "Dance & Electronic",
+ "vid": "4ab939923f27b141",
+ "artist": "Gunnar Olsen",
+ "display_genre": "Dance & Electronic",
+ "title": "Cold Rise",
+ "track_url": "",
+ "favorite": false,
+ "license_type": 0,
+ "len": 152.816,
+ "display_mood": "Dramatic",
+ "downloadable": true
+}

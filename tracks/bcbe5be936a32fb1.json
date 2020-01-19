@@ -1,0 +1,31 @@
+{
+ "display_mood": "Bright",
+ "genre": "Pop",
+ "instruments": [
+  "Drums",
+  "Synth",
+  "Bass"
+ ],
+ "album": "None",
+ "streamid": "XfSrzxt9XesrgsePRUNvQRc4KMaxsUYw9wBHH6Y42HWC9L5E3Y7QI677xqlaTcmL",
+ "title": "Lucky Day",
+ "display_genre": "Pop",
+ "vid": "bcbe5be936a32fb1",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "bcbe5be936a32fb1",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Bright",
+ "license_type": 0,
+ "fp_ref_id": "bcbe5be936a32fb1",
+ "display_category": "",
+ "popularity_percentile": 73,
+ "category": "",
+ "downloadable": true,
+ "artist": "Jingle Punks",
+ "len": 67.55,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCLiLBBIWChBiY2JlNWJlOTM2YTMyZmIxEAAYAg%3D%3D&sigh=Ygt9u6T16zv5zYaAaSI17A",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=bcbe5be936a32fb1"
+}

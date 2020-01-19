@@ -1,0 +1,30 @@
+{
+ "artist": "Audionautix",
+ "mood": "Dramatic",
+ "vid": "fee1f20399649256",
+ "streamid": "yFTiA2XxPsfYGU0pTjhnayFnEDlATt3_XQH42yxd6mEvdF14043Xeg2IIqHSqLGe",
+ "display_category": "",
+ "track_url": "",
+ "artist_channel_url": null,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=fee1f20399649256",
+ "fp_ref_id": "fee1f20399649256",
+ "favorite": false,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiJDxIWChBmZWUxZjIwMzk5NjQ5MjU2EAAYAg%3D%3D&sigh=vI8srLXfYUHjMd2YbeUXcw",
+ "len": 247.816,
+ "display_genre": "Cinematic",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Cinematic",
+ "reference_vid": "fee1f20399649256",
+ "title": "Time Passing By",
+ "instruments": [
+  "Piano",
+  "Bass"
+ ],
+ "artist_url": "http://audionautix.com/",
+ "category": "",
+ "display_mood": "Dramatic",
+ "popularity_percentile": 94,
+ "downloadable": true,
+ "license_type": 6
+}

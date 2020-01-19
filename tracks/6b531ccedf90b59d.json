@@ -1,0 +1,31 @@
+{
+ "category": "",
+ "artist": "Kevin MacLeod",
+ "instruments": [
+  "drums",
+  "strings",
+  "synth"
+ ],
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=6b531ccedf90b59d",
+ "artist_channel_url": null,
+ "display_category": "",
+ "display_mood": "Dark",
+ "artist_url": "",
+ "license_type": 0,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKCECRIWChA2YjUzMWNjZWRmOTBiNTlkEAAYAg%3D%3D&sigh=iU7mc7AJavzhVZ2dkIvrdg",
+ "len": 148.683,
+ "album": "None",
+ "downloadable": true,
+ "mood": "Dark",
+ "display_genre": "Cinematic",
+ "reference_vid": "6b531ccedf90b59d",
+ "is_new_track": false,
+ "title": "The Drive",
+ "track_url": "",
+ "popularity_percentile": 41,
+ "streamid": "bYVF9jeKVehFwS7EFacXy95DPVZxdA5ftdLpJdSebxnlA_SzUtRebTPJYO6AOTX7",
+ "genre": "Cinematic",
+ "vid": "6b531ccedf90b59d",
+ "favorite": false,
+ "fp_ref_id": "6b531ccedf90b59d"
+}

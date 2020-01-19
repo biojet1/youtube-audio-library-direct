@@ -1,0 +1,30 @@
+{
+ "display_mood": "Dramatic",
+ "genre": "Classical",
+ "instruments": [
+  "Electric Guitar",
+  "Strings"
+ ],
+ "album": "None",
+ "streamid": "xbnl-XAFFecxhrLcQCfAexl5iXeHYieR_SbHNNjZ0qXzc1GKrC53NdjUUAQmxzTl",
+ "title": "Horses to Water",
+ "display_genre": "Classical",
+ "vid": "75f27e637a30f5c5",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "reference_vid": "75f27e637a30f5c5",
+ "track_url": "",
+ "is_new_track": false,
+ "mood": "Dramatic",
+ "license_type": 0,
+ "fp_ref_id": "75f27e637a30f5c5",
+ "display_category": "",
+ "popularity_percentile": 46,
+ "category": "",
+ "downloadable": true,
+ "artist": "Topher Mohr and Alex Elena",
+ "len": 219.05,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPiuDRIWChA3NWYyN2U2MzdhMzBmNWM1EAAYAg%3D%3D&sigh=cYRPn-hHyY7Da6RSaD14zA",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=75f27e637a30f5c5"
+}

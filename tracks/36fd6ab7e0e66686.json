@@ -1,0 +1,32 @@
+{
+ "category": "",
+ "reference_vid": "36fd6ab7e0e66686",
+ "favorite": false,
+ "artist_channel_url": null,
+ "artist_url": "",
+ "album": "None",
+ "streamid": "Z7JY_F105SJET8VuE7VpMW484IZQ5wLMHSvzpC0D004QlEVAjedfd6w8zp7TI_Wi",
+ "display_mood": "Funky",
+ "genre": "Jazz & Blues",
+ "instruments": [
+  "Drums",
+  "Bass",
+  "Organ",
+  "Electric Guitar"
+ ],
+ "display_genre": "Jazz & Blues",
+ "title": "Invisible Pieces",
+ "license_type": 0,
+ "downloadable": true,
+ "vid": "36fd6ab7e0e66686",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCPCWCBIWChAzNmZkNmFiN2UwZTY2Njg2EAAYAg%3D%3D&sigh=ySgXZ7oqNQUvPSG8uRGhYg",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=36fd6ab7e0e66686",
+ "artist": "Silent Partner",
+ "len": 134.45,
+ "track_url": "",
+ "fp_ref_id": "36fd6ab7e0e66686",
+ "mood": "Funky",
+ "is_new_track": false,
+ "popularity_percentile": 22,
+ "display_category": ""
+}

@@ -1,0 +1,30 @@
+{
+ "fp_ref_id": "be8d148e865dd813",
+ "instruments": [
+  "Bass",
+  "Drums"
+ ],
+ "artist_url": "",
+ "album": "None",
+ "is_new_track": false,
+ "genre": "Jazz & Blues",
+ "category": "",
+ "artist": "Doug Maxwell/Media Right Productions",
+ "display_category": "",
+ "streamid": "n6tkf0o5dEqBC9GA4aDU0nCCIz0oCY0ovirWxvttpb--h9a1PcacgoHPgNyd-Ukh",
+ "license_type": 0,
+ "vid": "be8d148e865dd813",
+ "popularity_percentile": 74,
+ "reference_vid": "be8d148e865dd813",
+ "display_genre": "Jazz & Blues",
+ "favorite": false,
+ "artist_channel_url": null,
+ "len": 97.233,
+ "track_url": "",
+ "downloadable": true,
+ "display_mood": "Calm",
+ "mood": "Calm",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCOj1BRIWChBiZThkMTQ4ZTg2NWRkODEzEAAYAg%3D%3D&sigh=-4gq2Q3H2khwA5vhufPI1g",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=be8d148e865dd813",
+ "title": "Bluesy Vibes"
+}

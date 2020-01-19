@@ -1,0 +1,33 @@
+{
+ "genre": "R&B & Soul",
+ "display_genre": "R&B & Soul",
+ "len": 200.616,
+ "display_category": "",
+ "reference_vid": "40d091633b55a60e",
+ "popularity_percentile": 25,
+ "artist_url": "",
+ "license_type": 0,
+ "album": "None",
+ "artist": "Topher Mohr and Alex Elena",
+ "fp_ref_id": "40d091633b55a60e",
+ "is_new_track": false,
+ "favorite": false,
+ "artist_channel_url": null,
+ "streamid": "hp3C_cbWz_H7o1QQ8JPluXg1uVWl1PJswNNFrq12NKc4ksrldl8Fh0Eh_NC4jg8u",
+ "display_mood": "Romantic",
+ "vid": "40d091633b55a60e",
+ "track_url": "",
+ "instruments": [
+  "Electric Guitar",
+  "Bass",
+  "Drums",
+  "Synth",
+  "Strings"
+ ],
+ "downloadable": true,
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCMCaDBIWChA0MGQwOTE2MzNiNTVhNjBlEAAYAg%3D%3D&sigh=VB4Ax4Qae9AkV6upLSjudQ",
+ "category": "",
+ "title": "Sweet as Honey",
+ "mood": "Romantic",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=40d091633b55a60e"
+}

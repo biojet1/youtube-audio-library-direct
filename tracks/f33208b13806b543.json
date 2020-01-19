@@ -1,0 +1,30 @@
+{
+ "license_type": 1,
+ "artist_url": "https://www.youtube.com/channel/UCDDELM50HOSk4iZ5eiPmeqQ",
+ "downloadable": true,
+ "popularity_percentile": 99,
+ "reference_vid": "f33208b13806b543",
+ "mood": "Bright",
+ "title": "Bovi",
+ "category": "",
+ "genre": "Dance & Electronic",
+ "album": "None",
+ "len": 279,
+ "track_url": "",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579460400&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCNiDERIWChBmMzMyMDhiMTM4MDZiNTQzEAAYAg%3D%3D&sigh=Agaq_yRODU18tA3xwTccUA",
+ "favorite": false,
+ "is_new_track": false,
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=f33208b13806b543",
+ "fp_ref_id": "f33208b13806b543",
+ "artist": "The Grand Affair",
+ "display_mood": "Bright",
+ "display_genre": "Dance & Electronic",
+ "streamid": "V3RTnUMZU9Ex45jiVEBSjDQ4KY6sokSgwW40Nn968NteS0VDV99i7QyeGuqt56lS",
+ "artist_channel_url": "/channel/UCDDELM50HOSk4iZ5eiPmeqQ",
+ "display_category": "",
+ "instruments": [
+  "Drums",
+  "Synth"
+ ],
+ "vid": "f33208b13806b543"
+}

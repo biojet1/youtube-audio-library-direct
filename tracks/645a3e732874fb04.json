@@ -1,0 +1,33 @@
+{
+ "display_genre": "Pop",
+ "album": "None",
+ "reference_vid": "645a3e732874fb04",
+ "popularity_percentile": 99,
+ "category": "",
+ "vid": "645a3e732874fb04",
+ "title": "Glory Be",
+ "mood": "Calm",
+ "len": 153,
+ "artist_url": "https://www.youtube.com/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "artist": "Patrick Patrikios",
+ "fp_ref_id": "645a3e732874fb04",
+ "is_new_track": false,
+ "favorite": false,
+ "track_url": "",
+ "artist_channel_url": "/channel/UCTPI2hZYxoHtdGEpdFoaU5A",
+ "license_type": 1,
+ "instruments": [
+  "piano",
+  "drums",
+  "bass",
+  "synth",
+  "strings"
+ ],
+ "streamid": "fJIveNvPANkuUvNIJHeDcsoBd0m_pn-6Bmsiunave-XX_FM1B2EEiraKkAM79AkC",
+ "display_mood": "Calm",
+ "downloadable": true,
+ "genre": "Pop",
+ "display_category": "",
+ "download_url": "https://www.youtube.com/audiolibrary_download?vid=645a3e732874fb04",
+ "waveform_url": "https://www.youtube.com/api/editor/waveform?expire=1579467600&if=0&scale=10&editlist=Cgh3YXZlZm9ybRocCKirCRIWChA2NDVhM2U3MzI4NzRmYjA0EAAYAg%3D%3D&sigh=jnwcwf0UU5W1Qn8YRVFayg"
+}
